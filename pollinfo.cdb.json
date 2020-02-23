@@ -1,0 +1,25 @@
+{
+	"pi_id" : 0,
+	"pi_msg_name" : "0",
+	"pi_uimsg_name" : "UIMSG_KICKVOTE_REASON_ABUSE",
+	"pi_limited_time" : 3000,
+	"pi_penalty_point" : 100
+},
+	"pi_id" : 1,
+	"pi_msg_name" : "0",
+	"pi_uimsg_name" : "UIMSG_KICKVOTE_REASON_HACK",
+	"pi_limited_time" : 3000,
+	"pi_penalty_point" : 100
+},
+	"pi_id" : 2,
+	"pi_msg_name" : "0",
+	"pi_uimsg_name" : "UIMSG_KICKVOTE_REASON_BUG",
+	"pi_limited_time" : 3000,
+	"pi_penalty_point" : 100
+},
+	"pi_id" : 3,
+	"pi_msg_name" : "0",
+	"pi_uimsg_name" : "UIMSG_KICKVOTE_REASON_ETC",
+	"pi_limited_time" : 3000,
+	"pi_penalty_point" : 100
+},

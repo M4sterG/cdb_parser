@@ -1,0 +1,133 @@
+{
+	"bi_count" : 0,
+	"bi_prob" : 650,
+	"bi_point" : 30
+},
+	"bi_count" : 0,
+	"bi_prob" : 320,
+	"bi_point" : 50
+},
+	"bi_count" : 0,
+	"bi_prob" : 30,
+	"bi_point" : 100
+},
+	"bi_count" : 1,
+	"bi_prob" : 635,
+	"bi_point" : 30
+},
+	"bi_count" : 1,
+	"bi_prob" : 315,
+	"bi_point" : 50
+},
+	"bi_count" : 1,
+	"bi_prob" : 27,
+	"bi_point" : 100
+},
+	"bi_count" : 2,
+	"bi_prob" : 384,
+	"bi_point" : 30
+},
+	"bi_count" : 2,
+	"bi_prob" : 192,
+	"bi_point" : 50
+},
+	"bi_count" : 2,
+	"bi_prob" : 24,
+	"bi_point" : 100
+},
+	"bi_count" : 3,
+	"bi_prob" : 252,
+	"bi_point" : 30
+},
+	"bi_count" : 3,
+	"bi_prob" : 126,
+	"bi_point" : 50
+},
+	"bi_count" : 3,
+	"bi_prob" : 21,
+	"bi_point" : 100
+},
+	"bi_count" : 4,
+	"bi_prob" : 121,
+	"bi_point" : 30
+},
+	"bi_count" : 4,
+	"bi_prob" : 60,
+	"bi_point" : 50
+},
+	"bi_count" : 4,
+	"bi_prob" : 18,
+	"bi_point" : 100
+},
+	"bi_count" : 5,
+	"bi_prob" : 56,
+	"bi_point" : 30
+},
+	"bi_count" : 5,
+	"bi_prob" : 28,
+	"bi_point" : 50
+},
+	"bi_count" : 5,
+	"bi_prob" : 15,
+	"bi_point" : 100
+},
+	"bi_count" : 6,
+	"bi_prob" : 5,
+	"bi_point" : 30
+},
+	"bi_count" : 6,
+	"bi_prob" : 3,
+	"bi_point" : 50
+},
+	"bi_count" : 6,
+	"bi_prob" : 2,
+	"bi_point" : 100
+},
+	"bi_count" : 7,
+	"bi_prob" : 2,
+	"bi_point" : 30
+},
+	"bi_count" : 7,
+	"bi_prob" : 2,
+	"bi_point" : 50
+},
+	"bi_count" : 7,
+	"bi_prob" : 1,
+	"bi_point" : 100
+},
+	"bi_count" : 8,
+	"bi_prob" : 1,
+	"bi_point" : 30
+},
+	"bi_count" : 8,
+	"bi_prob" : 1,
+	"bi_point" : 50
+},
+	"bi_count" : 8,
+	"bi_prob" : 0,
+	"bi_point" : 100
+},
+	"bi_count" : 9,
+	"bi_prob" : 1,
+	"bi_point" : 30
+},
+	"bi_count" : 9,
+	"bi_prob" : 0,
+	"bi_point" : 50
+},
+	"bi_count" : 9,
+	"bi_prob" : 0,
+	"bi_point" : 100
+},
+	"bi_count" : 10,
+	"bi_prob" : 0,
+	"bi_point" : 30
+},
+	"bi_count" : 10,
+	"bi_prob" : 0,
+	"bi_point" : 50
+},
+	"bi_count" : 10,
+	"bi_prob" : 0,
+	"bi_point" : 100
+},
