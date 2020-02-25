@@ -25,5 +25,4 @@
 	"pi_uimsg_name" : "UIMSG_KICKVOTE_REASON_ETC",
 	"pi_limited_time" : 3000,
 	"pi_penalty_point" : 100
-},
-{
+}

@@ -83,7 +83,6 @@ int main()
 		{	
 			for(j = 0; j < nofkeys && offset < fsize; j++)
 			{	
-				
 				if(entry_sizes[j] == 1)
 				{
 					value = (char *)malloc(20);
@@ -125,6 +124,11 @@ int main()
 			}
 			
 		}
+
+		int charsToDelete = 4;
+    	fseeko(out,-charsToDelete, SEEK_END);
+    	pos = ftello(out);
+    	ftruncate(fileno(out), pos);
 
 		fclose(out);
 		fclose(pfile);

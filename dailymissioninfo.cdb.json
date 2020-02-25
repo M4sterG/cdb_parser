@@ -765,5 +765,4 @@
 	"di_desc" : "Clear the 1st wave of Invasion in hard mode without taking damage.",
 	"di_desc_cond" : "Invasion Virtuoso",
 	"di_desc_reward" : "900 POINT"
-},
-{
+}

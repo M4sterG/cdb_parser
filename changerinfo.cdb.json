@@ -257,5 +257,4 @@
 	"ci_knockback_decrease_walk_i" : 100,
 	"ci_knockback_decrease_jump_i" : 220,
 	"ci_knockback_decrease_sit_i" : 90
-},
-{
+}
