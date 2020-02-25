@@ -21,7 +21,7 @@ public class Main {
                 String[] tokens = line.split(" ");
                 if (tokens.length > 1) {
                     // PRE: the token must have at least 3 chars
-                    out.println("public String " + tokens[0].substring(2, tokens[0].length() - 1) + ";");
+                    out.println("public int " + tokens[0].substring(2, tokens[0].length() - 1) + ";");
                     System.out.println("public int " + tokens[0].substring(2, tokens[0].length() - 1) + ";");
                 } else {
                     break;
