@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JSONtoObjectsParser;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -9,7 +10,7 @@ namespace WaponJSONParser
     // 
     {
         public int wi_id { get; set; }
-        public int wi_weapon_type { get; set; }
+        public WeaponType wi_weapon_type { get; set; }
         public int wi_weapon_type_zombie { get; set; }
         public int wi_weapon_prop { get; set; }
         public int wi_trigger_type { get; set; }
