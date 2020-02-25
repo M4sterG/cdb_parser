@@ -13,6 +13,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 330,
 	"vip_icon" : false,
@@ -27,6 +28,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 1687,
 	"vip_icon" : false,
@@ -41,6 +43,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 3375,
 	"vip_icon" : false,
@@ -55,6 +58,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 8250,
 	"vip_icon" : false,
@@ -69,6 +73,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 19250,
 	"vip_icon" : false,
@@ -83,6 +88,7 @@
 	"vip_battery" : 0,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 41200,
 	"vip_icon" : false,
@@ -97,6 +103,7 @@
 	"vip_battery" : 100,
 	"vip_shop_open" : false
 },
+{
 	"vip_grade" : false,
 	"vip_exp" : 110000,
 	"vip_icon" : false,
@@ -111,3 +118,4 @@
 	"vip_battery" : 150,
 	"vip_shop_open" : false
 },
+{

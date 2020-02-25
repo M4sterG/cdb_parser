@@ -28,6 +28,7 @@
 	"bi_effect_3" : 0,
 	"bi_effect_4" : 0
 },
+{
 	"bi_type" : 1,
 	"bi_cash_price" : 0,
 	"bi_price" : 20000,
@@ -57,6 +58,7 @@
 	"bi_effect_3" : 0,
 	"bi_effect_4" : 0
 },
+{
 	"bi_type" : 2,
 	"bi_cash_price" : 0,
 	"bi_price" : 20000,
@@ -86,6 +88,7 @@
 	"bi_effect_3" : 0,
 	"bi_effect_4" : 0
 },
+{
 	"bi_type" : 3,
 	"bi_cash_price" : 0,
 	"bi_price" : 20000,
@@ -115,6 +118,7 @@
 	"bi_effect_3" : 0,
 	"bi_effect_4" : 0
 },
+{
 	"bi_type" : 4,
 	"bi_cash_price" : 0,
 	"bi_price" : 20000,
@@ -144,3 +148,4 @@
 	"bi_effect_3" : 0,
 	"bi_effect_4" : 0
 },
+{

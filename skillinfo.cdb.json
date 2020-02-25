@@ -20,6 +20,7 @@
 	"si_end_sound" : "",
 	"si_skill_icons" : 0
 },
+{
 	"si_id" : 2,
 	"si_name" : "RELOAD",
 	"si_cost" : 30,
@@ -41,6 +42,7 @@
 	"si_end_sound" : "",
 	"si_skill_icons" : 0
 },
+{
 	"si_id" : 3,
 	"si_name" : "BERSERK_1",
 	"si_cost" : 50,
@@ -62,6 +64,7 @@
 	"si_end_sound" : "itm_end.wav",
 	"si_skill_icons" : 0
 },
+{
 	"si_id" : 4,
 	"si_name" : "BERSERK_2",
 	"si_cost" : 60,
@@ -83,6 +86,7 @@
 	"si_end_sound" : "itm_end.wav",
 	"si_skill_icons" : 0
 },
+{
 	"si_id" : 5,
 	"si_name" : "무적",
 	"si_cost" : 0,
@@ -104,6 +108,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003400
 },
+{
 	"si_id" : 6,
 	"si_name" : "납덩이",
 	"si_cost" : 0,
@@ -125,6 +130,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003401
 },
+{
 	"si_id" : 7,
 	"si_name" : "위장",
 	"si_cost" : 0,
@@ -146,6 +152,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003402
 },
+{
 	"si_id" : 8,
 	"si_name" : "힐",
 	"si_cost" : 0,
@@ -167,6 +174,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003403
 },
+{
 	"si_id" : 9,
 	"si_name" : "파티힐",
 	"si_cost" : 0,
@@ -188,6 +196,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003404
 },
+{
 	"si_id" : 10,
 	"si_name" : "이속증가",
 	"si_cost" : 0,
@@ -209,6 +218,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003405
 },
+{
 	"si_id" : 11,
 	"si_name" : "이속증가 (파티)",
 	"si_cost" : 0,
@@ -230,6 +240,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003406
 },
+{
 	"si_id" : 12,
 	"si_name" : "무적 (파티)",
 	"si_cost" : 0,
@@ -251,6 +262,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003407
 },
+{
 	"si_id" : 13,
 	"si_name" : "소총 탄약 회복 (셀프)",
 	"si_cost" : 0,
@@ -272,6 +284,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003408
 },
+{
 	"si_id" : 14,
 	"si_name" : "소총 탄약 회복 (파티)",
 	"si_cost" : 0,
@@ -293,6 +306,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003409
 },
+{
 	"si_id" : 15,
 	"si_name" : "모든 무기 탄약 회복 (셀프)",
 	"si_cost" : 0,
@@ -314,6 +328,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003410
 },
+{
 	"si_id" : 16,
 	"si_name" : "모든 무기 탄약 회복 (파티)",
 	"si_cost" : 0,
@@ -335,6 +350,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003411
 },
+{
 	"si_id" : 17,
 	"si_name" : "아르미드의 빛 (힐)",
 	"si_cost" : 0,
@@ -356,6 +372,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003510
 },
+{
 	"si_id" : 18,
 	"si_name" : "퓨리우스 - 프렌치메이드 (버서크)",
 	"si_cost" : 0,
@@ -377,6 +394,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003511
 },
+{
 	"si_id" : 19,
 	"si_name" : "낭인 - 야규 쥬베이",
 	"si_cost" : 0,
@@ -398,6 +416,7 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003512
 },
+{
 	"si_id" : 20,
 	"si_name" : "이산드라 - 불의 연금술사",
 	"si_cost" : 0,
@@ -419,3 +438,4 @@
 	"si_end_sound" : "0",
 	"si_skill_icons" : 90003513
 },
+{

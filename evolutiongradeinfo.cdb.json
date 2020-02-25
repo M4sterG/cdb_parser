@@ -13,6 +13,7 @@
 	"eg_exp9" : 1792,
 	"eg_exp10" : 1792
 },
+{
 	"eg_grade" : 1,
 	"eg_name" : "Lv1",
 	"eg_exp0" : 24,
@@ -27,6 +28,7 @@
 	"eg_exp9" : 2926,
 	"eg_exp10" : 2926
 },
+{
 	"eg_grade" : 2,
 	"eg_name" : "Lv2",
 	"eg_exp0" : 31,
@@ -41,6 +43,7 @@
 	"eg_exp9" : 3934,
 	"eg_exp10" : 3934
 },
+{
 	"eg_grade" : 3,
 	"eg_name" : "Lv3",
 	"eg_exp0" : 37,
@@ -55,6 +58,7 @@
 	"eg_exp9" : 4842,
 	"eg_exp10" : 4842
 },
+{
 	"eg_grade" : 4,
 	"eg_name" : "Lv4",
 	"eg_exp0" : 41,
@@ -69,6 +73,7 @@
 	"eg_exp9" : 5666,
 	"eg_exp10" : 5666
 },
+{
 	"eg_grade" : 5,
 	"eg_name" : "Lv5",
 	"eg_exp0" : 45,
@@ -83,6 +88,7 @@
 	"eg_exp9" : 6422,
 	"eg_exp10" : 6422
 },
+{
 	"eg_grade" : 6,
 	"eg_name" : "Lv6",
 	"eg_exp0" : 49,
@@ -97,6 +103,7 @@
 	"eg_exp9" : 7120,
 	"eg_exp10" : 7120
 },
+{
 	"eg_grade" : 7,
 	"eg_name" : "Lv7",
 	"eg_exp0" : 52,
@@ -111,6 +118,7 @@
 	"eg_exp9" : 7768,
 	"eg_exp10" : 7768
 },
+{
 	"eg_grade" : 8,
 	"eg_name" : "Lv8",
 	"eg_exp0" : 55,
@@ -125,6 +133,7 @@
 	"eg_exp9" : 8373,
 	"eg_exp10" : 8373
 },
+{
 	"eg_grade" : 9,
 	"eg_name" : "Lv9",
 	"eg_exp0" : 58,
@@ -139,6 +148,7 @@
 	"eg_exp9" : 8940,
 	"eg_exp10" : 8940
 },
+{
 	"eg_grade" : 10,
 	"eg_name" : "Lv10",
 	"eg_exp0" : 60,
@@ -153,6 +163,7 @@
 	"eg_exp9" : 9473,
 	"eg_exp10" : 9473
 },
+{
 	"eg_grade" : 11,
 	"eg_name" : "Lv11",
 	"eg_exp0" : 62,
@@ -167,6 +178,7 @@
 	"eg_exp9" : 9977,
 	"eg_exp10" : 9977
 },
+{
 	"eg_grade" : 12,
 	"eg_name" : "Lv12",
 	"eg_exp0" : 64,
@@ -181,6 +193,7 @@
 	"eg_exp9" : 10455,
 	"eg_exp10" : 10455
 },
+{
 	"eg_grade" : 13,
 	"eg_name" : "Lv13",
 	"eg_exp0" : 66,
@@ -195,6 +208,7 @@
 	"eg_exp9" : 10909,
 	"eg_exp10" : 10909
 },
+{
 	"eg_grade" : 14,
 	"eg_name" : "Lv14",
 	"eg_exp0" : 68,
@@ -209,6 +223,7 @@
 	"eg_exp9" : 11341,
 	"eg_exp10" : 11341
 },
+{
 	"eg_grade" : 15,
 	"eg_name" : "Lv15",
 	"eg_exp0" : 70,
@@ -223,6 +238,7 @@
 	"eg_exp9" : 11753,
 	"eg_exp10" : 11753
 },
+{
 	"eg_grade" : 16,
 	"eg_name" : "Lv16",
 	"eg_exp0" : 71,
@@ -237,6 +253,7 @@
 	"eg_exp9" : 12147,
 	"eg_exp10" : 12147
 },
+{
 	"eg_grade" : 17,
 	"eg_name" : "Lv17",
 	"eg_exp0" : 73,
@@ -251,6 +268,7 @@
 	"eg_exp9" : 12525,
 	"eg_exp10" : 12525
 },
+{
 	"eg_grade" : 18,
 	"eg_name" : "Lv18",
 	"eg_exp0" : 74,
@@ -265,6 +283,7 @@
 	"eg_exp9" : 12888,
 	"eg_exp10" : 12888
 },
+{
 	"eg_grade" : 19,
 	"eg_name" : "Lv19",
 	"eg_exp0" : 75,
@@ -279,6 +298,7 @@
 	"eg_exp9" : 13237,
 	"eg_exp10" : 13237
 },
+{
 	"eg_grade" : 20,
 	"eg_name" : "Lv20",
 	"eg_exp0" : 77,
@@ -293,6 +313,7 @@
 	"eg_exp9" : 13573,
 	"eg_exp10" : 13573
 },
+{
 	"eg_grade" : 21,
 	"eg_name" : "Lv21",
 	"eg_exp0" : 78,
@@ -307,6 +328,7 @@
 	"eg_exp9" : 13897,
 	"eg_exp10" : 13897
 },
+{
 	"eg_grade" : 22,
 	"eg_name" : "Lv22",
 	"eg_exp0" : 79,
@@ -321,6 +343,7 @@
 	"eg_exp9" : 14210,
 	"eg_exp10" : 14210
 },
+{
 	"eg_grade" : 23,
 	"eg_name" : "Lv23",
 	"eg_exp0" : 80,
@@ -335,6 +358,7 @@
 	"eg_exp9" : 14512,
 	"eg_exp10" : 14512
 },
+{
 	"eg_grade" : 24,
 	"eg_name" : "Lv24",
 	"eg_exp0" : 81,
@@ -349,6 +373,7 @@
 	"eg_exp9" : 14805,
 	"eg_exp10" : 14805
 },
+{
 	"eg_grade" : 25,
 	"eg_name" : "Lv25",
 	"eg_exp0" : 82,
@@ -363,6 +388,7 @@
 	"eg_exp9" : 15088,
 	"eg_exp10" : 15088
 },
+{
 	"eg_grade" : 26,
 	"eg_name" : "Lv26",
 	"eg_exp0" : 83,
@@ -377,6 +403,7 @@
 	"eg_exp9" : 15363,
 	"eg_exp10" : 15363
 },
+{
 	"eg_grade" : 27,
 	"eg_name" : "Lv27",
 	"eg_exp0" : 84,
@@ -391,6 +418,7 @@
 	"eg_exp9" : 15630,
 	"eg_exp10" : 15630
 },
+{
 	"eg_grade" : 28,
 	"eg_name" : "Lv28",
 	"eg_exp0" : 85,
@@ -405,6 +433,7 @@
 	"eg_exp9" : 15889,
 	"eg_exp10" : 15889
 },
+{
 	"eg_grade" : 29,
 	"eg_name" : "Lv29",
 	"eg_exp0" : 86,
@@ -419,6 +448,7 @@
 	"eg_exp9" : 16141,
 	"eg_exp10" : 16141
 },
+{
 	"eg_grade" : 30,
 	"eg_name" : "Lv30",
 	"eg_exp0" : 87,
@@ -433,6 +463,7 @@
 	"eg_exp9" : 16387,
 	"eg_exp10" : 16387
 },
+{
 	"eg_grade" : 31,
 	"eg_name" : "Lv31",
 	"eg_exp0" : 88,
@@ -447,6 +478,7 @@
 	"eg_exp9" : 16625,
 	"eg_exp10" : 16625
 },
+{
 	"eg_grade" : 32,
 	"eg_name" : "Lv32",
 	"eg_exp0" : 89,
@@ -461,6 +493,7 @@
 	"eg_exp9" : 16858,
 	"eg_exp10" : 16858
 },
+{
 	"eg_grade" : 33,
 	"eg_name" : "Lv33",
 	"eg_exp0" : 90,
@@ -475,6 +508,7 @@
 	"eg_exp9" : 17085,
 	"eg_exp10" : 17085
 },
+{
 	"eg_grade" : 34,
 	"eg_name" : "Lv34",
 	"eg_exp0" : 90,
@@ -489,6 +523,7 @@
 	"eg_exp9" : 17306,
 	"eg_exp10" : 17306
 },
+{
 	"eg_grade" : 35,
 	"eg_name" : "Lv35",
 	"eg_exp0" : 91,
@@ -503,6 +538,7 @@
 	"eg_exp9" : 17522,
 	"eg_exp10" : 17522
 },
+{
 	"eg_grade" : 36,
 	"eg_name" : "Lv36",
 	"eg_exp0" : 92,
@@ -517,6 +553,7 @@
 	"eg_exp9" : 17733,
 	"eg_exp10" : 17733
 },
+{
 	"eg_grade" : 37,
 	"eg_name" : "Lv37",
 	"eg_exp0" : 93,
@@ -531,6 +568,7 @@
 	"eg_exp9" : 17939,
 	"eg_exp10" : 17939
 },
+{
 	"eg_grade" : 38,
 	"eg_name" : "Lv38",
 	"eg_exp0" : 93,
@@ -545,6 +583,7 @@
 	"eg_exp9" : 18141,
 	"eg_exp10" : 18141
 },
+{
 	"eg_grade" : 39,
 	"eg_name" : "Lv39",
 	"eg_exp0" : 94,
@@ -559,6 +598,7 @@
 	"eg_exp9" : 18338,
 	"eg_exp10" : 18338
 },
+{
 	"eg_grade" : 40,
 	"eg_name" : "Lv40",
 	"eg_exp0" : 95,
@@ -573,6 +613,7 @@
 	"eg_exp9" : 18531,
 	"eg_exp10" : 18531
 },
+{
 	"eg_grade" : 41,
 	"eg_name" : "Lv41",
 	"eg_exp0" : 95,
@@ -587,6 +628,7 @@
 	"eg_exp9" : 18720,
 	"eg_exp10" : 18720
 },
+{
 	"eg_grade" : 42,
 	"eg_name" : "Lv42",
 	"eg_exp0" : 96,
@@ -601,6 +643,7 @@
 	"eg_exp9" : 18905,
 	"eg_exp10" : 18905
 },
+{
 	"eg_grade" : 43,
 	"eg_name" : "Lv43",
 	"eg_exp0" : 97,
@@ -615,6 +658,7 @@
 	"eg_exp9" : 19086,
 	"eg_exp10" : 19086
 },
+{
 	"eg_grade" : 44,
 	"eg_name" : "Lv44",
 	"eg_exp0" : 97,
@@ -629,6 +673,7 @@
 	"eg_exp9" : 19264,
 	"eg_exp10" : 19264
 },
+{
 	"eg_grade" : 45,
 	"eg_name" : "Lv45",
 	"eg_exp0" : 98,
@@ -643,6 +688,7 @@
 	"eg_exp9" : 19439,
 	"eg_exp10" : 19439
 },
+{
 	"eg_grade" : 46,
 	"eg_name" : "Lv46",
 	"eg_exp0" : 98,
@@ -657,6 +703,7 @@
 	"eg_exp9" : 19610,
 	"eg_exp10" : 19610
 },
+{
 	"eg_grade" : 47,
 	"eg_name" : "Lv47",
 	"eg_exp0" : 99,
@@ -671,6 +718,7 @@
 	"eg_exp9" : 19778,
 	"eg_exp10" : 19778
 },
+{
 	"eg_grade" : 48,
 	"eg_name" : "Lv48",
 	"eg_exp0" : 100,
@@ -685,6 +733,7 @@
 	"eg_exp9" : 19943,
 	"eg_exp10" : 19943
 },
+{
 	"eg_grade" : 49,
 	"eg_name" : "Lv49",
 	"eg_exp0" : 100,
@@ -699,6 +748,7 @@
 	"eg_exp9" : 20105,
 	"eg_exp10" : 20105
 },
+{
 	"eg_grade" : 50,
 	"eg_name" : "Lv50",
 	"eg_exp0" : 101,
@@ -713,6 +763,7 @@
 	"eg_exp9" : 20264,
 	"eg_exp10" : 20264
 },
+{
 	"eg_grade" : 51,
 	"eg_name" : "Lv51",
 	"eg_exp0" : 101,
@@ -727,6 +778,7 @@
 	"eg_exp9" : 20421,
 	"eg_exp10" : 20421
 },
+{
 	"eg_grade" : 52,
 	"eg_name" : "Lv52",
 	"eg_exp0" : 102,
@@ -741,6 +793,7 @@
 	"eg_exp9" : 20574,
 	"eg_exp10" : 20574
 },
+{
 	"eg_grade" : 53,
 	"eg_name" : "Lv53",
 	"eg_exp0" : 102,
@@ -755,6 +808,7 @@
 	"eg_exp9" : 20726,
 	"eg_exp10" : 20726
 },
+{
 	"eg_grade" : 54,
 	"eg_name" : "Lv54",
 	"eg_exp0" : 103,
@@ -769,6 +823,7 @@
 	"eg_exp9" : 20874,
 	"eg_exp10" : 20874
 },
+{
 	"eg_grade" : 55,
 	"eg_name" : "Lv55",
 	"eg_exp0" : 103,
@@ -783,6 +838,7 @@
 	"eg_exp9" : 21021,
 	"eg_exp10" : 21021
 },
+{
 	"eg_grade" : 56,
 	"eg_name" : "Lv56",
 	"eg_exp0" : 104,
@@ -797,6 +853,7 @@
 	"eg_exp9" : 21165,
 	"eg_exp10" : 21165
 },
+{
 	"eg_grade" : 57,
 	"eg_name" : "Lv57",
 	"eg_exp0" : 104,
@@ -811,6 +868,7 @@
 	"eg_exp9" : 21306,
 	"eg_exp10" : 21306
 },
+{
 	"eg_grade" : 58,
 	"eg_name" : "Lv58",
 	"eg_exp0" : 105,
@@ -825,6 +883,7 @@
 	"eg_exp9" : 21446,
 	"eg_exp10" : 21446
 },
+{
 	"eg_grade" : 59,
 	"eg_name" : "Lv59",
 	"eg_exp0" : 105,
@@ -839,6 +898,7 @@
 	"eg_exp9" : 21583,
 	"eg_exp10" : 21583
 },
+{
 	"eg_grade" : 60,
 	"eg_name" : "Lv60",
 	"eg_exp0" : 106,
@@ -853,6 +913,7 @@
 	"eg_exp9" : 21719,
 	"eg_exp10" : 21719
 },
+{
 	"eg_grade" : 61,
 	"eg_name" : "Lv61",
 	"eg_exp0" : 106,
@@ -867,6 +928,7 @@
 	"eg_exp9" : 21852,
 	"eg_exp10" : 21852
 },
+{
 	"eg_grade" : 62,
 	"eg_name" : "Lv62",
 	"eg_exp0" : 107,
@@ -881,6 +943,7 @@
 	"eg_exp9" : 21984,
 	"eg_exp10" : 21984
 },
+{
 	"eg_grade" : 63,
 	"eg_name" : "Lv63",
 	"eg_exp0" : 107,
@@ -895,6 +958,7 @@
 	"eg_exp9" : 22113,
 	"eg_exp10" : 22113
 },
+{
 	"eg_grade" : 64,
 	"eg_name" : "Lv64",
 	"eg_exp0" : 107,
@@ -909,6 +973,7 @@
 	"eg_exp9" : 22241,
 	"eg_exp10" : 22241
 },
+{
 	"eg_grade" : 65,
 	"eg_name" : "Lv65",
 	"eg_exp0" : 108,
@@ -923,6 +988,7 @@
 	"eg_exp9" : 22367,
 	"eg_exp10" : 22367
 },
+{
 	"eg_grade" : 66,
 	"eg_name" : "Lv66",
 	"eg_exp0" : 108,
@@ -937,6 +1003,7 @@
 	"eg_exp9" : 22491,
 	"eg_exp10" : 22491
 },
+{
 	"eg_grade" : 67,
 	"eg_name" : "Lv67",
 	"eg_exp0" : 109,
@@ -951,6 +1018,7 @@
 	"eg_exp9" : 22614,
 	"eg_exp10" : 22614
 },
+{
 	"eg_grade" : 68,
 	"eg_name" : "Lv68",
 	"eg_exp0" : 109,
@@ -965,6 +1033,7 @@
 	"eg_exp9" : 22735,
 	"eg_exp10" : 22735
 },
+{
 	"eg_grade" : 69,
 	"eg_name" : "Lv69",
 	"eg_exp0" : 109,
@@ -979,6 +1048,7 @@
 	"eg_exp9" : 22854,
 	"eg_exp10" : 22854
 },
+{
 	"eg_grade" : 70,
 	"eg_name" : "Lv70",
 	"eg_exp0" : 110,
@@ -993,6 +1063,7 @@
 	"eg_exp9" : 22972,
 	"eg_exp10" : 22972
 },
+{
 	"eg_grade" : 71,
 	"eg_name" : "Lv71",
 	"eg_exp0" : 110,
@@ -1007,6 +1078,7 @@
 	"eg_exp9" : 23089,
 	"eg_exp10" : 23089
 },
+{
 	"eg_grade" : 72,
 	"eg_name" : "Lv72",
 	"eg_exp0" : 111,
@@ -1021,6 +1093,7 @@
 	"eg_exp9" : 23203,
 	"eg_exp10" : 23203
 },
+{
 	"eg_grade" : 73,
 	"eg_name" : "Lv73",
 	"eg_exp0" : 111,
@@ -1035,6 +1108,7 @@
 	"eg_exp9" : 23317,
 	"eg_exp10" : 23317
 },
+{
 	"eg_grade" : 74,
 	"eg_name" : "Lv74",
 	"eg_exp0" : 111,
@@ -1049,6 +1123,7 @@
 	"eg_exp9" : 23429,
 	"eg_exp10" : 23429
 },
+{
 	"eg_grade" : 75,
 	"eg_name" : "Lv75",
 	"eg_exp0" : 112,
@@ -1063,6 +1138,7 @@
 	"eg_exp9" : 23539,
 	"eg_exp10" : 23539
 },
+{
 	"eg_grade" : 76,
 	"eg_name" : "Lv76",
 	"eg_exp0" : 112,
@@ -1077,6 +1153,7 @@
 	"eg_exp9" : 23649,
 	"eg_exp10" : 23649
 },
+{
 	"eg_grade" : 77,
 	"eg_name" : "Lv77",
 	"eg_exp0" : 113,
@@ -1091,6 +1168,7 @@
 	"eg_exp9" : 23757,
 	"eg_exp10" : 23757
 },
+{
 	"eg_grade" : 78,
 	"eg_name" : "Lv78",
 	"eg_exp0" : 113,
@@ -1105,6 +1183,7 @@
 	"eg_exp9" : 23863,
 	"eg_exp10" : 23863
 },
+{
 	"eg_grade" : 79,
 	"eg_name" : "Lv79",
 	"eg_exp0" : 113,
@@ -1119,6 +1198,7 @@
 	"eg_exp9" : 23969,
 	"eg_exp10" : 23969
 },
+{
 	"eg_grade" : 80,
 	"eg_name" : "Lv80",
 	"eg_exp0" : 114,
@@ -1133,6 +1213,7 @@
 	"eg_exp9" : 24073,
 	"eg_exp10" : 24073
 },
+{
 	"eg_grade" : 81,
 	"eg_name" : "Lv81",
 	"eg_exp0" : 114,
@@ -1147,6 +1228,7 @@
 	"eg_exp9" : 24176,
 	"eg_exp10" : 24176
 },
+{
 	"eg_grade" : 82,
 	"eg_name" : "Lv82",
 	"eg_exp0" : 114,
@@ -1161,6 +1243,7 @@
 	"eg_exp9" : 24278,
 	"eg_exp10" : 24278
 },
+{
 	"eg_grade" : 83,
 	"eg_name" : "Lv83",
 	"eg_exp0" : 115,
@@ -1175,6 +1258,7 @@
 	"eg_exp9" : 24379,
 	"eg_exp10" : 24379
 },
+{
 	"eg_grade" : 84,
 	"eg_name" : "Lv84",
 	"eg_exp0" : 115,
@@ -1189,6 +1273,7 @@
 	"eg_exp9" : 24479,
 	"eg_exp10" : 24479
 },
+{
 	"eg_grade" : 85,
 	"eg_name" : "Lv85",
 	"eg_exp0" : 115,
@@ -1203,6 +1288,7 @@
 	"eg_exp9" : 24577,
 	"eg_exp10" : 24577
 },
+{
 	"eg_grade" : 86,
 	"eg_name" : "Lv86",
 	"eg_exp0" : 116,
@@ -1217,6 +1303,7 @@
 	"eg_exp9" : 24675,
 	"eg_exp10" : 24675
 },
+{
 	"eg_grade" : 87,
 	"eg_name" : "Lv87",
 	"eg_exp0" : 116,
@@ -1231,6 +1318,7 @@
 	"eg_exp9" : 24771,
 	"eg_exp10" : 24771
 },
+{
 	"eg_grade" : 88,
 	"eg_name" : "Lv88",
 	"eg_exp0" : 116,
@@ -1245,6 +1333,7 @@
 	"eg_exp9" : 24867,
 	"eg_exp10" : 24867
 },
+{
 	"eg_grade" : 89,
 	"eg_name" : "Lv89",
 	"eg_exp0" : 116,
@@ -1259,6 +1348,7 @@
 	"eg_exp9" : 24961,
 	"eg_exp10" : 24961
 },
+{
 	"eg_grade" : 90,
 	"eg_name" : "Lv90",
 	"eg_exp0" : 117,
@@ -1273,6 +1363,7 @@
 	"eg_exp9" : 25055,
 	"eg_exp10" : 25055
 },
+{
 	"eg_grade" : 91,
 	"eg_name" : "Lv91",
 	"eg_exp0" : 117,
@@ -1287,6 +1378,7 @@
 	"eg_exp9" : 25147,
 	"eg_exp10" : 25147
 },
+{
 	"eg_grade" : 92,
 	"eg_name" : "Lv92",
 	"eg_exp0" : 117,
@@ -1301,6 +1393,7 @@
 	"eg_exp9" : 25239,
 	"eg_exp10" : 25239
 },
+{
 	"eg_grade" : 93,
 	"eg_name" : "Lv93",
 	"eg_exp0" : 118,
@@ -1315,6 +1408,7 @@
 	"eg_exp9" : 25330,
 	"eg_exp10" : 25330
 },
+{
 	"eg_grade" : 94,
 	"eg_name" : "Lv94",
 	"eg_exp0" : 118,
@@ -1329,6 +1423,7 @@
 	"eg_exp9" : 25419,
 	"eg_exp10" : 25419
 },
+{
 	"eg_grade" : 95,
 	"eg_name" : "Lv95",
 	"eg_exp0" : 118,
@@ -1343,6 +1438,7 @@
 	"eg_exp9" : 25508,
 	"eg_exp10" : 25508
 },
+{
 	"eg_grade" : 96,
 	"eg_name" : "Lv96",
 	"eg_exp0" : 119,
@@ -1357,6 +1453,7 @@
 	"eg_exp9" : 25596,
 	"eg_exp10" : 25596
 },
+{
 	"eg_grade" : 97,
 	"eg_name" : "Lv97",
 	"eg_exp0" : 119,
@@ -1371,6 +1468,7 @@
 	"eg_exp9" : 25684,
 	"eg_exp10" : 25684
 },
+{
 	"eg_grade" : 98,
 	"eg_name" : "Lv98",
 	"eg_exp0" : 119,
@@ -1385,6 +1483,7 @@
 	"eg_exp9" : 25770,
 	"eg_exp10" : 25770
 },
+{
 	"eg_grade" : 99,
 	"eg_name" : "Lv99",
 	"eg_exp0" : 119,
@@ -1399,6 +1498,7 @@
 	"eg_exp9" : 25856,
 	"eg_exp10" : 25856
 },
+{
 	"eg_grade" : 100,
 	"eg_name" : "MAX",
 	"eg_exp0" : 120,
@@ -1413,3 +1513,4 @@
 	"eg_exp9" : 25940,
 	"eg_exp10" : 25940
 },
+{

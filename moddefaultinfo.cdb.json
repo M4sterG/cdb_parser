@@ -20,6 +20,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 1,
 	"mo_map" : 5,
 	"mo_respawntime" : 350,
@@ -41,6 +42,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 2,
 	"mo_map" : 5,
 	"mo_respawntime" : 500,
@@ -62,6 +64,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : false
 },
+{
 	"mo_mod" : 3,
 	"mo_map" : 14,
 	"mo_respawntime" : 1400,
@@ -83,6 +86,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 4,
 	"mo_map" : 1,
 	"mo_respawntime" : 500,
@@ -104,6 +108,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 5,
 	"mo_map" : 14,
 	"mo_respawntime" : 700,
@@ -125,6 +130,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 6,
 	"mo_map" : 5,
 	"mo_respawntime" : 500,
@@ -146,6 +152,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 7,
 	"mo_map" : 7,
 	"mo_respawntime" : 700,
@@ -167,6 +174,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : false
 },
+{
 	"mo_mod" : 8,
 	"mo_map" : 5,
 	"mo_respawntime" : 350,
@@ -188,6 +196,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : false
 },
+{
 	"mo_mod" : 9,
 	"mo_map" : 14,
 	"mo_respawntime" : 700,
@@ -209,6 +218,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 10,
 	"mo_map" : 15,
 	"mo_respawntime" : 700,
@@ -230,6 +240,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 12,
 	"mo_map" : 46,
 	"mo_respawntime" : 700,
@@ -251,6 +262,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 11,
 	"mo_map" : 14,
 	"mo_respawntime" : 700,
@@ -272,6 +284,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 13,
 	"mo_map" : 45,
 	"mo_respawntime" : 0,
@@ -293,6 +306,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 14,
 	"mo_map" : 36,
 	"mo_respawntime" : 700,
@@ -314,6 +328,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 15,
 	"mo_map" : 12,
 	"mo_respawntime" : 100,
@@ -335,6 +350,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : false
 },
+{
 	"mo_mod" : 16,
 	"mo_map" : 14,
 	"mo_respawntime" : 1400,
@@ -356,6 +372,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 17,
 	"mo_map" : 14,
 	"mo_respawntime" : 700,
@@ -377,6 +394,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 18,
 	"mo_map" : 14,
 	"mo_respawntime" : 500,
@@ -398,6 +416,7 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{
 	"mo_mod" : 19,
 	"mo_map" : 15,
 	"mo_respawntime" : 700,
@@ -419,3 +438,4 @@
 	"mo_type" : 0,
 	"mo_skill_possible" : true
 },
+{

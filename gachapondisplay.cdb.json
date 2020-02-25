@@ -18,6 +18,7 @@
 	"gd_weapon" : 3011650,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110195,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Mad Wrench",
@@ -37,6 +38,7 @@
 	"gd_weapon" : 3011750,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110196,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Chain Saw",
@@ -56,6 +58,7 @@
 	"gd_weapon" : 3011850,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110197,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Pepper",
@@ -75,6 +78,7 @@
 	"gd_weapon" : 3021850,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110198,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Sherlock",
@@ -94,6 +98,7 @@
 	"gd_weapon" : 3022050,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110199,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Hornet",
@@ -113,6 +118,7 @@
 	"gd_weapon" : 3021950,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110200,
 	"gd_group" : 0,
 	"gd_name" : "ADV-KW-79",
@@ -132,6 +138,7 @@
 	"gd_weapon" : 3031150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110201,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Driver",
@@ -151,6 +158,7 @@
 	"gd_weapon" : 3031350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110202,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Bombard",
@@ -170,6 +178,7 @@
 	"gd_weapon" : 3031250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110203,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Sea Eagle",
@@ -189,6 +198,7 @@
 	"gd_weapon" : 3041050,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110204,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Venom",
@@ -208,6 +218,7 @@
 	"gd_weapon" : 3041150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110205,
 	"gd_group" : 0,
 	"gd_name" : "ADV-DareDev",
@@ -227,6 +238,7 @@
 	"gd_weapon" : 3050850,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110206,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Firefly",
@@ -246,6 +258,7 @@
 	"gd_weapon" : 3050950,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110207,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Crank",
@@ -265,6 +278,7 @@
 	"gd_weapon" : 3051050,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110208,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Mimic",
@@ -284,6 +298,7 @@
 	"gd_weapon" : 3061050,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110209,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Pound",
@@ -303,6 +318,7 @@
 	"gd_weapon" : 3061150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110210,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Pocket Rocket",
@@ -322,6 +338,7 @@
 	"gd_weapon" : 3061250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110211,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Pulse",
@@ -341,6 +358,7 @@
 	"gd_weapon" : 3071450,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110212,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Exile",
@@ -360,6 +378,7 @@
 	"gd_weapon" : 3071550,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110213,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Thunder",
@@ -379,6 +398,7 @@
 	"gd_weapon" : 3071650,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110214,
 	"gd_group" : 0,
 	"gd_name" : "Steel Hammer",
@@ -398,6 +418,7 @@
 	"gd_weapon" : 3010050,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110215,
 	"gd_group" : 0,
 	"gd_name" : "Mad Wrench",
@@ -417,6 +438,7 @@
 	"gd_weapon" : 3010250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110216,
 	"gd_group" : 0,
 	"gd_name" : "Chain Saw",
@@ -436,6 +458,7 @@
 	"gd_weapon" : 3010350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110217,
 	"gd_group" : 0,
 	"gd_name" : "Pepper",
@@ -455,6 +478,7 @@
 	"gd_weapon" : 3020150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110218,
 	"gd_group" : 0,
 	"gd_name" : "Hornet",
@@ -474,6 +498,7 @@
 	"gd_weapon" : 3020250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110219,
 	"gd_group" : 0,
 	"gd_name" : "Sherlock",
@@ -493,6 +518,7 @@
 	"gd_weapon" : 3020350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110220,
 	"gd_group" : 0,
 	"gd_name" : "KW-79",
@@ -512,6 +538,7 @@
 	"gd_weapon" : 3030150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110221,
 	"gd_group" : 0,
 	"gd_name" : "Bombard",
@@ -531,6 +558,7 @@
 	"gd_weapon" : 3030250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110222,
 	"gd_group" : 0,
 	"gd_name" : "Driver",
@@ -550,6 +578,7 @@
 	"gd_weapon" : 3030350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110223,
 	"gd_group" : 0,
 	"gd_name" : "Sea Eagle",
@@ -569,6 +598,7 @@
 	"gd_weapon" : 3040150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110224,
 	"gd_group" : 0,
 	"gd_name" : "Venom",
@@ -588,6 +618,7 @@
 	"gd_weapon" : 3040250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110225,
 	"gd_group" : 0,
 	"gd_name" : "DareDev",
@@ -607,6 +638,7 @@
 	"gd_weapon" : 3040251,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110226,
 	"gd_group" : 0,
 	"gd_name" : "Firefly",
@@ -626,6 +658,7 @@
 	"gd_weapon" : 3040252,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110227,
 	"gd_group" : 0,
 	"gd_name" : "Crank",
@@ -645,6 +678,7 @@
 	"gd_weapon" : 3040253,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110228,
 	"gd_group" : 0,
 	"gd_name" : "Mimic",
@@ -664,6 +698,7 @@
 	"gd_weapon" : 3060150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110229,
 	"gd_group" : 0,
 	"gd_name" : "Pound",
@@ -683,6 +718,7 @@
 	"gd_weapon" : 3060250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110230,
 	"gd_group" : 0,
 	"gd_name" : "Pocket Rocket",
@@ -702,6 +738,7 @@
 	"gd_weapon" : 3060350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110231,
 	"gd_group" : 0,
 	"gd_name" : "Pulse",
@@ -721,6 +758,7 @@
 	"gd_weapon" : 3070150,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110232,
 	"gd_group" : 0,
 	"gd_name" : "Exile",
@@ -740,6 +778,7 @@
 	"gd_weapon" : 3070250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110233,
 	"gd_group" : 0,
 	"gd_name" : "Thunder",
@@ -759,6 +798,7 @@
 	"gd_weapon" : 3070350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110234,
 	"gd_group" : 0,
 	"gd_name" : "ADV-Vast",
@@ -778,6 +818,7 @@
 	"gd_weapon" : 3041250,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110235,
 	"gd_group" : 0,
 	"gd_name" : "Vast",
@@ -797,6 +838,7 @@
 	"gd_weapon" : 3040350,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110240,
 	"gd_group" : 0,
 	"gd_name" : "Pitcher",
@@ -816,6 +858,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110241,
 	"gd_group" : 0,
 	"gd_name" : "Sheriff",
@@ -835,6 +878,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110242,
 	"gd_group" : 0,
 	"gd_name" : "Capt Rapscallion",
@@ -854,6 +898,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110243,
 	"gd_group" : 0,
 	"gd_name" : "Officer",
@@ -873,6 +918,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110244,
 	"gd_group" : 0,
 	"gd_name" : "Blue Bot",
@@ -892,6 +938,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110245,
 	"gd_group" : 0,
 	"gd_name" : "Nosliw",
@@ -911,6 +958,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110246,
 	"gd_group" : 0,
 	"gd_name" : "Artists",
@@ -930,6 +978,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110247,
 	"gd_group" : 0,
 	"gd_name" : "Back Catcher",
@@ -949,6 +998,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110248,
 	"gd_group" : 0,
 	"gd_name" : "Fairy Tale",
@@ -968,6 +1018,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110249,
 	"gd_group" : 0,
 	"gd_name" : "Cursed",
@@ -987,6 +1038,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110250,
 	"gd_group" : 0,
 	"gd_name" : "Imber",
@@ -1006,6 +1058,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110251,
 	"gd_group" : 0,
 	"gd_name" : "Baron",
@@ -1025,6 +1078,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110252,
 	"gd_group" : 0,
 	"gd_name" : "Smoke",
@@ -1044,6 +1098,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110277,
 	"gd_group" : 0,
 	"gd_name" : "Leaf Blade",
@@ -1063,6 +1118,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110278,
 	"gd_group" : 0,
 	"gd_name" : "Leaf Blade",
@@ -1082,6 +1138,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110276,
 	"gd_group" : 0,
 	"gd_name" : "Storm Street",
@@ -1101,6 +1158,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110279,
 	"gd_group" : 0,
 	"gd_name" : "Plant Nymph",
@@ -1120,6 +1178,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110280,
 	"gd_group" : 0,
 	"gd_name" : "Plant Nymph",
@@ -1139,6 +1198,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110281,
 	"gd_group" : 0,
 	"gd_name" : "Water Nymph",
@@ -1158,6 +1218,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110282,
 	"gd_group" : 0,
 	"gd_name" : "Forest Dryad",
@@ -1177,6 +1238,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110283,
 	"gd_group" : 0,
 	"gd_name" : "Forest Dryad",
@@ -1196,6 +1258,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110284,
 	"gd_group" : 0,
 	"gd_name" : "Night Dryad",
@@ -1215,6 +1278,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110285,
 	"gd_group" : 0,
 	"gd_name" : "Bunny Blaster",
@@ -1234,6 +1298,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110286,
 	"gd_group" : 0,
 	"gd_name" : "Bunny Blaster",
@@ -1253,6 +1318,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110287,
 	"gd_group" : 0,
 	"gd_name" : "Slugger Gun",
@@ -1272,6 +1338,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110288,
 	"gd_group" : 0,
 	"gd_name" : "Slugger Gun",
@@ -1291,6 +1358,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110291,
 	"gd_group" : 0,
 	"gd_name" : "Beam",
@@ -1310,6 +1378,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110292,
 	"gd_group" : 0,
 	"gd_name" : "Beam",
@@ -1329,6 +1398,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110293,
 	"gd_group" : 0,
 	"gd_name" : "Bomb",
@@ -1348,6 +1418,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110294,
 	"gd_group" : 0,
 	"gd_name" : "Bomb",
@@ -1367,6 +1438,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110295,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1386,6 +1458,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110296,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1405,6 +1478,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110297,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1424,6 +1498,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110298,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1443,6 +1518,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110299,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1462,6 +1538,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110300,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1481,6 +1558,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110301,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1500,6 +1578,7 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{
 	"gd_infoid" : 110302,
 	"gd_group" : 0,
 	"gd_name" : "Intervention",
@@ -1519,3 +1598,4 @@
 	"gd_weapon" : 0,
 	"gd_diorama" : 0
 },
+{

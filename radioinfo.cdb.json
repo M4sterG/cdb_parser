@@ -12,6 +12,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_1.wav"
 },
+{
 	"ri_id" : 2,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -25,6 +26,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_2.wav"
 },
+{
 	"ri_id" : 3,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -38,6 +40,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_3.wav"
 },
+{
 	"ri_id" : 4,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -51,6 +54,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_4.wav"
 },
+{
 	"ri_id" : 5,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -64,6 +68,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_5.wav"
 },
+{
 	"ri_id" : 6,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -77,6 +82,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_6.wav"
 },
+{
 	"ri_id" : 7,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -90,6 +96,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_7.wav"
 },
+{
 	"ri_id" : 8,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -103,6 +110,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_8.wav"
 },
+{
 	"ri_id" : 9,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -116,6 +124,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_9.wav"
 },
+{
 	"ri_id" : 10,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -129,6 +138,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_kill_10.wav"
 },
+{
 	"ri_id" : 11,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -142,6 +152,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_assist.wav"
 },
+{
 	"ri_id" : 12,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -155,6 +166,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_enemy_decide.wav"
 },
+{
 	"ri_id" : 13,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -168,6 +180,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_revenge.wav"
 },
+{
 	"ri_id" : 14,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -181,6 +194,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_draw.wav"
 },
+{
 	"ri_id" : 15,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -194,6 +208,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_all.wav"
 },
+{
 	"ri_id" : 16,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -207,6 +222,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_all.wav"
 },
+{
 	"ri_id" : 17,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -220,6 +236,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_crush.wav"
 },
+{
 	"ri_id" : 18,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -233,6 +250,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_time.wav"
 },
+{
 	"ri_id" : 19,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -246,6 +264,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_bomb.wav"
 },
+{
 	"ri_id" : 20,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -259,6 +278,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_bomb_disarm.wav"
 },
+{
 	"ri_id" : 21,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -272,6 +292,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_occupying.wav"
 },
+{
 	"ri_id" : 22,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -285,6 +306,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_crushed.wav"
 },
+{
 	"ri_id" : 23,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -298,6 +320,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_time.wav"
 },
+{
 	"ri_id" : 24,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -311,6 +334,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_bomb.wav"
 },
+{
 	"ri_id" : 25,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -324,6 +348,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_bomb_disarmed.wav"
 },
+{
 	"ri_id" : 26,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -337,6 +362,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_lose_occupied.wav"
 },
+{
 	"ri_id" : 27,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -350,6 +376,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_win_occupy.wav"
 },
+{
 	"ri_id" : 28,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -363,6 +390,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_1.wav"
 },
+{
 	"ri_id" : 29,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -376,6 +404,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_2.wav"
 },
+{
 	"ri_id" : 30,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -389,6 +418,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_3.wav"
 },
+{
 	"ri_id" : 31,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -402,6 +432,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_4.wav"
 },
+{
 	"ri_id" : 32,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -415,6 +446,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_5.wav"
 },
+{
 	"ri_id" : 33,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -428,6 +460,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "radio_battle_notice_6.wav"
 },
+{
 	"ri_id" : 34,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -441,6 +474,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "sv_mod2_install.wav"
 },
+{
 	"ri_id" : 35,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -454,6 +488,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "sv_mod2_uninstall.wav"
 },
+{
 	"ri_id" : 36,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -467,6 +502,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_1.wav"
 },
+{
 	"ri_id" : 37,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -480,6 +516,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_2.wav"
 },
+{
 	"ri_id" : 38,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -493,6 +530,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_3.wav"
 },
+{
 	"ri_id" : 39,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -506,6 +544,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_4.wav"
 },
+{
 	"ri_id" : 40,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -519,6 +558,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_5.wav"
 },
+{
 	"ri_id" : 41,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -532,6 +572,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_6.wav"
 },
+{
 	"ri_id" : 42,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -545,6 +586,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_7.wav"
 },
+{
 	"ri_id" : 43,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -558,6 +600,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_8.wav"
 },
+{
 	"ri_id" : 44,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 1,
@@ -571,6 +614,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_9.wav"
 },
+{
 	"ri_id" : 45,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -584,6 +628,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_10.wav"
 },
+{
 	"ri_id" : 46,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -597,6 +642,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_11.wav"
 },
+{
 	"ri_id" : 47,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -610,6 +656,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_12.wav"
 },
+{
 	"ri_id" : 48,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -623,6 +670,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_13.wav"
 },
+{
 	"ri_id" : 49,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -636,6 +684,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_14.wav"
 },
+{
 	"ri_id" : 50,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -649,6 +698,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_15.wav"
 },
+{
 	"ri_id" : 51,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -662,6 +712,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_16.wav"
 },
+{
 	"ri_id" : 52,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -675,6 +726,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_17.wav"
 },
+{
 	"ri_id" : 53,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -688,6 +740,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_18.wav"
 },
+{
 	"ri_id" : 54,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -701,6 +754,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_19.wav"
 },
+{
 	"ri_id" : 55,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -714,6 +768,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_20.wav"
 },
+{
 	"ri_id" : 56,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -727,6 +782,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_21.wav"
 },
+{
 	"ri_id" : 57,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -740,6 +796,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_22.wav"
 },
+{
 	"ri_id" : 58,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -753,6 +810,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_23.wav"
 },
+{
 	"ri_id" : 59,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -766,6 +824,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_24.wav"
 },
+{
 	"ri_id" : 60,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -779,6 +838,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_25.wav"
 },
+{
 	"ri_id" : 61,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -792,6 +852,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_26.wav"
 },
+{
 	"ri_id" : 62,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 3,
@@ -805,6 +866,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_27.wav"
 },
+{
 	"ri_id" : 63,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -818,6 +880,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_28.wav"
 },
+{
 	"ri_id" : 64,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 2,
@@ -831,6 +894,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_29.wav"
 },
+{
 	"ri_id" : 65,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -844,6 +908,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_30.wav"
 },
+{
 	"ri_id" : 66,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -857,6 +922,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_31.wav"
 },
+{
 	"ri_id" : 67,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -870,6 +936,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_32.wav"
 },
+{
 	"ri_id" : 68,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -883,6 +950,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_33.wav"
 },
+{
 	"ri_id" : 69,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -896,6 +964,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_1.wav"
 },
+{
 	"ri_id" : 70,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -909,6 +978,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_2.wav"
 },
+{
 	"ri_id" : 71,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -922,6 +992,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_3.wav"
 },
+{
 	"ri_id" : 72,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -935,6 +1006,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_4.wav"
 },
+{
 	"ri_id" : 73,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -948,6 +1020,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_5.wav"
 },
+{
 	"ri_id" : 74,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -961,6 +1034,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_6.wav"
 },
+{
 	"ri_id" : 75,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -974,6 +1048,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_7.wav"
 },
+{
 	"ri_id" : 76,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -987,6 +1062,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_8.wav"
 },
+{
 	"ri_id" : 77,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 1,
@@ -1000,6 +1076,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_9.wav"
 },
+{
 	"ri_id" : 78,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1013,6 +1090,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_10.wav"
 },
+{
 	"ri_id" : 79,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1026,6 +1104,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_11.wav"
 },
+{
 	"ri_id" : 80,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1039,6 +1118,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_12.wav"
 },
+{
 	"ri_id" : 81,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1052,6 +1132,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_13.wav"
 },
+{
 	"ri_id" : 82,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1065,6 +1146,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_14.wav"
 },
+{
 	"ri_id" : 83,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1078,6 +1160,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_15.wav"
 },
+{
 	"ri_id" : 84,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1091,6 +1174,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_16.wav"
 },
+{
 	"ri_id" : 85,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1104,6 +1188,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_17.wav"
 },
+{
 	"ri_id" : 86,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1117,6 +1202,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_18.wav"
 },
+{
 	"ri_id" : 87,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1130,6 +1216,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_19.wav"
 },
+{
 	"ri_id" : 88,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1143,6 +1230,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_20.wav"
 },
+{
 	"ri_id" : 89,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1156,6 +1244,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_21.wav"
 },
+{
 	"ri_id" : 90,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1169,6 +1258,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_22.wav"
 },
+{
 	"ri_id" : 91,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1182,6 +1272,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_23.wav"
 },
+{
 	"ri_id" : 92,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1195,6 +1286,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_24.wav"
 },
+{
 	"ri_id" : 93,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1208,6 +1300,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_25.wav"
 },
+{
 	"ri_id" : 94,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1221,6 +1314,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_26.wav"
 },
+{
 	"ri_id" : 95,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 3,
@@ -1234,6 +1328,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_27.wav"
 },
+{
 	"ri_id" : 96,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1247,6 +1342,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_28.wav"
 },
+{
 	"ri_id" : 97,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 2,
@@ -1260,6 +1356,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_29.wav"
 },
+{
 	"ri_id" : 98,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1273,6 +1370,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_30.wav"
 },
+{
 	"ri_id" : 99,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1286,6 +1384,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_31.wav"
 },
+{
 	"ri_id" : 100,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1299,6 +1398,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_32.wav"
 },
+{
 	"ri_id" : 101,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -1312,6 +1412,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_33.wav"
 },
+{
 	"ri_id" : 102,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1325,6 +1426,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_1.wav"
 },
+{
 	"ri_id" : 103,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1338,6 +1440,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_2.wav"
 },
+{
 	"ri_id" : 104,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1351,6 +1454,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_3.wav"
 },
+{
 	"ri_id" : 105,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1364,6 +1468,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_4.wav"
 },
+{
 	"ri_id" : 106,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1377,6 +1482,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_5.wav"
 },
+{
 	"ri_id" : 107,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1390,6 +1496,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_6.wav"
 },
+{
 	"ri_id" : 108,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1403,6 +1510,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_7.wav"
 },
+{
 	"ri_id" : 109,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1416,6 +1524,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_8.wav"
 },
+{
 	"ri_id" : 110,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 1,
@@ -1429,6 +1538,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_9.wav"
 },
+{
 	"ri_id" : 111,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1442,6 +1552,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_10.wav"
 },
+{
 	"ri_id" : 112,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1455,6 +1566,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_11.wav"
 },
+{
 	"ri_id" : 113,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1468,6 +1580,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_12.wav"
 },
+{
 	"ri_id" : 114,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1481,6 +1594,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_13.wav"
 },
+{
 	"ri_id" : 115,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1494,6 +1608,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_14.wav"
 },
+{
 	"ri_id" : 116,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1507,6 +1622,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_15.wav"
 },
+{
 	"ri_id" : 117,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1520,6 +1636,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_16.wav"
 },
+{
 	"ri_id" : 118,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1533,6 +1650,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_17.wav"
 },
+{
 	"ri_id" : 119,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1546,6 +1664,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_18.wav"
 },
+{
 	"ri_id" : 120,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1559,6 +1678,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_19.wav"
 },
+{
 	"ri_id" : 121,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1572,6 +1692,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_20.wav"
 },
+{
 	"ri_id" : 122,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1585,6 +1706,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_21.wav"
 },
+{
 	"ri_id" : 123,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1598,6 +1720,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_22.wav"
 },
+{
 	"ri_id" : 124,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1611,6 +1734,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_23.wav"
 },
+{
 	"ri_id" : 125,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1624,6 +1748,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_24.wav"
 },
+{
 	"ri_id" : 126,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1637,6 +1762,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_25.wav"
 },
+{
 	"ri_id" : 127,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1650,6 +1776,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_26.wav"
 },
+{
 	"ri_id" : 128,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 3,
@@ -1663,6 +1790,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_27.wav"
 },
+{
 	"ri_id" : 129,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1676,6 +1804,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_28.wav"
 },
+{
 	"ri_id" : 130,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 2,
@@ -1689,6 +1818,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_29.wav"
 },
+{
 	"ri_id" : 131,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1702,6 +1832,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_30.wav"
 },
+{
 	"ri_id" : 132,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1715,6 +1846,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_31.wav"
 },
+{
 	"ri_id" : 133,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1728,6 +1860,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_32.wav"
 },
+{
 	"ri_id" : 134,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -1741,6 +1874,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_33.wav"
 },
+{
 	"ri_id" : 135,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1754,6 +1888,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_1.wav"
 },
+{
 	"ri_id" : 136,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1767,6 +1902,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_2.wav"
 },
+{
 	"ri_id" : 137,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1780,6 +1916,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_3.wav"
 },
+{
 	"ri_id" : 138,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1793,6 +1930,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_4.wav"
 },
+{
 	"ri_id" : 139,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1806,6 +1944,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_5.wav"
 },
+{
 	"ri_id" : 140,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1819,6 +1958,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_6.wav"
 },
+{
 	"ri_id" : 141,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1832,6 +1972,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_7.wav"
 },
+{
 	"ri_id" : 142,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1845,6 +1986,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_8.wav"
 },
+{
 	"ri_id" : 143,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 1,
@@ -1858,6 +2000,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_9.wav"
 },
+{
 	"ri_id" : 144,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1871,6 +2014,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_10.wav"
 },
+{
 	"ri_id" : 145,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1884,6 +2028,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_11.wav"
 },
+{
 	"ri_id" : 146,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1897,6 +2042,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_12.wav"
 },
+{
 	"ri_id" : 147,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1910,6 +2056,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_13.wav"
 },
+{
 	"ri_id" : 148,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1923,6 +2070,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_14.wav"
 },
+{
 	"ri_id" : 149,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1936,6 +2084,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_15.wav"
 },
+{
 	"ri_id" : 150,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1949,6 +2098,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_16.wav"
 },
+{
 	"ri_id" : 151,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -1962,6 +2112,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_17.wav"
 },
+{
 	"ri_id" : 152,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -1975,6 +2126,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_18.wav"
 },
+{
 	"ri_id" : 153,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -1988,6 +2140,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_19.wav"
 },
+{
 	"ri_id" : 154,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2001,6 +2154,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_20.wav"
 },
+{
 	"ri_id" : 155,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2014,6 +2168,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_21.wav"
 },
+{
 	"ri_id" : 156,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2027,6 +2182,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_22.wav"
 },
+{
 	"ri_id" : 157,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2040,6 +2196,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_23.wav"
 },
+{
 	"ri_id" : 158,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2053,6 +2210,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_24.wav"
 },
+{
 	"ri_id" : 159,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2066,6 +2224,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_25.wav"
 },
+{
 	"ri_id" : 160,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2079,6 +2238,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_26.wav"
 },
+{
 	"ri_id" : 161,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 3,
@@ -2092,6 +2252,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_27.wav"
 },
+{
 	"ri_id" : 162,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2105,6 +2266,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_28.wav"
 },
+{
 	"ri_id" : 163,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 2,
@@ -2118,6 +2280,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_29.wav"
 },
+{
 	"ri_id" : 164,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2131,6 +2294,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_30.wav"
 },
+{
 	"ri_id" : 165,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2144,6 +2308,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_31.wav"
 },
+{
 	"ri_id" : 166,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2157,6 +2322,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_32.wav"
 },
+{
 	"ri_id" : 167,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -2170,6 +2336,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_33.wav"
 },
+{
 	"ri_id" : 168,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2183,6 +2350,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_1.wav"
 },
+{
 	"ri_id" : 169,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2196,6 +2364,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_2.wav"
 },
+{
 	"ri_id" : 170,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2209,6 +2378,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_3.wav"
 },
+{
 	"ri_id" : 171,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2222,6 +2392,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_4.wav"
 },
+{
 	"ri_id" : 172,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2235,6 +2406,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_5.wav"
 },
+{
 	"ri_id" : 173,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2248,6 +2420,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_6.wav"
 },
+{
 	"ri_id" : 174,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2261,6 +2434,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_7.wav"
 },
+{
 	"ri_id" : 175,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2274,6 +2448,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_8.wav"
 },
+{
 	"ri_id" : 176,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 1,
@@ -2287,6 +2462,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_9.wav"
 },
+{
 	"ri_id" : 177,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2300,6 +2476,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_10.wav"
 },
+{
 	"ri_id" : 178,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2313,6 +2490,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_11.wav"
 },
+{
 	"ri_id" : 179,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2326,6 +2504,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_12.wav"
 },
+{
 	"ri_id" : 180,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2339,6 +2518,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_13.wav"
 },
+{
 	"ri_id" : 181,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2352,6 +2532,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_14.wav"
 },
+{
 	"ri_id" : 182,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2365,6 +2546,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_15.wav"
 },
+{
 	"ri_id" : 183,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2378,6 +2560,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_16.wav"
 },
+{
 	"ri_id" : 184,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2391,6 +2574,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_17.wav"
 },
+{
 	"ri_id" : 185,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2404,6 +2588,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_18.wav"
 },
+{
 	"ri_id" : 186,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2417,6 +2602,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_19.wav"
 },
+{
 	"ri_id" : 187,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2430,6 +2616,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_20.wav"
 },
+{
 	"ri_id" : 188,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2443,6 +2630,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_21.wav"
 },
+{
 	"ri_id" : 189,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2456,6 +2644,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_22.wav"
 },
+{
 	"ri_id" : 190,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2469,6 +2658,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_23.wav"
 },
+{
 	"ri_id" : 191,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2482,6 +2672,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_24.wav"
 },
+{
 	"ri_id" : 192,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2495,6 +2686,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_25.wav"
 },
+{
 	"ri_id" : 193,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2508,6 +2700,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_26.wav"
 },
+{
 	"ri_id" : 194,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 3,
@@ -2521,6 +2714,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_27.wav"
 },
+{
 	"ri_id" : 195,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2534,6 +2728,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_28.wav"
 },
+{
 	"ri_id" : 196,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 2,
@@ -2547,6 +2742,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_29.wav"
 },
+{
 	"ri_id" : 197,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2560,6 +2756,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_30.wav"
 },
+{
 	"ri_id" : 198,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2573,6 +2770,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_31.wav"
 },
+{
 	"ri_id" : 199,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2586,6 +2784,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_32.wav"
 },
+{
 	"ri_id" : 200,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -2599,6 +2798,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_33.wav"
 },
+{
 	"ri_id" : 201,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2612,6 +2812,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_1.wav"
 },
+{
 	"ri_id" : 202,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2625,6 +2826,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_2.wav"
 },
+{
 	"ri_id" : 203,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2638,6 +2840,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_3.wav"
 },
+{
 	"ri_id" : 204,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2651,6 +2854,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_4.wav"
 },
+{
 	"ri_id" : 205,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2664,6 +2868,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_5.wav"
 },
+{
 	"ri_id" : 206,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2677,6 +2882,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_6.wav"
 },
+{
 	"ri_id" : 207,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2690,6 +2896,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_7.wav"
 },
+{
 	"ri_id" : 208,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2703,6 +2910,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_8.wav"
 },
+{
 	"ri_id" : 209,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 1,
@@ -2716,6 +2924,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_9.wav"
 },
+{
 	"ri_id" : 210,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2729,6 +2938,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_10.wav"
 },
+{
 	"ri_id" : 211,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2742,6 +2952,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_11.wav"
 },
+{
 	"ri_id" : 212,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2755,6 +2966,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_12.wav"
 },
+{
 	"ri_id" : 213,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2768,6 +2980,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_13.wav"
 },
+{
 	"ri_id" : 214,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2781,6 +2994,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_14.wav"
 },
+{
 	"ri_id" : 215,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2794,6 +3008,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_18.wav"
 },
+{
 	"ri_id" : 216,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2807,6 +3022,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_19.wav"
 },
+{
 	"ri_id" : 217,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2820,6 +3036,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_20.wav"
 },
+{
 	"ri_id" : 218,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2833,6 +3050,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_21.wav"
 },
+{
 	"ri_id" : 219,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2846,6 +3064,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_22.wav"
 },
+{
 	"ri_id" : 220,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2859,6 +3078,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_23.wav"
 },
+{
 	"ri_id" : 221,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2872,6 +3092,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_24.wav"
 },
+{
 	"ri_id" : 222,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2885,6 +3106,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_25.wav"
 },
+{
 	"ri_id" : 223,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2898,6 +3120,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_26.wav"
 },
+{
 	"ri_id" : 224,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2911,6 +3134,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_27.wav"
 },
+{
 	"ri_id" : 225,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2924,6 +3148,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_28.wav"
 },
+{
 	"ri_id" : 226,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -2937,6 +3162,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_29.wav"
 },
+{
 	"ri_id" : 227,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 3,
@@ -2950,6 +3176,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_15.wav"
 },
+{
 	"ri_id" : 228,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -2963,6 +3190,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_29.wav"
 },
+{
 	"ri_id" : 229,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 2,
@@ -2976,6 +3204,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_16.wav"
 },
+{
 	"ri_id" : 230,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -2989,6 +3218,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_30.wav"
 },
+{
 	"ri_id" : 231,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -3002,6 +3232,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_31.wav"
 },
+{
 	"ri_id" : 232,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -3015,6 +3246,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_32.wav"
 },
+{
 	"ri_id" : 233,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -3028,6 +3260,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_33.wav"
 },
+{
 	"ri_id" : 234,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3041,6 +3274,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_1.wav"
 },
+{
 	"ri_id" : 235,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3054,6 +3288,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_2.wav"
 },
+{
 	"ri_id" : 236,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3067,6 +3302,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_3.wav"
 },
+{
 	"ri_id" : 237,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3080,6 +3316,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_4.wav"
 },
+{
 	"ri_id" : 238,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3093,6 +3330,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_5.wav"
 },
+{
 	"ri_id" : 239,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3106,6 +3344,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_6.wav"
 },
+{
 	"ri_id" : 240,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3119,6 +3358,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_7.wav"
 },
+{
 	"ri_id" : 241,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3132,6 +3372,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_8.wav"
 },
+{
 	"ri_id" : 242,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 1,
@@ -3145,6 +3386,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_9.wav"
 },
+{
 	"ri_id" : 243,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3158,6 +3400,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_10.wav"
 },
+{
 	"ri_id" : 244,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3171,6 +3414,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_11.wav"
 },
+{
 	"ri_id" : 245,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3184,6 +3428,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_12.wav"
 },
+{
 	"ri_id" : 246,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3197,6 +3442,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_13.wav"
 },
+{
 	"ri_id" : 247,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3210,6 +3456,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_14.wav"
 },
+{
 	"ri_id" : 248,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3223,6 +3470,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_15.wav"
 },
+{
 	"ri_id" : 249,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3236,6 +3484,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_16.wav"
 },
+{
 	"ri_id" : 250,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3249,6 +3498,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_17.wav"
 },
+{
 	"ri_id" : 251,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3262,6 +3512,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_18.wav"
 },
+{
 	"ri_id" : 252,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3275,6 +3526,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_19.wav"
 },
+{
 	"ri_id" : 253,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3288,6 +3540,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_20.wav"
 },
+{
 	"ri_id" : 254,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3301,6 +3554,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_21.wav"
 },
+{
 	"ri_id" : 255,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3314,6 +3568,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_22.wav"
 },
+{
 	"ri_id" : 256,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3327,6 +3582,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_23.wav"
 },
+{
 	"ri_id" : 257,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3340,6 +3596,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_24.wav"
 },
+{
 	"ri_id" : 258,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3353,6 +3610,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_25.wav"
 },
+{
 	"ri_id" : 259,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3366,6 +3624,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_26.wav"
 },
+{
 	"ri_id" : 260,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 3,
@@ -3379,6 +3638,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_27.wav"
 },
+{
 	"ri_id" : 261,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3392,6 +3652,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_28.wav"
 },
+{
 	"ri_id" : 262,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 2,
@@ -3405,6 +3666,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_29.wav"
 },
+{
 	"ri_id" : 263,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3418,6 +3680,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_30.wav"
 },
+{
 	"ri_id" : 264,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3431,6 +3694,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_31.wav"
 },
+{
 	"ri_id" : 265,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3444,6 +3708,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_32.wav"
 },
+{
 	"ri_id" : 266,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -3457,6 +3722,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_33.wav"
 },
+{
 	"ri_id" : 267,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3470,6 +3736,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_1.wav"
 },
+{
 	"ri_id" : 268,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3483,6 +3750,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_2.wav"
 },
+{
 	"ri_id" : 269,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3496,6 +3764,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_3.wav"
 },
+{
 	"ri_id" : 270,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3509,6 +3778,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_4.wav"
 },
+{
 	"ri_id" : 271,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3522,6 +3792,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_5.wav"
 },
+{
 	"ri_id" : 272,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3535,6 +3806,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_6.wav"
 },
+{
 	"ri_id" : 273,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3548,6 +3820,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_7.wav"
 },
+{
 	"ri_id" : 274,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3561,6 +3834,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_8.wav"
 },
+{
 	"ri_id" : 275,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 1,
@@ -3574,6 +3848,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_9.wav"
 },
+{
 	"ri_id" : 276,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3587,6 +3862,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_10.wav"
 },
+{
 	"ri_id" : 277,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3600,6 +3876,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_11.wav"
 },
+{
 	"ri_id" : 278,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3613,6 +3890,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_12.wav"
 },
+{
 	"ri_id" : 279,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3626,6 +3904,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_13.wav"
 },
+{
 	"ri_id" : 280,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3639,6 +3918,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_14.wav"
 },
+{
 	"ri_id" : 281,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3652,6 +3932,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_15.wav"
 },
+{
 	"ri_id" : 282,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3665,6 +3946,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_16.wav"
 },
+{
 	"ri_id" : 283,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3678,6 +3960,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_17.wav"
 },
+{
 	"ri_id" : 284,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3691,6 +3974,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_18.wav"
 },
+{
 	"ri_id" : 285,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3704,6 +3988,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_19.wav"
 },
+{
 	"ri_id" : 286,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3717,6 +4002,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_20.wav"
 },
+{
 	"ri_id" : 287,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3730,6 +4016,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_21.wav"
 },
+{
 	"ri_id" : 288,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3743,6 +4030,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_22.wav"
 },
+{
 	"ri_id" : 289,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3756,6 +4044,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_23.wav"
 },
+{
 	"ri_id" : 290,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3769,6 +4058,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_24.wav"
 },
+{
 	"ri_id" : 291,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3782,6 +4072,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_25.wav"
 },
+{
 	"ri_id" : 292,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3795,6 +4086,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_26.wav"
 },
+{
 	"ri_id" : 293,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 3,
@@ -3808,6 +4100,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_27.wav"
 },
+{
 	"ri_id" : 294,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3821,6 +4114,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_28.wav"
 },
+{
 	"ri_id" : 295,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 2,
@@ -3834,6 +4128,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_29.wav"
 },
+{
 	"ri_id" : 296,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3847,6 +4142,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_30.wav"
 },
+{
 	"ri_id" : 297,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3860,6 +4156,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_31.wav"
 },
+{
 	"ri_id" : 298,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3873,6 +4170,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_32.wav"
 },
+{
 	"ri_id" : 299,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -3886,6 +4184,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_33.wav"
 },
+{
 	"ri_id" : 300,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3899,6 +4198,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_1.wav"
 },
+{
 	"ri_id" : 301,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3912,6 +4212,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_2.wav"
 },
+{
 	"ri_id" : 302,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3925,6 +4226,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_3.wav"
 },
+{
 	"ri_id" : 303,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3938,6 +4240,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_4.wav"
 },
+{
 	"ri_id" : 304,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3951,6 +4254,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_5.wav"
 },
+{
 	"ri_id" : 305,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3964,6 +4268,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_6.wav"
 },
+{
 	"ri_id" : 306,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3977,6 +4282,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_7.wav"
 },
+{
 	"ri_id" : 307,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -3990,6 +4296,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_8.wav"
 },
+{
 	"ri_id" : 308,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 1,
@@ -4003,6 +4310,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_9.wav"
 },
+{
 	"ri_id" : 309,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4016,6 +4324,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_10.wav"
 },
+{
 	"ri_id" : 310,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4029,6 +4338,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_11.wav"
 },
+{
 	"ri_id" : 311,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4042,6 +4352,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_12.wav"
 },
+{
 	"ri_id" : 312,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4055,6 +4366,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_13.wav"
 },
+{
 	"ri_id" : 313,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4068,6 +4380,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_14.wav"
 },
+{
 	"ri_id" : 314,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4081,6 +4394,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_15.wav"
 },
+{
 	"ri_id" : 315,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4094,6 +4408,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_16.wav"
 },
+{
 	"ri_id" : 316,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4107,6 +4422,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_17.wav"
 },
+{
 	"ri_id" : 317,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4120,6 +4436,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_18.wav"
 },
+{
 	"ri_id" : 318,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4133,6 +4450,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_19.wav"
 },
+{
 	"ri_id" : 319,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4146,6 +4464,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_20.wav"
 },
+{
 	"ri_id" : 320,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4159,6 +4478,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_21.wav"
 },
+{
 	"ri_id" : 321,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4172,6 +4492,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_22.wav"
 },
+{
 	"ri_id" : 322,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4185,6 +4506,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_23.wav"
 },
+{
 	"ri_id" : 323,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4198,6 +4520,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_24.wav"
 },
+{
 	"ri_id" : 324,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4211,6 +4534,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_25.wav"
 },
+{
 	"ri_id" : 325,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4224,6 +4548,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_26.wav"
 },
+{
 	"ri_id" : 326,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 3,
@@ -4237,6 +4562,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_27.wav"
 },
+{
 	"ri_id" : 327,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4250,6 +4576,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_28.wav"
 },
+{
 	"ri_id" : 328,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 2,
@@ -4263,6 +4590,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_29.wav"
 },
+{
 	"ri_id" : 329,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4276,6 +4604,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_30.wav"
 },
+{
 	"ri_id" : 330,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4289,6 +4618,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_31.wav"
 },
+{
 	"ri_id" : 331,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4302,6 +4632,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_32.wav"
 },
+{
 	"ri_id" : 332,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -4315,6 +4646,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_33.wav"
 },
+{
 	"ri_id" : 333,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4328,6 +4660,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 334,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4341,6 +4674,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 335,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4354,6 +4688,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 336,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4367,6 +4702,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 337,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4380,6 +4716,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 338,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4393,6 +4730,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 339,
 	"ri_chr_type" : 0,
 	"ri_ZXC" : 0,
@@ -4406,6 +4744,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_a_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 340,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4419,6 +4758,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 341,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4432,6 +4772,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 342,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4445,6 +4786,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 343,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4458,6 +4800,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 344,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4471,6 +4814,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 345,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4484,6 +4828,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 346,
 	"ri_chr_type" : 1,
 	"ri_ZXC" : 0,
@@ -4497,6 +4842,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_b_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 347,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4510,6 +4856,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 348,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4523,6 +4870,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 349,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4536,6 +4884,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 350,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4549,6 +4898,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 351,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4562,6 +4912,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 352,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4575,6 +4926,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 353,
 	"ri_chr_type" : 2,
 	"ri_ZXC" : 0,
@@ -4588,6 +4940,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_c_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 354,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4601,6 +4954,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 355,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4614,6 +4968,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 356,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4627,6 +4982,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 357,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4640,6 +4996,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 358,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4653,6 +5010,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 359,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4666,6 +5024,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 360,
 	"ri_chr_type" : 3,
 	"ri_ZXC" : 0,
@@ -4679,6 +5038,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_d_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 361,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4692,6 +5052,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 362,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4705,6 +5066,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 363,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4718,6 +5080,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 364,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4731,6 +5094,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 365,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4744,6 +5108,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 366,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4757,6 +5122,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 367,
 	"ri_chr_type" : 4,
 	"ri_ZXC" : 0,
@@ -4770,6 +5136,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_e_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 368,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4783,6 +5150,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 369,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4796,6 +5164,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 370,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4809,6 +5178,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 371,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4822,6 +5192,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 372,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4835,6 +5206,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 373,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4848,6 +5220,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 374,
 	"ri_chr_type" : 5,
 	"ri_ZXC" : 0,
@@ -4861,6 +5234,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_f_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 375,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4874,6 +5248,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 376,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4887,6 +5262,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 377,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4900,6 +5276,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 378,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4913,6 +5290,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 379,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4926,6 +5304,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 380,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4939,6 +5318,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 381,
 	"ri_chr_type" : 6,
 	"ri_ZXC" : 0,
@@ -4952,6 +5332,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_g_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 382,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -4965,6 +5346,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 383,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -4978,6 +5360,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 384,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -4991,6 +5374,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 385,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -5004,6 +5388,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 386,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -5017,6 +5402,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 387,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -5030,6 +5416,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 388,
 	"ri_chr_type" : 7,
 	"ri_ZXC" : 0,
@@ -5043,6 +5430,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_h_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 389,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5056,6 +5444,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_1.wav"
 },
+{
 	"ri_id" : 390,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5069,6 +5458,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_2.wav"
 },
+{
 	"ri_id" : 391,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5082,6 +5472,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_3.wav"
 },
+{
 	"ri_id" : 392,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5095,6 +5486,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_4.wav"
 },
+{
 	"ri_id" : 393,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5108,6 +5500,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_5.wav"
 },
+{
 	"ri_id" : 394,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5121,6 +5514,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_6.wav"
 },
+{
 	"ri_id" : 395,
 	"ri_chr_type" : 8,
 	"ri_ZXC" : 0,
@@ -5134,6 +5528,7 @@
 	"ri_location" : 0,
 	"ri_voice" : "unit_class_i_radio_provoke_7.wav"
 },
+{
 	"ri_id" : 396,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5147,6 +5542,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_20.wav"
 },
+{
 	"ri_id" : 397,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5160,6 +5556,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_19.wav"
 },
+{
 	"ri_id" : 398,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5173,6 +5570,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_18.wav"
 },
+{
 	"ri_id" : 399,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5186,6 +5584,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_17.wav"
 },
+{
 	"ri_id" : 400,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5199,6 +5598,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_16.wav"
 },
+{
 	"ri_id" : 401,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5212,6 +5612,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_15.wav"
 },
+{
 	"ri_id" : 402,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5225,6 +5626,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_14.wav"
 },
+{
 	"ri_id" : 403,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5238,6 +5640,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_13.wav"
 },
+{
 	"ri_id" : 404,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5251,6 +5654,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_12.wav"
 },
+{
 	"ri_id" : 405,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5264,6 +5668,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_11.wav"
 },
+{
 	"ri_id" : 406,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5277,6 +5682,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_10.wav"
 },
+{
 	"ri_id" : 407,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5290,6 +5696,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_9.wav"
 },
+{
 	"ri_id" : 408,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5303,6 +5710,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_8.wav"
 },
+{
 	"ri_id" : 409,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5316,6 +5724,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_7.wav"
 },
+{
 	"ri_id" : 410,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5329,6 +5738,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_6.wav"
 },
+{
 	"ri_id" : 411,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5342,6 +5752,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_5.wav"
 },
+{
 	"ri_id" : 412,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5355,6 +5766,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_4.wav"
 },
+{
 	"ri_id" : 413,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5368,6 +5780,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_3.wav"
 },
+{
 	"ri_id" : 414,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5381,6 +5794,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_2.wav"
 },
+{
 	"ri_id" : 415,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5394,6 +5808,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_1.wav"
 },
+{
 	"ri_id" : 416,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5407,6 +5822,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_countdown_0.wav"
 },
+{
 	"ri_id" : 417,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5420,6 +5836,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_battle_notice_1.wav"
 },
+{
 	"ri_id" : 418,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5433,6 +5850,7 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_battle_notice_2.wav"
 },
+{
 	"ri_id" : 419,
 	"ri_chr_type" : 9,
 	"ri_ZXC" : 0,
@@ -5446,3 +5864,4 @@
 	"ri_location" : 1,
 	"ri_voice" : "sv_battle_notice_3.wav"
 },
+{

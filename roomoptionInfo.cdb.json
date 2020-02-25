@@ -6,6 +6,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101001,
 	"ro_type" : 2,
 	"ro_text" : "Team Deathmatch",
@@ -13,6 +14,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101002,
 	"ro_type" : 2,
 	"ro_text" : "Elimination",
@@ -20,6 +22,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101003,
 	"ro_type" : 2,
 	"ro_text" : "Zombie Mode",
@@ -27,6 +30,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101004,
 	"ro_type" : 2,
 	"ro_text" : "Capture The Battery",
@@ -34,6 +38,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101005,
 	"ro_type" : 2,
 	"ro_text" : "Free for All",
@@ -41,6 +46,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101006,
 	"ro_type" : 2,
 	"ro_text" : "Boss Battle",
@@ -48,6 +54,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101007,
 	"ro_type" : 2,
 	"ro_text" : "A.I. Battle",
@@ -55,6 +62,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101008,
 	"ro_type" : 2,
 	"ro_text" : "Item Match",
@@ -62,6 +70,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101009,
 	"ro_type" : 2,
 	"ro_text" : "Bomb Battle",
@@ -69,6 +78,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101010,
 	"ro_type" : 2,
 	"ro_text" : "Sniper Mode",
@@ -76,6 +86,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101011,
 	"ro_type" : 2,
 	"ro_text" : "Square Mode",
@@ -83,6 +94,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101012,
 	"ro_type" : 2,
 	"ro_text" : "Close Combat",
@@ -90,6 +102,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101013,
 	"ro_type" : 2,
 	"ro_text" : "Arms Race",
@@ -97,6 +110,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101014,
 	"ro_type" : 2,
 	"ro_text" : "Scrimmage",
@@ -104,6 +118,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 101015,
 	"ro_type" : 2,
 	"ro_text" : "Team Deathmatch",
@@ -111,6 +126,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 101016,
 	"ro_type" : 2,
 	"ro_text" : "Elimination",
@@ -118,6 +134,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 101018,
 	"ro_type" : 2,
 	"ro_text" : "Bomb Battle",
@@ -125,6 +142,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 101017,
 	"ro_type" : 2,
 	"ro_text" : "Capture The Battery",
@@ -132,6 +150,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 201001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -139,6 +158,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 201002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -146,6 +166,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 201003,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -153,6 +174,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 201004,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -160,6 +182,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 201005,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -167,6 +190,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 202001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -174,6 +198,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 202002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -181,6 +206,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 202003,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -188,6 +214,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 202004,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -195,6 +222,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 202005,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -202,6 +230,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 203001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -209,6 +238,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 203002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -216,6 +246,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 203003,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -223,6 +254,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 203004,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -230,6 +262,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 203005,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -237,6 +270,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 204001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -244,6 +278,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 204002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -251,6 +286,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 204003,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -258,6 +294,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 204004,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -265,6 +302,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 204005,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -272,6 +310,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 205001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -279,6 +318,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 205002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -286,6 +326,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 205003,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -293,6 +334,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 205004,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -300,6 +342,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 205005,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -307,6 +350,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 206001,
 	"ro_type" : 4,
 	"ro_text" : "2 Minutes",
@@ -314,6 +358,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 206002,
 	"ro_type" : 4,
 	"ro_text" : "4 Minutes",
@@ -321,6 +366,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207001,
 	"ro_type" : 4,
 	"ro_text" : "5 Minutes",
@@ -328,6 +374,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207002,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -335,6 +382,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207003,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -342,6 +390,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207004,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -349,6 +398,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207005,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -356,6 +406,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 207006,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -363,6 +414,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 208001,
 	"ro_type" : 4,
 	"ro_text" : "3 Minutes",
@@ -370,6 +422,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 209001,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -377,6 +430,7 @@
 	"ro_mod" : 8,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 210001,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -384,6 +438,7 @@
 	"ro_mod" : 15,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 211001,
 	"ro_type" : 4,
 	"ro_text" : "2 Minutes",
@@ -391,6 +446,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 212001,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -398,6 +454,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 212002,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -405,6 +462,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 214001,
 	"ro_type" : 4,
 	"ro_text" : "5 Minutes",
@@ -412,6 +470,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 214002,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -419,6 +478,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 214003,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -426,6 +486,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 214004,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -433,6 +494,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 214005,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -440,6 +502,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 214006,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -447,6 +510,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 215001,
 	"ro_type" : 4,
 	"ro_text" : "3 Minutes",
@@ -454,6 +518,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 216001,
 	"ro_type" : 4,
 	"ro_text" : "3 Minutes",
@@ -461,6 +526,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 217001,
 	"ro_type" : 4,
 	"ro_text" : "Unlimited",
@@ -468,6 +534,7 @@
 	"ro_mod" : 13,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218001,
 	"ro_type" : 4,
 	"ro_text" : "5 Minutes",
@@ -475,6 +542,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218002,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -482,6 +550,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218003,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -489,6 +558,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218004,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -496,6 +566,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218005,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -503,6 +574,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 218006,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -510,6 +582,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219001,
 	"ro_type" : 4,
 	"ro_text" : "5 Minutes",
@@ -517,6 +590,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219002,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -524,6 +598,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219003,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -531,6 +606,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219004,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -538,6 +614,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219005,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -545,6 +622,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 219006,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -552,6 +630,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220001,
 	"ro_type" : 4,
 	"ro_text" : "5 Minutes",
@@ -559,6 +638,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220002,
 	"ro_type" : 4,
 	"ro_text" : "10 Minutes",
@@ -566,6 +646,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220003,
 	"ro_type" : 4,
 	"ro_text" : "15 Minutes",
@@ -573,6 +654,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220004,
 	"ro_type" : 4,
 	"ro_text" : "20 Minutes",
@@ -580,6 +662,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220005,
 	"ro_type" : 4,
 	"ro_text" : "25 Minutes",
@@ -587,6 +670,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 220006,
 	"ro_type" : 4,
 	"ro_text" : "30 Minutes",
@@ -594,6 +678,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301001,
 	"ro_type" : 5,
 	"ro_text" : "Melee Only",
@@ -601,6 +686,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301002,
 	"ro_type" : 5,
 	"ro_text" : "Rifles Only",
@@ -608,6 +694,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301003,
 	"ro_type" : 5,
 	"ro_text" : "Shotguns Only",
@@ -615,6 +702,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301004,
 	"ro_type" : 5,
 	"ro_text" : "Sniper Rifles Only",
@@ -622,6 +710,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301005,
 	"ro_type" : 5,
 	"ro_text" : "Gatling Guns Only",
@@ -629,6 +718,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301006,
 	"ro_type" : 5,
 	"ro_text" : "Bazookas Only",
@@ -636,6 +726,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301007,
 	"ro_type" : 5,
 	"ro_text" : "Grenade Launchers Only",
@@ -643,6 +734,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301008,
 	"ro_type" : 5,
 	"ro_text" : "All Weapons",
@@ -650,6 +742,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 301009,
 	"ro_type" : 5,
 	"ro_text" : "Weapon Select",
@@ -657,6 +750,7 @@
 	"ro_mod" : 20,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401001,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -664,6 +758,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401002,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -671,6 +766,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401003,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -678,6 +774,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401004,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -685,6 +782,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401005,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -692,6 +790,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401006,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -699,6 +798,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 401007,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -706,6 +806,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 402001,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -713,6 +814,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 402002,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -720,6 +822,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 402003,
 	"ro_type" : 0,
 	"ro_text" : "40 Kills",
@@ -727,6 +830,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 402004,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -734,6 +838,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403001,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -741,6 +846,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403002,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -748,6 +854,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403003,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -755,6 +862,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403004,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -762,6 +870,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403005,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -769,6 +878,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403006,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -776,6 +886,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 403007,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -783,6 +894,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 404001,
 	"ro_type" : 0,
 	"ro_text" : "3 Points",
@@ -790,6 +902,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 404002,
 	"ro_type" : 0,
 	"ro_text" : "5 Points",
@@ -797,6 +910,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 404003,
 	"ro_type" : 0,
 	"ro_text" : "7 Points",
@@ -804,6 +918,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 404004,
 	"ro_type" : 0,
 	"ro_text" : "9 Points",
@@ -811,6 +926,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405001,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -818,6 +934,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405002,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -825,6 +942,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405003,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -832,6 +950,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405004,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -839,6 +958,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405005,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -846,6 +966,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405006,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -853,6 +974,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 405007,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -860,6 +982,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 406001,
 	"ro_type" : 0,
 	"ro_text" : "3 Rounds",
@@ -867,6 +990,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 406002,
 	"ro_type" : 0,
 	"ro_text" : "5 Rounds",
@@ -874,6 +998,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 406003,
 	"ro_type" : 0,
 	"ro_text" : "7 Rounds",
@@ -881,6 +1006,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 406004,
 	"ro_type" : 0,
 	"ro_text" : "11 Rounds",
@@ -888,6 +1014,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407001,
 	"ro_type" : 0,
 	"ro_text" : "10 Kills",
@@ -895,6 +1022,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407002,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -902,6 +1030,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407003,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -909,6 +1038,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407004,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -916,6 +1046,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407005,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -923,6 +1054,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407006,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -930,6 +1062,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407007,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -937,6 +1070,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 407008,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -944,6 +1078,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 408001,
 	"ro_type" : 0,
 	"ro_text" : "3 Rounds",
@@ -951,6 +1086,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 408002,
 	"ro_type" : 0,
 	"ro_text" : "5 Rounds",
@@ -958,6 +1094,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 408003,
 	"ro_type" : 0,
 	"ro_text" : "7 Rounds",
@@ -965,6 +1102,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 408004,
 	"ro_type" : 0,
 	"ro_text" : "9 Rounds",
@@ -972,6 +1110,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 409001,
 	"ro_type" : 0,
 	"ro_text" : "20 Points",
@@ -979,6 +1118,7 @@
 	"ro_mod" : 8,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 410001,
 	"ro_type" : 0,
 	"ro_text" : "1 Rounds",
@@ -986,6 +1126,7 @@
 	"ro_mod" : 15,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 411001,
 	"ro_type" : 0,
 	"ro_text" : "5 Rounds",
@@ -993,6 +1134,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 412001,
 	"ro_type" : 0,
 	"ro_text" : "5 Points",
@@ -1000,6 +1142,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 412002,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -1007,6 +1150,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 414001,
 	"ro_type" : 0,
 	"ro_text" : "TEAM HP 100000",
@@ -1014,6 +1158,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 414002,
 	"ro_type" : 0,
 	"ro_text" : "TEAM HP 200000",
@@ -1021,6 +1166,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 414003,
 	"ro_type" : 0,
 	"ro_text" : "TEAM HP 300000",
@@ -1028,6 +1174,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 415001,
 	"ro_type" : 0,
 	"ro_text" : "5 Rounds",
@@ -1035,6 +1182,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 415002,
 	"ro_type" : 0,
 	"ro_text" : "7 Rounds",
@@ -1042,6 +1190,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 415003,
 	"ro_type" : 0,
 	"ro_text" : "9 Rounds",
@@ -1049,6 +1198,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 416001,
 	"ro_type" : 0,
 	"ro_text" : "5 Rounds",
@@ -1056,6 +1206,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 417001,
 	"ro_type" : 0,
 	"ro_text" : "Boss Clear",
@@ -1063,6 +1214,7 @@
 	"ro_mod" : 13,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418001,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -1070,6 +1222,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418002,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -1077,6 +1230,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418003,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -1084,6 +1238,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418004,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -1091,6 +1246,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418005,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -1098,6 +1254,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418006,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -1105,6 +1262,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 418007,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -1112,6 +1270,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 419001,
 	"ro_type" : 0,
 	"ro_text" : "No goals",
@@ -1119,6 +1278,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420001,
 	"ro_type" : 0,
 	"ro_text" : "10 Kills",
@@ -1126,6 +1286,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420002,
 	"ro_type" : 0,
 	"ro_text" : "20 Kills",
@@ -1133,6 +1294,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420003,
 	"ro_type" : 0,
 	"ro_text" : "30 Kills",
@@ -1140,6 +1302,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420004,
 	"ro_type" : 0,
 	"ro_text" : "50 Kills",
@@ -1147,6 +1310,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420005,
 	"ro_type" : 0,
 	"ro_text" : "80 Kills",
@@ -1154,6 +1318,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420006,
 	"ro_type" : 0,
 	"ro_text" : "100 Kills",
@@ -1161,6 +1326,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420007,
 	"ro_type" : 0,
 	"ro_text" : "130 Kills",
@@ -1168,6 +1334,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 420008,
 	"ro_type" : 0,
 	"ro_text" : "150 Kills",
@@ -1175,6 +1342,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1182,6 +1350,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1189,6 +1358,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1196,6 +1366,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1203,6 +1374,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1210,6 +1382,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1217,6 +1390,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1224,6 +1398,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 501008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1231,6 +1406,7 @@
 	"ro_mod" : 0,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502001,
 	"ro_type" : 3,
 	"ro_text" : "2 Players",
@@ -1238,6 +1414,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502002,
 	"ro_type" : 3,
 	"ro_text" : "4 Players",
@@ -1245,6 +1422,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502003,
 	"ro_type" : 3,
 	"ro_text" : "6 Players",
@@ -1252,6 +1430,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502004,
 	"ro_type" : 3,
 	"ro_text" : "8 Players",
@@ -1259,6 +1438,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502005,
 	"ro_type" : 3,
 	"ro_text" : "10 Players",
@@ -1266,6 +1446,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502006,
 	"ro_type" : 3,
 	"ro_text" : "12 Players",
@@ -1273,6 +1454,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502007,
 	"ro_type" : 3,
 	"ro_text" : "14 Players",
@@ -1280,6 +1462,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 502008,
 	"ro_type" : 3,
 	"ro_text" : "16 Players",
@@ -1287,6 +1470,7 @@
 	"ro_mod" : 1,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1294,6 +1478,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1301,6 +1486,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1308,6 +1494,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1315,6 +1502,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1322,6 +1510,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1329,6 +1518,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1336,6 +1526,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 503008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1343,6 +1534,7 @@
 	"ro_mod" : 2,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1350,6 +1542,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1357,6 +1550,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1364,6 +1558,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1371,6 +1566,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1378,6 +1574,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1385,6 +1582,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1392,6 +1590,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 504008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1399,6 +1598,7 @@
 	"ro_mod" : 3,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1406,6 +1606,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1413,6 +1614,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1420,6 +1622,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1427,6 +1630,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1434,6 +1638,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1441,6 +1646,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1448,6 +1654,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 505008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1455,6 +1662,7 @@
 	"ro_mod" : 4,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1462,6 +1670,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1469,6 +1678,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1476,6 +1686,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1483,6 +1694,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1490,6 +1702,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1497,6 +1710,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1504,6 +1718,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 506008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1511,6 +1726,7 @@
 	"ro_mod" : 5,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1518,6 +1734,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1525,6 +1742,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1532,6 +1750,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1539,6 +1758,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1546,6 +1766,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1553,6 +1774,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1560,6 +1782,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 507008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1567,6 +1790,7 @@
 	"ro_mod" : 6,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508001,
 	"ro_type" : 3,
 	"ro_text" : "2 Players",
@@ -1574,6 +1798,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508002,
 	"ro_type" : 3,
 	"ro_text" : "4 Players",
@@ -1581,6 +1806,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508003,
 	"ro_type" : 3,
 	"ro_text" : "6 Players",
@@ -1588,6 +1814,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508004,
 	"ro_type" : 3,
 	"ro_text" : "8 Players",
@@ -1595,6 +1822,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508005,
 	"ro_type" : 3,
 	"ro_text" : "10 Players",
@@ -1602,6 +1830,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508006,
 	"ro_type" : 3,
 	"ro_text" : "12 Players",
@@ -1609,6 +1838,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508007,
 	"ro_type" : 3,
 	"ro_text" : "14 Players",
@@ -1616,6 +1846,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 508008,
 	"ro_type" : 3,
 	"ro_text" : "16 Players",
@@ -1623,6 +1854,7 @@
 	"ro_mod" : 7,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 509001,
 	"ro_type" : 3,
 	"ro_text" : "2 Players",
@@ -1630,6 +1862,7 @@
 	"ro_mod" : 8,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 509002,
 	"ro_type" : 3,
 	"ro_text" : "4 Players",
@@ -1637,6 +1870,7 @@
 	"ro_mod" : 8,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 509003,
 	"ro_type" : 3,
 	"ro_text" : "6 Players",
@@ -1644,6 +1878,7 @@
 	"ro_mod" : 8,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 510001,
 	"ro_type" : 3,
 	"ro_text" : "1 Players",
@@ -1651,6 +1886,7 @@
 	"ro_mod" : 15,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 511001,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1658,6 +1894,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 511002,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1665,6 +1902,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 511003,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1672,6 +1910,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 511004,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1679,6 +1918,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 511005,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1686,6 +1926,7 @@
 	"ro_mod" : 16,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 512001,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1693,6 +1934,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 512002,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1700,6 +1942,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 512003,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1707,6 +1950,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 512004,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1714,6 +1958,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 512005,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1721,6 +1966,7 @@
 	"ro_mod" : 17,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 513001,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1728,6 +1974,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 513002,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1735,6 +1982,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 513003,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1742,6 +1990,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 513004,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1749,6 +1998,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 513005,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1756,6 +2006,7 @@
 	"ro_mod" : 18,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 514001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1763,6 +2014,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1770,6 +2022,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1777,6 +2030,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1784,6 +2038,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1791,6 +2046,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1798,6 +2054,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1805,6 +2062,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 514008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1812,6 +2070,7 @@
 	"ro_mod" : 9,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1819,6 +2078,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1826,6 +2086,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1833,6 +2094,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1840,6 +2102,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1847,6 +2110,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1854,6 +2118,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1861,6 +2126,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 515008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1868,6 +2134,7 @@
 	"ro_mod" : 10,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 516001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1875,6 +2142,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1882,6 +2150,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1889,6 +2158,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1896,6 +2166,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1903,6 +2174,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1910,6 +2182,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1917,6 +2190,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 516008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1924,6 +2198,7 @@
 	"ro_mod" : 19,
 	"ro_combattype" : 1
 },
+{
 	"ro_id" : 517001,
 	"ro_type" : 3,
 	"ro_text" : "4 Players",
@@ -1931,6 +2206,7 @@
 	"ro_mod" : 13,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -1938,6 +2214,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -1945,6 +2222,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -1952,6 +2230,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -1959,6 +2238,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -1966,6 +2246,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -1973,6 +2254,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -1980,6 +2262,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -1987,6 +2270,7 @@
 	"ro_mod" : 11,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518009,
 	"ro_type" : 3,
 	"ro_text" : "1 Players",
@@ -1994,6 +2278,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518010,
 	"ro_type" : 3,
 	"ro_text" : "2 Players",
@@ -2001,6 +2286,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518011,
 	"ro_type" : 3,
 	"ro_text" : "4 Players",
@@ -2008,6 +2294,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518012,
 	"ro_type" : 3,
 	"ro_text" : "6 Players",
@@ -2015,6 +2302,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518013,
 	"ro_type" : 3,
 	"ro_text" : "8 Players",
@@ -2022,6 +2310,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518014,
 	"ro_type" : 3,
 	"ro_text" : "10 Players",
@@ -2029,6 +2318,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518015,
 	"ro_type" : 3,
 	"ro_text" : "12 Players",
@@ -2036,6 +2326,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518016,
 	"ro_type" : 3,
 	"ro_text" : "14 Players",
@@ -2043,6 +2334,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 518017,
 	"ro_type" : 3,
 	"ro_text" : "16 Players",
@@ -2050,6 +2342,7 @@
 	"ro_mod" : 12,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519001,
 	"ro_type" : 3,
 	"ro_text" : "1 vs 1",
@@ -2057,6 +2350,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519002,
 	"ro_type" : 3,
 	"ro_text" : "2 vs 2",
@@ -2064,6 +2358,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519003,
 	"ro_type" : 3,
 	"ro_text" : "3 vs 3",
@@ -2071,6 +2366,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519004,
 	"ro_type" : 3,
 	"ro_text" : "4 vs 4",
@@ -2078,6 +2374,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519005,
 	"ro_type" : 3,
 	"ro_text" : "5 vs 5",
@@ -2085,6 +2382,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519006,
 	"ro_type" : 3,
 	"ro_text" : "6 vs 6",
@@ -2092,6 +2390,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519007,
 	"ro_type" : 3,
 	"ro_text" : "7 vs 7",
@@ -2099,6 +2398,7 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{
 	"ro_id" : 519008,
 	"ro_type" : 3,
 	"ro_text" : "8 vs 8",
@@ -2106,3 +2406,4 @@
 	"ro_mod" : 14,
 	"ro_combattype" : 0
 },
+{

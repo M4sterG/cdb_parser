@@ -14,6 +14,7 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{
 	"si_id" : 2,
 	"si_level" : 2,
 	"si_time_max" : 0,
@@ -29,6 +30,7 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{
 	"si_id" : 3,
 	"si_level" : 3,
 	"si_time_max" : 0,
@@ -44,6 +46,7 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{
 	"si_id" : 4,
 	"si_level" : 4,
 	"si_time_max" : 0,
@@ -59,6 +62,7 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{
 	"si_id" : 5,
 	"si_level" : 5,
 	"si_time_max" : 0,
@@ -74,6 +78,7 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{
 	"si_id" : 6,
 	"si_level" : 6,
 	"si_time_max" : 0,
@@ -89,3 +94,4 @@
 	"si_reward_exp" : 0,
 	"si_reward_point" : 0
 },
+{

@@ -32,6 +32,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 1,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -65,6 +66,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 2,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -98,6 +100,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 3,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -131,6 +134,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 4,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -164,6 +168,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 5,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -197,6 +202,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 6,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -230,6 +236,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 7,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -263,6 +270,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 8,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -296,6 +304,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 9,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -329,6 +338,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 10,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -362,6 +372,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 11,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -395,6 +406,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 12,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -428,6 +440,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 13,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -461,6 +474,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 14,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -494,6 +508,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 15,
 	"ri_exp_base" : 0,
 	"ri_exp_max" : 0,
@@ -527,6 +542,7 @@
 	"ri_clan_base_exp" : 0,
 	"ri_clan_bonus_exp" : 0
 },
+{
 	"ri_mod" : 16,
 	"ri_exp_base" : 100,
 	"ri_exp_max" : 2250,
@@ -560,6 +576,7 @@
 	"ri_clan_base_exp" : 50,
 	"ri_clan_bonus_exp" : 40
 },
+{
 	"ri_mod" : 17,
 	"ri_exp_base" : 100,
 	"ri_exp_max" : 600,
@@ -593,6 +610,7 @@
 	"ri_clan_base_exp" : 50,
 	"ri_clan_bonus_exp" : 40
 },
+{
 	"ri_mod" : 18,
 	"ri_exp_base" : 100,
 	"ri_exp_max" : 2250,
@@ -626,6 +644,7 @@
 	"ri_clan_base_exp" : 50,
 	"ri_clan_bonus_exp" : 40
 },
+{
 	"ri_mod" : 19,
 	"ri_exp_base" : 100,
 	"ri_exp_max" : 2250,
@@ -659,3 +678,4 @@
 	"ri_clan_base_exp" : 50,
 	"ri_clan_bonus_exp" : 40
 },
+{

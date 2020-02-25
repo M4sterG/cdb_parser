@@ -9,6 +9,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 2,
 	"cs_set_array" : 2,
 	"cs_set_name" : "Tier I Melee",
@@ -19,6 +20,7 @@
 	"cs_info_x" : 616,
 	"cs_info_y" : 152
 },
+{
 	"cs_set_index" : 3,
 	"cs_set_array" : 3,
 	"cs_set_name" : "Tier I Rifle",
@@ -29,6 +31,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 4,
 	"cs_set_array" : 4,
 	"cs_set_name" : "Tier I Shotgun",
@@ -39,6 +42,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 5,
 	"cs_set_array" : 5,
 	"cs_set_name" : "Tier I Sniper Rifle",
@@ -49,6 +53,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 6,
 	"cs_set_array" : 6,
 	"cs_set_name" : "Tier I Gatling Gun",
@@ -59,6 +64,7 @@
 	"cs_info_x" : 616,
 	"cs_info_y" : 152
 },
+{
 	"cs_set_index" : 7,
 	"cs_set_array" : 7,
 	"cs_set_name" : "Tier I Bazooka",
@@ -69,6 +75,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 8,
 	"cs_set_array" : 8,
 	"cs_set_name" : "Tier I Grenade Launcher",
@@ -79,6 +86,7 @@
 	"cs_info_x" : 176,
 	"cs_info_y" : 166
 },
+{
 	"cs_set_index" : 9,
 	"cs_set_array" : 9,
 	"cs_set_name" : "Tier II Battle",
@@ -89,6 +97,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 10,
 	"cs_set_array" : 10,
 	"cs_set_name" : "Tier II Melee",
@@ -99,6 +108,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 11,
 	"cs_set_array" : 11,
 	"cs_set_name" : "Tier II Rifle",
@@ -109,6 +119,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 12,
 	"cs_set_array" : 12,
 	"cs_set_name" : "Tier II Shotgun",
@@ -119,6 +130,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 13,
 	"cs_set_array" : 13,
 	"cs_set_name" : "Tier II Sniper Rifle",
@@ -129,6 +141,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 14,
 	"cs_set_array" : 14,
 	"cs_set_name" : "Tier II Gatling Gun",
@@ -139,6 +152,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 15,
 	"cs_set_array" : 15,
 	"cs_set_name" : "Tier II Bazooka",
@@ -149,6 +163,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 16,
 	"cs_set_array" : 16,
 	"cs_set_name" : "Tier II Grenade Launcher",
@@ -159,6 +174,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 17,
 	"cs_set_array" : 17,
 	"cs_set_name" : "Community",
@@ -169,6 +185,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 18,
 	"cs_set_array" : 18,
 	"cs_set_name" : "Team Death Match",
@@ -179,6 +196,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 19,
 	"cs_set_array" : 19,
 	"cs_set_name" : "Item Match",
@@ -189,6 +207,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 20,
 	"cs_set_array" : 20,
 	"cs_set_name" : "Super Item Match",
@@ -199,6 +218,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 21,
 	"cs_set_array" : 21,
 	"cs_set_name" : "Capture the Battery",
@@ -209,6 +229,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 22,
 	"cs_set_array" : 22,
 	"cs_set_name" : "Elimination",
@@ -219,6 +240,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 23,
 	"cs_set_array" : 23,
 	"cs_set_name" : "Close Combat",
@@ -229,6 +251,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 24,
 	"cs_set_array" : 24,
 	"cs_set_name" : "Zombie Battle",
@@ -239,6 +262,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 25,
 	"cs_set_array" : 25,
 	"cs_set_name" : "Clan",
@@ -249,6 +273,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 26,
 	"cs_set_array" : 26,
 	"cs_set_name" : "Capsule Draw",
@@ -259,6 +284,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 27,
 	"cs_set_array" : 27,
 	"cs_set_name" : "Naomi",
@@ -269,6 +295,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 28,
 	"cs_set_array" : 28,
 	"cs_set_name" : "Knox",
@@ -279,6 +306,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 29,
 	"cs_set_array" : 29,
 	"cs_set_name" : "Pandora",
@@ -289,6 +317,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 30,
 	"cs_set_array" : 30,
 	"cs_set_name" : "C.H.I.P",
@@ -299,6 +328,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 31,
 	"cs_set_array" : 31,
 	"cs_set_name" : "Regular",
@@ -309,6 +339,7 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{
 	"cs_set_index" : 32,
 	"cs_set_array" : 32,
 	"cs_set_name" : "Event",
@@ -319,3 +350,4 @@
 	"cs_info_x" : 102,
 	"cs_info_y" : 298
 },
+{

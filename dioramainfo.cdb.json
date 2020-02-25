@@ -28,6 +28,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5100400,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -57,6 +58,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100410,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -86,6 +88,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100420,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -115,6 +118,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100430,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -144,6 +148,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100440,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -173,6 +178,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100450,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -202,6 +208,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100500,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -231,6 +238,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100510,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -260,6 +268,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100520,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -289,6 +298,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100530,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -318,6 +328,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100540,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -347,6 +358,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100550,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -376,6 +388,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100600,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -405,6 +418,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100610,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -434,6 +448,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100620,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -463,6 +478,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100630,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -492,6 +508,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100640,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -521,6 +538,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100650,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 1,
@@ -550,6 +568,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100700,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -579,6 +598,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100710,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -608,6 +628,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100720,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -637,6 +658,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100730,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -666,6 +688,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100740,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -695,6 +718,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5100750,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -724,6 +748,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101000,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -753,6 +778,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101010,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -782,6 +808,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101020,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -811,6 +838,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101030,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -840,6 +868,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101040,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -869,6 +898,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101050,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -898,6 +928,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101100,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -927,6 +958,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101110,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -956,6 +988,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101120,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -985,6 +1018,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101130,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -1014,6 +1048,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101140,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -1043,6 +1078,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5101150,
 	"di_class_a_ani" : 16,
 	"di_class_a_weapon" : 8,
@@ -1072,6 +1108,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5190000,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 1,
@@ -1101,6 +1138,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 3333
 },
+{
 	"di_id" : 5190001,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 0,
@@ -1130,6 +1168,7 @@
 	"di_class_i_weapon" : 0,
 	"di_class_i_time" : 15000
 },
+{
 	"di_id" : 5190002,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 1,
@@ -1159,6 +1198,7 @@
 	"di_class_i_weapon" : 1,
 	"di_class_i_time" : 3333
 },
+{
 	"di_id" : 5190003,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 2,
@@ -1188,6 +1228,7 @@
 	"di_class_i_weapon" : 2,
 	"di_class_i_time" : 10333
 },
+{
 	"di_id" : 5190004,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 3,
@@ -1217,6 +1258,7 @@
 	"di_class_i_weapon" : 3,
 	"di_class_i_time" : 5667
 },
+{
 	"di_id" : 5190005,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 4,
@@ -1246,6 +1288,7 @@
 	"di_class_i_weapon" : 4,
 	"di_class_i_time" : 17333
 },
+{
 	"di_id" : 5190006,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 5,
@@ -1275,6 +1318,7 @@
 	"di_class_i_weapon" : 5,
 	"di_class_i_time" : 8000
 },
+{
 	"di_id" : 5190007,
 	"di_class_a_ani" : 15,
 	"di_class_a_weapon" : 6,
@@ -1304,6 +1348,7 @@
 	"di_class_i_weapon" : 6,
 	"di_class_i_time" : 12667
 },
+{
 	"di_id" : 5190008,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1333,6 +1378,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190009,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1362,6 +1408,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190010,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1391,6 +1438,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190011,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1420,6 +1468,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190012,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1449,6 +1498,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190013,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1478,6 +1528,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190014,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1507,6 +1558,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190015,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1536,6 +1588,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190016,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1565,6 +1618,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190017,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1594,6 +1648,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190018,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1623,6 +1678,7 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{
 	"di_id" : 5190019,
 	"di_class_a_ani" : 17,
 	"di_class_a_weapon" : 8,
@@ -1652,3 +1708,4 @@
 	"di_class_i_weapon" : 8,
 	"di_class_i_time" : 0
 },
+{

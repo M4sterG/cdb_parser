@@ -128,6 +128,7 @@
 	"ci_knockback_decrease_jump_i" : 220,
 	"ci_knockback_decrease_sit_i" : 90
 },
+{
 	"ci_id" : 1,
 	"ci_type" : 1,
 	"ci_name_a" : "?????? ??????_?????????",
@@ -257,3 +258,4 @@
 	"ci_knockback_decrease_jump_i" : 220,
 	"ci_knockback_decrease_sit_i" : 90
 },
+{

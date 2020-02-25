@@ -11,6 +11,7 @@
 	"gi_titleicon" : 0,
 	"gi_desc" : "LUCKY"
 },
+{
 	"gi_id" : 0,
 	"gi_name" : "Storm Street",
 	"gi_type" : 1,
@@ -23,6 +24,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 1,
 	"gi_name" : "Beam",
 	"gi_type" : 1,
@@ -35,6 +37,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 2,
 	"gi_name" : "Beam",
 	"gi_type" : 2,
@@ -47,6 +50,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 3,
 	"gi_name" : "Bomb",
 	"gi_type" : 1,
@@ -59,6 +63,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 4,
 	"gi_name" : "Bomb",
 	"gi_type" : 2,
@@ -71,6 +76,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 5,
 	"gi_name" : "Blast",
 	"gi_type" : 1,
@@ -83,6 +89,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 6,
 	"gi_name" : "Blast",
 	"gi_type" : 2,
@@ -95,6 +102,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 7,
 	"gi_name" : "Blitz",
 	"gi_type" : 1,
@@ -107,6 +115,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 8,
 	"gi_name" : "Blitz",
 	"gi_type" : 2,
@@ -119,6 +128,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 9,
 	"gi_name" : "Burst",
 	"gi_type" : 1,
@@ -131,6 +141,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 10,
 	"gi_name" : "Burst",
 	"gi_type" : 2,
@@ -143,6 +154,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 11,
 	"gi_name" : "Boom",
 	"gi_type" : 1,
@@ -155,6 +167,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 12,
 	"gi_name" : "Boom",
 	"gi_type" : 2,
@@ -167,6 +180,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 13,
 	"gi_name" : "Dinosaur Mascot",
 	"gi_type" : 1,
@@ -179,6 +193,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 14,
 	"gi_name" : "Dinosaur Mascot",
 	"gi_type" : 2,
@@ -191,6 +206,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 15,
 	"gi_name" : "Storm Street",
 	"gi_type" : 0,
@@ -203,6 +219,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 16,
 	"gi_name" : "Rook",
 	"gi_type" : 1,
@@ -215,6 +232,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 17,
 	"gi_name" : "Rook",
 	"gi_type" : 2,
@@ -227,6 +245,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 18,
 	"gi_name" : "Rook",
 	"gi_type" : 0,
@@ -239,6 +258,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 19,
 	"gi_name" : "MP5",
 	"gi_type" : 1,
@@ -251,6 +271,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 20,
 	"gi_name" : "MP5",
 	"gi_type" : 2,
@@ -263,6 +284,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 21,
 	"gi_name" : "MP5",
 	"gi_type" : 0,
@@ -275,6 +297,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 22,
 	"gi_name" : "Predator",
 	"gi_type" : 1,
@@ -287,6 +310,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 23,
 	"gi_name" : "Predator",
 	"gi_type" : 2,
@@ -299,6 +323,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 24,
 	"gi_name" : "Predator",
 	"gi_type" : 0,
@@ -311,6 +336,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 25,
 	"gi_name" : "Wrench",
 	"gi_type" : 1,
@@ -323,6 +349,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 26,
 	"gi_name" : "Wrench",
 	"gi_type" : 2,
@@ -335,6 +362,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 27,
 	"gi_name" : "Wrench",
 	"gi_type" : 0,
@@ -347,6 +375,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 28,
 	"gi_name" : "Katana",
 	"gi_type" : 1,
@@ -359,6 +388,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 29,
 	"gi_name" : "Katana",
 	"gi_type" : 2,
@@ -371,6 +401,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 30,
 	"gi_name" : "Katana",
 	"gi_type" : 0,
@@ -383,6 +414,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 31,
 	"gi_name" : "Speargun",
 	"gi_type" : 1,
@@ -395,6 +427,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 32,
 	"gi_name" : "Speargun",
 	"gi_type" : 2,
@@ -407,6 +440,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 33,
 	"gi_name" : "Speargun",
 	"gi_type" : 0,
@@ -419,6 +453,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 34,
 	"gi_name" : "Bulldozer",
 	"gi_type" : 1,
@@ -431,6 +466,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 35,
 	"gi_name" : "Bulldozer",
 	"gi_type" : 2,
@@ -443,6 +479,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 36,
 	"gi_name" : "Bulldozer",
 	"gi_type" : 0,
@@ -455,6 +492,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 37,
 	"gi_name" : "Prime",
 	"gi_type" : 1,
@@ -467,6 +505,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 38,
 	"gi_name" : "Prime",
 	"gi_type" : 2,
@@ -479,6 +518,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 39,
 	"gi_name" : "Prime",
 	"gi_type" : 0,
@@ -491,6 +531,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 40,
 	"gi_name" : "Hunter",
 	"gi_type" : 1,
@@ -503,6 +544,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 41,
 	"gi_name" : "Hunter",
 	"gi_type" : 2,
@@ -515,6 +557,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 42,
 	"gi_name" : "Hunter",
 	"gi_type" : 0,
@@ -527,6 +570,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 43,
 	"gi_name" : "Brilliant",
 	"gi_type" : 1,
@@ -539,6 +583,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 44,
 	"gi_name" : "Brilliant",
 	"gi_type" : 2,
@@ -551,6 +596,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 45,
 	"gi_name" : "Brilliant",
 	"gi_type" : 0,
@@ -563,6 +609,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 46,
 	"gi_name" : "Sharknife",
 	"gi_type" : 1,
@@ -575,6 +622,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 47,
 	"gi_name" : "Sharknife",
 	"gi_type" : 0,
@@ -587,6 +635,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 48,
 	"gi_name" : "Orcasword",
 	"gi_type" : 1,
@@ -599,6 +648,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 49,
 	"gi_name" : "Orcasword",
 	"gi_type" : 0,
@@ -611,6 +661,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 50,
 	"gi_name" : "Hammer",
 	"gi_type" : 1,
@@ -623,6 +674,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 51,
 	"gi_name" : "Hammer",
 	"gi_type" : 2,
@@ -635,6 +687,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 52,
 	"gi_name" : "Hammer",
 	"gi_type" : 0,
@@ -647,6 +700,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 53,
 	"gi_name" : "Nacho",
 	"gi_type" : 1,
@@ -659,6 +713,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 54,
 	"gi_name" : "Nacho",
 	"gi_type" : 2,
@@ -671,6 +726,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 55,
 	"gi_name" : "Nacho",
 	"gi_type" : 0,
@@ -683,6 +739,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 56,
 	"gi_name" : "Dazzler",
 	"gi_type" : 1,
@@ -695,6 +752,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 57,
 	"gi_name" : "Dazzler",
 	"gi_type" : 2,
@@ -707,6 +765,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 58,
 	"gi_name" : "Dazzler",
 	"gi_type" : 0,
@@ -719,6 +778,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 59,
 	"gi_name" : "AWM",
 	"gi_type" : 1,
@@ -731,6 +791,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 60,
 	"gi_name" : "AWM",
 	"gi_type" : 2,
@@ -743,6 +804,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 61,
 	"gi_name" : "AWM",
 	"gi_type" : 0,
@@ -755,6 +817,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 62,
 	"gi_name" : "Corylus",
 	"gi_type" : 1,
@@ -767,6 +830,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 63,
 	"gi_name" : "Corylus",
 	"gi_type" : 2,
@@ -779,6 +843,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 64,
 	"gi_name" : "Corylus",
 	"gi_type" : 0,
@@ -791,6 +856,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 65,
 	"gi_name" : "Silver Edge",
 	"gi_type" : 1,
@@ -803,6 +869,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 66,
 	"gi_name" : "Silver Edge",
 	"gi_type" : 2,
@@ -815,6 +882,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 67,
 	"gi_name" : "Silver Edge",
 	"gi_type" : 0,
@@ -827,6 +895,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 68,
 	"gi_name" : "Q-Taro",
 	"gi_type" : 1,
@@ -839,6 +908,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 69,
 	"gi_name" : "Chocolate Heart",
 	"gi_type" : 1,
@@ -851,6 +921,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 70,
 	"gi_name" : "Chocolate Heart",
 	"gi_type" : 2,
@@ -863,6 +934,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 71,
 	"gi_name" : "Chocolate Heart",
 	"gi_type" : 0,
@@ -875,6 +947,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 72,
 	"gi_name" : "LoveGun",
 	"gi_type" : 1,
@@ -887,6 +960,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 73,
 	"gi_name" : "LoveGun",
 	"gi_type" : 2,
@@ -899,6 +973,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 74,
 	"gi_name" : "LoveGun",
 	"gi_type" : 0,
@@ -911,6 +986,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 75,
 	"gi_name" : "Ladylike",
 	"gi_type" : 1,
@@ -923,6 +999,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 76,
 	"gi_name" : "Ladylike",
 	"gi_type" : 2,
@@ -935,6 +1012,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 77,
 	"gi_name" : "Ladylike",
 	"gi_type" : 0,
@@ -947,6 +1025,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 78,
 	"gi_name" : "Lovely",
 	"gi_type" : 1,
@@ -959,6 +1038,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 79,
 	"gi_name" : "Dark Chocolate",
 	"gi_type" : 1,
@@ -971,6 +1051,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 80,
 	"gi_name" : "Dark Chocolate",
 	"gi_type" : 2,
@@ -983,6 +1064,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 81,
 	"gi_name" : "Dark Chocolate",
 	"gi_type" : 0,
@@ -995,6 +1077,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 82,
 	"gi_name" : "White Chocolate",
 	"gi_type" : 1,
@@ -1007,6 +1090,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 83,
 	"gi_name" : "Tartan",
 	"gi_type" : 1,
@@ -1019,6 +1103,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 84,
 	"gi_name" : "Tartan",
 	"gi_type" : 2,
@@ -1031,6 +1116,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 85,
 	"gi_name" : "Tartan",
 	"gi_type" : 0,
@@ -1043,6 +1129,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 86,
 	"gi_name" : "Highland",
 	"gi_type" : 1,
@@ -1055,6 +1142,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 87,
 	"gi_name" : "Clover",
 	"gi_type" : 1,
@@ -1067,6 +1155,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 88,
 	"gi_name" : "Clover",
 	"gi_type" : 2,
@@ -1079,6 +1168,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 89,
 	"gi_name" : "Clover",
 	"gi_type" : 0,
@@ -1091,6 +1181,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 90,
 	"gi_name" : "Gold Knight",
 	"gi_type" : 1,
@@ -1103,6 +1194,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 91,
 	"gi_name" : "Gold Knight",
 	"gi_type" : 2,
@@ -1115,6 +1207,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 92,
 	"gi_name" : "Gold Knight",
 	"gi_type" : 0,
@@ -1127,6 +1220,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 93,
 	"gi_name" : "Silver Knight",
 	"gi_type" : 1,
@@ -1139,6 +1233,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 94,
 	"gi_name" : "Royal Princess",
 	"gi_type" : 1,
@@ -1151,6 +1246,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 95,
 	"gi_name" : "Anesidora",
 	"gi_type" : 1,
@@ -1163,6 +1259,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 96,
 	"gi_name" : "Anesidora",
 	"gi_type" : 2,
@@ -1175,6 +1272,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 97,
 	"gi_name" : "Anesidora",
 	"gi_type" : 0,
@@ -1187,6 +1285,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 98,
 	"gi_name" : "Scarlet",
 	"gi_type" : 1,
@@ -1199,6 +1298,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 99,
 	"gi_name" : "Chief Orc",
 	"gi_type" : 1,
@@ -1211,6 +1311,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 100,
 	"gi_name" : "Chief Orc",
 	"gi_type" : 2,
@@ -1223,6 +1324,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 101,
 	"gi_name" : "Chief Orc",
 	"gi_type" : 0,
@@ -1235,6 +1337,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 102,
 	"gi_name" : "Mad Orc",
 	"gi_type" : 1,
@@ -1247,6 +1350,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 103,
 	"gi_name" : "Orichalcum",
 	"gi_type" : 1,
@@ -1259,6 +1363,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 104,
 	"gi_name" : "Orichalcum",
 	"gi_type" : 2,
@@ -1271,6 +1376,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 105,
 	"gi_name" : "Orichalcum",
 	"gi_type" : 0,
@@ -1283,6 +1389,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 106,
 	"gi_name" : "Mithril",
 	"gi_type" : 1,
@@ -1295,6 +1402,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 107,
 	"gi_name" : "Chrysus",
 	"gi_type" : 1,
@@ -1307,6 +1415,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 108,
 	"gi_name" : "Chrysus",
 	"gi_type" : 2,
@@ -1319,6 +1428,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 109,
 	"gi_name" : "Chrysus",
 	"gi_type" : 0,
@@ -1331,6 +1441,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 110,
 	"gi_name" : "AutoBow",
 	"gi_type" : 1,
@@ -1343,6 +1454,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 111,
 	"gi_name" : "AutoBow",
 	"gi_type" : 2,
@@ -1355,6 +1467,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 112,
 	"gi_name" : "AutoBow",
 	"gi_type" : 0,
@@ -1367,6 +1480,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 113,
 	"gi_name" : "Fargo",
 	"gi_type" : 1,
@@ -1379,6 +1493,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 114,
 	"gi_name" : "Fargo",
 	"gi_type" : 2,
@@ -1391,6 +1506,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 115,
 	"gi_name" : "Fargo",
 	"gi_type" : 0,
@@ -1403,6 +1519,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 116,
 	"gi_name" : "Gold D. Greed",
 	"gi_type" : 1,
@@ -1415,6 +1532,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 117,
 	"gi_name" : "Gold D. Greed",
 	"gi_type" : 2,
@@ -1427,6 +1545,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 118,
 	"gi_name" : "Gold D. Greed",
 	"gi_type" : 0,
@@ -1439,6 +1558,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 119,
 	"gi_name" : "Leviathan",
 	"gi_type" : 1,
@@ -1451,6 +1571,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 120,
 	"gi_name" : "Leviathan",
 	"gi_type" : 2,
@@ -1463,6 +1584,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 121,
 	"gi_name" : "Leviathan",
 	"gi_type" : 0,
@@ -1475,6 +1597,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 122,
 	"gi_name" : "Duke",
 	"gi_type" : 1,
@@ -1487,6 +1610,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 123,
 	"gi_name" : "Duke",
 	"gi_type" : 2,
@@ -1499,6 +1623,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 124,
 	"gi_name" : "Duke",
 	"gi_type" : 0,
@@ -1511,6 +1636,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 125,
 	"gi_name" : "Slingshot",
 	"gi_type" : 1,
@@ -1523,6 +1649,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 126,
 	"gi_name" : "Slingshot",
 	"gi_type" : 2,
@@ -1535,6 +1662,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 127,
 	"gi_name" : "Slingshot",
 	"gi_type" : 0,
@@ -1547,6 +1675,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 128,
 	"gi_name" : "Dark Sorceress",
 	"gi_type" : 1,
@@ -1559,6 +1688,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 129,
 	"gi_name" : "Dark Sorceress",
 	"gi_type" : 2,
@@ -1571,6 +1701,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 130,
 	"gi_name" : "Dark Sorceress",
 	"gi_type" : 0,
@@ -1583,6 +1714,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 131,
 	"gi_name" : "Fire Sorceress",
 	"gi_type" : 1,
@@ -1595,6 +1727,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 132,
 	"gi_name" : "Colonel Crac",
 	"gi_type" : 1,
@@ -1607,6 +1740,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 133,
 	"gi_name" : "Colonel Crac",
 	"gi_type" : 0,
@@ -1619,6 +1753,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 134,
 	"gi_name" : "Scepter",
 	"gi_type" : 1,
@@ -1631,6 +1766,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 135,
 	"gi_name" : "Scepter",
 	"gi_type" : 2,
@@ -1643,6 +1779,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 136,
 	"gi_name" : "Scepter",
 	"gi_type" : 0,
@@ -1655,6 +1792,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 137,
 	"gi_name" : "Stale Shotgun",
 	"gi_type" : 1,
@@ -1667,6 +1805,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 138,
 	"gi_name" : "Stale Shotgun",
 	"gi_type" : 2,
@@ -1679,6 +1818,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 139,
 	"gi_name" : "Stale Shotgun",
 	"gi_type" : 0,
@@ -1691,6 +1831,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 140,
 	"gi_name" : "Stale Sniper",
 	"gi_type" : 1,
@@ -1703,6 +1844,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 141,
 	"gi_name" : "Stale Sniper",
 	"gi_type" : 2,
@@ -1715,6 +1857,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 142,
 	"gi_name" : "Stale Sniper",
 	"gi_type" : 0,
@@ -1727,6 +1870,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 143,
 	"gi_name" : "Gold Dragon",
 	"gi_type" : 1,
@@ -1739,6 +1883,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 144,
 	"gi_name" : "Gold Dragon",
 	"gi_type" : 2,
@@ -1751,6 +1896,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 145,
 	"gi_name" : "Gold Dragon",
 	"gi_type" : 0,
@@ -1763,6 +1909,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 146,
 	"gi_name" : "Ronin",
 	"gi_type" : 1,
@@ -1775,6 +1922,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 147,
 	"gi_name" : "Ronin",
 	"gi_type" : 2,
@@ -1787,6 +1935,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 148,
 	"gi_name" : "Ronin",
 	"gi_type" : 0,
@@ -1799,6 +1948,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 149,
 	"gi_name" : "Red Ronin",
 	"gi_type" : 1,
@@ -1811,6 +1961,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 150,
 	"gi_name" : "Dragon Knight",
 	"gi_type" : 1,
@@ -1823,6 +1974,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 151,
 	"gi_name" : "Dragon Knight",
 	"gi_type" : 2,
@@ -1835,6 +1987,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 152,
 	"gi_name" : "Dragon Knight",
 	"gi_type" : 0,
@@ -1847,6 +2000,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 153,
 	"gi_name" : "Dragon Hunter",
 	"gi_type" : 1,
@@ -1859,6 +2013,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 154,
 	"gi_name" : "Artifactual Sword",
 	"gi_type" : 1,
@@ -1871,6 +2026,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 155,
 	"gi_name" : "Artifactual Sword",
 	"gi_type" : 2,
@@ -1883,6 +2039,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 156,
 	"gi_name" : "Artifactual Sword",
 	"gi_type" : 0,
@@ -1895,6 +2052,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 157,
 	"gi_name" : "Plant Nymph",
 	"gi_type" : 1,
@@ -1907,6 +2065,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 158,
 	"gi_name" : "Plant Nymph",
 	"gi_type" : 2,
@@ -1919,6 +2078,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 159,
 	"gi_name" : "Plant Nymph",
 	"gi_type" : 0,
@@ -1931,6 +2091,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 160,
 	"gi_name" : "Water Nymph",
 	"gi_type" : 1,
@@ -1943,6 +2104,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 161,
 	"gi_name" : "Forest Dryad",
 	"gi_type" : 1,
@@ -1955,6 +2117,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 162,
 	"gi_name" : "Forest Dryad",
 	"gi_type" : 2,
@@ -1967,6 +2130,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 163,
 	"gi_name" : "Forest Dryad",
 	"gi_type" : 0,
@@ -1979,6 +2143,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 164,
 	"gi_name" : "Night Dryad",
 	"gi_type" : 1,
@@ -1991,6 +2156,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 165,
 	"gi_name" : "Leaf Blade",
 	"gi_type" : 1,
@@ -2003,6 +2169,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 166,
 	"gi_name" : "Leaf Blade",
 	"gi_type" : 2,
@@ -2015,6 +2182,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 167,
 	"gi_name" : "Leaf Blade",
 	"gi_type" : 0,
@@ -2027,6 +2195,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 168,
 	"gi_name" : "Fox Shotgun",
 	"gi_type" : 1,
@@ -2039,6 +2208,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 169,
 	"gi_name" : "Fox Shotgun",
 	"gi_type" : 2,
@@ -2051,6 +2221,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 170,
 	"gi_name" : "Fox Shotgun",
 	"gi_type" : 0,
@@ -2063,6 +2234,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 171,
 	"gi_name" : "DH-42",
 	"gi_type" : 1,
@@ -2075,6 +2247,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 172,
 	"gi_name" : "DH-42",
 	"gi_type" : 2,
@@ -2087,6 +2260,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 173,
 	"gi_name" : "DH-42",
 	"gi_type" : 0,
@@ -2099,6 +2273,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 174,
 	"gi_name" : "G22E",
 	"gi_type" : 1,
@@ -2111,6 +2286,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 175,
 	"gi_name" : "G22E",
 	"gi_type" : 2,
@@ -2123,6 +2299,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 176,
 	"gi_name" : "G22E",
 	"gi_type" : 0,
@@ -2135,6 +2312,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 177,
 	"gi_name" : "K13",
 	"gi_type" : 1,
@@ -2147,6 +2325,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 178,
 	"gi_name" : "K13",
 	"gi_type" : 2,
@@ -2159,6 +2338,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 179,
 	"gi_name" : "K13",
 	"gi_type" : 0,
@@ -2171,6 +2351,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 180,
 	"gi_name" : "M1710",
 	"gi_type" : 1,
@@ -2183,6 +2364,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 181,
 	"gi_name" : "M1710",
 	"gi_type" : 2,
@@ -2195,6 +2377,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 182,
 	"gi_name" : "M1710",
 	"gi_type" : 0,
@@ -2207,6 +2390,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 183,
 	"gi_name" : "RIO441",
 	"gi_type" : 1,
@@ -2219,6 +2403,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 184,
 	"gi_name" : "RIO441",
 	"gi_type" : 2,
@@ -2231,6 +2416,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 185,
 	"gi_name" : "RIO441",
 	"gi_type" : 0,
@@ -2243,6 +2429,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 186,
 	"gi_name" : "TK104",
 	"gi_type" : 1,
@@ -2255,6 +2442,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 187,
 	"gi_name" : "TK104",
 	"gi_type" : 2,
@@ -2267,6 +2455,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 188,
 	"gi_name" : "TK104",
 	"gi_type" : 0,
@@ -2279,6 +2468,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 189,
 	"gi_name" : "Bass",
 	"gi_type" : 1,
@@ -2291,6 +2481,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 190,
 	"gi_name" : "Bass",
 	"gi_type" : 2,
@@ -2303,6 +2494,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 191,
 	"gi_name" : "Bass",
 	"gi_type" : 0,
@@ -2315,6 +2507,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 192,
 	"gi_name" : "Soaker",
 	"gi_type" : 1,
@@ -2327,6 +2520,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 193,
 	"gi_name" : "Soaker",
 	"gi_type" : 2,
@@ -2339,6 +2533,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 194,
 	"gi_name" : "Soaker",
 	"gi_type" : 0,
@@ -2351,6 +2546,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 195,
 	"gi_name" : "Protector",
 	"gi_type" : 1,
@@ -2363,6 +2559,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 196,
 	"gi_name" : "Protector",
 	"gi_type" : 2,
@@ -2375,6 +2572,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 197,
 	"gi_name" : "Protector",
 	"gi_type" : 0,
@@ -2387,6 +2585,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 198,
 	"gi_name" : "Telescope",
 	"gi_type" : 1,
@@ -2399,6 +2598,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 199,
 	"gi_name" : "Telescope",
 	"gi_type" : 2,
@@ -2411,6 +2611,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 200,
 	"gi_name" : "Telescope",
 	"gi_type" : 0,
@@ -2423,6 +2624,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 201,
 	"gi_name" : "Barrel",
 	"gi_type" : 1,
@@ -2435,6 +2637,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 202,
 	"gi_name" : "Barrel",
 	"gi_type" : 2,
@@ -2447,6 +2650,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 203,
 	"gi_name" : "Barrel",
 	"gi_type" : 0,
@@ -2459,6 +2663,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 204,
 	"gi_name" : "Oriental Blaze",
 	"gi_type" : 1,
@@ -2471,6 +2676,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 205,
 	"gi_name" : "Oriental Blaze",
 	"gi_type" : 2,
@@ -2483,6 +2689,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 206,
 	"gi_name" : "Oriental Blaze",
 	"gi_type" : 0,
@@ -2495,6 +2702,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 207,
 	"gi_name" : "Painter",
 	"gi_type" : 1,
@@ -2507,6 +2715,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 208,
 	"gi_name" : "Painter",
 	"gi_type" : 2,
@@ -2519,6 +2728,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 209,
 	"gi_name" : "Painter",
 	"gi_type" : 0,
@@ -2531,6 +2741,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 210,
 	"gi_name" : "Diving",
 	"gi_type" : 1,
@@ -2543,6 +2754,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 211,
 	"gi_name" : "Diving",
 	"gi_type" : 2,
@@ -2555,6 +2767,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 212,
 	"gi_name" : "Diving",
 	"gi_type" : 0,
@@ -2567,6 +2780,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 213,
 	"gi_name" : "Scuba",
 	"gi_type" : 1,
@@ -2579,6 +2793,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 214,
 	"gi_name" : "Racy Chi-Pao",
 	"gi_type" : 1,
@@ -2591,6 +2806,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 215,
 	"gi_name" : "Racy Chi-Pao",
 	"gi_type" : 0,
@@ -2603,6 +2819,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 216,
 	"gi_name" : "Cool Guy",
 	"gi_type" : 1,
@@ -2615,6 +2832,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 217,
 	"gi_name" : "Cool Guy",
 	"gi_type" : 0,
@@ -2627,6 +2845,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 218,
 	"gi_name" : "Cool Girl",
 	"gi_type" : 1,
@@ -2639,6 +2858,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 219,
 	"gi_name" : "Cool Girl",
 	"gi_type" : 0,
@@ -2651,6 +2871,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 220,
 	"gi_name" : "Swashbuckler",
 	"gi_type" : 1,
@@ -2663,6 +2884,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 221,
 	"gi_name" : "Swashbuckler",
 	"gi_type" : 2,
@@ -2675,6 +2897,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 222,
 	"gi_name" : "Swashbuckler",
 	"gi_type" : 0,
@@ -2687,6 +2910,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 223,
 	"gi_name" : "Frontier",
 	"gi_type" : 1,
@@ -2699,6 +2923,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 224,
 	"gi_name" : "Frontier",
 	"gi_type" : 2,
@@ -2711,6 +2936,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 225,
 	"gi_name" : "Frontier",
 	"gi_type" : 0,
@@ -2723,6 +2949,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 226,
 	"gi_name" : "Occult Melee",
 	"gi_type" : 1,
@@ -2735,6 +2962,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 227,
 	"gi_name" : "Occult Melee",
 	"gi_type" : 2,
@@ -2747,6 +2975,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 228,
 	"gi_name" : "Occult Melee",
 	"gi_type" : 0,
@@ -2759,6 +2988,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 229,
 	"gi_name" : "Occult Rifle",
 	"gi_type" : 1,
@@ -2771,6 +3001,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 230,
 	"gi_name" : "Occult Rifle",
 	"gi_type" : 2,
@@ -2783,6 +3014,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 231,
 	"gi_name" : "Occult Rifle",
 	"gi_type" : 0,
@@ -2795,6 +3027,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 232,
 	"gi_name" : "Occult Shotgun",
 	"gi_type" : 1,
@@ -2807,6 +3040,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 233,
 	"gi_name" : "Occult Shotgun",
 	"gi_type" : 2,
@@ -2819,6 +3053,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 234,
 	"gi_name" : "Occult Shotgun",
 	"gi_type" : 0,
@@ -2831,6 +3066,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 235,
 	"gi_name" : "Occult Sniper",
 	"gi_type" : 1,
@@ -2843,6 +3079,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 236,
 	"gi_name" : "Occult Sniper",
 	"gi_type" : 2,
@@ -2855,6 +3092,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 237,
 	"gi_name" : "Occult Sniper",
 	"gi_type" : 0,
@@ -2867,6 +3105,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 238,
 	"gi_name" : "Occult Gatling",
 	"gi_type" : 1,
@@ -2879,6 +3118,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 239,
 	"gi_name" : "Occult Gatling",
 	"gi_type" : 2,
@@ -2891,6 +3131,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 240,
 	"gi_name" : "Occult Gatling",
 	"gi_type" : 0,
@@ -2903,6 +3144,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 241,
 	"gi_name" : "Occult Bazooka",
 	"gi_type" : 1,
@@ -2915,6 +3157,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 242,
 	"gi_name" : "Occult Bazooka",
 	"gi_type" : 2,
@@ -2927,6 +3170,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 243,
 	"gi_name" : "Occult Bazooka",
 	"gi_type" : 0,
@@ -2939,6 +3183,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 244,
 	"gi_name" : "Occult Grenade",
 	"gi_type" : 1,
@@ -2951,6 +3196,7 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 245,
 	"gi_name" : "Occult Grenade",
 	"gi_type" : 2,
@@ -2963,6 +3209,7 @@
 	"gi_titleicon" : 91000175,
 	"gi_desc" : ""
 },
+{
 	"gi_id" : 246,
 	"gi_name" : "Occult Grenade",
 	"gi_type" : 0,
@@ -2975,3 +3222,4 @@
 	"gi_titleicon" : 91000174,
 	"gi_desc" : ""
 },
+{

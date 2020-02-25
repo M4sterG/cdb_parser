@@ -22,6 +22,7 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{
 	"ac_slot_id" : 2,
 	"ac_gachapon_id" : 33,
 	"ac_webpage" : "",
@@ -45,6 +46,7 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{
 	"ac_slot_id" : 3,
 	"ac_gachapon_id" : 46,
 	"ac_webpage" : "",
@@ -68,6 +70,7 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{
 	"ac_slot_id" : 4,
 	"ac_gachapon_id" : 32,
 	"ac_webpage" : "",
@@ -91,6 +94,7 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{
 	"ac_slot_id" : 5,
 	"ac_gachapon_id" : 45,
 	"ac_webpage" : "",
@@ -114,6 +118,7 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{
 	"ac_slot_id" : 6,
 	"ac_gachapon_id" : 34,
 	"ac_webpage" : "",
@@ -137,3 +142,4 @@
 	"ac_grenade" : 0,
 	"ac_diorama" : 5000000
 },
+{

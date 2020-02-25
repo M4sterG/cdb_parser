@@ -11,6 +11,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 2,
 	"bi_map_id" : 6,
 	"bi_bomb_bpm" : 2,
@@ -23,6 +24,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 3,
 	"bi_map_id" : 7,
 	"bi_bomb_bpm" : 2,
@@ -35,6 +37,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 4,
 	"bi_map_id" : 8,
 	"bi_bomb_bpm" : 2,
@@ -47,6 +50,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 6,
 	"bi_map_id" : 10,
 	"bi_bomb_bpm" : 2,
@@ -59,6 +63,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 7,
 	"bi_map_id" : 11,
 	"bi_bomb_bpm" : 2,
@@ -71,6 +76,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 8,
 	"bi_map_id" : 14,
 	"bi_bomb_bpm" : 2,
@@ -83,6 +89,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 9,
 	"bi_map_id" : 15,
 	"bi_bomb_bpm" : 2,
@@ -95,6 +102,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 10,
 	"bi_map_id" : 23,
 	"bi_bomb_bpm" : 2,
@@ -107,6 +115,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 11,
 	"bi_map_id" : 27,
 	"bi_bomb_bpm" : 2,
@@ -119,6 +128,7 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{
 	"bi_id" : 12,
 	"bi_map_id" : 39,
 	"bi_bomb_bpm" : 2,
@@ -131,3 +141,4 @@
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
 },
+{

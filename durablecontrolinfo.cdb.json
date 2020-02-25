@@ -6,6 +6,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 1,
 	"dc_base_time" : 100,
 	"dc_base_value" : 6,
@@ -13,6 +14,7 @@
 	"dc_tick_value" : 1,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 2,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -20,6 +22,7 @@
 	"dc_tick_value" : 2,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 3,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -27,6 +30,7 @@
 	"dc_tick_value" : 2,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 4,
 	"dc_base_time" : 100,
 	"dc_base_value" : 8,
@@ -34,6 +38,7 @@
 	"dc_tick_value" : 1,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 5,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -41,6 +46,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 6,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -48,6 +54,7 @@
 	"dc_tick_value" : 2,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 7,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -55,6 +62,7 @@
 	"dc_tick_value" : 2,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 8,
 	"dc_base_time" : 100,
 	"dc_base_value" : 6,
@@ -62,6 +70,7 @@
 	"dc_tick_value" : 1,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 9,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -69,6 +78,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 10,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -76,6 +86,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 11,
 	"dc_base_time" : 100,
 	"dc_base_value" : 8,
@@ -83,6 +94,7 @@
 	"dc_tick_value" : 1,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 12,
 	"dc_base_time" : 0,
 	"dc_base_value" : 0,
@@ -90,6 +102,7 @@
 	"dc_tick_value" : 0,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 13,
 	"dc_base_time" : 0,
 	"dc_base_value" : 0,
@@ -97,6 +110,7 @@
 	"dc_tick_value" : 0,
 	"dc_playing_limited_time" : 30
 },
+{
 	"dc_mod" : 14,
 	"dc_base_time" : 0,
 	"dc_base_value" : 0,
@@ -104,6 +118,7 @@
 	"dc_tick_value" : 0,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 15,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -111,6 +126,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 30
 },
+{
 	"dc_mod" : 16,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -118,6 +134,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 17,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -125,6 +142,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 18,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -132,6 +150,7 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{
 	"dc_mod" : 19,
 	"dc_base_time" : 100,
 	"dc_base_value" : 10,
@@ -139,3 +158,4 @@
 	"dc_tick_value" : 3,
 	"dc_playing_limited_time" : 3000
 },
+{

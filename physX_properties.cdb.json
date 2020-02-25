@@ -6,6 +6,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 2,
 	"pi_name" : "Material_Concrete_Static_Friction",
 	"pi_value" : 1069547520,
@@ -13,6 +14,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 3,
 	"pi_name" : "Material_Concrete_Dynamic_Friction",
 	"pi_value" : 1069547520,
@@ -20,6 +22,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 4,
 	"pi_name" : "Material_Metal_Restitution",
 	"pi_value" : 0,
@@ -27,6 +30,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 5,
 	"pi_name" : "Material_Metal_Static_Friction",
 	"pi_value" : 1069547520,
@@ -34,6 +38,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 6,
 	"pi_name" : "Material_Metal_Dynamic_Friction",
 	"pi_value" : 1069547520,
@@ -41,6 +46,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 7,
 	"pi_name" : "Material_Wood_Restitution",
 	"pi_value" : 0,
@@ -48,6 +54,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 8,
 	"pi_name" : "Material_Wood_Static_Friction",
 	"pi_value" : 1069547520,
@@ -55,6 +62,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 9,
 	"pi_name" : "Material_Wood_Dynamic_Friction",
 	"pi_value" : 1069547520,
@@ -62,6 +70,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 10,
 	"pi_name" : "Material_Grenade_Restitution",
 	"pi_value" : 1056964608,
@@ -69,6 +78,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 11,
 	"pi_name" : "Material_Grenade_Static_Friction",
 	"pi_value" : 1061997773,
@@ -76,6 +86,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 12,
 	"pi_name" : "Material_Grenade_Dynamic_Friction",
 	"pi_value" : 1070386381,
@@ -83,6 +94,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 13,
 	"pi_name" : "Material_RocketPiece_Restitution",
 	"pi_value" : 1056964608,
@@ -90,6 +102,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 14,
 	"pi_name" : "Material_RocketPiece_Static_Friction",
 	"pi_value" : 1061997773,
@@ -97,6 +110,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 15,
 	"pi_name" : "Material_RocketPiece_Dynamic_Friction",
 	"pi_value" : 1070386381,
@@ -104,6 +118,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 16,
 	"pi_name" : "Material_DynamicParticle_Restitution",
 	"pi_value" : 0,
@@ -111,6 +126,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 17,
 	"pi_name" : "Material_DynamicParticle_Static_Friction",
 	"pi_value" : 1069547520,
@@ -118,6 +134,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 18,
 	"pi_name" : "Material_DynamicParticle_Dynamic_Friction",
 	"pi_value" : 1069547520,
@@ -125,6 +142,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 19,
 	"pi_name" : "Rocket_Piece_Bouding_Vertical_Velocity",
 	"pi_value" : 1153138688,
@@ -132,6 +150,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 20,
 	"pi_name" : "Rocket_Piece_Bouding_Horizontal_Velocity",
 	"pi_value" : 1142292480,
@@ -139,6 +158,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 21,
 	"pi_name" : "DropWeapon_Rifle_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -146,6 +166,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 22,
 	"pi_name" : "DropWeapon_Rifle_Front_Velocity",
 	"pi_value" : 0,
@@ -153,6 +174,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 23,
 	"pi_name" : "DropWeapon_Rifle_Right_Velocity",
 	"pi_value" : 0,
@@ -160,6 +182,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 24,
 	"pi_name" : "DropWeapon_Rifle_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -167,6 +190,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 25,
 	"pi_name" : "DropWeapon_Knife_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -174,6 +198,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 26,
 	"pi_name" : "DropWeapon_Knife_Front_Velocity",
 	"pi_value" : 0,
@@ -181,6 +206,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 27,
 	"pi_name" : "DropWeapon_Knife_Right_Velocity",
 	"pi_value" : 0,
@@ -188,6 +214,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 28,
 	"pi_name" : "DropWeapon_Knife_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -195,6 +222,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 29,
 	"pi_name" : "DropWeapon_Launcher_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -202,6 +230,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 30,
 	"pi_name" : "DropWeapon_Launcher_Front_Velocity",
 	"pi_value" : 0,
@@ -209,6 +238,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 31,
 	"pi_name" : "DropWeapon_Launcher_Right_Velocity",
 	"pi_value" : 0,
@@ -216,6 +246,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 32,
 	"pi_name" : "DropWeapon_Launcher_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -223,6 +254,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 33,
 	"pi_name" : "DropWeapon_Sniper_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -230,6 +262,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 34,
 	"pi_name" : "DropWeapon_Sniper_Front_Velocity",
 	"pi_value" : 0,
@@ -237,6 +270,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 35,
 	"pi_name" : "DropWeapon_Sniper_Right_Velocity",
 	"pi_value" : 0,
@@ -244,6 +278,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 36,
 	"pi_name" : "DropWeapon_Sniper_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -251,6 +286,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 37,
 	"pi_name" : "DropWeapon_Gatling_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -258,6 +294,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 38,
 	"pi_name" : "DropWeapon_Gatling_Front_Velocity",
 	"pi_value" : 0,
@@ -265,6 +302,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 39,
 	"pi_name" : "DropWeapon_Gatling_Right_Velocity",
 	"pi_value" : 1128792064,
@@ -272,6 +310,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 40,
 	"pi_name" : "DropWeapon_Gatling_Angular_Velocity",
 	"pi_value" : 1145569280,
@@ -279,6 +318,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 41,
 	"pi_name" : "DropWeapon_ShotGun_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -286,6 +326,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 42,
 	"pi_name" : "DropWeapon_ShotGun_Front_Velocity",
 	"pi_value" : 0,
@@ -293,6 +334,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 43,
 	"pi_name" : "DropWeapon_ShotGun_Right_Velocity",
 	"pi_value" : 0,
@@ -300,6 +342,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 44,
 	"pi_name" : "DropWeapon_ShotGun_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -307,6 +350,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 45,
 	"pi_name" : "DropWeapon_Grenade_Vertical_Velocity",
 	"pi_value" : 1145569280,
@@ -314,6 +358,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 46,
 	"pi_name" : "DropWeapon_Grenade_Front_Velocity",
 	"pi_value" : 0,
@@ -321,6 +366,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 47,
 	"pi_name" : "DropWeapon_Grenade_Right_Velocity",
 	"pi_value" : 0,
@@ -328,6 +374,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 48,
 	"pi_name" : "DropWeapon_Grenade_Angular_Velocity",
 	"pi_value" : 1128792064,
@@ -335,6 +382,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 49,
 	"pi_name" : "Character_Controller_Height",
 	"pi_value" : 1117782016,
@@ -342,6 +390,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 50,
 	"pi_name" : "Character_Controller_Radius",
 	"pi_value" : 1112014848,
@@ -349,6 +398,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 51,
 	"pi_name" : "Character_Controller_Crouch_Height",
 	"pi_value" : 1092616192,
@@ -356,6 +406,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 52,
 	"pi_name" : "Can_Collide_With_OtherCharacter",
 	"pi_value" : 1065353216,
@@ -363,6 +414,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 53,
 	"pi_name" : "Can_StandOn_OtehrCharactersHead",
 	"pi_value" : 1065353216,
@@ -370,6 +422,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 54,
 	"pi_name" : "SuperJump_Control_In_Air_Velocity",
 	"pi_value" : 1128792064,
@@ -377,6 +430,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 55,
 	"pi_name" : "Character_Freefall_Limit",
 	"pi_value" : 1120403456,
@@ -384,6 +438,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 56,
 	"pi_name" : "BloodParticle_Emit_Time",
 	"pi_value" : 1065353216,
@@ -391,6 +446,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 57,
 	"pi_name" : "BloodParticle_Emit_Term",
 	"pi_value" : 1028443341,
@@ -398,6 +454,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 58,
 	"pi_name" : "BloodDecal_SmallParts_Size",
 	"pi_value" : 1114636288,
@@ -405,6 +462,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 59,
 	"pi_name" : "BloodDecal_BigParts_Size",
 	"pi_value" : 1117782016,
@@ -412,6 +470,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 60,
 	"pi_name" : "ExplosionDecal_Size",
 	"pi_value" : 1137180672,
@@ -419,6 +478,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 61,
 	"pi_name" : "MuzzleLight_Front_Size",
 	"pi_value" : 1147207680,
@@ -426,6 +486,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 62,
 	"pi_name" : "MuzzleLight_Normal_Size",
 	"pi_value" : 1140457472,
@@ -433,6 +494,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 63,
 	"pi_name" : "MuzzlePoint_Light_Dimmer",
 	"pi_value" : 1065353216,
@@ -440,6 +502,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 64,
 	"pi_name" : "ExplosionDecal_Event_Size",
 	"pi_value" : 1128792064,
@@ -447,6 +510,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 65,
 	"pi_name" : "BloodDecal_SmallParts_Size_Zombie",
 	"pi_value" : 1120403456,
@@ -454,6 +518,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 66,
 	"pi_name" : "BloodDecal_BigParts_Size_Zombie",
 	"pi_value" : 1123024896,
@@ -461,6 +526,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 67,
 	"pi_name" : "RagDollGore",
 	"pi_value" : 0,
@@ -468,6 +534,7 @@
 	"pi_ragdoll_type" : 0,
 	"pi_notgore_ragdoll_type" : 0
 },
+{
 	"pi_id" : 68,
 	"pi_name" : "FallDeadGore",
 	"pi_value" : 0,
@@ -475,6 +542,7 @@
 	"pi_ragdoll_type" : 1,
 	"pi_notgore_ragdoll_type" : 4
 },
+{
 	"pi_id" : 69,
 	"pi_name" : "SuicideBombGore_Me",
 	"pi_value" : 0,
@@ -482,6 +550,7 @@
 	"pi_ragdoll_type" : 1,
 	"pi_notgore_ragdoll_type" : 4
 },
+{
 	"pi_id" : 70,
 	"pi_name" : "SuicideBombGore_Other",
 	"pi_value" : 0,
@@ -489,3 +558,4 @@
 	"pi_ragdoll_type" : 1,
 	"pi_notgore_ragdoll_type" : 4
 },
+{

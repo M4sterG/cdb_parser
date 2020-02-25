@@ -96,7 +96,7 @@ int main()
 					if(j != nofkeys - 1)
 						fprintf(out, "\t\"%s\" : %s,\n", keys[j], value);
 					else
-						fprintf(out, "\t\"%s\" : %s\n},\n", keys[j], value);
+						fprintf(out, "\t\"%s\" : %s\n},\n{\n", keys[j], value);
 				}
 				else if(entry_sizes[j] == 4)
 				{
@@ -106,7 +106,7 @@ int main()
 					if(j != nofkeys - 1)
 						fprintf(out, "\t\"%s\" : %s,\n", keys[j], value);
 					else
-						fprintf(out, "\t\"%s\" : %s\n},\n", keys[j], value);
+						fprintf(out, "\t\"%s\" : %s\n},\n{\n", keys[j], value);
 				}
 				else
 				{
@@ -116,7 +116,7 @@ int main()
 					if(j != nofkeys - 1)
 						fprintf(out, "\t\"%s\" : \"%s\",\n", keys[j], value);
 					else 
-						fprintf(out, "\t\"%s\" : \"%s\"\n},\n", keys[j], value);
+						fprintf(out, "\t\"%s\" : \"%s\"\n},\n{\n", keys[j], value);
 				}
 				offset += entry_sizes[j];
 				

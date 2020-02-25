@@ -7,6 +7,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 2,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -15,6 +16,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 3,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -23,6 +25,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 4,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -31,6 +34,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 5,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -39,6 +43,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 6,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -47,6 +52,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 7,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -55,6 +61,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 8,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -63,6 +70,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 9,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -71,6 +79,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 10,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -79,6 +88,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 11,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -87,6 +97,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 12,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -95,6 +106,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 13,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -103,6 +115,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 14,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -111,6 +124,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 15,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -119,6 +133,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 16,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -127,6 +142,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 17,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -135,6 +151,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 18,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -143,6 +160,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 19,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -151,6 +169,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 20,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -159,6 +178,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 21,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -167,6 +187,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 22,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -175,6 +196,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 23,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -183,6 +205,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 24,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -191,6 +214,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 25,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -199,6 +223,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 26,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -207,6 +232,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 27,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -215,6 +241,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 28,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -223,6 +250,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 29,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -231,6 +259,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 30,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -239,6 +268,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 31,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -247,6 +277,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 32,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -255,6 +286,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 33,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -263,6 +295,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 34,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -271,6 +304,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 35,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -279,6 +313,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 36,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -287,6 +322,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 37,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -295,6 +331,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 38,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -303,6 +340,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 39,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -311,6 +349,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 40,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -319,6 +358,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 41,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -327,6 +367,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 42,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -335,6 +376,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 43,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -343,6 +385,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 44,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -351,6 +394,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 45,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -359,6 +403,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 46,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -367,6 +412,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 47,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -375,6 +421,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 48,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -383,6 +430,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 49,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -391,6 +439,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 50,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -399,6 +448,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 51,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -407,6 +457,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 52,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -415,6 +466,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 53,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -423,6 +475,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 54,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -431,6 +484,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 55,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -439,6 +493,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 56,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -447,6 +502,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 57,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -455,6 +511,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 58,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -463,6 +520,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 59,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -471,6 +529,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 60,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -479,6 +538,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 61,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -487,6 +547,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 62,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -495,6 +556,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 63,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -503,6 +565,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 64,
 	"cmb_filename_ingame" : "icon_Clan_Back_Circle01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Circle01.png",
@@ -511,6 +574,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 65,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -519,6 +583,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 66,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -527,6 +592,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 67,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -535,6 +601,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 68,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -543,6 +610,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 69,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -551,6 +619,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 70,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -559,6 +628,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 71,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -567,6 +637,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 72,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -575,6 +646,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 73,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -583,6 +655,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 74,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -591,6 +664,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 75,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -599,6 +673,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 76,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -607,6 +682,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 77,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -615,6 +691,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 78,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -623,6 +700,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 79,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -631,6 +709,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 80,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -639,6 +718,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 81,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -647,6 +727,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 82,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -655,6 +736,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 83,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -663,6 +745,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 84,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -671,6 +754,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 85,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -679,6 +763,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 86,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -687,6 +772,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 87,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -695,6 +781,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 88,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -703,6 +790,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 89,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -711,6 +799,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 90,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -719,6 +808,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 91,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -727,6 +817,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 92,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -735,6 +826,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 93,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -743,6 +835,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 94,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -751,6 +844,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 95,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -759,6 +853,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 96,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -767,6 +862,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 97,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -775,6 +871,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 98,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -783,6 +880,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 99,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -791,6 +889,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 100,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -799,6 +898,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 101,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -807,6 +907,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 102,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -815,6 +916,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 103,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -823,6 +925,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 104,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -831,6 +934,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 105,
 	"cmb_filename_ingame" : "icon_Clan_Back_Deco01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Deco01.png",
@@ -839,6 +943,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 106,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -847,6 +952,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 107,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -855,6 +961,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 108,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -863,6 +970,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 109,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -871,6 +979,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 110,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -879,6 +988,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 111,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -887,6 +997,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 112,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -895,6 +1006,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 113,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -903,6 +1015,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 114,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -911,6 +1024,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 115,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -919,6 +1033,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 116,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -927,6 +1042,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 117,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -935,6 +1051,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 118,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -943,6 +1060,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 119,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -951,6 +1069,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 120,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -959,6 +1078,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 121,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -967,6 +1087,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 122,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -975,6 +1096,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 123,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -983,6 +1105,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 124,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -991,6 +1114,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 125,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -999,6 +1123,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 126,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1007,6 +1132,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 127,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1015,6 +1141,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 128,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1023,6 +1150,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 129,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1031,6 +1159,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 130,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1039,6 +1168,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 131,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1047,6 +1177,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 132,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1055,6 +1186,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 133,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1063,6 +1195,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 134,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1071,6 +1204,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 135,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1079,6 +1213,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 136,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1087,6 +1222,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 137,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1095,6 +1231,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 138,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1103,6 +1240,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 139,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1111,6 +1249,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 140,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1119,6 +1258,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 141,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1127,6 +1267,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 142,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1135,6 +1276,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 143,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1143,6 +1285,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 144,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1151,6 +1294,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 145,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1159,6 +1303,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 146,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1167,6 +1312,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 147,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1175,6 +1321,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 148,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1183,6 +1330,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 149,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1191,6 +1339,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 150,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1199,6 +1348,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 151,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1207,6 +1357,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 152,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1215,6 +1366,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 153,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1223,6 +1375,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 154,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1231,6 +1384,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 155,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1239,6 +1393,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 156,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1247,6 +1402,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 157,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1255,6 +1411,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 158,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1263,6 +1420,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 159,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1271,6 +1429,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 160,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1279,6 +1438,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 161,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1287,6 +1447,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 162,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1295,6 +1456,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 163,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1303,6 +1465,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 164,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1311,6 +1474,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 165,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1319,6 +1483,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 166,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1327,6 +1492,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 167,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1335,6 +1501,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 168,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1343,6 +1510,7 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{
 	"cmb_id" : 169,
 	"cmb_filename_ingame" : "icon_Clan_Back_Poly01.dds",
 	"cmb_filename_web" : "icon_Clan_Back_Poly01.png",
@@ -1351,3 +1519,4 @@
 	"cmb_height" : 64,
 	"cmb_filesize" : 512
 },
+{

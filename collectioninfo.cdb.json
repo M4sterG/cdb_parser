@@ -24,6 +24,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 2,
 	"ci_set_index" : 1,
 	"ci_name" : "We Are the Champions",
@@ -49,6 +50,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 3,
 	"ci_set_index" : 1,
 	"ci_name" : "Assassin",
@@ -74,6 +76,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 4,
 	"ci_set_index" : 1,
 	"ci_name" : "Super Jumper",
@@ -99,6 +102,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 5,
 	"ci_set_index" : 1,
 	"ci_name" : "Enamel Eater",
@@ -124,6 +128,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 6,
 	"ci_set_index" : 1,
 	"ci_name" : "Shield Mania",
@@ -149,6 +154,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 7,
 	"ci_set_index" : 1,
 	"ci_name" : "Double Kill Master",
@@ -174,6 +180,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 8,
 	"ci_set_index" : 1,
 	"ci_name" : "Multi Kill Master",
@@ -199,6 +206,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 9,
 	"ci_set_index" : 1,
 	"ci_name" : "Good Shot Master",
@@ -224,6 +232,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 10,
 	"ci_set_index" : 1,
 	"ci_name" : "Battlemaster",
@@ -249,6 +258,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 11,
 	"ci_set_index" : 2,
 	"ci_name" : "Melee Expertise",
@@ -274,6 +284,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 12,
 	"ci_set_index" : 2,
 	"ci_name" : "Swipe Attack",
@@ -299,6 +310,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 13,
 	"ci_set_index" : 2,
 	"ci_name" : "Swing Attack",
@@ -324,6 +336,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 14,
 	"ci_set_index" : 2,
 	"ci_name" : "Jump, jump, jump!",
@@ -349,6 +362,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 15,
 	"ci_set_index" : 2,
 	"ci_name" : "Swing for the Fences",
@@ -374,6 +388,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 16,
 	"ci_set_index" : 3,
 	"ci_name" : "Rifle Expertise",
@@ -399,6 +414,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 17,
 	"ci_set_index" : 3,
 	"ci_name" : "Accurate Shooter",
@@ -424,6 +440,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 18,
 	"ci_set_index" : 3,
 	"ci_name" : "Pinpoint Precision",
@@ -449,6 +466,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 19,
 	"ci_set_index" : 3,
 	"ci_name" : "Fly Like an Eagle",
@@ -474,6 +492,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 20,
 	"ci_set_index" : 3,
 	"ci_name" : "Driving Automatic",
@@ -499,6 +518,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 21,
 	"ci_set_index" : 4,
 	"ci_name" : "Shotgun Expertise",
@@ -524,6 +544,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 22,
 	"ci_set_index" : 4,
 	"ci_name" : "One Hit Wonder",
@@ -549,6 +570,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 23,
 	"ci_set_index" : 4,
 	"ci_name" : "Out of Range",
@@ -574,6 +596,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 24,
 	"ci_set_index" : 4,
 	"ci_name" : "Surprise!",
@@ -599,6 +622,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 25,
 	"ci_set_index" : 4,
 	"ci_name" : "Overpowered Shotguns",
@@ -624,6 +648,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 26,
 	"ci_set_index" : 5,
 	"ci_name" : "Sniper Expertise",
@@ -649,6 +674,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 27,
 	"ci_set_index" : 5,
 	"ci_name" : "Watch Your Head!",
@@ -674,6 +700,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 28,
 	"ci_set_index" : 5,
 	"ci_name" : "Jumpers Beware",
@@ -699,6 +726,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 29,
 	"ci_set_index" : 5,
 	"ci_name" : "Bullseye!",
@@ -724,6 +752,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 30,
 	"ci_set_index" : 5,
 	"ci_name" : "Not a Camper!",
@@ -749,6 +778,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 31,
 	"ci_set_index" : 6,
 	"ci_name" : "Gatling Expertise",
@@ -774,6 +804,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 32,
 	"ci_set_index" : 6,
 	"ci_name" : "Too Warm",
@@ -799,6 +830,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 33,
 	"ci_set_index" : 6,
 	"ci_name" : "Spinning the Barrels",
@@ -824,6 +856,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 34,
 	"ci_set_index" : 6,
 	"ci_name" : "Heavy Flight",
@@ -849,6 +882,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 35,
 	"ci_set_index" : 6,
 	"ci_name" : "MG Noob",
@@ -874,6 +908,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 36,
 	"ci_set_index" : 7,
 	"ci_name" : "Bazooka Expertise",
@@ -899,6 +934,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 37,
 	"ci_set_index" : 7,
 	"ci_name" : "Direct Shots? Lucky!",
@@ -924,6 +960,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 38,
 	"ci_set_index" : 7,
 	"ci_name" : "Rocket Jumper",
@@ -949,6 +986,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 39,
 	"ci_set_index" : 7,
 	"ci_name" : "Two Birds, One Stone",
@@ -974,6 +1012,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 40,
 	"ci_set_index" : 7,
 	"ci_name" : "Rocket Rain",
@@ -999,6 +1038,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 41,
 	"ci_set_index" : 8,
 	"ci_name" : "Grenade Expertise",
@@ -1024,6 +1064,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 42,
 	"ci_set_index" : 8,
 	"ci_name" : "Angled Accuracy",
@@ -1049,6 +1090,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 43,
 	"ci_set_index" : 8,
 	"ci_name" : "Flying Pills",
@@ -1074,6 +1116,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 44,
 	"ci_set_index" : 8,
 	"ci_name" : "Explosive Showing",
@@ -1099,6 +1142,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 45,
 	"ci_set_index" : 8,
 	"ci_name" : "Grenade Spammer",
@@ -1124,6 +1168,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 46,
 	"ci_set_index" : 9,
 	"ci_name" : "Help",
@@ -1149,6 +1194,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 47,
 	"ci_set_index" : 9,
 	"ci_name" : "Personal Info",
@@ -1174,6 +1220,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 48,
 	"ci_set_index" : 9,
 	"ci_name" : "Battle Info",
@@ -1199,6 +1246,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 49,
 	"ci_set_index" : 9,
 	"ci_name" : "Options",
@@ -1224,6 +1272,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 50,
 	"ci_set_index" : 9,
 	"ci_name" : "Enable Chat",
@@ -1249,6 +1298,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 51,
 	"ci_set_index" : 9,
 	"ci_name" : "Invasion",
@@ -1274,6 +1324,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 52,
 	"ci_set_index" : 9,
 	"ci_name" : "Other Player Info",
@@ -1299,6 +1350,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 53,
 	"ci_set_index" : 9,
 	"ci_name" : "Capsule Machine",
@@ -1324,6 +1376,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 54,
 	"ci_set_index" : 9,
 	"ci_name" : "Create Room",
@@ -1349,6 +1402,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 55,
 	"ci_set_index" : 9,
 	"ci_name" : "Room List",
@@ -1374,6 +1428,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 56,
 	"ci_set_index" : 9,
 	"ci_name" : "Create Party",
@@ -1399,6 +1454,7 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{
 	"ci_id" : 57,
 	"ci_set_index" : 9,
 	"ci_name" : "Add Friend",
@@ -1424,3 +1480,4 @@
 	"ci_hidden_valueB" : 0,
 	"ci_hidden_valueC" : 0
 },
+{

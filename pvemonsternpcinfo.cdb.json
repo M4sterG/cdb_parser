@@ -24,6 +24,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 2,
 	"mi_mon_id" : 4800001,
 	"mi_mon_type" : 2,
@@ -49,6 +50,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 3,
 	"mi_mon_id" : 4800002,
 	"mi_mon_type" : 3,
@@ -74,6 +76,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 4,
 	"mi_mon_id" : 4800003,
 	"mi_mon_type" : 4,
@@ -99,6 +102,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 5,
 	"mi_mon_id" : 4800004,
 	"mi_mon_type" : 0,
@@ -124,6 +128,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 6,
 	"mi_mon_id" : 4800005,
 	"mi_mon_type" : 0,
@@ -149,6 +154,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 7,
 	"mi_mon_id" : 4800006,
 	"mi_mon_type" : 7,
@@ -174,6 +180,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 8,
 	"mi_mon_id" : 4800007,
 	"mi_mon_type" : 8,
@@ -199,6 +206,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 9,
 	"mi_mon_id" : 4800008,
 	"mi_mon_type" : 9,
@@ -224,6 +232,7 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{
 	"mi_id" : 10,
 	"mi_mon_id" : 4800009,
 	"mi_mon_type" : 10,
@@ -249,3 +258,4 @@
 	"mi_mon_res_bullet" : 0,
 	"mi_mon_res_bomb" : 0
 },
+{

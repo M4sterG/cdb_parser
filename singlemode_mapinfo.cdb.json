@@ -6,6 +6,7 @@
 	"sm_mapid" : 43,
 	"sm_map_desc_UIMSG" : "UIMSG_SINGLEMODE_ADMISSION_TEXT_00"
 },
+{
 	"sm_id" : 1,
 	"sm_name" : "bot_factory",
 	"sm_enable" : true,
@@ -13,3 +14,4 @@
 	"sm_mapid" : 44,
 	"sm_map_desc_UIMSG" : "UIMSG_SINGLEMODE_ADMISSION_TEXT_01"
 },
+{

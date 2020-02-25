@@ -35,6 +35,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 1,
 	"zi_map_id" : 2,
 	"zi_item_id_1" : 4080000,
@@ -71,6 +72,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 2,
 	"zi_map_id" : 3,
 	"zi_item_id_1" : 4080000,
@@ -107,6 +109,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 3,
 	"zi_map_id" : 4,
 	"zi_item_id_1" : 4080000,
@@ -143,6 +146,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 4,
 	"zi_map_id" : 5,
 	"zi_item_id_1" : 4080000,
@@ -179,6 +183,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 5,
 	"zi_map_id" : 6,
 	"zi_item_id_1" : 4080000,
@@ -215,6 +220,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 6,
 	"zi_map_id" : 7,
 	"zi_item_id_1" : 4080000,
@@ -251,6 +257,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 7,
 	"zi_map_id" : 8,
 	"zi_item_id_1" : 4080000,
@@ -287,6 +294,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 8,
 	"zi_map_id" : 9,
 	"zi_item_id_1" : 4080000,
@@ -323,6 +331,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 9,
 	"zi_map_id" : 10,
 	"zi_item_id_1" : 4080000,
@@ -359,6 +368,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 10,
 	"zi_map_id" : 11,
 	"zi_item_id_1" : 4080000,
@@ -395,6 +405,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 11,
 	"zi_map_id" : 13,
 	"zi_item_id_1" : 4080000,
@@ -431,6 +442,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 12,
 	"zi_map_id" : 14,
 	"zi_item_id_1" : 4080000,
@@ -467,6 +479,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 13,
 	"zi_map_id" : 15,
 	"zi_item_id_1" : 4080000,
@@ -503,6 +516,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 14,
 	"zi_map_id" : 16,
 	"zi_item_id_1" : 4080000,
@@ -539,6 +553,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 15,
 	"zi_map_id" : 17,
 	"zi_item_id_1" : 4080000,
@@ -575,6 +590,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 16,
 	"zi_map_id" : 18,
 	"zi_item_id_1" : 4080000,
@@ -611,6 +627,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 17,
 	"zi_map_id" : 19,
 	"zi_item_id_1" : 4080000,
@@ -647,6 +664,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 18,
 	"zi_map_id" : 20,
 	"zi_item_id_1" : 4080000,
@@ -683,6 +701,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 19,
 	"zi_map_id" : 21,
 	"zi_item_id_1" : 4080000,
@@ -719,6 +738,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 20,
 	"zi_map_id" : 22,
 	"zi_item_id_1" : 4080000,
@@ -755,6 +775,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 21,
 	"zi_map_id" : 23,
 	"zi_item_id_1" : 4080000,
@@ -791,6 +812,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 22,
 	"zi_map_id" : 24,
 	"zi_item_id_1" : 4080000,
@@ -827,6 +849,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 23,
 	"zi_map_id" : 27,
 	"zi_item_id_1" : 4080000,
@@ -863,6 +886,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 24,
 	"zi_map_id" : 28,
 	"zi_item_id_1" : 4080000,
@@ -899,6 +923,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 25,
 	"zi_map_id" : 29,
 	"zi_item_id_1" : 4080000,
@@ -935,6 +960,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 26,
 	"zi_map_id" : 30,
 	"zi_item_id_1" : 4080000,
@@ -971,6 +997,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 27,
 	"zi_map_id" : 31,
 	"zi_item_id_1" : 4080000,
@@ -1007,6 +1034,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 28,
 	"zi_map_id" : 32,
 	"zi_item_id_1" : 4080000,
@@ -1043,6 +1071,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 29,
 	"zi_map_id" : 33,
 	"zi_item_id_1" : 4080000,
@@ -1079,6 +1108,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 30,
 	"zi_map_id" : 34,
 	"zi_item_id_1" : 4080000,
@@ -1115,6 +1145,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 31,
 	"zi_map_id" : 35,
 	"zi_item_id_1" : 4080000,
@@ -1151,6 +1182,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 32,
 	"zi_map_id" : 37,
 	"zi_item_id_1" : 4080000,
@@ -1187,6 +1219,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 33,
 	"zi_map_id" : 38,
 	"zi_item_id_1" : 4080000,
@@ -1223,6 +1256,7 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{
 	"zi_id" : 34,
 	"zi_map_id" : 39,
 	"zi_item_id_1" : 4080000,
@@ -1259,3 +1293,4 @@
 	"zi_target_count_16" : 2,
 	"zi_over_time" : 2000
 },
+{

@@ -19,6 +19,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 2,
 	"ai_name" : "Terra",
 	"ai_level" : 14,
@@ -39,6 +40,7 @@
 	"ai_acceB" : 2615300,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 3,
 	"ai_name" : "Aqua",
 	"ai_level" : 17,
@@ -59,6 +61,7 @@
 	"ai_acceB" : 2630900,
 	"ai_acceC" : 2531100
 },
+{
 	"ai_num" : 4,
 	"ai_name" : "Ignis",
 	"ai_level" : 5,
@@ -79,6 +82,7 @@
 	"ai_acceB" : 2640500,
 	"ai_acceC" : 2540600
 },
+{
 	"ai_num" : 5,
 	"ai_name" : "Aura",
 	"ai_level" : 11,
@@ -99,6 +103,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 6,
 	"ai_name" : "Sol",
 	"ai_level" : 50,
@@ -119,6 +124,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 7,
 	"ai_name" : "Nox",
 	"ai_level" : 30,
@@ -139,6 +145,7 @@
 	"ai_acceB" : 2615300,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 8,
 	"ai_name" : "Orbis",
 	"ai_level" : 33,
@@ -159,6 +166,7 @@
 	"ai_acceB" : 2630900,
 	"ai_acceC" : 2531100
 },
+{
 	"ai_num" : 9,
 	"ai_name" : "Vita",
 	"ai_level" : 2,
@@ -179,6 +187,7 @@
 	"ai_acceB" : 2640500,
 	"ai_acceC" : 2540600
 },
+{
 	"ai_num" : 10,
 	"ai_name" : "Mors",
 	"ai_level" : 1,
@@ -199,6 +208,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 11,
 	"ai_name" : "Natura",
 	"ai_level" : 99,
@@ -219,6 +229,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 2552700
 },
+{
 	"ai_num" : 12,
 	"ai_name" : "Vis",
 	"ai_level" : 40,
@@ -239,6 +250,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 2560900
 },
+{
 	"ai_num" : 13,
 	"ai_name" : "Gravitas",
 	"ai_level" : 33,
@@ -259,6 +271,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 2542150
 },
+{
 	"ai_num" : 14,
 	"ai_name" : "Magnes",
 	"ai_level" : 25,
@@ -279,6 +292,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 15,
 	"ai_name" : "Stella",
 	"ai_level" : 4,
@@ -299,6 +313,7 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 0
 },
+{
 	"ai_num" : 16,
 	"ai_name" : "Bellator",
 	"ai_level" : 47,
@@ -319,3 +334,4 @@
 	"ai_acceB" : 0,
 	"ai_acceC" : 2560900
 },
+{

@@ -19,6 +19,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Justice"
 },
+{
 	"fs_id" : 10020,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -39,6 +40,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Cross Country"
 },
+{
 	"fs_id" : 10030,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -59,6 +61,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Ski Touring"
 },
+{
 	"fs_id" : 10040,
 	"fs_name_option" : "",
 	"fs_hair" : 1170300,
@@ -79,6 +82,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Songkran (water festival)"
 },
+{
 	"fs_id" : 10050,
 	"fs_name_option" : "",
 	"fs_hair" : 1170400,
@@ -99,6 +103,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Songkran (water festival)"
 },
+{
 	"fs_id" : 10060,
 	"fs_name_option" : "Shotgun Firing Rate +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : 1170500,
@@ -119,6 +124,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Devilkin's Armor"
 },
+{
 	"fs_id" : 10100,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -139,6 +145,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Justice"
 },
+{
 	"fs_id" : 10110,
 	"fs_name_option" : "Sniper Damage +2%, Rifle Damage +2%, MP +10%",
 	"fs_hair" : 1162700,
@@ -159,6 +166,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Shadow Ninja"
 },
+{
 	"fs_id" : 10120,
 	"fs_name_option" : "Sniper Damage +2%, Rifle Damage +2%, MP +10%",
 	"fs_hair" : 1162800,
@@ -179,6 +187,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Shadow Ninja"
 },
+{
 	"fs_id" : 10130,
 	"fs_name_option" : "Sniper Reload Speed +10, Rifle Damage +3%, MP +12%",
 	"fs_hair" : 1172100,
@@ -199,6 +208,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Blue Santa"
 },
+{
 	"fs_id" : 10140,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -219,6 +229,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "????????? ????????? ?????? ??????3"
 },
+{
 	"fs_id" : 20010,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -239,6 +250,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Hope"
 },
+{
 	"fs_id" : 20030,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -259,6 +271,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Hope"
 },
+{
 	"fs_id" : 20040,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -279,6 +292,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "????????? ????????? ?????? ??????3"
 },
+{
 	"fs_id" : 30010,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -299,6 +313,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Fate"
 },
+{
 	"fs_id" : 30020,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -319,6 +334,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Short Track"
 },
+{
 	"fs_id" : 30030,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -339,6 +355,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Long Track"
 },
+{
 	"fs_id" : 30040,
 	"fs_name_option" : "Shotgun Firing Rate +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : 1139200,
@@ -359,6 +376,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Vicious Wings"
 },
+{
 	"fs_id" : 30050,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -379,6 +397,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Justice"
 },
+{
 	"fs_id" : 30060,
 	"fs_name_option" : "Sniper Damage +2%, Rifle Damage +2%, MP +10%",
 	"fs_hair" : 1134300,
@@ -399,6 +418,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Eclipses"
 },
+{
 	"fs_id" : 30070,
 	"fs_name_option" : "Sniper Damage +2%, Rifle Damage +2%, MP +10%",
 	"fs_hair" : 1134400,
@@ -419,6 +439,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Eclipses"
 },
+{
 	"fs_id" : 30080,
 	"fs_name_option" : "Sniper Reload Speed +10, Rifle Damage +3%, MP +12%",
 	"fs_hair" : 1139800,
@@ -439,6 +460,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Christmas Party"
 },
+{
 	"fs_id" : 30090,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -459,6 +481,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "???????????? ????????? ?????? ??????3"
 },
+{
 	"fs_id" : 40010,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -479,6 +502,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Faith"
 },
+{
 	"fs_id" : 40020,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -499,6 +523,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Slopestyle"
 },
+{
 	"fs_id" : 40030,
 	"fs_name_option" : "Explosion Armor +15.0%, MP +2%",
 	"fs_hair" : -1,
@@ -519,6 +544,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Half-Pipe"
 },
+{
 	"fs_id" : 40040,
 	"fs_name_option" : "Shotgun Firing Rate +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -539,6 +565,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Cromm-Cr"
 },
+{
 	"fs_id" : 40050,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -559,6 +586,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Faith"
 },
+{
 	"fs_id" : 40060,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -579,6 +607,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "?????? ????????? ?????? ??????3"
 },
+{
 	"fs_id" : 40070,
 	"fs_name_option" : "Shotgun Firing Rate +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -599,6 +628,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "?????? ?????? ????????? ?????? ??????2"
 },
+{
 	"fs_id" : 50010,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -619,6 +649,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Wisdom"
 },
+{
 	"fs_id" : 50050,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -639,6 +670,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Armor of Wisdom"
 },
+{
 	"fs_id" : 50060,
 	"fs_name_option" : "Sniper Reload Speed +10, Rifle Damage +3%, MP +12%",
 	"fs_hair" : 1124800,
@@ -659,6 +691,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Snowman"
 },
+{
 	"fs_id" : 50070,
 	"fs_name_option" : "Sniper Reload Speed +10, Launcher Projectile Speed +10, MP +10%",
 	"fs_hair" : -1,
@@ -679,6 +712,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "????????? ????????? ?????? ??????3"
 },
+{
 	"fs_id" : 60010,
 	"fs_name_option" : "Sniper Reload Speed +15, Launcher Projectile Speed +20",
 	"fs_hair" : -1,
@@ -699,6 +733,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Infernal Fleuton"
 },
+{
 	"fs_id" : 60020,
 	"fs_name_option" : "Sniper Reload Speed +15, Launcher Projectile Speed +20",
 	"fs_hair" : -1,
@@ -719,6 +754,7 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Raven"
 },
+{
 	"fs_id" : 70010,
 	"fs_name_option" : "Sniper Reload Speed +15, Launcher Projectile Speed +20",
 	"fs_hair" : 1180600,
@@ -739,3 +775,4 @@
 	"fs_effect_5" : 0,
 	"fs_desc" : "Malevolent"
 },
+{

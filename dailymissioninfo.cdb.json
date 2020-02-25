@@ -10,6 +10,7 @@
 	"di_desc_cond" : "Team Death Match Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10001,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -21,6 +22,7 @@
 	"di_desc_cond" : "Zombie Mode Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10002,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -32,6 +34,7 @@
 	"di_desc_cond" : "Elimination Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10003,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -43,6 +46,7 @@
 	"di_desc_cond" : "Capture The Battery Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10004,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -54,6 +58,7 @@
 	"di_desc_cond" : "Bomb Battle Challenge",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10005,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -65,6 +70,7 @@
 	"di_desc_cond" : "Scrimmage Challenge",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10006,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -76,6 +82,7 @@
 	"di_desc_cond" : "Arms Race Challenge",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10007,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -87,6 +94,7 @@
 	"di_desc_cond" : "Free For All Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10008,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -98,6 +106,7 @@
 	"di_desc_cond" : "Close Combat Challenge",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10009,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -109,6 +118,7 @@
 	"di_desc_cond" : "Item Match Challenge",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10010,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -120,6 +130,7 @@
 	"di_desc_cond" : "Radar Collector",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 10011,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -131,6 +142,7 @@
 	"di_desc_cond" : "Trust me, I'm a Sniper.",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10012,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -142,6 +154,7 @@
 	"di_desc_cond" : "I am the master of explosions.",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10013,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -153,6 +166,7 @@
 	"di_desc_cond" : "3 different weapons are more than enough.",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 10014,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -164,6 +178,7 @@
 	"di_desc_cond" : "TDM Melee Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10015,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -175,6 +190,7 @@
 	"di_desc_cond" : "TDM Rifle Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10016,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -186,6 +202,7 @@
 	"di_desc_cond" : "TDM Shotgun Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10017,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -197,6 +214,7 @@
 	"di_desc_cond" : "TDM Sniper Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10018,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -208,6 +226,7 @@
 	"di_desc_cond" : "TDM Gatling Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10019,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -219,6 +238,7 @@
 	"di_desc_cond" : "TDM Bazooka Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10020,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -230,6 +250,7 @@
 	"di_desc_cond" : "TDM Grenade Killer",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 10021,
 	"di_set_index" : 1,
 	"di_rank" : 0,
@@ -241,6 +262,7 @@
 	"di_desc_cond" : "Melee Addict",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 20000,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -252,6 +274,7 @@
 	"di_desc_cond" : "Melee Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20001,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -263,6 +286,7 @@
 	"di_desc_cond" : "Rifle Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20002,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -274,6 +298,7 @@
 	"di_desc_cond" : "Shotgun Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20003,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -285,6 +310,7 @@
 	"di_desc_cond" : "Sniper Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20004,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -296,6 +322,7 @@
 	"di_desc_cond" : "Bazooka Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20005,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -307,6 +334,7 @@
 	"di_desc_cond" : "Gatling Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20006,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -318,6 +346,7 @@
 	"di_desc_cond" : "Grenade Trainee",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20007,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -329,6 +358,7 @@
 	"di_desc_cond" : "Double Kill Streaker",
 	"di_desc_reward" : "200 POINT"
 },
+{
 	"di_id" : 20008,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -340,6 +370,7 @@
 	"di_desc_cond" : "Triple Kill Streaker",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 20009,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -351,6 +382,7 @@
 	"di_desc_cond" : "Excellent Kill Streaker",
 	"di_desc_reward" : "800 POINT"
 },
+{
 	"di_id" : 20010,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -362,6 +394,7 @@
 	"di_desc_cond" : "Battery Seizer",
 	"di_desc_reward" : "1200 POINT"
 },
+{
 	"di_id" : 20011,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -373,6 +406,7 @@
 	"di_desc_cond" : "Zombie Killer",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20012,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -384,6 +418,7 @@
 	"di_desc_cond" : "Bomb Crazy",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20013,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -395,6 +430,7 @@
 	"di_desc_cond" : "HP Recovery Master",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 20014,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -406,6 +442,7 @@
 	"di_desc_cond" : "Headshot Master",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20015,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -417,6 +454,7 @@
 	"di_desc_cond" : "Here comes Grandpa!",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20016,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -428,6 +466,7 @@
 	"di_desc_cond" : "Straight Shooter",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20017,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -439,6 +478,7 @@
 	"di_desc_cond" : "Shock Through the Heart",
 	"di_desc_reward" : "1000 POINT"
 },
+{
 	"di_id" : 20018,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -450,6 +490,7 @@
 	"di_desc_cond" : "Master of Disguise",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 20019,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -461,6 +502,7 @@
 	"di_desc_cond" : "Full Power to Shields",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20020,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -472,6 +514,7 @@
 	"di_desc_cond" : "Jumper Killer",
 	"di_desc_reward" : "1200 POINT"
 },
+{
 	"di_id" : 20021,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -483,6 +526,7 @@
 	"di_desc_cond" : "Jumper Assassin",
 	"di_desc_reward" : "1800 POINT"
 },
+{
 	"di_id" : 20022,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -494,6 +538,7 @@
 	"di_desc_cond" : "Top Gun",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20023,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -505,6 +550,7 @@
 	"di_desc_cond" : "Reload Addict",
 	"di_desc_reward" : "400 POINT"
 },
+{
 	"di_id" : 20024,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -516,6 +562,7 @@
 	"di_desc_cond" : "Sneak Attack",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 20025,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -527,6 +574,7 @@
 	"di_desc_cond" : "Excellent Sniper",
 	"di_desc_reward" : "800 POINT"
 },
+{
 	"di_id" : 20026,
 	"di_set_index" : 2,
 	"di_rank" : 0,
@@ -538,6 +586,7 @@
 	"di_desc_cond" : "Underdog",
 	"di_desc_reward" : "500 POINT"
 },
+{
 	"di_id" : 30000,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -549,6 +598,7 @@
 	"di_desc_cond" : "Sky's the Limit",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30001,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -560,6 +610,7 @@
 	"di_desc_cond" : "Over the Top",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30002,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -571,6 +622,7 @@
 	"di_desc_cond" : "Bling-Bling",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 30003,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -582,6 +634,7 @@
 	"di_desc_cond" : "Air Jumper",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30004,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -593,6 +646,7 @@
 	"di_desc_cond" : "Tough as Nails",
 	"di_desc_reward" : "800 POINT"
 },
+{
 	"di_id" : 30005,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -604,6 +658,7 @@
 	"di_desc_cond" : "Repair Expert",
 	"di_desc_reward" : "800 POINT"
 },
+{
 	"di_id" : 30006,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -615,6 +670,7 @@
 	"di_desc_cond" : "Ground Control",
 	"di_desc_reward" : "300 POINT"
 },
+{
 	"di_id" : 30007,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -626,6 +682,7 @@
 	"di_desc_cond" : "Chain of Command",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30008,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -637,6 +694,7 @@
 	"di_desc_cond" : "Special Forces",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30009,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -648,6 +706,7 @@
 	"di_desc_cond" : "You've Got A Friend In Me",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30010,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -659,6 +718,7 @@
 	"di_desc_cond" : "Figure Enthusiast",
 	"di_desc_reward" : "600 POINT"
 },
+{
 	"di_id" : 30011,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -670,6 +730,7 @@
 	"di_desc_cond" : "First of Many",
 	"di_desc_reward" : "500 POINT"
 },
+{
 	"di_id" : 30012,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -681,6 +742,7 @@
 	"di_desc_cond" : "Participation Award",
 	"di_desc_reward" : "555 POINT"
 },
+{
 	"di_id" : 30013,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -692,6 +754,7 @@
 	"di_desc_cond" : "Invasion Evader",
 	"di_desc_reward" : "500 POINT"
 },
+{
 	"di_id" : 30014,
 	"di_set_index" : 3,
 	"di_rank" : 0,
@@ -703,3 +766,4 @@
 	"di_desc_cond" : "Invasion Virtuoso",
 	"di_desc_reward" : "900 POINT"
 },
+{

@@ -3,67 +3,84 @@
 	"sa_command" : "Greetings",
 	"sa_command_enum" : 0
 },
+{
 	"sa_index" : 1,
 	"sa_command" : "Thanks",
 	"sa_command_enum" : 1
 },
+{
 	"sa_index" : 2,
 	"sa_command" : "Smile",
 	"sa_command_enum" : 2
 },
+{
 	"sa_index" : 3,
 	"sa_command" : "Cry",
 	"sa_command_enum" : 3
 },
+{
 	"sa_index" : 4,
 	"sa_command" : "Cheer",
 	"sa_command_enum" : 4
 },
+{
 	"sa_index" : 5,
 	"sa_command" : "Kiss",
 	"sa_command_enum" : 5
 },
+{
 	"sa_index" : 6,
 	"sa_command" : "Charm",
 	"sa_command_enum" : 6
 },
+{
 	"sa_index" : 7,
 	"sa_command" : "Yawn",
 	"sa_command_enum" : 7
 },
+{
 	"sa_index" : 8,
 	"sa_command" : "Victory",
 	"sa_command_enum" : 8
 },
+{
 	"sa_index" : 9,
 	"sa_command" : "Defeat",
 	"sa_command_enum" : 9
 },
+{
 	"sa_index" : 10,
 	"sa_command" : "Yes",
 	"sa_command_enum" : 10
 },
+{
 	"sa_index" : 11,
 	"sa_command" : "No",
 	"sa_command_enum" : 11
 },
+{
 	"sa_index" : 12,
 	"sa_command" : "Tease",
 	"sa_command_enum" : 12
 },
+{
 	"sa_index" : 13,
 	"sa_command" : "Provoke",
 	"sa_command_enum" : 13
 },
+{
 	"sa_index" : 14,
 	"sa_command" : "Rage",
 	"sa_command_enum" : 14
 },
+{
 	"sa_index" : 15,
 	"sa_command" : "Cheeky",
 	"sa_command_enum" : 15
 },
+{
 	"sa_index" : 16,
 	"sa_command" : "Propose",
 	"sa_command_enum" : 16
 },
+{

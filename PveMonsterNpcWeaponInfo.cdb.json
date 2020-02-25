@@ -5,57 +5,67 @@
 	"mw_weapon_type_exlpanation" : "breathe",
 	"mw_weapon_id" : 4800108
 },
+{
 	"mw_id" : 0,
 	"mw_monster_type" : 7,
 	"mw_npc_weapon_id" : 0,
 	"mw_weapon_type_exlpanation" : "launcher right",
 	"mw_weapon_id" : 4800107
 },
+{
 	"mw_id" : 1,
 	"mw_monster_type" : 7,
 	"mw_npc_weapon_id" : 1,
 	"mw_weapon_type_exlpanation" : "launcher left",
 	"mw_weapon_id" : 4800107
 },
+{
 	"mw_id" : 2,
 	"mw_monster_type" : 7,
 	"mw_npc_weapon_id" : 2,
 	"mw_weapon_type_exlpanation" : "",
 	"mw_weapon_id" : 4800106
 },
+{
 	"mw_id" : 4,
 	"mw_monster_type" : 7,
 	"mw_npc_weapon_id" : 4,
 	"mw_weapon_type_exlpanation" : "ELECTRIC_RANDOM",
 	"mw_weapon_id" : 4800109
 },
+{
 	"mw_id" : 5,
 	"mw_monster_type" : 7,
 	"mw_npc_weapon_id" : 5,
 	"mw_weapon_type_exlpanation" : "ELECTRIC_TARGET",
 	"mw_weapon_id" : 4800110
 },
+{
 	"mw_id" : 6,
 	"mw_monster_type" : 1,
 	"mw_npc_weapon_id" : 0,
 	"mw_weapon_type_exlpanation" : "",
 	"mw_weapon_id" : 4800100
 },
+{
 	"mw_id" : 7,
 	"mw_monster_type" : 2,
 	"mw_npc_weapon_id" : 0,
 	"mw_weapon_type_exlpanation" : "",
 	"mw_weapon_id" : 4800101
 },
+{
 	"mw_id" : 8,
 	"mw_monster_type" : 3,
 	"mw_npc_weapon_id" : 0,
 	"mw_weapon_type_exlpanation" : "",
 	"mw_weapon_id" : 4800102
 },
+{
 	"mw_id" : 9,
 	"mw_monster_type" : 4,
 	"mw_npc_weapon_id" : 0,
 	"mw_weapon_type_exlpanation" : "",
 	"mw_weapon_id" : 4800103
 },
+{
