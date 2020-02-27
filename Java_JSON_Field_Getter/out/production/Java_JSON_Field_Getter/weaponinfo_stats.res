@@ -1,101 +1,101 @@
-public int wi_id;
-public int wi_weapon_type;
-public int wi_weapon_type_zombie;
-public int wi_weapon_prop;
-public int wi_trigger_type;
-public int wi_firing_type;
-public int wi_ragdoll_type;
-public int wi_notgore_ragdoll_type;
-public int wi_debuff_type;
-public int wi_projectile_type;
-public int wi_projectile_prop;
-public int wi_charging_effect_type;
-public int wi_charging_time_max;
-public int wi_charging_effect_damage;
-public int wi_charging_effect_speed;
-public int wi_charging_effect_bombrange;
-public int wi_charging_effect_accuracy;
-public int wi_charging_effect_multi_shot;
-public int wi_charging_effect_bomb_timer;
-public int wi_charging_effect_debuff;
-public int wi_charging_effect_projectile;
-public int wi_charging_effect_chainshot;
-public int wi_auto_aim;
-public int wi_aim_movetype;
-public int wi_aim_move_param;
-public int wi_aim_init_size;
-public int wi_aim_max_size;
-public int wi_aim_zoom_size_min;
-public int wi_aim_zoom_size_max;
-public int wi_aim_zoom2_size_min;
-public int wi_aim_zoom2_size_max;
-public int wi_aim_jump_size;
-public int wi_aim_spread_speed;
-public int wi_aim_restore_speed;
-public int wi_aim_restore_speed_zoom;
-public int wi_aim_moveup_type;
-public int wi_aim_moveup_param;
-public int wi_aim_moveup_max;
-public int wi_aim_moveup_speed;
-public int wi_aim_moveup_restore_speed;
-public int wi_dam_head;
-public int wi_dam_upper;
-public int wi_dam_under;
-public int wi_dam_zoom_in;
-public int wi_rand_dam;
-public int wi_hit_rate;
-public int wi_miss_dam_rate;
-public int wi_critical_rate;
-public int wi_critical_damage;
-public int wi_zoom_in_level;
-public int wi_zoom_fov1;
-public int wi_zoom_fov2;
-public int wi_zoom_fire_ready_time;
-public int wi_fire_bullet_count;
-public int wi_chainshot_count;
-public int wi_chainshot_interval;
-public int wi_setup_count;
-public int wi_bullet_speed;
-public int wi_bullet_max_speed;
-public int wi_bullet_accel;
-public int wi_bullet_bounce_count;
-public int wi_bullet_restitution;
-public int wi_range;
-public int wi_overheat_up;
-public int wi_overheat_down;
-public int wi_overheat_penalty_time;
-public int wi_bomb_range;
-public int wi_bomb_time;
-public int wi_bomb_type;
-public int wi_detonate_type;
-public int wi_sensor_range;
-public int wi_ready_fire;
-public int wi_fire_run;
-public int wi_fire_time;
-public int wi_lockon_time;
-public int wi_firing_accel_time;
-public int wi_firing_hold_time;
-public int wi_fire_time_right;
-public int wi_reload_time;
-public int wi_reload_any_type;
-public int wi_knockback;
-public int wi_accel_weight;
-public int wi_accel_time;
-public int wi_max_turning_angle;
-public int wi_rate_of_fire_def;
-public int wi_rate_of_fire_max;
-public int wi_bullet_capacity;
-public int wi_bullet_total;
-public int wi_change_time;
-public int wi_change_skip;
-public int wi_change_delay;
-public int wi_weaponself_time;
-public int wi_ability_a;
-public int wi_ability_b;
-public int wi_ability_c;
-public int wi_ability_d;
-public int wi_ability_a_max;
-public int wi_ability_b_max;
-public int wi_ability_c_max;
-public int wi_ability_d_max;
-public int wi_weapon_size;
+public int wi_id { get; set; }
+public int wi_weapon_type { get; set; }
+public int wi_weapon_type_zombie { get; set; }
+public int wi_weapon_prop { get; set; }
+public int wi_trigger_type { get; set; }
+public int wi_firing_type { get; set; }
+public int wi_ragdoll_type { get; set; }
+public int wi_notgore_ragdoll_type { get; set; }
+public int wi_debuff_type { get; set; }
+public int wi_projectile_type { get; set; }
+public int wi_projectile_prop { get; set; }
+public int wi_charging_effect_type { get; set; }
+public int wi_charging_time_max { get; set; }
+public int wi_charging_effect_damage { get; set; }
+public int wi_charging_effect_speed { get; set; }
+public int wi_charging_effect_bombrange { get; set; }
+public int wi_charging_effect_accuracy { get; set; }
+public int wi_charging_effect_multi_shot { get; set; }
+public int wi_charging_effect_bomb_timer { get; set; }
+public int wi_charging_effect_debuff { get; set; }
+public int wi_charging_effect_projectile { get; set; }
+public int wi_charging_effect_chainshot { get; set; }
+public int wi_auto_aim { get; set; }
+public int wi_aim_movetype { get; set; }
+public int wi_aim_move_param { get; set; }
+public int wi_aim_init_size { get; set; }
+public int wi_aim_max_size { get; set; }
+public int wi_aim_zoom_size_min { get; set; }
+public int wi_aim_zoom_size_max { get; set; }
+public int wi_aim_zoom2_size_min { get; set; }
+public int wi_aim_zoom2_size_max { get; set; }
+public int wi_aim_jump_size { get; set; }
+public int wi_aim_spread_speed { get; set; }
+public int wi_aim_restore_speed { get; set; }
+public int wi_aim_restore_speed_zoom { get; set; }
+public int wi_aim_moveup_type { get; set; }
+public int wi_aim_moveup_param { get; set; }
+public int wi_aim_moveup_max { get; set; }
+public int wi_aim_moveup_speed { get; set; }
+public int wi_aim_moveup_restore_speed { get; set; }
+public int wi_dam_head { get; set; }
+public int wi_dam_upper { get; set; }
+public int wi_dam_under { get; set; }
+public int wi_dam_zoom_in { get; set; }
+public int wi_rand_dam { get; set; }
+public int wi_hit_rate { get; set; }
+public int wi_miss_dam_rate { get; set; }
+public int wi_critical_rate { get; set; }
+public int wi_critical_damage { get; set; }
+public int wi_zoom_in_level { get; set; }
+public int wi_zoom_fov1 { get; set; }
+public int wi_zoom_fov2 { get; set; }
+public int wi_zoom_fire_ready_time { get; set; }
+public int wi_fire_bullet_count { get; set; }
+public int wi_chainshot_count { get; set; }
+public int wi_chainshot_interval { get; set; }
+public int wi_setup_count { get; set; }
+public int wi_bullet_speed { get; set; }
+public int wi_bullet_max_speed { get; set; }
+public int wi_bullet_accel { get; set; }
+public int wi_bullet_bounce_count { get; set; }
+public int wi_bullet_restitution { get; set; }
+public int wi_range { get; set; }
+public int wi_overheat_up { get; set; }
+public int wi_overheat_down { get; set; }
+public int wi_overheat_penalty_time { get; set; }
+public int wi_bomb_range { get; set; }
+public int wi_bomb_time { get; set; }
+public int wi_bomb_type { get; set; }
+public int wi_detonate_type { get; set; }
+public int wi_sensor_range { get; set; }
+public int wi_ready_fire { get; set; }
+public int wi_fire_run { get; set; }
+public int wi_fire_time { get; set; }
+public int wi_lockon_time { get; set; }
+public int wi_firing_accel_time { get; set; }
+public int wi_firing_hold_time { get; set; }
+public int wi_fire_time_right { get; set; }
+public int wi_reload_time { get; set; }
+public int wi_reload_any_type { get; set; }
+public int wi_knockback { get; set; }
+public int wi_accel_weight { get; set; }
+public int wi_accel_time { get; set; }
+public int wi_max_turning_angle { get; set; }
+public int wi_rate_of_fire_def { get; set; }
+public int wi_rate_of_fire_max { get; set; }
+public int wi_bullet_capacity { get; set; }
+public int wi_bullet_total { get; set; }
+public int wi_change_time { get; set; }
+public int wi_change_skip { get; set; }
+public int wi_change_delay { get; set; }
+public int wi_weaponself_time { get; set; }
+public int wi_ability_a { get; set; }
+public int wi_ability_b { get; set; }
+public int wi_ability_c { get; set; }
+public int wi_ability_d { get; set; }
+public int wi_ability_a_max { get; set; }
+public int wi_ability_b_max { get; set; }
+public int wi_ability_c_max { get; set; }
+public int wi_ability_d_max { get; set; }
+public int wi_weapon_size { get; set; }
