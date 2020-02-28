@@ -1,0 +1,322 @@
+{
+	"ci_key" : 0,
+	"ci_prob" : 0,
+	"ci_valueA" : 1000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 1,
+	"ci_prob" : 0,
+	"ci_valueA" : 4500000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 2,
+	"ci_prob" : 0,
+	"ci_valueA" : 3000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 4,
+	"ci_prob" : 0,
+	"ci_valueA" : 1,
+	"ci_valueB" : 3,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 5,
+	"ci_prob" : 0,
+	"ci_valueA" : 10,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 7,
+	"ci_prob" : 1000,
+	"ci_valueA" : 200,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 8,
+	"ci_prob" : 1000,
+	"ci_valueA" : 18000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 9,
+	"ci_prob" : 3,
+	"ci_valueA" : 3,
+	"ci_valueB" : 86400,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 10,
+	"ci_prob" : 0,
+	"ci_valueA" : 400,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 11,
+	"ci_prob" : 0,
+	"ci_valueA" : 5,
+	"ci_valueB" : 10,
+	"ci_valueC" : 1
+},
+{
+	"ci_key" : 12,
+	"ci_prob" : 0,
+	"ci_valueA" : 700,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 13,
+	"ci_prob" : 0,
+	"ci_valueA" : 700,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 14,
+	"ci_prob" : 0,
+	"ci_valueA" : 4000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 15,
+	"ci_prob" : 0,
+	"ci_valueA" : 200,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 16,
+	"ci_prob" : 0,
+	"ci_valueA" : 4500,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 17,
+	"ci_prob" : 0,
+	"ci_valueA" : 200,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 18,
+	"ci_prob" : 0,
+	"ci_valueA" : 1000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 22,
+	"ci_prob" : 250000,
+	"ci_valueA" : 4305019,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 23,
+	"ci_prob" : 0,
+	"ci_valueA" : 4305019,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 24,
+	"ci_prob" : 0,
+	"ci_valueA" : 4305019,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 27,
+	"ci_prob" : 0,
+	"ci_valueA" : 1000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 28,
+	"ci_prob" : 0,
+	"ci_valueA" : 1480,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 29,
+	"ci_prob" : 6,
+	"ci_valueA" : 86400,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 30,
+	"ci_prob" : 9,
+	"ci_valueA" : 12,
+	"ci_valueB" : 46,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 31,
+	"ci_prob" : 0,
+	"ci_valueA" : 300,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 32,
+	"ci_prob" : 0,
+	"ci_valueA" : 2,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 33,
+	"ci_prob" : 50000,
+	"ci_valueA" : 4801011,
+	"ci_valueB" : 4801011,
+	"ci_valueC" : 4801011
+},
+{
+	"ci_key" : 34,
+	"ci_prob" : 100000,
+	"ci_valueA" : 4801008,
+	"ci_valueB" : 4801008,
+	"ci_valueC" : 4801008
+},
+{
+	"ci_key" : 35,
+	"ci_prob" : 400000,
+	"ci_valueA" : 4801009,
+	"ci_valueB" : 4801009,
+	"ci_valueC" : 4801009
+},
+{
+	"ci_key" : 36,
+	"ci_prob" : 450000,
+	"ci_valueA" : 4801010,
+	"ci_valueB" : 4801010,
+	"ci_valueC" : 4801010
+},
+{
+	"ci_key" : 37,
+	"ci_prob" : 0,
+	"ci_valueA" : 46,
+	"ci_valueB" : 67,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 38,
+	"ci_prob" : 0,
+	"ci_valueA" : 800,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 39,
+	"ci_prob" : 0,
+	"ci_valueA" : 16,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 40,
+	"ci_prob" : 0,
+	"ci_valueA" : 0,
+	"ci_valueB" : 48,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 41,
+	"ci_prob" : 0,
+	"ci_valueA" : 5,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 42,
+	"ci_prob" : 0,
+	"ci_valueA" : 9,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 43,
+	"ci_prob" : 0,
+	"ci_valueA" : 1000,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 44,
+	"ci_prob" : 0,
+	"ci_valueA" : 15,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 45,
+	"ci_prob" : 0,
+	"ci_valueA" : 10,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 46,
+	"ci_prob" : 0,
+	"ci_valueA" : 7,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 47,
+	"ci_prob" : 0,
+	"ci_valueA" : 24,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 48,
+	"ci_prob" : 0,
+	"ci_valueA" : 100,
+	"ci_valueB" : 100,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 49,
+	"ci_prob" : 10000,
+	"ci_valueA" : 5337005,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 50,
+	"ci_prob" : 10000,
+	"ci_valueA" : 5337006,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 51,
+	"ci_prob" : 100,
+	"ci_valueA" : 0,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+},
+{
+	"ci_key" : 52,
+	"ci_prob" : 100,
+	"ci_valueA" : 0,
+	"ci_valueB" : 0,
+	"ci_valueC" : 0
+}

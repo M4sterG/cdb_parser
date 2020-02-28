@@ -1,0 +1,12 @@
+{
+	"ei_id" : 1,
+	"ei_name" : "1",
+	"ei_type" : -1,
+	"ei_map_id" : 0,
+	"ei_x" : 0,
+	"ei_y" : 0,
+	"ei_z" : 0,
+	"ei_life_max" : 0,
+	"ei_respawn_time" : 0,
+	"ei_mesh_name" : ""
+}
