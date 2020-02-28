@@ -9,3 +9,13 @@ D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.pdb
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.dll
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.pdb
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.deps.json
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.runtimeconfig.json
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.runtimeconfig.dev.json
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.dll
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.pdb
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.csprojAssemblyReference.cache
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.AssemblyInfoInputs.cache
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.AssemblyInfo.cs
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.dll
+C:\Users\DELL User\Documents\git\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.pdb

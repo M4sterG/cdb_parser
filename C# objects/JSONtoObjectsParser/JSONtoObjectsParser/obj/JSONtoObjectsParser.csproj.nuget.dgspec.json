@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj": {}
+    "C:\\Users\\DELL User\\Documents\\git\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj": {
+    "C:\\Users\\DELL User\\Documents\\git\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj",
+        "projectUniqueName": "C:\\Users\\DELL User\\Documents\\git\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj",
         "projectName": "JSONtoObjectsParser",
-        "projectPath": "D:\\Programming\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj",
-        "packagesPath": "C:\\Users\\mikez\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\obj\\",
+        "projectPath": "C:\\Users\\DELL User\\Documents\\git\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\JSONtoObjectsParser.csproj",
+        "packagesPath": "C:\\Users\\DELL User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL User\\Documents\\git\\cdb_parser\\C# objects\\JSONtoObjectsParser\\JSONtoObjectsParser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mikez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\DELL User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +40,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
@@ -54,10 +51,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

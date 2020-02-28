@@ -1,34 +1,48 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using WaponJSONParser;
 
 namespace JSONtoObjectsParser
 {
-    class Program
+    internal class Program
     {
-        private const string WEAPON_INFO_PATH = "weaponinfo.cdb.json";
-        private const string ITEM_WEAPON_INFO_PATH = "itemweaponsinfo.cdb.json";
-        static void Main(string[] args)
+        private const string WEAPON_INFO_PATH = "MV/weaponinfo.json";
+        private const string ITEM_WEAPON_INFO_PATH = "MV/itemweaponsinfo.json";
+        private const string WEAPON_INFO_PATH_TW = "TW/weaponinfo.json";
+        private const string ITEM_WEAPON_INFO_PATH_TW = "TW/itemweaponsinfo.json";
+
+        private static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.Unicode;
             Console.WriteLine("!!! Debugger looks for the files in: " + Environment.CurrentDirectory);
-            List<PrimitiveWeapon> weapons = new JSONToCSharpParser<PrimitiveWeapon>().parse(WEAPON_INFO_PATH);
-            List<PrimitiveIteamWeaponInfo> weaponInfos = new JSONToCSharpParser<PrimitiveIteamWeaponInfo>().parse(ITEM_WEAPON_INFO_PATH);
-            weapons = weapons.FindAll(w => lastTwoDigitsAreGood(w.wi_id));
-            weaponInfos = weaponInfos.FindAll(info => lastTwoDigitsAreGood(info.ii_weaponinfo));
+            List<PrimitiveWeapon> weapons_mv = new JSONToCSharpParser<PrimitiveWeapon>().parse(WEAPON_INFO_PATH);
+            List<PrimitiveIteamWeaponInfo> weaponInfos_mv = new JSONToCSharpParser<PrimitiveIteamWeaponInfo>().parse(ITEM_WEAPON_INFO_PATH);
+
+            List<PrimitiveWeapon> weapons_tw = new JSONToCSharpParser<PrimitiveWeapon>().parse(WEAPON_INFO_PATH_TW);
+            List<PrimitiveIteamWeaponInfo> weaponInfos_tw = new JSONToCSharpParser<PrimitiveIteamWeaponInfo>().parse(ITEM_WEAPON_INFO_PATH_TW);
+
+            weapons_mv = weapons_mv.FindAll(w_mv => lastTwoDigitsAreGood(w_mv.wi_id));
+            weaponInfos_mv = weaponInfos_mv.FindAll(info_mv => lastTwoDigitsAreGood(info_mv.ii_weaponinfo));
+
+            weapons_tw = weapons_tw.FindAll(w_tw => lastTwoDigitsAreGood(w_tw.wi_id));
+            weaponInfos_tw = weaponInfos_tw.FindAll(info_tw => lastTwoDigitsAreGood(info_tw.ii_weaponinfo));
+
             List<int> missingIDS = new List<int>();
+
             var outPath = Environment.CurrentDirectory + "weapons.res";
+
             using (var writer = new StreamWriter(outPath))
             {
-                foreach (PrimitiveWeapon w in weapons)
+                foreach (PrimitiveWeapon w_mv in weapons_mv)
                 {
                     bool found = false;
-                    foreach (PrimitiveIteamWeaponInfo info in weaponInfos)
+                    foreach (PrimitiveIteamWeaponInfo info_mv in weaponInfos_mv)
                     {
-                        if (info.ii_weaponinfo == w.wi_id)
+                        if (info_mv.ii_weaponinfo == w_mv.wi_id)
                         {
-                            string msg = "id : " + w.wi_id + " | name: " + info.ii_name + " | Type " + w.wi_weapon_type.ToString();
+                            string msg = "id : " + w_mv.wi_id + " | name: " + info_mv.ii_name + " | Type " + w_mv.wi_weapon_type.ToString();
                             writer.WriteLine(msg);
                             Console.WriteLine(msg);
                             found = true;
@@ -37,16 +51,33 @@ namespace JSONtoObjectsParser
                     }
                     if (!found)
                     {
-                        missingIDS.Add(w.wi_id);
-                        string errorMsg = "Couldn't find match for id: " + w.wi_id;
+                        missingIDS.Add(w_mv.wi_id);
+                        string errorMsg = "Couldn't find match for id: " + w_mv.wi_id;
                         Console.WriteLine(errorMsg);
                         writer.WriteLine(errorMsg);
                     }
                 }
+
+                int missing = missingIDS.Count;
+                Console.WriteLine(missing + " items are missing in database");
+
+                foreach (PrimitiveWeapon w_tw in weapons_tw)
+                {
+                    foreach (PrimitiveIteamWeaponInfo info_tw in weaponInfos_tw)
+                    {
+                        if (missingIDS.Contains(w_tw.wi_id))
+                        {
+
+                            missingIDS.Remove(w_tw.wi_id);
+                            String msg = "id : " + w_tw.wi_id + " | name: " + info_tw.ii_name + " | Type " + w_tw.wi_weapon_type.ToString();
+                            Console.WriteLine("Found in TW :" + msg);
+                            writer.WriteLine(msg);
+                        }
+                    }
+                }
+                Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
             }
             Console.WriteLine("File in: " + Environment.CurrentDirectory);
-           
-
         }
 
         public static bool lastTwoDigitsAreGood(int id)
@@ -54,17 +85,13 @@ namespace JSONtoObjectsParser
             int[] digits = new int[7];
             int pos = 0;
             while (id > 0)
-            {                               
-                digits[pos] = id % 10;           
+            {
+                digits[pos] = id % 10;
                 id /= 10;
                 pos++;
             }
             Array.Reverse(digits);
             return digits[5] == 0 && digits[6] == 0;
         }
-
-       
-
-     
     }
 }
