@@ -1,0 +1,20 @@
+{
+	"cg_grade" : 1,
+	"cg_name" : "Grade 1",
+	"cg_exp" : 0
+},
+{
+	"cg_grade" : 2,
+	"cg_name" : "Grade 2",
+	"cg_exp" : 500000
+},
+{
+	"cg_grade" : 3,
+	"cg_name" : "Grade 3",
+	"cg_exp" : 1000000
+},
+{
+	"cg_grade" : 4,
+	"cg_name" : "Grade 4",
+	"cg_exp" : 2000000
+}

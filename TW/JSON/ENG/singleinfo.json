@@ -1,0 +1,192 @@
+{
+	"si_id" : 1,
+	"si_stage" : 0,
+	"si_reward_point" : 0,
+	"si_reward_exp" : 0
+},
+{
+	"si_id" : 1,
+	"si_stage" : 1,
+	"si_reward_point" : 5,
+	"si_reward_exp" : 6
+},
+{
+	"si_id" : 1,
+	"si_stage" : 2,
+	"si_reward_point" : 10,
+	"si_reward_exp" : 12
+},
+{
+	"si_id" : 1,
+	"si_stage" : 3,
+	"si_reward_point" : 15,
+	"si_reward_exp" : 18
+},
+{
+	"si_id" : 1,
+	"si_stage" : 4,
+	"si_reward_point" : 20,
+	"si_reward_exp" : 24
+},
+{
+	"si_id" : 1,
+	"si_stage" : 5,
+	"si_reward_point" : 25,
+	"si_reward_exp" : 30
+},
+{
+	"si_id" : 1,
+	"si_stage" : 6,
+	"si_reward_point" : 30,
+	"si_reward_exp" : 36
+},
+{
+	"si_id" : 1,
+	"si_stage" : 7,
+	"si_reward_point" : 35,
+	"si_reward_exp" : 42
+},
+{
+	"si_id" : 1,
+	"si_stage" : 8,
+	"si_reward_point" : 40,
+	"si_reward_exp" : 48
+},
+{
+	"si_id" : 1,
+	"si_stage" : 9,
+	"si_reward_point" : 45,
+	"si_reward_exp" : 54
+},
+{
+	"si_id" : 1,
+	"si_stage" : 10,
+	"si_reward_point" : 50,
+	"si_reward_exp" : 60
+},
+{
+	"si_id" : 2,
+	"si_stage" : 0,
+	"si_reward_point" : 0,
+	"si_reward_exp" : 0
+},
+{
+	"si_id" : 2,
+	"si_stage" : 1,
+	"si_reward_point" : 15,
+	"si_reward_exp" : 19
+},
+{
+	"si_id" : 2,
+	"si_stage" : 2,
+	"si_reward_point" : 30,
+	"si_reward_exp" : 39
+},
+{
+	"si_id" : 2,
+	"si_stage" : 3,
+	"si_reward_point" : 45,
+	"si_reward_exp" : 58
+},
+{
+	"si_id" : 2,
+	"si_stage" : 4,
+	"si_reward_point" : 60,
+	"si_reward_exp" : 78
+},
+{
+	"si_id" : 2,
+	"si_stage" : 5,
+	"si_reward_point" : 75,
+	"si_reward_exp" : 97
+},
+{
+	"si_id" : 2,
+	"si_stage" : 6,
+	"si_reward_point" : 90,
+	"si_reward_exp" : 117
+},
+{
+	"si_id" : 2,
+	"si_stage" : 7,
+	"si_reward_point" : 110,
+	"si_reward_exp" : 143
+},
+{
+	"si_id" : 2,
+	"si_stage" : 8,
+	"si_reward_point" : 125,
+	"si_reward_exp" : 162
+},
+{
+	"si_id" : 2,
+	"si_stage" : 9,
+	"si_reward_point" : 140,
+	"si_reward_exp" : 182
+},
+{
+	"si_id" : 2,
+	"si_stage" : 10,
+	"si_reward_point" : 160,
+	"si_reward_exp" : 208
+},
+{
+	"si_id" : 2,
+	"si_stage" : 11,
+	"si_reward_point" : 175,
+	"si_reward_exp" : 227
+},
+{
+	"si_id" : 2,
+	"si_stage" : 12,
+	"si_reward_point" : 190,
+	"si_reward_exp" : 247
+},
+{
+	"si_id" : 2,
+	"si_stage" : 13,
+	"si_reward_point" : 210,
+	"si_reward_exp" : 273
+},
+{
+	"si_id" : 2,
+	"si_stage" : 14,
+	"si_reward_point" : 225,
+	"si_reward_exp" : 292
+},
+{
+	"si_id" : 2,
+	"si_stage" : 15,
+	"si_reward_point" : 250,
+	"si_reward_exp" : 325
+},
+{
+	"si_id" : 2,
+	"si_stage" : 16,
+	"si_reward_point" : 275,
+	"si_reward_exp" : 357
+},
+{
+	"si_id" : 2,
+	"si_stage" : 17,
+	"si_reward_point" : 300,
+	"si_reward_exp" : 390
+},
+{
+	"si_id" : 2,
+	"si_stage" : 18,
+	"si_reward_point" : 325,
+	"si_reward_exp" : 422
+},
+{
+	"si_id" : 2,
+	"si_stage" : 19,
+	"si_reward_point" : 350,
+	"si_reward_exp" : 455
+},
+{
+	"si_id" : 2,
+	"si_stage" : 20,
+	"si_reward_point" : 500,
+	"si_reward_exp" : 650
+}

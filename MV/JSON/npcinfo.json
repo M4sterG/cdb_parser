@@ -1,0 +1,12 @@
+{
+	"ni_id" : 1,
+	"ni_name" : "1",
+	"ni_type" : 0,
+	"ni_map_id" : 1,
+	"ni_x" : 0,
+	"ni_y" : 0,
+	"ni_z" : 0,
+	"ni_life_max" : 1,
+	"ni_respawn_time" : 0,
+	"ni_mesh_name" : ""
+}

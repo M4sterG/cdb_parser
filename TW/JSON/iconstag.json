@@ -1,0 +1,7045 @@
+{
+	"it_index" : 1,
+	"it_iconid" : 90000000,
+	"it_icontag" : "ICONTAG_MOD_FFA"
+},
+{
+	"it_index" : 2,
+	"it_iconid" : 90000001,
+	"it_icontag" : "ICONTAG_MOD_TDM"
+},
+{
+	"it_index" : 3,
+	"it_iconid" : 90000002,
+	"it_icontag" : "ICONTAG_MOD_DOM"
+},
+{
+	"it_index" : 4,
+	"it_iconid" : 90000003,
+	"it_icontag" : "ICONTAG_MOD_DM"
+},
+{
+	"it_index" : 5,
+	"it_iconid" : 90000004,
+	"it_icontag" : "ICONTAG_MOD_ZOM"
+},
+{
+	"it_index" : 6,
+	"it_iconid" : 90000005,
+	"it_icontag" : "ICONTAG_MOD_SD"
+},
+{
+	"it_index" : 7,
+	"it_iconid" : 90000006,
+	"it_icontag" : "ICONTAG_MOD_AD"
+},
+{
+	"it_index" : 8,
+	"it_iconid" : 90000100,
+	"it_icontag" : "ICONTAG_QUICKRANK_1"
+},
+{
+	"it_index" : 9,
+	"it_iconid" : 90000101,
+	"it_icontag" : "ICONTAG_QUICKRANK_2"
+},
+{
+	"it_index" : 10,
+	"it_iconid" : 90000102,
+	"it_icontag" : "ICONTAG_QUICKRANK_3"
+},
+{
+	"it_index" : 11,
+	"it_iconid" : 90000103,
+	"it_icontag" : "ICONTAG_QUICKRANK_4"
+},
+{
+	"it_index" : 12,
+	"it_iconid" : 90000104,
+	"it_icontag" : "ICONTAG_QUICKRANK_5"
+},
+{
+	"it_index" : 13,
+	"it_iconid" : 90000105,
+	"it_icontag" : "ICONTAG_QUICKRANK_6"
+},
+{
+	"it_index" : 14,
+	"it_iconid" : 90000106,
+	"it_icontag" : "ICONTAG_QUICKRANK_7"
+},
+{
+	"it_index" : 15,
+	"it_iconid" : 90000107,
+	"it_icontag" : "ICONTAG_QUICKRANK_8"
+},
+{
+	"it_index" : 16,
+	"it_iconid" : 90000108,
+	"it_icontag" : "ICONTAG_QUICKRANK_9"
+},
+{
+	"it_index" : 17,
+	"it_iconid" : 90000109,
+	"it_icontag" : "ICONTAG_QUICKRANK_10"
+},
+{
+	"it_index" : 18,
+	"it_iconid" : 90000110,
+	"it_icontag" : "ICONTAG_QUICKRANK_11"
+},
+{
+	"it_index" : 19,
+	"it_iconid" : 90000111,
+	"it_icontag" : "ICONTAG_QUICKRANK_12"
+},
+{
+	"it_index" : 20,
+	"it_iconid" : 90000112,
+	"it_icontag" : "ICONTAG_QUICKRANK_13"
+},
+{
+	"it_index" : 21,
+	"it_iconid" : 90000113,
+	"it_icontag" : "ICONTAG_QUICKRANK_14"
+},
+{
+	"it_index" : 22,
+	"it_iconid" : 90000114,
+	"it_icontag" : "ICONTAG_QUICKRANK_15"
+},
+{
+	"it_index" : 23,
+	"it_iconid" : 90000115,
+	"it_icontag" : "ICONTAG_QUICKRANK_16"
+},
+{
+	"it_index" : 24,
+	"it_iconid" : 90000200,
+	"it_icontag" : "ICONTAG_WPN_CLICK_KNIFE"
+},
+{
+	"it_index" : 25,
+	"it_iconid" : 90000201,
+	"it_icontag" : "ICONTAG_WPN_CLICK_RIFLE"
+},
+{
+	"it_index" : 26,
+	"it_iconid" : 90000202,
+	"it_icontag" : "ICONTAG_WPN_CLICK_SHOTGUN"
+},
+{
+	"it_index" : 27,
+	"it_iconid" : 90000203,
+	"it_icontag" : "ICONTAG_WPN_CLICK_SNIPER"
+},
+{
+	"it_index" : 28,
+	"it_iconid" : 90000204,
+	"it_icontag" : "ICONTAG_WPN_CLICK_GATLING"
+},
+{
+	"it_index" : 29,
+	"it_iconid" : 90000205,
+	"it_icontag" : "ICONTAG_WPN_CLICK_LAUNCHER"
+},
+{
+	"it_index" : 30,
+	"it_iconid" : 90000206,
+	"it_icontag" : "ICONTAG_WPN_CLICK_GRANADE"
+},
+{
+	"it_index" : 31,
+	"it_iconid" : 90000207,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_KNIFE"
+},
+{
+	"it_index" : 32,
+	"it_iconid" : 90000208,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_RIFLE"
+},
+{
+	"it_index" : 33,
+	"it_iconid" : 90000209,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_SHOTGUN"
+},
+{
+	"it_index" : 34,
+	"it_iconid" : 90000210,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_SNIPER"
+},
+{
+	"it_index" : 35,
+	"it_iconid" : 90000211,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_GATLING"
+},
+{
+	"it_index" : 36,
+	"it_iconid" : 90000212,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_LAUNCHER"
+},
+{
+	"it_index" : 37,
+	"it_iconid" : 90000213,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_GRANADE"
+},
+{
+	"it_index" : 38,
+	"it_iconid" : 90000214,
+	"it_icontag" : "ICONTAG_WPN_NORMAL_WEAPONCHOICE"
+},
+{
+	"it_index" : 39,
+	"it_iconid" : 90000300,
+	"it_icontag" : "ICONTAG_WPN_LIST_KNIFE"
+},
+{
+	"it_index" : 40,
+	"it_iconid" : 90000301,
+	"it_icontag" : "ICONTAG_WPN_LIST_RIFLE"
+},
+{
+	"it_index" : 41,
+	"it_iconid" : 90000302,
+	"it_icontag" : "ICONTAG_WPN_LIST_SHOTGUN"
+},
+{
+	"it_index" : 42,
+	"it_iconid" : 90000303,
+	"it_icontag" : "ICONTAG_WPN_LIST_SNIPER"
+},
+{
+	"it_index" : 43,
+	"it_iconid" : 90000304,
+	"it_icontag" : "ICONTAG_WPN_LIST_GATLING"
+},
+{
+	"it_index" : 44,
+	"it_iconid" : 90000305,
+	"it_icontag" : "ICONTAG_WPN_LIST_LAUNCHER"
+},
+{
+	"it_index" : 45,
+	"it_iconid" : 90000306,
+	"it_icontag" : "ICONTAG_WPN_LIST_GRANADE"
+},
+{
+	"it_index" : 46,
+	"it_iconid" : 90000307,
+	"it_icontag" : "ICONTAG_WPN_LIST_ALL"
+},
+{
+	"it_index" : 47,
+	"it_iconid" : 90000308,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_1"
+},
+{
+	"it_index" : 48,
+	"it_iconid" : 90000309,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_2"
+},
+{
+	"it_index" : 49,
+	"it_iconid" : 90000310,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_3"
+},
+{
+	"it_index" : 50,
+	"it_iconid" : 90000311,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_KNIFE"
+},
+{
+	"it_index" : 51,
+	"it_iconid" : 90000312,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_RIFLE"
+},
+{
+	"it_index" : 52,
+	"it_iconid" : 90000313,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_SHOTGUN"
+},
+{
+	"it_index" : 53,
+	"it_iconid" : 90000314,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_SNIPER"
+},
+{
+	"it_index" : 54,
+	"it_iconid" : 90000315,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_GATLING"
+},
+{
+	"it_index" : 55,
+	"it_iconid" : 90000316,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_LAUNCHER"
+},
+{
+	"it_index" : 56,
+	"it_iconid" : 90000317,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_GRANADE"
+},
+{
+	"it_index" : 57,
+	"it_iconid" : 90000318,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_ALL"
+},
+{
+	"it_index" : 58,
+	"it_iconid" : 90000319,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_HEADSHOT"
+},
+{
+	"it_index" : 59,
+	"it_iconid" : 90000320,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_DIRECTSHOT"
+},
+{
+	"it_index" : 60,
+	"it_iconid" : 90000321,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_SUICIDEBOMB"
+},
+{
+	"it_index" : 61,
+	"it_iconid" : 90000322,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_FALL"
+},
+{
+	"it_index" : 62,
+	"it_iconid" : 90000323,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_ZOMBIE_1"
+},
+{
+	"it_index" : 63,
+	"it_iconid" : 90000324,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_ZOMBIE_2"
+},
+{
+	"it_index" : 64,
+	"it_iconid" : 90000325,
+	"it_icontag" : "ICONTAG_WPN_BATTLE_ZOMBIE_3"
+},
+{
+	"it_index" : 65,
+	"it_iconid" : 90000326,
+	"it_icontag" : "ICONTAG_WPN_LIST_KNIFE_DEATH"
+},
+{
+	"it_index" : 66,
+	"it_iconid" : 90000327,
+	"it_icontag" : "ICONTAG_WPN_LIST_RIFLE_DEATH"
+},
+{
+	"it_index" : 67,
+	"it_iconid" : 90000328,
+	"it_icontag" : "ICONTAG_WPN_LIST_SHOTGUN_DEATH"
+},
+{
+	"it_index" : 68,
+	"it_iconid" : 90000329,
+	"it_icontag" : "ICONTAG_WPN_LIST_SNIPER_DEATH"
+},
+{
+	"it_index" : 69,
+	"it_iconid" : 90000330,
+	"it_icontag" : "ICONTAG_WPN_LIST_GATLING_DEATH"
+},
+{
+	"it_index" : 70,
+	"it_iconid" : 90000331,
+	"it_icontag" : "ICONTAG_WPN_LIST_LAUNCHER_DEATH"
+},
+{
+	"it_index" : 71,
+	"it_iconid" : 90000332,
+	"it_icontag" : "ICONTAG_WPN_LIST_GRANADE_DEATH"
+},
+{
+	"it_index" : 72,
+	"it_iconid" : 90000333,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_DEATH_1"
+},
+{
+	"it_index" : 73,
+	"it_iconid" : 90000334,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_DEATH_2"
+},
+{
+	"it_index" : 74,
+	"it_iconid" : 90000335,
+	"it_icontag" : "ICONTAG_WPN_LIST_ZOMBIE_DEATH_3"
+},
+{
+	"it_index" : 75,
+	"it_iconid" : 90000336,
+	"it_icontag" : "ICONTAG_WPN_LIST_WEAPONCHOICE"
+},
+{
+	"it_index" : 76,
+	"it_iconid" : 90000400,
+	"it_icontag" : "ICONTAG_MAP_NAME_1"
+},
+{
+	"it_index" : 77,
+	"it_iconid" : 90000401,
+	"it_icontag" : "ICONTAG_MAP_NAME_2"
+},
+{
+	"it_index" : 78,
+	"it_iconid" : 90000402,
+	"it_icontag" : "ICONTAG_MAP_NAME_3"
+},
+{
+	"it_index" : 79,
+	"it_iconid" : 90000403,
+	"it_icontag" : "ICONTAG_MAP_NAME_4"
+},
+{
+	"it_index" : 80,
+	"it_iconid" : 90000404,
+	"it_icontag" : "ICONTAG_MAP_NAME_5"
+},
+{
+	"it_index" : 81,
+	"it_iconid" : 90000405,
+	"it_icontag" : "ICONTAG_MAP_NAME_6"
+},
+{
+	"it_index" : 82,
+	"it_iconid" : 90000406,
+	"it_icontag" : "ICONTAG_MAP_NAME_7"
+},
+{
+	"it_index" : 83,
+	"it_iconid" : 90000500,
+	"it_icontag" : "ICONTAG_RESULT_BLUEWIN"
+},
+{
+	"it_index" : 84,
+	"it_iconid" : 90000501,
+	"it_icontag" : "ICONTAG_RESULT_REDWIN"
+},
+{
+	"it_index" : 85,
+	"it_iconid" : 90000502,
+	"it_icontag" : "ICONTAG_RESULT_GAMESET"
+},
+{
+	"it_index" : 86,
+	"it_iconid" : 90000600,
+	"it_icontag" : "ICONTAG_RESULT_WIN"
+},
+{
+	"it_index" : 87,
+	"it_iconid" : 90000601,
+	"it_icontag" : "ICONTAG_RESULT_LOSE"
+},
+{
+	"it_index" : 88,
+	"it_iconid" : 90000700,
+	"it_icontag" : "ICONTAG_MSGTITLE_1"
+},
+{
+	"it_index" : 89,
+	"it_iconid" : 90000701,
+	"it_icontag" : "ICONTAG_MSGTITLE_2"
+},
+{
+	"it_index" : 90,
+	"it_iconid" : 90000702,
+	"it_icontag" : "ICONTAG_MSGTITLE_3"
+},
+{
+	"it_index" : 91,
+	"it_iconid" : 90000703,
+	"it_icontag" : "ICONTAG_MSGTITLE_4"
+},
+{
+	"it_index" : 92,
+	"it_iconid" : 90000704,
+	"it_icontag" : "ICONTAG_MSGTITLE_5"
+},
+{
+	"it_index" : 93,
+	"it_iconid" : 90000705,
+	"it_icontag" : "ICONTAG_MSGTITLE_6"
+},
+{
+	"it_index" : 94,
+	"it_iconid" : 90000706,
+	"it_icontag" : "ICONTAG_MSGTITLE_7"
+},
+{
+	"it_index" : 95,
+	"it_iconid" : 90000707,
+	"it_icontag" : "ICONTAG_MSGTITLE_8"
+},
+{
+	"it_index" : 96,
+	"it_iconid" : 90000708,
+	"it_icontag" : "ICONTAG_MSGTITLE_9"
+},
+{
+	"it_index" : 97,
+	"it_iconid" : 90000709,
+	"it_icontag" : "ICONTAG_MSGTITLE_10"
+},
+{
+	"it_index" : 98,
+	"it_iconid" : 90000710,
+	"it_icontag" : "ICONTAG_MSGTITLE_11"
+},
+{
+	"it_index" : 99,
+	"it_iconid" : 90000711,
+	"it_icontag" : "ICONTAG_MSGTITLE_12"
+},
+{
+	"it_index" : 100,
+	"it_iconid" : 90000712,
+	"it_icontag" : "ICONTAG_MSGTITLE_13"
+},
+{
+	"it_index" : 101,
+	"it_iconid" : 90000713,
+	"it_icontag" : "ICONTAG_MSGTITLE_14"
+},
+{
+	"it_index" : 102,
+	"it_iconid" : 90000714,
+	"it_icontag" : "ICONTAG_MSGTITLE_15"
+},
+{
+	"it_index" : 103,
+	"it_iconid" : 90000715,
+	"it_icontag" : "ICONTAG_MSGTITLE_16"
+},
+{
+	"it_index" : 104,
+	"it_iconid" : 90000716,
+	"it_icontag" : "ICONTAG_MSGTITLE_17"
+},
+{
+	"it_index" : 105,
+	"it_iconid" : 90000717,
+	"it_icontag" : "ICONTAG_MSGTITLE_18"
+},
+{
+	"it_index" : 106,
+	"it_iconid" : 90000718,
+	"it_icontag" : "ICONTAG_MSGTITLE_19"
+},
+{
+	"it_index" : 107,
+	"it_iconid" : 90000719,
+	"it_icontag" : "ICONTAG_MSGTITLE_20"
+},
+{
+	"it_index" : 108,
+	"it_iconid" : 90000720,
+	"it_icontag" : "ICONTAG_MSGTITLE_21"
+},
+{
+	"it_index" : 109,
+	"it_iconid" : 90000721,
+	"it_icontag" : "ICONTAG_MSGTITLE_22"
+},
+{
+	"it_index" : 110,
+	"it_iconid" : 90000722,
+	"it_icontag" : "ICONTAG_MSGTITLE_23"
+},
+{
+	"it_index" : 111,
+	"it_iconid" : 90000723,
+	"it_icontag" : "ICONTAG_MSGTITLE_24"
+},
+{
+	"it_index" : 112,
+	"it_iconid" : 90000724,
+	"it_icontag" : "ICONTAG_MSGTITLE_25"
+},
+{
+	"it_index" : 113,
+	"it_iconid" : 90000725,
+	"it_icontag" : "ICONTAG_MSGTITLE_26"
+},
+{
+	"it_index" : 114,
+	"it_iconid" : 90000800,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_13"
+},
+{
+	"it_index" : 115,
+	"it_iconid" : 90000801,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_27"
+},
+{
+	"it_index" : 116,
+	"it_iconid" : 90000802,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_5"
+},
+{
+	"it_index" : 117,
+	"it_iconid" : 90000803,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_14"
+},
+{
+	"it_index" : 118,
+	"it_iconid" : 90000804,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_6"
+},
+{
+	"it_index" : 119,
+	"it_iconid" : 90000805,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_7"
+},
+{
+	"it_index" : 120,
+	"it_iconid" : 90000806,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_1"
+},
+{
+	"it_index" : 121,
+	"it_iconid" : 90000807,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_20"
+},
+{
+	"it_index" : 122,
+	"it_iconid" : 90000808,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_8"
+},
+{
+	"it_index" : 123,
+	"it_iconid" : 90000809,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_41"
+},
+{
+	"it_index" : 124,
+	"it_iconid" : 90000810,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_42"
+},
+{
+	"it_index" : 125,
+	"it_iconid" : 90000811,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_11"
+},
+{
+	"it_index" : 126,
+	"it_iconid" : 90000812,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_21"
+},
+{
+	"it_index" : 127,
+	"it_iconid" : 90000813,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_2"
+},
+{
+	"it_index" : 128,
+	"it_iconid" : 90000814,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_9"
+},
+{
+	"it_index" : 129,
+	"it_iconid" : 90000815,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_43"
+},
+{
+	"it_index" : 130,
+	"it_iconid" : 90000816,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_44"
+},
+{
+	"it_index" : 131,
+	"it_iconid" : 90000817,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_10"
+},
+{
+	"it_index" : 132,
+	"it_iconid" : 90000818,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_22"
+},
+{
+	"it_index" : 133,
+	"it_iconid" : 90000819,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_15"
+},
+{
+	"it_index" : 134,
+	"it_iconid" : 90000820,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_16"
+},
+{
+	"it_index" : 135,
+	"it_iconid" : 90000821,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_17"
+},
+{
+	"it_index" : 136,
+	"it_iconid" : 90000822,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_18"
+},
+{
+	"it_index" : 137,
+	"it_iconid" : 90000823,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_45"
+},
+{
+	"it_index" : 138,
+	"it_iconid" : 90000824,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_0"
+},
+{
+	"it_index" : 139,
+	"it_iconid" : 90000825,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_19"
+},
+{
+	"it_index" : 140,
+	"it_iconid" : 90000826,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_3"
+},
+{
+	"it_index" : 141,
+	"it_iconid" : 90000827,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_4"
+},
+{
+	"it_index" : 142,
+	"it_iconid" : 90000828,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_28"
+},
+{
+	"it_index" : 143,
+	"it_iconid" : 90000829,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_23"
+},
+{
+	"it_index" : 144,
+	"it_iconid" : 90000830,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_29"
+},
+{
+	"it_index" : 145,
+	"it_iconid" : 90000831,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_30"
+},
+{
+	"it_index" : 146,
+	"it_iconid" : 90000832,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_31"
+},
+{
+	"it_index" : 147,
+	"it_iconid" : 90000833,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_32"
+},
+{
+	"it_index" : 148,
+	"it_iconid" : 90000834,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_33"
+},
+{
+	"it_index" : 149,
+	"it_iconid" : 90000835,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_46"
+},
+{
+	"it_index" : 150,
+	"it_iconid" : 90000836,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_47"
+},
+{
+	"it_index" : 151,
+	"it_iconid" : 90000837,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_34"
+},
+{
+	"it_index" : 152,
+	"it_iconid" : 90000838,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_35"
+},
+{
+	"it_index" : 153,
+	"it_iconid" : 90000839,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_36"
+},
+{
+	"it_index" : 154,
+	"it_iconid" : 90000840,
+	"it_icontag" : "ICONTAG_MAP_MINIVIEW_37"
+},
+{
+	"it_index" : 155,
+	"it_iconid" : 90000900,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_27"
+},
+{
+	"it_index" : 156,
+	"it_iconid" : 90000901,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_13"
+},
+{
+	"it_index" : 157,
+	"it_iconid" : 90000902,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_1"
+},
+{
+	"it_index" : 158,
+	"it_iconid" : 90000903,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_120"
+},
+{
+	"it_index" : 159,
+	"it_iconid" : 90000904,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_104"
+},
+{
+	"it_index" : 160,
+	"it_iconid" : 90000905,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_128"
+},
+{
+	"it_index" : 161,
+	"it_iconid" : 90000906,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_5"
+},
+{
+	"it_index" : 162,
+	"it_iconid" : 90000907,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_6"
+},
+{
+	"it_index" : 163,
+	"it_iconid" : 90000908,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_7"
+},
+{
+	"it_index" : 164,
+	"it_iconid" : 90000909,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_8"
+},
+{
+	"it_index" : 165,
+	"it_iconid" : 90000910,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_9"
+},
+{
+	"it_index" : 166,
+	"it_iconid" : 90000911,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_10"
+},
+{
+	"it_index" : 167,
+	"it_iconid" : 90000912,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_11"
+},
+{
+	"it_index" : 168,
+	"it_iconid" : 90000913,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_12"
+},
+{
+	"it_index" : 169,
+	"it_iconid" : 90000914,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_14"
+},
+{
+	"it_index" : 170,
+	"it_iconid" : 90000915,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_15"
+},
+{
+	"it_index" : 171,
+	"it_iconid" : 90000916,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_16"
+},
+{
+	"it_index" : 172,
+	"it_iconid" : 90000917,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_17"
+},
+{
+	"it_index" : 173,
+	"it_iconid" : 90000918,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_18"
+},
+{
+	"it_index" : 174,
+	"it_iconid" : 90000919,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_19"
+},
+{
+	"it_index" : 175,
+	"it_iconid" : 90000920,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_20"
+},
+{
+	"it_index" : 176,
+	"it_iconid" : 90000921,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_21"
+},
+{
+	"it_index" : 177,
+	"it_iconid" : 90000922,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_22"
+},
+{
+	"it_index" : 178,
+	"it_iconid" : 90000923,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_23"
+},
+{
+	"it_index" : 179,
+	"it_iconid" : 90000924,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_24"
+},
+{
+	"it_index" : 180,
+	"it_iconid" : 90000925,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_25"
+},
+{
+	"it_index" : 181,
+	"it_iconid" : 90000926,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_26"
+},
+{
+	"it_index" : 182,
+	"it_iconid" : 90000927,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_28"
+},
+{
+	"it_index" : 183,
+	"it_iconid" : 90000928,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_29"
+},
+{
+	"it_index" : 184,
+	"it_iconid" : 90000929,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_30"
+},
+{
+	"it_index" : 185,
+	"it_iconid" : 90000930,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_31"
+},
+{
+	"it_index" : 186,
+	"it_iconid" : 90000931,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_32"
+},
+{
+	"it_index" : 187,
+	"it_iconid" : 90000932,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_101"
+},
+{
+	"it_index" : 188,
+	"it_iconid" : 90000933,
+	"it_icontag" : "ICONTAG_MAP_DETAIL_1027"
+},
+{
+	"it_index" : 189,
+	"it_iconid" : 90001000,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_27"
+},
+{
+	"it_index" : 190,
+	"it_iconid" : 90001001,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_13"
+},
+{
+	"it_index" : 191,
+	"it_iconid" : 90001002,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_5"
+},
+{
+	"it_index" : 192,
+	"it_iconid" : 90001003,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_6"
+},
+{
+	"it_index" : 193,
+	"it_iconid" : 90001004,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_7"
+},
+{
+	"it_index" : 194,
+	"it_iconid" : 90001005,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_120"
+},
+{
+	"it_index" : 195,
+	"it_iconid" : 90001006,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_14"
+},
+{
+	"it_index" : 196,
+	"it_iconid" : 90001007,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_1"
+},
+{
+	"it_index" : 197,
+	"it_iconid" : 90001008,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_8"
+},
+{
+	"it_index" : 198,
+	"it_iconid" : 90001009,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_20"
+},
+{
+	"it_index" : 199,
+	"it_iconid" : 90001010,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_41"
+},
+{
+	"it_index" : 200,
+	"it_iconid" : 90001011,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_42"
+},
+{
+	"it_index" : 201,
+	"it_iconid" : 90001012,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_11"
+},
+{
+	"it_index" : 202,
+	"it_iconid" : 90001013,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_21"
+},
+{
+	"it_index" : 203,
+	"it_iconid" : 90001014,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_2"
+},
+{
+	"it_index" : 204,
+	"it_iconid" : 90001015,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_9"
+},
+{
+	"it_index" : 205,
+	"it_iconid" : 90001016,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_10"
+},
+{
+	"it_index" : 206,
+	"it_iconid" : 90001017,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_22"
+},
+{
+	"it_index" : 207,
+	"it_iconid" : 90001018,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_15"
+},
+{
+	"it_index" : 208,
+	"it_iconid" : 90001019,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_16"
+},
+{
+	"it_index" : 209,
+	"it_iconid" : 90001020,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_17"
+},
+{
+	"it_index" : 210,
+	"it_iconid" : 90001021,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_18"
+},
+{
+	"it_index" : 211,
+	"it_iconid" : 90001022,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_19"
+},
+{
+	"it_index" : 212,
+	"it_iconid" : 90001023,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_3"
+},
+{
+	"it_index" : 213,
+	"it_iconid" : 90001024,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_4"
+},
+{
+	"it_index" : 214,
+	"it_iconid" : 90001025,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_28"
+},
+{
+	"it_index" : 215,
+	"it_iconid" : 90001026,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_23"
+},
+{
+	"it_index" : 216,
+	"it_iconid" : 90001027,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_29"
+},
+{
+	"it_index" : 217,
+	"it_iconid" : 90001028,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_30"
+},
+{
+	"it_index" : 218,
+	"it_iconid" : 90001029,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_31"
+},
+{
+	"it_index" : 219,
+	"it_iconid" : 90001030,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_32"
+},
+{
+	"it_index" : 220,
+	"it_iconid" : 90001031,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_33"
+},
+{
+	"it_index" : 221,
+	"it_iconid" : 90001032,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_46"
+},
+{
+	"it_index" : 222,
+	"it_iconid" : 90001033,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_47"
+},
+{
+	"it_index" : 223,
+	"it_iconid" : 90001034,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_34"
+},
+{
+	"it_index" : 224,
+	"it_iconid" : 90001035,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_35"
+},
+{
+	"it_index" : 225,
+	"it_iconid" : 90001036,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_36"
+},
+{
+	"it_index" : 226,
+	"it_iconid" : 90001037,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_37"
+},
+{
+	"it_index" : 227,
+	"it_iconid" : 90001100,
+	"it_icontag" : "ICONTAG_MSGBOARD_RED"
+},
+{
+	"it_index" : 228,
+	"it_iconid" : 90001101,
+	"it_icontag" : "ICONTAG_MSGBOARD_BLUE"
+},
+{
+	"it_index" : 229,
+	"it_iconid" : 90001200,
+	"it_icontag" : "ICONTAG_USER_GRADE_1"
+},
+{
+	"it_index" : 230,
+	"it_iconid" : 90001201,
+	"it_icontag" : "ICONTAG_USER_GRADE_2"
+},
+{
+	"it_index" : 231,
+	"it_iconid" : 90001202,
+	"it_icontag" : "ICONTAG_USER_GRADE_3"
+},
+{
+	"it_index" : 232,
+	"it_iconid" : 90001203,
+	"it_icontag" : "ICONTAG_USER_GRADE_4"
+},
+{
+	"it_index" : 233,
+	"it_iconid" : 90001204,
+	"it_icontag" : "ICONTAG_USER_GRADE_5"
+},
+{
+	"it_index" : 234,
+	"it_iconid" : 90001205,
+	"it_icontag" : "ICONTAG_USER_GRADE_6"
+},
+{
+	"it_index" : 235,
+	"it_iconid" : 90001206,
+	"it_icontag" : "ICONTAG_USER_GRADE_7"
+},
+{
+	"it_index" : 236,
+	"it_iconid" : 90001207,
+	"it_icontag" : "ICONTAG_USER_GRADE_8"
+},
+{
+	"it_index" : 237,
+	"it_iconid" : 90001208,
+	"it_icontag" : "ICONTAG_USER_GRADE_9"
+},
+{
+	"it_index" : 238,
+	"it_iconid" : 90001209,
+	"it_icontag" : "ICONTAG_USER_GRADE_10"
+},
+{
+	"it_index" : 239,
+	"it_iconid" : 90001210,
+	"it_icontag" : "ICONTAG_USER_GRADE_11"
+},
+{
+	"it_index" : 240,
+	"it_iconid" : 90001211,
+	"it_icontag" : "ICONTAG_USER_GRADE_12"
+},
+{
+	"it_index" : 241,
+	"it_iconid" : 90001212,
+	"it_icontag" : "ICONTAG_USER_GRADE_13"
+},
+{
+	"it_index" : 242,
+	"it_iconid" : 90001213,
+	"it_icontag" : "ICONTAG_USER_GRADE_14"
+},
+{
+	"it_index" : 243,
+	"it_iconid" : 90001214,
+	"it_icontag" : "ICONTAG_USER_GRADE_15"
+},
+{
+	"it_index" : 244,
+	"it_iconid" : 90001215,
+	"it_icontag" : "ICONTAG_USER_GRADE_16"
+},
+{
+	"it_index" : 245,
+	"it_iconid" : 90001216,
+	"it_icontag" : "ICONTAG_USER_GRADE_17"
+},
+{
+	"it_index" : 246,
+	"it_iconid" : 90001217,
+	"it_icontag" : "ICONTAG_USER_GRADE_18"
+},
+{
+	"it_index" : 247,
+	"it_iconid" : 90001218,
+	"it_icontag" : "ICONTAG_USER_GRADE_19"
+},
+{
+	"it_index" : 248,
+	"it_iconid" : 90001219,
+	"it_icontag" : "ICONTAG_USER_GRADE_20"
+},
+{
+	"it_index" : 249,
+	"it_iconid" : 90001220,
+	"it_icontag" : "ICONTAG_USER_GRADE_21"
+},
+{
+	"it_index" : 250,
+	"it_iconid" : 90001221,
+	"it_icontag" : "ICONTAG_USER_GRADE_22"
+},
+{
+	"it_index" : 251,
+	"it_iconid" : 90001222,
+	"it_icontag" : "ICONTAG_USER_GRADE_23"
+},
+{
+	"it_index" : 252,
+	"it_iconid" : 90001223,
+	"it_icontag" : "ICONTAG_USER_GRADE_24"
+},
+{
+	"it_index" : 253,
+	"it_iconid" : 90001224,
+	"it_icontag" : "ICONTAG_USER_GRADE_25"
+},
+{
+	"it_index" : 254,
+	"it_iconid" : 90001225,
+	"it_icontag" : "ICONTAG_USER_GRADE_26"
+},
+{
+	"it_index" : 255,
+	"it_iconid" : 90001226,
+	"it_icontag" : "ICONTAG_USER_GRADE_27"
+},
+{
+	"it_index" : 256,
+	"it_iconid" : 90001227,
+	"it_icontag" : "ICONTAG_USER_GRADE_28"
+},
+{
+	"it_index" : 257,
+	"it_iconid" : 90001228,
+	"it_icontag" : "ICONTAG_USER_GRADE_29"
+},
+{
+	"it_index" : 258,
+	"it_iconid" : 90001229,
+	"it_icontag" : "ICONTAG_USER_GRADE_30"
+},
+{
+	"it_index" : 259,
+	"it_iconid" : 90001230,
+	"it_icontag" : "ICONTAG_USER_GRADE_31"
+},
+{
+	"it_index" : 260,
+	"it_iconid" : 90001231,
+	"it_icontag" : "ICONTAG_USER_GRADE_32"
+},
+{
+	"it_index" : 261,
+	"it_iconid" : 90001232,
+	"it_icontag" : "ICONTAG_USER_GRADE_33"
+},
+{
+	"it_index" : 262,
+	"it_iconid" : 90001233,
+	"it_icontag" : "ICONTAG_USER_GRADE_34"
+},
+{
+	"it_index" : 263,
+	"it_iconid" : 90001234,
+	"it_icontag" : "ICONTAG_USER_GRADE_35"
+},
+{
+	"it_index" : 264,
+	"it_iconid" : 90001235,
+	"it_icontag" : "ICONTAG_USER_GRADE_36"
+},
+{
+	"it_index" : 265,
+	"it_iconid" : 90001236,
+	"it_icontag" : "ICONTAG_USER_GRADE_37"
+},
+{
+	"it_index" : 266,
+	"it_iconid" : 90001237,
+	"it_icontag" : "ICONTAG_USER_GRADE_38"
+},
+{
+	"it_index" : 267,
+	"it_iconid" : 90001238,
+	"it_icontag" : "ICONTAG_USER_GRADE_39"
+},
+{
+	"it_index" : 268,
+	"it_iconid" : 90001239,
+	"it_icontag" : "ICONTAG_USER_GRADE_40"
+},
+{
+	"it_index" : 269,
+	"it_iconid" : 90001240,
+	"it_icontag" : "ICONTAG_USER_GRADE_41"
+},
+{
+	"it_index" : 270,
+	"it_iconid" : 90001241,
+	"it_icontag" : "ICONTAG_USER_GRADE_42"
+},
+{
+	"it_index" : 271,
+	"it_iconid" : 90001242,
+	"it_icontag" : "ICONTAG_USER_GRADE_43"
+},
+{
+	"it_index" : 272,
+	"it_iconid" : 90001243,
+	"it_icontag" : "ICONTAG_USER_GRADE_44"
+},
+{
+	"it_index" : 273,
+	"it_iconid" : 90001244,
+	"it_icontag" : "ICONTAG_USER_GRADE_45"
+},
+{
+	"it_index" : 274,
+	"it_iconid" : 90001245,
+	"it_icontag" : "ICONTAG_USER_GRADE_46"
+},
+{
+	"it_index" : 275,
+	"it_iconid" : 90001246,
+	"it_icontag" : "ICONTAG_USER_GRADE_47"
+},
+{
+	"it_index" : 276,
+	"it_iconid" : 90001247,
+	"it_icontag" : "ICONTAG_USER_GRADE_48"
+},
+{
+	"it_index" : 277,
+	"it_iconid" : 90001248,
+	"it_icontag" : "ICONTAG_USER_GRADE_49"
+},
+{
+	"it_index" : 278,
+	"it_iconid" : 90001249,
+	"it_icontag" : "ICONTAG_USER_GRADE_50"
+},
+{
+	"it_index" : 279,
+	"it_iconid" : 90001250,
+	"it_icontag" : "ICONTAG_USER_GRADE_51"
+},
+{
+	"it_index" : 280,
+	"it_iconid" : 90001251,
+	"it_icontag" : "ICONTAG_USER_GRADE_52"
+},
+{
+	"it_index" : 281,
+	"it_iconid" : 90001252,
+	"it_icontag" : "ICONTAG_USER_GRADE_53"
+},
+{
+	"it_index" : 282,
+	"it_iconid" : 90001253,
+	"it_icontag" : "ICONTAG_USER_GRADE_54"
+},
+{
+	"it_index" : 283,
+	"it_iconid" : 90001254,
+	"it_icontag" : "ICONTAG_USER_GRADE_55"
+},
+{
+	"it_index" : 284,
+	"it_iconid" : 90001255,
+	"it_icontag" : "ICONTAG_USER_GRADE_56"
+},
+{
+	"it_index" : 285,
+	"it_iconid" : 90001256,
+	"it_icontag" : "ICONTAG_USER_GRADE_57"
+},
+{
+	"it_index" : 286,
+	"it_iconid" : 90001257,
+	"it_icontag" : "ICONTAG_USER_GRADE_58"
+},
+{
+	"it_index" : 287,
+	"it_iconid" : 90001258,
+	"it_icontag" : "ICONTAG_USER_GRADE_59"
+},
+{
+	"it_index" : 288,
+	"it_iconid" : 90001259,
+	"it_icontag" : "ICONTAG_USER_GRADE_60"
+},
+{
+	"it_index" : 289,
+	"it_iconid" : 90001260,
+	"it_icontag" : "ICONTAG_USER_GRADE_61"
+},
+{
+	"it_index" : 290,
+	"it_iconid" : 90001261,
+	"it_icontag" : "ICONTAG_USER_GRADE_62"
+},
+{
+	"it_index" : 291,
+	"it_iconid" : 90001262,
+	"it_icontag" : "ICONTAG_USER_GRADE_63"
+},
+{
+	"it_index" : 292,
+	"it_iconid" : 90001263,
+	"it_icontag" : "ICONTAG_USER_GRADE_64"
+},
+{
+	"it_index" : 293,
+	"it_iconid" : 90001264,
+	"it_icontag" : "ICONTAG_USER_GRADE_65"
+},
+{
+	"it_index" : 294,
+	"it_iconid" : 90001265,
+	"it_icontag" : "ICONTAG_USER_GRADE_66"
+},
+{
+	"it_index" : 295,
+	"it_iconid" : 90001266,
+	"it_icontag" : "ICONTAG_USER_GRADE_67"
+},
+{
+	"it_index" : 296,
+	"it_iconid" : 90001267,
+	"it_icontag" : "ICONTAG_USER_GRADE_68"
+},
+{
+	"it_index" : 297,
+	"it_iconid" : 90001268,
+	"it_icontag" : "ICONTAG_USER_GRADE_69"
+},
+{
+	"it_index" : 298,
+	"it_iconid" : 90001269,
+	"it_icontag" : "ICONTAG_USER_GRADE_70"
+},
+{
+	"it_index" : 299,
+	"it_iconid" : 90001270,
+	"it_icontag" : "ICONTAG_USER_GRADE_71"
+},
+{
+	"it_index" : 300,
+	"it_iconid" : 90001271,
+	"it_icontag" : "ICONTAG_USER_GRADE_72"
+},
+{
+	"it_index" : 301,
+	"it_iconid" : 90001272,
+	"it_icontag" : "ICONTAG_USER_GRADE_73"
+},
+{
+	"it_index" : 302,
+	"it_iconid" : 90001273,
+	"it_icontag" : "ICONTAG_USER_GRADE_74"
+},
+{
+	"it_index" : 303,
+	"it_iconid" : 90001274,
+	"it_icontag" : "ICONTAG_USER_GRADE_75"
+},
+{
+	"it_index" : 304,
+	"it_iconid" : 90001275,
+	"it_icontag" : "ICONTAG_USER_GRADE_76"
+},
+{
+	"it_index" : 305,
+	"it_iconid" : 90001276,
+	"it_icontag" : "ICONTAG_USER_GRADE_77"
+},
+{
+	"it_index" : 306,
+	"it_iconid" : 90001277,
+	"it_icontag" : "ICONTAG_USER_GRADE_78"
+},
+{
+	"it_index" : 307,
+	"it_iconid" : 90001278,
+	"it_icontag" : "ICONTAG_USER_GRADE_79"
+},
+{
+	"it_index" : 308,
+	"it_iconid" : 90001279,
+	"it_icontag" : "ICONTAG_USER_GRADE_80"
+},
+{
+	"it_index" : 309,
+	"it_iconid" : 90001280,
+	"it_icontag" : "ICONTAG_USER_GRADE_81"
+},
+{
+	"it_index" : 310,
+	"it_iconid" : 90001281,
+	"it_icontag" : "ICONTAG_USER_GRADE_82"
+},
+{
+	"it_index" : 311,
+	"it_iconid" : 90001282,
+	"it_icontag" : "ICONTAG_USER_GRADE_83"
+},
+{
+	"it_index" : 312,
+	"it_iconid" : 90001283,
+	"it_icontag" : "ICONTAG_USER_GRADE_84"
+},
+{
+	"it_index" : 313,
+	"it_iconid" : 90001284,
+	"it_icontag" : "ICONTAG_USER_GRADE_85"
+},
+{
+	"it_index" : 314,
+	"it_iconid" : 90001285,
+	"it_icontag" : "ICONTAG_USER_GRADE_86"
+},
+{
+	"it_index" : 315,
+	"it_iconid" : 90001286,
+	"it_icontag" : "ICONTAG_USER_GRADE_87"
+},
+{
+	"it_index" : 316,
+	"it_iconid" : 90001287,
+	"it_icontag" : "ICONTAG_USER_GRADE_88"
+},
+{
+	"it_index" : 317,
+	"it_iconid" : 90001288,
+	"it_icontag" : "ICONTAG_USER_GRADE_89"
+},
+{
+	"it_index" : 318,
+	"it_iconid" : 90001289,
+	"it_icontag" : "ICONTAG_USER_GRADE_90"
+},
+{
+	"it_index" : 319,
+	"it_iconid" : 90001290,
+	"it_icontag" : "ICONTAG_USER_GRADE_91"
+},
+{
+	"it_index" : 320,
+	"it_iconid" : 90001291,
+	"it_icontag" : "ICONTAG_USER_GRADE_92"
+},
+{
+	"it_index" : 321,
+	"it_iconid" : 90001292,
+	"it_icontag" : "ICONTAG_USER_GRADE_93"
+},
+{
+	"it_index" : 322,
+	"it_iconid" : 90001293,
+	"it_icontag" : "ICONTAG_USER_GRADE_94"
+},
+{
+	"it_index" : 323,
+	"it_iconid" : 90001294,
+	"it_icontag" : "ICONTAG_USER_GRADE_95"
+},
+{
+	"it_index" : 324,
+	"it_iconid" : 90001295,
+	"it_icontag" : "ICONTAG_USER_GRADE_96"
+},
+{
+	"it_index" : 325,
+	"it_iconid" : 90001296,
+	"it_icontag" : "ICONTAG_USER_GRADE_97"
+},
+{
+	"it_index" : 326,
+	"it_iconid" : 90001297,
+	"it_icontag" : "ICONTAG_USER_GRADE_98"
+},
+{
+	"it_index" : 327,
+	"it_iconid" : 90001298,
+	"it_icontag" : "ICONTAG_USER_GRADE_99"
+},
+{
+	"it_index" : 328,
+	"it_iconid" : 90001299,
+	"it_icontag" : "ICONTAG_USER_GRADE_100"
+},
+{
+	"it_index" : 329,
+	"it_iconid" : 90001300,
+	"it_icontag" : "ICONTAG_USER_GRADE_101"
+},
+{
+	"it_index" : 330,
+	"it_iconid" : 90001301,
+	"it_icontag" : "ICONTAG_USER_GRADE_UP"
+},
+{
+	"it_index" : 331,
+	"it_iconid" : 90001302,
+	"it_icontag" : "ICONTAG_ITEM_PCBANG"
+},
+{
+	"it_index" : 332,
+	"it_iconid" : 90001303,
+	"it_icontag" : "ICONTAG_USER_GRADE_102"
+},
+{
+	"it_index" : 333,
+	"it_iconid" : 90001304,
+	"it_icontag" : "ICONTAG_USER_GRADE_103"
+},
+{
+	"it_index" : 334,
+	"it_iconid" : 90001305,
+	"it_icontag" : "ICONTAG_USER_GRADE_104"
+},
+{
+	"it_index" : 335,
+	"it_iconid" : 90001306,
+	"it_icontag" : "ICONTAG_USER_GRADE_105"
+},
+{
+	"it_index" : 336,
+	"it_iconid" : 90001307,
+	"it_icontag" : "ICONTAG_USER_GRADE_106"
+},
+{
+	"it_index" : 337,
+	"it_iconid" : 90001400,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_1"
+},
+{
+	"it_index" : 338,
+	"it_iconid" : 90001401,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_2"
+},
+{
+	"it_index" : 339,
+	"it_iconid" : 90001402,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_3"
+},
+{
+	"it_index" : 340,
+	"it_iconid" : 90001403,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_4"
+},
+{
+	"it_index" : 341,
+	"it_iconid" : 90001404,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_5"
+},
+{
+	"it_index" : 342,
+	"it_iconid" : 90001405,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_6"
+},
+{
+	"it_index" : 343,
+	"it_iconid" : 90001406,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_7"
+},
+{
+	"it_index" : 344,
+	"it_iconid" : 90001407,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_8"
+},
+{
+	"it_index" : 345,
+	"it_iconid" : 90001408,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_9"
+},
+{
+	"it_index" : 346,
+	"it_iconid" : 90001409,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_10"
+},
+{
+	"it_index" : 347,
+	"it_iconid" : 90001410,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_11"
+},
+{
+	"it_index" : 348,
+	"it_iconid" : 90001411,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_12"
+},
+{
+	"it_index" : 349,
+	"it_iconid" : 90001412,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_13"
+},
+{
+	"it_index" : 350,
+	"it_iconid" : 90001413,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_14"
+},
+{
+	"it_index" : 351,
+	"it_iconid" : 90001414,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_15"
+},
+{
+	"it_index" : 352,
+	"it_iconid" : 90001415,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_16"
+},
+{
+	"it_index" : 353,
+	"it_iconid" : 90001416,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_17"
+},
+{
+	"it_index" : 354,
+	"it_iconid" : 90001417,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_18"
+},
+{
+	"it_index" : 355,
+	"it_iconid" : 90001418,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_19"
+},
+{
+	"it_index" : 356,
+	"it_iconid" : 90001419,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_20"
+},
+{
+	"it_index" : 357,
+	"it_iconid" : 90001420,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_21"
+},
+{
+	"it_index" : 358,
+	"it_iconid" : 90001421,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_22"
+},
+{
+	"it_index" : 359,
+	"it_iconid" : 90001422,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_23"
+},
+{
+	"it_index" : 360,
+	"it_iconid" : 90001423,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_24"
+},
+{
+	"it_index" : 361,
+	"it_iconid" : 90001424,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_25"
+},
+{
+	"it_index" : 362,
+	"it_iconid" : 90001425,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_26"
+},
+{
+	"it_index" : 363,
+	"it_iconid" : 90001426,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_27"
+},
+{
+	"it_index" : 364,
+	"it_iconid" : 90001427,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_28"
+},
+{
+	"it_index" : 365,
+	"it_iconid" : 90001428,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_29"
+},
+{
+	"it_index" : 366,
+	"it_iconid" : 90001429,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_30"
+},
+{
+	"it_index" : 367,
+	"it_iconid" : 90001430,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_ETC_01"
+},
+{
+	"it_index" : 368,
+	"it_iconid" : 90001431,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_ETC_02"
+},
+{
+	"it_index" : 369,
+	"it_iconid" : 90001432,
+	"it_icontag" : "ICONTAG_USER_CLANMARK_ETC_03"
+},
+{
+	"it_index" : 370,
+	"it_iconid" : 90001500,
+	"it_icontag" : ""
+},
+{
+	"it_index" : 371,
+	"it_iconid" : 90001501,
+	"it_icontag" : ""
+},
+{
+	"it_index" : 372,
+	"it_iconid" : 90001502,
+	"it_icontag" : ""
+},
+{
+	"it_index" : 373,
+	"it_iconid" : 90001503,
+	"it_icontag" : ""
+},
+{
+	"it_index" : 374,
+	"it_iconid" : 90001504,
+	"it_icontag" : ""
+},
+{
+	"it_index" : 375,
+	"it_iconid" : 90001600,
+	"it_icontag" : "ICONTAG_ETC_PING_1"
+},
+{
+	"it_index" : 376,
+	"it_iconid" : 90001601,
+	"it_icontag" : "ICONTAG_ETC_PING_2"
+},
+{
+	"it_index" : 377,
+	"it_iconid" : 90001602,
+	"it_icontag" : "ICONTAG_ETC_PING_3"
+},
+{
+	"it_index" : 378,
+	"it_iconid" : 90001603,
+	"it_icontag" : "ICONTAG_ETC_PING_4"
+},
+{
+	"it_index" : 379,
+	"it_iconid" : 90001604,
+	"it_icontag" : "ICONTAG_ETC_LETTER_UNCONFIRMED"
+},
+{
+	"it_index" : 380,
+	"it_iconid" : 90001605,
+	"it_icontag" : "ICONTAG_ETC_LETTER_CONFIRMED"
+},
+{
+	"it_index" : 381,
+	"it_iconid" : 90001606,
+	"it_icontag" : "ICONTAG_ETC_MASTER"
+},
+{
+	"it_index" : 382,
+	"it_iconid" : 90001607,
+	"it_icontag" : "ICONTAG_ETC_TABBOARD_DEATH"
+},
+{
+	"it_index" : 383,
+	"it_iconid" : 90001608,
+	"it_icontag" : "ICONTAG_ETC_TABBOARD_ENEMY"
+},
+{
+	"it_index" : 384,
+	"it_iconid" : 90001609,
+	"it_icontag" : "ICONTAG_ETC_LOCK"
+},
+{
+	"it_index" : 385,
+	"it_iconid" : 90001610,
+	"it_icontag" : "ICONTAG_ETC_QUICKRANK"
+},
+{
+	"it_index" : 386,
+	"it_iconid" : 90001611,
+	"it_icontag" : "ICONTAG_ETC_QUICKRANKUP"
+},
+{
+	"it_index" : 387,
+	"it_iconid" : 90001612,
+	"it_icontag" : "ICONTAG_ETC_QUICKRANKDOWN"
+},
+{
+	"it_index" : 388,
+	"it_iconid" : 90001613,
+	"it_icontag" : "ICONTAG_ETC_BATTLE"
+},
+{
+	"it_index" : 389,
+	"it_iconid" : 90001614,
+	"it_icontag" : "ICONTAG_ETC_STANDBY"
+},
+{
+	"it_index" : 390,
+	"it_iconid" : 90001615,
+	"it_icontag" : "ICONTAG_ETC_READY"
+},
+{
+	"it_index" : 391,
+	"it_iconid" : 90001616,
+	"it_icontag" : "ICONTAG_ETC_PRESENT"
+},
+{
+	"it_index" : 392,
+	"it_iconid" : 90001617,
+	"it_icontag" : "ICONTAG_ETC_BOMB"
+},
+{
+	"it_index" : 393,
+	"it_iconid" : 90001650,
+	"it_icontag" : "ICONTAG_ETC_BONUS_PC"
+},
+{
+	"it_index" : 394,
+	"it_iconid" : 90001651,
+	"it_icontag" : "ICONTAG_ETC_BONUS_ITEM"
+},
+{
+	"it_index" : 395,
+	"it_iconid" : 90001652,
+	"it_icontag" : "ICONTAG_ETC_BONUS_EVENT"
+},
+{
+	"it_index" : 396,
+	"it_iconid" : 90001654,
+	"it_icontag" : "ICONTAG_ETC_MOCK_IMPOSSIBLE"
+},
+{
+	"it_index" : 397,
+	"it_iconid" : 90001655,
+	"it_icontag" : "ICONTAG_ETC_MOCK_IMPOSSIBLE_ROOMLOCK"
+},
+{
+	"it_index" : 398,
+	"it_iconid" : 90001656,
+	"it_icontag" : "ICONTAG_ETC_BONUS_RANDOMMAP"
+},
+{
+	"it_index" : 399,
+	"it_iconid" : 90001657,
+	"it_icontag" : "ICONTAG_ETC_BONUS_VIP"
+},
+{
+	"it_index" : 400,
+	"it_iconid" : 90001670,
+	"it_icontag" : "ICONTAG_ETC_CLOSE_ITEM_WEAPON"
+},
+{
+	"it_index" : 401,
+	"it_iconid" : 90001671,
+	"it_icontag" : "ICONTAG_ETC_CLOSE_ITEM"
+},
+{
+	"it_index" : 402,
+	"it_iconid" : 90001672,
+	"it_icontag" : "ICONTAG_ETC_SEAL_ITEM"
+},
+{
+	"it_index" : 403,
+	"it_iconid" : 90001680,
+	"it_icontag" : "ICONTAG_ETC_DESTROY_ITEM"
+},
+{
+	"it_index" : 404,
+	"it_iconid" : 90001690,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_1"
+},
+{
+	"it_index" : 405,
+	"it_iconid" : 90001691,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_2"
+},
+{
+	"it_index" : 406,
+	"it_iconid" : 90001692,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_3"
+},
+{
+	"it_index" : 407,
+	"it_iconid" : 90001693,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_4"
+},
+{
+	"it_index" : 408,
+	"it_iconid" : 90001694,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_5"
+},
+{
+	"it_index" : 409,
+	"it_iconid" : 90001695,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_6"
+},
+{
+	"it_index" : 410,
+	"it_iconid" : 90001696,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_7"
+},
+{
+	"it_index" : 411,
+	"it_iconid" : 90001697,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_8"
+},
+{
+	"it_index" : 412,
+	"it_iconid" : 90001698,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_9"
+},
+{
+	"it_index" : 413,
+	"it_iconid" : 90001699,
+	"it_icontag" : "ICONTAG_ETC_SEAL_GRADE_10"
+},
+{
+	"it_index" : 414,
+	"it_iconid" : 90001700,
+	"it_icontag" : "ICONTAG_ROOM_MOD_TDM"
+},
+{
+	"it_index" : 415,
+	"it_iconid" : 90001701,
+	"it_icontag" : "ICONTAG_ROOM_MOD_GRM"
+},
+{
+	"it_index" : 416,
+	"it_iconid" : 90001702,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CTA"
+},
+{
+	"it_index" : 417,
+	"it_iconid" : 90001703,
+	"it_icontag" : "ICONTAG_ROOM_MOD_FFA"
+},
+{
+	"it_index" : 418,
+	"it_iconid" : 90001704,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CTF"
+},
+{
+	"it_index" : 419,
+	"it_iconid" : 90001705,
+	"it_icontag" : "ICONTAG_ROOM_MOD_ITM"
+},
+{
+	"it_index" : 420,
+	"it_iconid" : 90001706,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CTM"
+},
+{
+	"it_index" : 421,
+	"it_iconid" : 90001707,
+	"it_icontag" : "ICONTAG_ROOM_MOD_SAB"
+},
+{
+	"it_index" : 422,
+	"it_iconid" : 90001708,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CIM"
+},
+{
+	"it_index" : 423,
+	"it_iconid" : 90001709,
+	"it_icontag" : "ICONTAG_ROOM_MOD_ZSM"
+},
+{
+	"it_index" : 424,
+	"it_iconid" : 90001710,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CCTA"
+},
+{
+	"it_index" : 425,
+	"it_iconid" : 90001711,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CFFA"
+},
+{
+	"it_index" : 426,
+	"it_iconid" : 90001712,
+	"it_icontag" : "ICONTAG_ROOM_MOD_CCTF"
+},
+{
+	"it_index" : 427,
+	"it_iconid" : 90001713,
+	"it_icontag" : "ICONTAG_ROOM_MOD_C1"
+},
+{
+	"it_index" : 428,
+	"it_iconid" : 90001714,
+	"it_icontag" : "ICONTAG_ROOM_MOD_C2"
+},
+{
+	"it_index" : 429,
+	"it_iconid" : 90001715,
+	"it_icontag" : "ICONTAG_ROOM_MOD_C3"
+},
+{
+	"it_index" : 430,
+	"it_iconid" : 90001716,
+	"it_icontag" : "ICONTAG_ROOM_MOD_MOC"
+},
+{
+	"it_index" : 431,
+	"it_iconid" : 90001717,
+	"it_icontag" : "ICONTAG_ROOM_MOD_BMB"
+},
+{
+	"it_index" : 432,
+	"it_iconid" : 90001718,
+	"it_icontag" : "ICONTAG_ROOM_MOD_PVE"
+},
+{
+	"it_index" : 433,
+	"it_iconid" : 90001719,
+	"it_icontag" : "ICONTAG_ROOM_MOD_SNI"
+},
+{
+	"it_index" : 434,
+	"it_iconid" : 90001720,
+	"it_icontag" : "ICONTAG_ROOM_MOD_NOD"
+},
+{
+	"it_index" : 435,
+	"it_iconid" : 90001721,
+	"it_icontag" : "ICONTAG_ROOM_MOD_BOT"
+},
+{
+	"it_index" : 436,
+	"it_iconid" : 90001800,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_KNIFE_DE"
+},
+{
+	"it_index" : 437,
+	"it_iconid" : 90001801,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_KNIFE_OVER"
+},
+{
+	"it_index" : 438,
+	"it_iconid" : 90001802,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_KNIFE_MOVE"
+},
+{
+	"it_index" : 439,
+	"it_iconid" : 90001803,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_RIFLE_DE"
+},
+{
+	"it_index" : 440,
+	"it_iconid" : 90001804,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_RIFLE_OVER"
+},
+{
+	"it_index" : 441,
+	"it_iconid" : 90001805,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_RIFLE_MOVE"
+},
+{
+	"it_index" : 442,
+	"it_iconid" : 90001806,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SHOTGUN_DE"
+},
+{
+	"it_index" : 443,
+	"it_iconid" : 90001807,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SHOTGUN_OVER"
+},
+{
+	"it_index" : 444,
+	"it_iconid" : 90001808,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SHOTGUN_MOVE"
+},
+{
+	"it_index" : 445,
+	"it_iconid" : 90001809,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SNIPER_DE"
+},
+{
+	"it_index" : 446,
+	"it_iconid" : 90001810,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SNIPER_OVER"
+},
+{
+	"it_index" : 447,
+	"it_iconid" : 90001811,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_SNIPER_MOVE"
+},
+{
+	"it_index" : 448,
+	"it_iconid" : 90001812,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GATLING_DE"
+},
+{
+	"it_index" : 449,
+	"it_iconid" : 90001813,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GATLING_OVER"
+},
+{
+	"it_index" : 450,
+	"it_iconid" : 90001814,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GATLING_MOVE"
+},
+{
+	"it_index" : 451,
+	"it_iconid" : 90001815,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_LAUNCHER_DE"
+},
+{
+	"it_index" : 452,
+	"it_iconid" : 90001816,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_LAUNCHER_OVER"
+},
+{
+	"it_index" : 453,
+	"it_iconid" : 90001817,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_LAUNCHER_MOVE"
+},
+{
+	"it_index" : 454,
+	"it_iconid" : 90001818,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GRANADE_DE"
+},
+{
+	"it_index" : 455,
+	"it_iconid" : 90001819,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GRANADE_OVER"
+},
+{
+	"it_index" : 456,
+	"it_iconid" : 90001820,
+	"it_icontag" : "ICONTAG_ROOM_KEYMAP_GRANADE_MOVE"
+},
+{
+	"it_index" : 457,
+	"it_iconid" : 90001900,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_13"
+},
+{
+	"it_index" : 458,
+	"it_iconid" : 90001901,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_27"
+},
+{
+	"it_index" : 459,
+	"it_iconid" : 90001902,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_5"
+},
+{
+	"it_index" : 460,
+	"it_iconid" : 90001903,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_14"
+},
+{
+	"it_index" : 461,
+	"it_iconid" : 90001904,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_6"
+},
+{
+	"it_index" : 462,
+	"it_iconid" : 90001905,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_7"
+},
+{
+	"it_index" : 463,
+	"it_iconid" : 90001906,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_1"
+},
+{
+	"it_index" : 464,
+	"it_iconid" : 90001907,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_20"
+},
+{
+	"it_index" : 465,
+	"it_iconid" : 90001908,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_8"
+},
+{
+	"it_index" : 466,
+	"it_iconid" : 90001909,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_11"
+},
+{
+	"it_index" : 467,
+	"it_iconid" : 90001910,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_21"
+},
+{
+	"it_index" : 468,
+	"it_iconid" : 90001911,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_2"
+},
+{
+	"it_index" : 469,
+	"it_iconid" : 90001912,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_9"
+},
+{
+	"it_index" : 470,
+	"it_iconid" : 90001913,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_10"
+},
+{
+	"it_index" : 471,
+	"it_iconid" : 90001914,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_22"
+},
+{
+	"it_index" : 472,
+	"it_iconid" : 90001915,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_15"
+},
+{
+	"it_index" : 473,
+	"it_iconid" : 90001916,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_16"
+},
+{
+	"it_index" : 474,
+	"it_iconid" : 90001917,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_17"
+},
+{
+	"it_index" : 475,
+	"it_iconid" : 90001918,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_18"
+},
+{
+	"it_index" : 476,
+	"it_iconid" : 90001919,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_45"
+},
+{
+	"it_index" : 477,
+	"it_iconid" : 90001920,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_0"
+},
+{
+	"it_index" : 478,
+	"it_iconid" : 90001921,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_19"
+},
+{
+	"it_index" : 479,
+	"it_iconid" : 90001922,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_3"
+},
+{
+	"it_index" : 480,
+	"it_iconid" : 90001923,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_4"
+},
+{
+	"it_index" : 481,
+	"it_iconid" : 90001924,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_28"
+},
+{
+	"it_index" : 482,
+	"it_iconid" : 90001925,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_23"
+},
+{
+	"it_index" : 483,
+	"it_iconid" : 90001926,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_29"
+},
+{
+	"it_index" : 484,
+	"it_iconid" : 90001927,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_30"
+},
+{
+	"it_index" : 485,
+	"it_iconid" : 90001928,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_31"
+},
+{
+	"it_index" : 486,
+	"it_iconid" : 90001929,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_32"
+},
+{
+	"it_index" : 487,
+	"it_iconid" : 90001930,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_33"
+},
+{
+	"it_index" : 488,
+	"it_iconid" : 90001931,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_46"
+},
+{
+	"it_index" : 489,
+	"it_iconid" : 90001932,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_47"
+},
+{
+	"it_index" : 490,
+	"it_iconid" : 90001933,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_34"
+},
+{
+	"it_index" : 491,
+	"it_iconid" : 90001934,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_35"
+},
+{
+	"it_index" : 492,
+	"it_iconid" : 90001935,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_36"
+},
+{
+	"it_index" : 493,
+	"it_iconid" : 90001936,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_37"
+},
+{
+	"it_index" : 494,
+	"it_iconid" : 90001999,
+	"it_icontag" : "ICONTAG_ROOM_MAP_TITLE_915"
+},
+{
+	"it_index" : 495,
+	"it_iconid" : 90002000,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_A_1"
+},
+{
+	"it_index" : 496,
+	"it_iconid" : 90002001,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_A_2"
+},
+{
+	"it_index" : 497,
+	"it_iconid" : 90002002,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_A_3"
+},
+{
+	"it_index" : 498,
+	"it_iconid" : 90002003,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_A_4"
+},
+{
+	"it_index" : 499,
+	"it_iconid" : 90002004,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_B_1"
+},
+{
+	"it_index" : 500,
+	"it_iconid" : 90002005,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_B_2"
+},
+{
+	"it_index" : 501,
+	"it_iconid" : 90002006,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_B_3"
+},
+{
+	"it_index" : 502,
+	"it_iconid" : 90002007,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_B_4"
+},
+{
+	"it_index" : 503,
+	"it_iconid" : 90002008,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_C_1"
+},
+{
+	"it_index" : 504,
+	"it_iconid" : 90002009,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_C_2"
+},
+{
+	"it_index" : 505,
+	"it_iconid" : 90002010,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_C_3"
+},
+{
+	"it_index" : 506,
+	"it_iconid" : 90002011,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_C_4"
+},
+{
+	"it_index" : 507,
+	"it_iconid" : 90002012,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_D_1"
+},
+{
+	"it_index" : 508,
+	"it_iconid" : 90002013,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_D_2"
+},
+{
+	"it_index" : 509,
+	"it_iconid" : 90002014,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_D_3"
+},
+{
+	"it_index" : 510,
+	"it_iconid" : 90002015,
+	"it_icontag" : "ICONTAG_CHAR_SELECT_D_4"
+},
+{
+	"it_index" : 511,
+	"it_iconid" : 90002100,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_KNIFE"
+},
+{
+	"it_index" : 512,
+	"it_iconid" : 90002101,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_RIFLE"
+},
+{
+	"it_index" : 513,
+	"it_iconid" : 90002102,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_SHOTGUN"
+},
+{
+	"it_index" : 514,
+	"it_iconid" : 90002103,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_SNIPER"
+},
+{
+	"it_index" : 515,
+	"it_iconid" : 90002104,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_GATLING"
+},
+{
+	"it_index" : 516,
+	"it_iconid" : 90002105,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_LAUNCHER"
+},
+{
+	"it_index" : 517,
+	"it_iconid" : 90002106,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_GRANADE"
+},
+{
+	"it_index" : 518,
+	"it_iconid" : 90002107,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SMALL_BOMB"
+},
+{
+	"it_index" : 519,
+	"it_iconid" : 90002108,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_KNIFE"
+},
+{
+	"it_index" : 520,
+	"it_iconid" : 90002109,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_RIFLE"
+},
+{
+	"it_index" : 521,
+	"it_iconid" : 90002110,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_SHOTGUN"
+},
+{
+	"it_index" : 522,
+	"it_iconid" : 90002111,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_SNIPER"
+},
+{
+	"it_index" : 523,
+	"it_iconid" : 90002112,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_GATLING"
+},
+{
+	"it_index" : 524,
+	"it_iconid" : 90002113,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_LAUNCHER"
+},
+{
+	"it_index" : 525,
+	"it_iconid" : 90002114,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_GRANADE"
+},
+{
+	"it_index" : 526,
+	"it_iconid" : 90002115,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_NO_BOMB"
+},
+{
+	"it_index" : 527,
+	"it_iconid" : 90002116,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_KNIFE"
+},
+{
+	"it_index" : 528,
+	"it_iconid" : 90002117,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_RIFLE"
+},
+{
+	"it_index" : 529,
+	"it_iconid" : 90002118,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_SHOTGUN"
+},
+{
+	"it_index" : 530,
+	"it_iconid" : 90002119,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_SNIPER"
+},
+{
+	"it_index" : 531,
+	"it_iconid" : 90002120,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_GATLING"
+},
+{
+	"it_index" : 532,
+	"it_iconid" : 90002121,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_LAUNCHER"
+},
+{
+	"it_index" : 533,
+	"it_iconid" : 90002122,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_GRANADE"
+},
+{
+	"it_index" : 534,
+	"it_iconid" : 90002123,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_BIG_BOMB"
+},
+{
+	"it_index" : 535,
+	"it_iconid" : 90002124,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_KNIFE"
+},
+{
+	"it_index" : 536,
+	"it_iconid" : 90002125,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_RIFLE"
+},
+{
+	"it_index" : 537,
+	"it_iconid" : 90002126,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_SHOTGUN"
+},
+{
+	"it_index" : 538,
+	"it_iconid" : 90002127,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_SNIPER"
+},
+{
+	"it_index" : 539,
+	"it_iconid" : 90002128,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_GATLING"
+},
+{
+	"it_index" : 540,
+	"it_iconid" : 90002129,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_LAUNCHER"
+},
+{
+	"it_index" : 541,
+	"it_iconid" : 90002130,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_GRANADE"
+},
+{
+	"it_index" : 542,
+	"it_iconid" : 90002131,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_WARNING_BOMB"
+},
+{
+	"it_index" : 543,
+	"it_iconid" : 90002200,
+	"it_icontag" : "ICONTAG_BATTLEEND_TEAM_WIN"
+},
+{
+	"it_index" : 544,
+	"it_iconid" : 90002201,
+	"it_icontag" : "ICONTAG_BATTLEEND_TEAM_LOSE"
+},
+{
+	"it_index" : 545,
+	"it_iconid" : 90002202,
+	"it_icontag" : "ICONTAG_BATTLEEND_TEAM_DRAW"
+},
+{
+	"it_index" : 546,
+	"it_iconid" : 90002203,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_1"
+},
+{
+	"it_index" : 547,
+	"it_iconid" : 90002204,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_2"
+},
+{
+	"it_index" : 548,
+	"it_iconid" : 90002205,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_3"
+},
+{
+	"it_index" : 549,
+	"it_iconid" : 90002206,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_4"
+},
+{
+	"it_index" : 550,
+	"it_iconid" : 90002207,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_5"
+},
+{
+	"it_index" : 551,
+	"it_iconid" : 90002208,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_6"
+},
+{
+	"it_index" : 552,
+	"it_iconid" : 90002209,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_7"
+},
+{
+	"it_index" : 553,
+	"it_iconid" : 90002210,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_8"
+},
+{
+	"it_index" : 554,
+	"it_iconid" : 90002211,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_9"
+},
+{
+	"it_index" : 555,
+	"it_iconid" : 90002212,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_10"
+},
+{
+	"it_index" : 556,
+	"it_iconid" : 90002213,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_11"
+},
+{
+	"it_index" : 557,
+	"it_iconid" : 90002214,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_12"
+},
+{
+	"it_index" : 558,
+	"it_iconid" : 90002215,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_13"
+},
+{
+	"it_index" : 559,
+	"it_iconid" : 90002216,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_14"
+},
+{
+	"it_index" : 560,
+	"it_iconid" : 90002217,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_15"
+},
+{
+	"it_index" : 561,
+	"it_iconid" : 90002218,
+	"it_icontag" : "ICONTAG_BATTLEEND_FFA_RANK_16"
+},
+{
+	"it_index" : 562,
+	"it_iconid" : 90002219,
+	"it_icontag" : "ICONTAG_BATTLEEND_WATCH_END"
+},
+{
+	"it_index" : 563,
+	"it_iconid" : 90002300,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_1"
+},
+{
+	"it_index" : 564,
+	"it_iconid" : 90002301,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_2"
+},
+{
+	"it_index" : 565,
+	"it_iconid" : 90002302,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_3"
+},
+{
+	"it_index" : 566,
+	"it_iconid" : 90002303,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_4"
+},
+{
+	"it_index" : 567,
+	"it_iconid" : 90002304,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_5"
+},
+{
+	"it_index" : 568,
+	"it_iconid" : 90002305,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_6"
+},
+{
+	"it_index" : 569,
+	"it_iconid" : 90002306,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_7"
+},
+{
+	"it_index" : 570,
+	"it_iconid" : 90002307,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_8"
+},
+{
+	"it_index" : 571,
+	"it_iconid" : 90002308,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_9"
+},
+{
+	"it_index" : 572,
+	"it_iconid" : 90002309,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_10"
+},
+{
+	"it_index" : 573,
+	"it_iconid" : 90002310,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_11"
+},
+{
+	"it_index" : 574,
+	"it_iconid" : 90002311,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_12"
+},
+{
+	"it_index" : 575,
+	"it_iconid" : 90002312,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_13"
+},
+{
+	"it_index" : 576,
+	"it_iconid" : 90002313,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_14"
+},
+{
+	"it_index" : 577,
+	"it_iconid" : 90002314,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_15"
+},
+{
+	"it_index" : 578,
+	"it_iconid" : 90002315,
+	"it_icontag" : "ICONTAG_BATTLEEND_USER_RANK_16"
+},
+{
+	"it_index" : 579,
+	"it_iconid" : 90002400,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_TDM"
+},
+{
+	"it_index" : 580,
+	"it_iconid" : 90002401,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_GRM"
+},
+{
+	"it_index" : 581,
+	"it_iconid" : 90002402,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_DOM"
+},
+{
+	"it_index" : 582,
+	"it_iconid" : 90002403,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_FFA"
+},
+{
+	"it_index" : 583,
+	"it_iconid" : 90002404,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_CTF"
+},
+{
+	"it_index" : 584,
+	"it_iconid" : 90002405,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_ITM"
+},
+{
+	"it_index" : 585,
+	"it_iconid" : 90002406,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_CTM"
+},
+{
+	"it_index" : 586,
+	"it_iconid" : 90002407,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_SAB"
+},
+{
+	"it_index" : 587,
+	"it_iconid" : 90002408,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_CIM"
+},
+{
+	"it_index" : 588,
+	"it_iconid" : 90002409,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_ZSM"
+},
+{
+	"it_index" : 589,
+	"it_iconid" : 90002410,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_CLAN_CTF"
+},
+{
+	"it_index" : 590,
+	"it_iconid" : 90002411,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_TUT"
+},
+{
+	"it_index" : 591,
+	"it_iconid" : 90002412,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_TRM"
+},
+{
+	"it_index" : 592,
+	"it_iconid" : 90002413,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_MOC"
+},
+{
+	"it_index" : 593,
+	"it_iconid" : 90002414,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_STORY"
+},
+{
+	"it_index" : 594,
+	"it_iconid" : 90002415,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_BMB"
+},
+{
+	"it_index" : 595,
+	"it_iconid" : 90002416,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_CLAN_BMB"
+},
+{
+	"it_index" : 596,
+	"it_iconid" : 90002417,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_PVE"
+},
+{
+	"it_index" : 597,
+	"it_iconid" : 90002418,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_SNI"
+},
+{
+	"it_index" : 598,
+	"it_iconid" : 90002419,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_NOD"
+},
+{
+	"it_index" : 599,
+	"it_iconid" : 90002420,
+	"it_icontag" : "ICONTAG_BATTLEINFO_TITLE_NORMAL_BOT"
+},
+{
+	"it_index" : 600,
+	"it_iconid" : 90002500,
+	"it_icontag" : "ICONTAG_MESSAGEWINDOW_TITLE_NOTICE"
+},
+{
+	"it_index" : 601,
+	"it_iconid" : 90002501,
+	"it_icontag" : "ICONTAG_MESSAGEWINDOW_TITLE_ERROR"
+},
+{
+	"it_index" : 602,
+	"it_iconid" : 90002502,
+	"it_icontag" : "ICONTAG_MESSAGEWINDOW_TITLE_CAUTION"
+},
+{
+	"it_index" : 603,
+	"it_iconid" : 90002503,
+	"it_icontag" : "ICONTAG_MESSAGEWINDOW_TITLE_LOCK"
+},
+{
+	"it_index" : 604,
+	"it_iconid" : 90002504,
+	"it_icontag" : "ICONTAG_MESSAGEWINDOW_TITLE_STORYICON"
+},
+{
+	"it_index" : 605,
+	"it_iconid" : 90002600,
+	"it_icontag" : "ICONTAG_TEXT_24P_0"
+},
+{
+	"it_index" : 606,
+	"it_iconid" : 90002601,
+	"it_icontag" : "ICONTAG_TEXT_24P_1"
+},
+{
+	"it_index" : 607,
+	"it_iconid" : 90002602,
+	"it_icontag" : "ICONTAG_TEXT_24P_2"
+},
+{
+	"it_index" : 608,
+	"it_iconid" : 90002603,
+	"it_icontag" : "ICONTAG_TEXT_24P_3"
+},
+{
+	"it_index" : 609,
+	"it_iconid" : 90002604,
+	"it_icontag" : "ICONTAG_TEXT_24P_4"
+},
+{
+	"it_index" : 610,
+	"it_iconid" : 90002605,
+	"it_icontag" : "ICONTAG_TEXT_24P_5"
+},
+{
+	"it_index" : 611,
+	"it_iconid" : 90002606,
+	"it_icontag" : "ICONTAG_TEXT_24P_6"
+},
+{
+	"it_index" : 612,
+	"it_iconid" : 90002607,
+	"it_icontag" : "ICONTAG_TEXT_24P_7"
+},
+{
+	"it_index" : 613,
+	"it_iconid" : 90002608,
+	"it_icontag" : "ICONTAG_TEXT_24P_8"
+},
+{
+	"it_index" : 614,
+	"it_iconid" : 90002609,
+	"it_icontag" : "ICONTAG_TEXT_24P_9"
+},
+{
+	"it_index" : 615,
+	"it_iconid" : 90002610,
+	"it_icontag" : "ICONTAG_TEXT_24P_10"
+},
+{
+	"it_index" : 616,
+	"it_iconid" : 90002611,
+	"it_icontag" : "ICONTAG_TEXT_24P_11"
+},
+{
+	"it_index" : 617,
+	"it_iconid" : 90002612,
+	"it_icontag" : "ICONTAG_TEXT_24P_12"
+},
+{
+	"it_index" : 618,
+	"it_iconid" : 90002613,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_0"
+},
+{
+	"it_index" : 619,
+	"it_iconid" : 90002614,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_1"
+},
+{
+	"it_index" : 620,
+	"it_iconid" : 90002615,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_2"
+},
+{
+	"it_index" : 621,
+	"it_iconid" : 90002616,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_3"
+},
+{
+	"it_index" : 622,
+	"it_iconid" : 90002617,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_4"
+},
+{
+	"it_index" : 623,
+	"it_iconid" : 90002618,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_5"
+},
+{
+	"it_index" : 624,
+	"it_iconid" : 90002619,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_6"
+},
+{
+	"it_index" : 625,
+	"it_iconid" : 90002620,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_7"
+},
+{
+	"it_index" : 626,
+	"it_iconid" : 90002621,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_8"
+},
+{
+	"it_index" : 627,
+	"it_iconid" : 90002622,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_9"
+},
+{
+	"it_index" : 628,
+	"it_iconid" : 90002623,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_10"
+},
+{
+	"it_index" : 629,
+	"it_iconid" : 90002624,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_11"
+},
+{
+	"it_index" : 630,
+	"it_iconid" : 90002625,
+	"it_icontag" : "ICONTAG_TEXT_24P_RED_12"
+},
+{
+	"it_index" : 631,
+	"it_iconid" : 90002626,
+	"it_icontag" : "ICONTAG_TEXT_34P_0"
+},
+{
+	"it_index" : 632,
+	"it_iconid" : 90002627,
+	"it_icontag" : "ICONTAG_TEXT_34P_1"
+},
+{
+	"it_index" : 633,
+	"it_iconid" : 90002628,
+	"it_icontag" : "ICONTAG_TEXT_34P_2"
+},
+{
+	"it_index" : 634,
+	"it_iconid" : 90002629,
+	"it_icontag" : "ICONTAG_TEXT_34P_3"
+},
+{
+	"it_index" : 635,
+	"it_iconid" : 90002630,
+	"it_icontag" : "ICONTAG_TEXT_34P_4"
+},
+{
+	"it_index" : 636,
+	"it_iconid" : 90002631,
+	"it_icontag" : "ICONTAG_TEXT_34P_5"
+},
+{
+	"it_index" : 637,
+	"it_iconid" : 90002632,
+	"it_icontag" : "ICONTAG_TEXT_34P_6"
+},
+{
+	"it_index" : 638,
+	"it_iconid" : 90002633,
+	"it_icontag" : "ICONTAG_TEXT_34P_7"
+},
+{
+	"it_index" : 639,
+	"it_iconid" : 90002634,
+	"it_icontag" : "ICONTAG_TEXT_34P_8"
+},
+{
+	"it_index" : 640,
+	"it_iconid" : 90002635,
+	"it_icontag" : "ICONTAG_TEXT_34P_9"
+},
+{
+	"it_index" : 641,
+	"it_iconid" : 90002636,
+	"it_icontag" : "ICONTAG_TEXT_34P_10"
+},
+{
+	"it_index" : 642,
+	"it_iconid" : 90002637,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_0"
+},
+{
+	"it_index" : 643,
+	"it_iconid" : 90002638,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_1"
+},
+{
+	"it_index" : 644,
+	"it_iconid" : 90002639,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_2"
+},
+{
+	"it_index" : 645,
+	"it_iconid" : 90002640,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_3"
+},
+{
+	"it_index" : 646,
+	"it_iconid" : 90002641,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_4"
+},
+{
+	"it_index" : 647,
+	"it_iconid" : 90002642,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_5"
+},
+{
+	"it_index" : 648,
+	"it_iconid" : 90002643,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_6"
+},
+{
+	"it_index" : 649,
+	"it_iconid" : 90002644,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_7"
+},
+{
+	"it_index" : 650,
+	"it_iconid" : 90002645,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_8"
+},
+{
+	"it_index" : 651,
+	"it_iconid" : 90002646,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_9"
+},
+{
+	"it_index" : 652,
+	"it_iconid" : 90002647,
+	"it_icontag" : "ICONTAG_TEXT_34P_RED_10"
+},
+{
+	"it_index" : 653,
+	"it_iconid" : 90002648,
+	"it_icontag" : "ICONTAG_ASSIST_PLUS"
+},
+{
+	"it_index" : 654,
+	"it_iconid" : 90002700,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_NORMAL_0"
+},
+{
+	"it_index" : 655,
+	"it_iconid" : 90002701,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_NORMAL_1"
+},
+{
+	"it_index" : 656,
+	"it_iconid" : 90002702,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_NORMAL_2"
+},
+{
+	"it_index" : 657,
+	"it_iconid" : 90002703,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_NORMAL_3"
+},
+{
+	"it_index" : 658,
+	"it_iconid" : 90002704,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_OVER_0"
+},
+{
+	"it_index" : 659,
+	"it_iconid" : 90002705,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_OVER_1"
+},
+{
+	"it_index" : 660,
+	"it_iconid" : 90002706,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_OVER_2"
+},
+{
+	"it_index" : 661,
+	"it_iconid" : 90002707,
+	"it_icontag" : "ICONTAG_SLOT_STICKER_OVER_3"
+},
+{
+	"it_index" : 662,
+	"it_iconid" : 90002800,
+	"it_icontag" : "ICONTAG_MSG_BACK_1"
+},
+{
+	"it_index" : 663,
+	"it_iconid" : 90002801,
+	"it_icontag" : "ICONTAG_MSG_BACK_2"
+},
+{
+	"it_index" : 664,
+	"it_iconid" : 90002900,
+	"it_icontag" : "ICONTAG_SERVER_STATE_A_0"
+},
+{
+	"it_index" : 665,
+	"it_iconid" : 90002901,
+	"it_icontag" : "ICONTAG_SERVER_STATE_A_1"
+},
+{
+	"it_index" : 666,
+	"it_iconid" : 90002902,
+	"it_icontag" : "ICONTAG_SERVER_STATE_A_2"
+},
+{
+	"it_index" : 667,
+	"it_iconid" : 90002903,
+	"it_icontag" : "ICONTAG_SERVER_STATE_A_3"
+},
+{
+	"it_index" : 668,
+	"it_iconid" : 90002904,
+	"it_icontag" : "ICONTAG_SERVER_STATE_B_0"
+},
+{
+	"it_index" : 669,
+	"it_iconid" : 90002905,
+	"it_icontag" : "ICONTAG_SERVER_STATE_B_1"
+},
+{
+	"it_index" : 670,
+	"it_iconid" : 90002906,
+	"it_icontag" : "ICONTAG_SERVER_STATE_B_2"
+},
+{
+	"it_index" : 671,
+	"it_iconid" : 90002907,
+	"it_icontag" : "ICONTAG_SERVER_STATE_B_3"
+},
+{
+	"it_index" : 672,
+	"it_iconid" : 90003000,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_A_0"
+},
+{
+	"it_index" : 673,
+	"it_iconid" : 90003001,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_A_1"
+},
+{
+	"it_index" : 674,
+	"it_iconid" : 90003002,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_B_0"
+},
+{
+	"it_index" : 675,
+	"it_iconid" : 90003003,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_B_1"
+},
+{
+	"it_index" : 676,
+	"it_iconid" : 90003004,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_C_0"
+},
+{
+	"it_index" : 677,
+	"it_iconid" : 90003005,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_C_1"
+},
+{
+	"it_index" : 678,
+	"it_iconid" : 90003006,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_D_0"
+},
+{
+	"it_index" : 679,
+	"it_iconid" : 90003007,
+	"it_icontag" : "ICONTAG_STAT_WEAPON_D_1"
+},
+{
+	"it_index" : 680,
+	"it_iconid" : 90003100,
+	"it_icontag" : "ICONTAG_CTF_BLUE_SPAWN"
+},
+{
+	"it_index" : 681,
+	"it_iconid" : 90003101,
+	"it_icontag" : "ICONTAG_CTF_BLUE_PLAYER"
+},
+{
+	"it_index" : 682,
+	"it_iconid" : 90003102,
+	"it_icontag" : "ICONTAG_CTF_RED_SPAWN"
+},
+{
+	"it_index" : 683,
+	"it_iconid" : 90003103,
+	"it_icontag" : "ICONTAG_CTF_RED_PLAYER"
+},
+{
+	"it_index" : 684,
+	"it_iconid" : 90003200,
+	"it_icontag" : "ICONTAG_LOADING_27"
+},
+{
+	"it_index" : 685,
+	"it_iconid" : 90003201,
+	"it_icontag" : "ICONTAG_LOADING_13"
+},
+{
+	"it_index" : 686,
+	"it_iconid" : 90003202,
+	"it_icontag" : "ICONTAG_LOADING_5"
+},
+{
+	"it_index" : 687,
+	"it_iconid" : 90003203,
+	"it_icontag" : "ICONTAG_LOADING_14"
+},
+{
+	"it_index" : 688,
+	"it_iconid" : 90003204,
+	"it_icontag" : "ICONTAG_LOADING_6"
+},
+{
+	"it_index" : 689,
+	"it_iconid" : 90003205,
+	"it_icontag" : "ICONTAG_LOADING_7"
+},
+{
+	"it_index" : 690,
+	"it_iconid" : 90003206,
+	"it_icontag" : "ICONTAG_LOADING_1"
+},
+{
+	"it_index" : 691,
+	"it_iconid" : 90003207,
+	"it_icontag" : "ICONTAG_LOADING_20"
+},
+{
+	"it_index" : 692,
+	"it_iconid" : 90003208,
+	"it_icontag" : "ICONTAG_LOADING_8"
+},
+{
+	"it_index" : 693,
+	"it_iconid" : 90003209,
+	"it_icontag" : "ICONTAG_LOADING_11"
+},
+{
+	"it_index" : 694,
+	"it_iconid" : 90003210,
+	"it_icontag" : "ICONTAG_LOADING_41"
+},
+{
+	"it_index" : 695,
+	"it_iconid" : 90003211,
+	"it_icontag" : "ICONTAG_LOADING_42"
+},
+{
+	"it_index" : 696,
+	"it_iconid" : 90003212,
+	"it_icontag" : "ICONTAG_LOADING_21"
+},
+{
+	"it_index" : 697,
+	"it_iconid" : 90003213,
+	"it_icontag" : "ICONTAG_LOADING_2"
+},
+{
+	"it_index" : 698,
+	"it_iconid" : 90003214,
+	"it_icontag" : "ICONTAG_LOADING_12"
+},
+{
+	"it_index" : 699,
+	"it_iconid" : 90003215,
+	"it_icontag" : "ICONTAG_LOADING_9"
+},
+{
+	"it_index" : 700,
+	"it_iconid" : 90003216,
+	"it_icontag" : "ICONTAG_LOADING_43"
+},
+{
+	"it_index" : 701,
+	"it_iconid" : 90003217,
+	"it_icontag" : "ICONTAG_LOADING_44"
+},
+{
+	"it_index" : 702,
+	"it_iconid" : 90003218,
+	"it_icontag" : "ICONTAG_LOADING_10"
+},
+{
+	"it_index" : 703,
+	"it_iconid" : 90003219,
+	"it_icontag" : "ICONTAG_LOADING_22"
+},
+{
+	"it_index" : 704,
+	"it_iconid" : 90003220,
+	"it_icontag" : "ICONTAG_LOADING_15"
+},
+{
+	"it_index" : 705,
+	"it_iconid" : 90003221,
+	"it_icontag" : "ICONTAG_LOADING_STORY"
+},
+{
+	"it_index" : 706,
+	"it_iconid" : 90003222,
+	"it_icontag" : "ICONTAG_LOADING_16"
+},
+{
+	"it_index" : 707,
+	"it_iconid" : 90003223,
+	"it_icontag" : "ICONTAG_LOADING_17"
+},
+{
+	"it_index" : 708,
+	"it_iconid" : 90003224,
+	"it_icontag" : "ICONTAG_LOADING_18"
+},
+{
+	"it_index" : 709,
+	"it_iconid" : 90003225,
+	"it_icontag" : "ICONTAG_LOADING_45"
+},
+{
+	"it_index" : 710,
+	"it_iconid" : 90003226,
+	"it_icontag" : "ICONTAG_LOADING_CHA_SELECT"
+},
+{
+	"it_index" : 711,
+	"it_iconid" : 90003226,
+	"it_icontag" : "ICONTAG_LOADING_46"
+},
+{
+	"it_index" : 712,
+	"it_iconid" : 90003227,
+	"it_icontag" : "ICONTAG_LOADING_47"
+},
+{
+	"it_index" : 713,
+	"it_iconid" : 90003228,
+	"it_icontag" : "ICONTAG_LOADING_19"
+},
+{
+	"it_index" : 714,
+	"it_iconid" : 90003229,
+	"it_icontag" : "ICONTAG_LOADING_3"
+},
+{
+	"it_index" : 715,
+	"it_iconid" : 90003230,
+	"it_icontag" : "ICONTAG_LOADING_4"
+},
+{
+	"it_index" : 716,
+	"it_iconid" : 90003231,
+	"it_icontag" : "ICONTAG_LOADING_28"
+},
+{
+	"it_index" : 717,
+	"it_iconid" : 90003232,
+	"it_icontag" : "ICONTAG_LOADING_23"
+},
+{
+	"it_index" : 718,
+	"it_iconid" : 90003233,
+	"it_icontag" : "ICONTAG_LOADING_29"
+},
+{
+	"it_index" : 719,
+	"it_iconid" : 90003234,
+	"it_icontag" : "ICONTAG_LOADING_30"
+},
+{
+	"it_index" : 720,
+	"it_iconid" : 90003235,
+	"it_icontag" : "ICONTAG_LOADING_31"
+},
+{
+	"it_index" : 721,
+	"it_iconid" : 90003236,
+	"it_icontag" : "ICONTAG_LOADING_32"
+},
+{
+	"it_index" : 722,
+	"it_iconid" : 90003237,
+	"it_icontag" : "ICONTAG_LOADING_33"
+},
+{
+	"it_index" : 723,
+	"it_iconid" : 90003238,
+	"it_icontag" : "ICONTAG_LOADING_34"
+},
+{
+	"it_index" : 724,
+	"it_iconid" : 90003239,
+	"it_icontag" : "ICONTAG_LOADING_35"
+},
+{
+	"it_index" : 725,
+	"it_iconid" : 90003240,
+	"it_icontag" : "ICONTAG_LOADING_36"
+},
+{
+	"it_index" : 726,
+	"it_iconid" : 90003241,
+	"it_icontag" : "ICONTAG_LOADING_37"
+},
+{
+	"it_index" : 727,
+	"it_iconid" : 90003300,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_27"
+},
+{
+	"it_index" : 728,
+	"it_iconid" : 90003301,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_13"
+},
+{
+	"it_index" : 729,
+	"it_iconid" : 90003302,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_5"
+},
+{
+	"it_index" : 730,
+	"it_iconid" : 90003303,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_14"
+},
+{
+	"it_index" : 731,
+	"it_iconid" : 90003304,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_6"
+},
+{
+	"it_index" : 732,
+	"it_iconid" : 90003305,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_7"
+},
+{
+	"it_index" : 733,
+	"it_iconid" : 90003306,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_1"
+},
+{
+	"it_index" : 734,
+	"it_iconid" : 90003307,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_20"
+},
+{
+	"it_index" : 735,
+	"it_iconid" : 90003308,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_8"
+},
+{
+	"it_index" : 736,
+	"it_iconid" : 90003309,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_11"
+},
+{
+	"it_index" : 737,
+	"it_iconid" : 90003310,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_21"
+},
+{
+	"it_index" : 738,
+	"it_iconid" : 90003311,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_12"
+},
+{
+	"it_index" : 739,
+	"it_iconid" : 90003312,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_2"
+},
+{
+	"it_index" : 740,
+	"it_iconid" : 90003313,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_9"
+},
+{
+	"it_index" : 741,
+	"it_iconid" : 90003314,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_10"
+},
+{
+	"it_index" : 742,
+	"it_iconid" : 90003315,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_43"
+},
+{
+	"it_index" : 743,
+	"it_iconid" : 90003316,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_44"
+},
+{
+	"it_index" : 744,
+	"it_iconid" : 90003317,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_22"
+},
+{
+	"it_index" : 745,
+	"it_iconid" : 90003318,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_15"
+},
+{
+	"it_index" : 746,
+	"it_iconid" : 90003319,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_16"
+},
+{
+	"it_index" : 747,
+	"it_iconid" : 90003320,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_17"
+},
+{
+	"it_index" : 748,
+	"it_iconid" : 90003321,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_18"
+},
+{
+	"it_index" : 749,
+	"it_iconid" : 90003322,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_45"
+},
+{
+	"it_index" : 750,
+	"it_iconid" : 90003323,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_19"
+},
+{
+	"it_index" : 751,
+	"it_iconid" : 90003324,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_3"
+},
+{
+	"it_index" : 752,
+	"it_iconid" : 90003325,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_4"
+},
+{
+	"it_index" : 753,
+	"it_iconid" : 90003326,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_28"
+},
+{
+	"it_index" : 754,
+	"it_iconid" : 90003327,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_23"
+},
+{
+	"it_index" : 755,
+	"it_iconid" : 90003328,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_29"
+},
+{
+	"it_index" : 756,
+	"it_iconid" : 90003329,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_30"
+},
+{
+	"it_index" : 757,
+	"it_iconid" : 90003330,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_31"
+},
+{
+	"it_index" : 758,
+	"it_iconid" : 90003331,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_32"
+},
+{
+	"it_index" : 759,
+	"it_iconid" : 90003332,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_33"
+},
+{
+	"it_index" : 760,
+	"it_iconid" : 90003333,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_46"
+},
+{
+	"it_index" : 761,
+	"it_iconid" : 90003334,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_47"
+},
+{
+	"it_index" : 762,
+	"it_iconid" : 90003335,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_34"
+},
+{
+	"it_index" : 763,
+	"it_iconid" : 90003336,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_35"
+},
+{
+	"it_index" : 764,
+	"it_iconid" : 90003337,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_36"
+},
+{
+	"it_index" : 765,
+	"it_iconid" : 90003338,
+	"it_icontag" : "ICONTAG_LOADING_MAPNAME_36"
+},
+{
+	"it_index" : 766,
+	"it_iconid" : 90003400,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_SHIELD"
+},
+{
+	"it_index" : 767,
+	"it_iconid" : 90003401,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_SPEEDUP"
+},
+{
+	"it_index" : 768,
+	"it_iconid" : 90003402,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_POWERUP"
+},
+{
+	"it_index" : 769,
+	"it_iconid" : 90003403,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_DISGUISE"
+},
+{
+	"it_index" : 770,
+	"it_iconid" : 90003404,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_SUICIDEBOMBER"
+},
+{
+	"it_index" : 771,
+	"it_iconid" : 90003405,
+	"it_icontag" : "ICONTAG_ITEM_ENERGY_RED"
+},
+{
+	"it_index" : 772,
+	"it_iconid" : 90003406,
+	"it_icontag" : "ICONTAG_ITEM_GET_SHIELD"
+},
+{
+	"it_index" : 773,
+	"it_iconid" : 90003407,
+	"it_icontag" : "ICONTAG_ITEM_GET_SPEEDUP"
+},
+{
+	"it_index" : 774,
+	"it_iconid" : 90003408,
+	"it_icontag" : "ICONTAG_ITEM_GET_POWERUP"
+},
+{
+	"it_index" : 775,
+	"it_iconid" : 90003409,
+	"it_icontag" : "ICONTAG_ITEM_GET_DISGUISE"
+},
+{
+	"it_index" : 776,
+	"it_iconid" : 90003410,
+	"it_icontag" : "ICONTAG_ITEM_GET_SUICIDEBOMBER"
+},
+{
+	"it_index" : 777,
+	"it_iconid" : 90003411,
+	"it_icontag" : "ICONTAG_ITEM_ENERGY_BLUE"
+},
+{
+	"it_index" : 778,
+	"it_iconid" : 90003412,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_AUTOSHIELD"
+},
+{
+	"it_index" : 779,
+	"it_iconid" : 90003413,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_CAMERA"
+},
+{
+	"it_index" : 780,
+	"it_iconid" : 90003414,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_CONFUSE"
+},
+{
+	"it_index" : 781,
+	"it_iconid" : 90003415,
+	"it_icontag" : "ICONTAG_ITEM_NORMAL_PLUMBUM"
+},
+{
+	"it_index" : 782,
+	"it_iconid" : 90003416,
+	"it_icontag" : "ICONTAG_ITEM_NOTICE_SABOTAGE_SCAN"
+},
+{
+	"it_index" : 783,
+	"it_iconid" : 90003417,
+	"it_icontag" : "ICONTAG_GOAL_SABOTAGE"
+},
+{
+	"it_index" : 784,
+	"it_iconid" : 90003418,
+	"it_icontag" : "ICONTAG_ITEM_GET_AUTOSHIELD"
+},
+{
+	"it_index" : 785,
+	"it_iconid" : 90003419,
+	"it_icontag" : "ICONTAG_ITEM_GET_CAMERA"
+},
+{
+	"it_index" : 786,
+	"it_iconid" : 90003420,
+	"it_icontag" : "ICONTAG_ITEM_GET_CONFUSE"
+},
+{
+	"it_index" : 787,
+	"it_iconid" : 90003421,
+	"it_icontag" : "ICONTAG_ITEM_GET_PLUMBUM"
+},
+{
+	"it_index" : 788,
+	"it_iconid" : 90003422,
+	"it_icontag" : "ICONTAG_ITEM_NOTICE_ZOMBIE_BOX"
+},
+{
+	"it_index" : 789,
+	"it_iconid" : 90003423,
+	"it_icontag" : "ICONTAG_ITEM_NOTICE_MOCK_RETURN"
+},
+{
+	"it_index" : 790,
+	"it_iconid" : 90003424,
+	"it_icontag" : "ICONTAG_ITEM_GET_MOCK_RETURN"
+},
+{
+	"it_index" : 791,
+	"it_iconid" : 90003425,
+	"it_icontag" : "ICONTAG_ITEM_BNB_BOOMSET"
+},
+{
+	"it_index" : 792,
+	"it_iconid" : 90003426,
+	"it_icontag" : "ICONTAG_ITEM_BNB_BOOMCLEAR"
+},
+{
+	"it_index" : 793,
+	"it_iconid" : 90003427,
+	"it_icontag" : "ICONTAG_ITEM_BNB_BOOMSET_FX"
+},
+{
+	"it_index" : 794,
+	"it_iconid" : 90003428,
+	"it_icontag" : "ICONTAG_ITEM_BNB_BOOMCLEAR_FX"
+},
+{
+	"it_index" : 795,
+	"it_iconid" : 90003500,
+	"it_icontag" : "ICONTAG_ITEM_USE_SHEILD"
+},
+{
+	"it_index" : 796,
+	"it_iconid" : 90003501,
+	"it_icontag" : "ICONTAG_ITEM_USE_SPEEDUP"
+},
+{
+	"it_index" : 797,
+	"it_iconid" : 90003502,
+	"it_icontag" : "ICONTAG_ITEM_USE_POWERUP"
+},
+{
+	"it_index" : 798,
+	"it_iconid" : 90003503,
+	"it_icontag" : "ICONTAG_ITEM_USE_DISGUISE"
+},
+{
+	"it_index" : 799,
+	"it_iconid" : 90003504,
+	"it_icontag" : "ICONTAG_ITEM_USE_SUICIDEBOMBER"
+},
+{
+	"it_index" : 800,
+	"it_iconid" : 90003600,
+	"it_icontag" : "ICONTAG_HELP_LOBBY"
+},
+{
+	"it_index" : 801,
+	"it_iconid" : 90003601,
+	"it_icontag" : "ICONTAG_HELP_SHOP"
+},
+{
+	"it_index" : 802,
+	"it_iconid" : 90003602,
+	"it_icontag" : "ICONTAG_HELP_INVENTORY"
+},
+{
+	"it_index" : 803,
+	"it_iconid" : 90003603,
+	"it_icontag" : "ICONTAG_HELP_CONTROL"
+},
+{
+	"it_index" : 804,
+	"it_iconid" : 90003604,
+	"it_icontag" : "ICONTAG_HELP_BATTLE"
+},
+{
+	"it_index" : 805,
+	"it_iconid" : 90003605,
+	"it_icontag" : "ICONTAG_HELP_RESULT"
+},
+{
+	"it_index" : 806,
+	"it_iconid" : 90003700,
+	"it_icontag" : "ICONTAG_HELP_CONTROL_CHATTING"
+},
+{
+	"it_index" : 807,
+	"it_iconid" : 90003701,
+	"it_icontag" : "ICONTAG_HELP_CONTROL_CONTROL"
+},
+{
+	"it_index" : 808,
+	"it_iconid" : 90003800,
+	"it_icontag" : "ICONTAG_HELP_MAP_TDM"
+},
+{
+	"it_index" : 809,
+	"it_iconid" : 90003801,
+	"it_icontag" : "ICONTAG_HELP_MAP_FFA"
+},
+{
+	"it_index" : 810,
+	"it_iconid" : 90003802,
+	"it_icontag" : "ICONTAG_HELP_MAP_CTM"
+},
+{
+	"it_index" : 811,
+	"it_iconid" : 90003803,
+	"it_icontag" : "ICONTAG_HELP_MAP_ITM"
+},
+{
+	"it_index" : 812,
+	"it_iconid" : 90003804,
+	"it_icontag" : "ICONTAG_HELP_MAP_CTF"
+},
+{
+	"it_index" : 813,
+	"it_iconid" : 90003805,
+	"it_icontag" : "ICONTAG_HELP_MAP_NOD"
+},
+{
+	"it_index" : 814,
+	"it_iconid" : 90003810,
+	"it_icontag" : "ICONTAG_HELP_MESSAGEICON_1"
+},
+{
+	"it_index" : 815,
+	"it_iconid" : 90003811,
+	"it_icontag" : "ICONTAG_HELP_MESSAGEICON_2"
+},
+{
+	"it_index" : 816,
+	"it_iconid" : 90003812,
+	"it_icontag" : "ICONTAG_HELP_MESSAGEICON_3"
+},
+{
+	"it_index" : 817,
+	"it_iconid" : 90003813,
+	"it_icontag" : "ICONTAG_HELP_MESSAGEICON_4"
+},
+{
+	"it_index" : 818,
+	"it_iconid" : 90600200,
+	"it_icontag" : "ICONTAG_INVEN_FAIL"
+},
+{
+	"it_index" : 819,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_51"
+},
+{
+	"it_index" : 820,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_53"
+},
+{
+	"it_index" : 821,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_60"
+},
+{
+	"it_index" : 822,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_193"
+},
+{
+	"it_index" : 823,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_194"
+},
+{
+	"it_index" : 824,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_55"
+},
+{
+	"it_index" : 825,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_189"
+},
+{
+	"it_index" : 826,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_47"
+},
+{
+	"it_index" : 827,
+	"it_iconid" : 90003905,
+	"it_icontag" : "ICONTAG_AUTOVOICE_195"
+},
+{
+	"it_index" : 828,
+	"it_iconid" : 90003906,
+	"it_icontag" : "ICONTAG_AUTOVOICE_36"
+},
+{
+	"it_index" : 829,
+	"it_iconid" : 90003907,
+	"it_icontag" : "ICONTAG_AUTOVOICE_37"
+},
+{
+	"it_index" : 830,
+	"it_iconid" : 90003908,
+	"it_icontag" : "ICONTAG_AUTOVOICE_38"
+},
+{
+	"it_index" : 831,
+	"it_iconid" : 90003909,
+	"it_icontag" : "ICONTAG_AUTOVOICE_39"
+},
+{
+	"it_index" : 832,
+	"it_iconid" : 90003910,
+	"it_icontag" : "ICONTAG_AUTOVOICE_40"
+},
+{
+	"it_index" : 833,
+	"it_iconid" : 90003911,
+	"it_icontag" : "ICONTAG_AUTOVOICE_41"
+},
+{
+	"it_index" : 834,
+	"it_iconid" : 90003912,
+	"it_icontag" : "ICONTAG_AUTOVOICE_42"
+},
+{
+	"it_index" : 835,
+	"it_iconid" : 90003913,
+	"it_icontag" : "ICONTAG_AUTOVOICE_43"
+},
+{
+	"it_index" : 836,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_44"
+},
+{
+	"it_index" : 837,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_188"
+},
+{
+	"it_index" : 838,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_45"
+},
+{
+	"it_index" : 839,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_56"
+},
+{
+	"it_index" : 840,
+	"it_iconid" : 90003916,
+	"it_icontag" : "ICONTAG_AUTOVOICE_46"
+},
+{
+	"it_index" : 841,
+	"it_iconid" : 90003917,
+	"it_icontag" : "ICONTAG_AUTOVOICE_48"
+},
+{
+	"it_index" : 842,
+	"it_iconid" : 90003918,
+	"it_icontag" : "ICONTAG_AUTOVOICE_50"
+},
+{
+	"it_index" : 843,
+	"it_iconid" : 90003919,
+	"it_icontag" : "ICONTAG_AUTOVOICE_52"
+},
+{
+	"it_index" : 844,
+	"it_iconid" : 90003921,
+	"it_icontag" : "ICONTAG_AUTOVOICE_54"
+},
+{
+	"it_index" : 845,
+	"it_iconid" : 90003923,
+	"it_icontag" : "ICONTAG_AUTOVOICE_58"
+},
+{
+	"it_index" : 846,
+	"it_iconid" : 90003924,
+	"it_icontag" : "ICONTAG_AUTOVOICE_57"
+},
+{
+	"it_index" : 847,
+	"it_iconid" : 90003928,
+	"it_icontag" : "ICONTAG_AUTOVOICE_192"
+},
+{
+	"it_index" : 848,
+	"it_iconid" : 90003931,
+	"it_icontag" : "ICONTAG_AUTOVOICE_59"
+},
+{
+	"it_index" : 849,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_49"
+},
+{
+	"it_index" : 850,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_190"
+},
+{
+	"it_index" : 851,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_191"
+},
+{
+	"it_index" : 852,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_76"
+},
+{
+	"it_index" : 853,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_78"
+},
+{
+	"it_index" : 854,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_85"
+},
+{
+	"it_index" : 855,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_201"
+},
+{
+	"it_index" : 856,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_202"
+},
+{
+	"it_index" : 857,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_80"
+},
+{
+	"it_index" : 858,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_197"
+},
+{
+	"it_index" : 859,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_72"
+},
+{
+	"it_index" : 860,
+	"it_iconid" : 90003905,
+	"it_icontag" : "ICONTAG_AUTOVOICE_203"
+},
+{
+	"it_index" : 861,
+	"it_iconid" : 90003906,
+	"it_icontag" : "ICONTAG_AUTOVOICE_61"
+},
+{
+	"it_index" : 862,
+	"it_iconid" : 90003907,
+	"it_icontag" : "ICONTAG_AUTOVOICE_62"
+},
+{
+	"it_index" : 863,
+	"it_iconid" : 90003908,
+	"it_icontag" : "ICONTAG_AUTOVOICE_63"
+},
+{
+	"it_index" : 864,
+	"it_iconid" : 90003909,
+	"it_icontag" : "ICONTAG_AUTOVOICE_64"
+},
+{
+	"it_index" : 865,
+	"it_iconid" : 90003910,
+	"it_icontag" : "ICONTAG_AUTOVOICE_65"
+},
+{
+	"it_index" : 866,
+	"it_iconid" : 90003911,
+	"it_icontag" : "ICONTAG_AUTOVOICE_66"
+},
+{
+	"it_index" : 867,
+	"it_iconid" : 90003912,
+	"it_icontag" : "ICONTAG_AUTOVOICE_67"
+},
+{
+	"it_index" : 868,
+	"it_iconid" : 90003913,
+	"it_icontag" : "ICONTAG_AUTOVOICE_68"
+},
+{
+	"it_index" : 869,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_69"
+},
+{
+	"it_index" : 870,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_196"
+},
+{
+	"it_index" : 871,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_70"
+},
+{
+	"it_index" : 872,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_56"
+},
+{
+	"it_index" : 873,
+	"it_iconid" : 90003916,
+	"it_icontag" : "ICONTAG_AUTOVOICE_71"
+},
+{
+	"it_index" : 874,
+	"it_iconid" : 90003917,
+	"it_icontag" : "ICONTAG_AUTOVOICE_73"
+},
+{
+	"it_index" : 875,
+	"it_iconid" : 90003918,
+	"it_icontag" : "ICONTAG_AUTOVOICE_75"
+},
+{
+	"it_index" : 876,
+	"it_iconid" : 90003919,
+	"it_icontag" : "ICONTAG_AUTOVOICE_77"
+},
+{
+	"it_index" : 877,
+	"it_iconid" : 90003921,
+	"it_icontag" : "ICONTAG_AUTOVOICE_79"
+},
+{
+	"it_index" : 878,
+	"it_iconid" : 90003923,
+	"it_icontag" : "ICONTAG_AUTOVOICE_83"
+},
+{
+	"it_index" : 879,
+	"it_iconid" : 90003924,
+	"it_icontag" : "ICONTAG_AUTOVOICE_82"
+},
+{
+	"it_index" : 880,
+	"it_iconid" : 90003928,
+	"it_icontag" : "ICONTAG_AUTOVOICE_200"
+},
+{
+	"it_index" : 881,
+	"it_iconid" : 90003931,
+	"it_icontag" : "ICONTAG_AUTOVOICE_84"
+},
+{
+	"it_index" : 882,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_74"
+},
+{
+	"it_index" : 883,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_198"
+},
+{
+	"it_index" : 884,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_199"
+},
+{
+	"it_index" : 885,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_81"
+},
+{
+	"it_index" : 886,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_101"
+},
+{
+	"it_index" : 887,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_103"
+},
+{
+	"it_index" : 888,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_110"
+},
+{
+	"it_index" : 889,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_209"
+},
+{
+	"it_index" : 890,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_210"
+},
+{
+	"it_index" : 891,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_105"
+},
+{
+	"it_index" : 892,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_205"
+},
+{
+	"it_index" : 893,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_97"
+},
+{
+	"it_index" : 894,
+	"it_iconid" : 90003905,
+	"it_icontag" : "ICONTAG_AUTOVOICE_211"
+},
+{
+	"it_index" : 895,
+	"it_iconid" : 90003906,
+	"it_icontag" : "ICONTAG_AUTOVOICE_86"
+},
+{
+	"it_index" : 896,
+	"it_iconid" : 90003907,
+	"it_icontag" : "ICONTAG_AUTOVOICE_87"
+},
+{
+	"it_index" : 897,
+	"it_iconid" : 90003908,
+	"it_icontag" : "ICONTAG_AUTOVOICE_88"
+},
+{
+	"it_index" : 898,
+	"it_iconid" : 90003909,
+	"it_icontag" : "ICONTAG_AUTOVOICE_89"
+},
+{
+	"it_index" : 899,
+	"it_iconid" : 90003910,
+	"it_icontag" : "ICONTAG_AUTOVOICE_90"
+},
+{
+	"it_index" : 900,
+	"it_iconid" : 90003911,
+	"it_icontag" : "ICONTAG_AUTOVOICE_91"
+},
+{
+	"it_index" : 901,
+	"it_iconid" : 90003912,
+	"it_icontag" : "ICONTAG_AUTOVOICE_92"
+},
+{
+	"it_index" : 902,
+	"it_iconid" : 90003913,
+	"it_icontag" : "ICONTAG_AUTOVOICE_93"
+},
+{
+	"it_index" : 903,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_94"
+},
+{
+	"it_index" : 904,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_204"
+},
+{
+	"it_index" : 905,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_95"
+},
+{
+	"it_index" : 906,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_106"
+},
+{
+	"it_index" : 907,
+	"it_iconid" : 90003916,
+	"it_icontag" : "ICONTAG_AUTOVOICE_96"
+},
+{
+	"it_index" : 908,
+	"it_iconid" : 90003917,
+	"it_icontag" : "ICONTAG_AUTOVOICE_98"
+},
+{
+	"it_index" : 909,
+	"it_iconid" : 90003918,
+	"it_icontag" : "ICONTAG_AUTOVOICE_100"
+},
+{
+	"it_index" : 910,
+	"it_iconid" : 90003919,
+	"it_icontag" : "ICONTAG_AUTOVOICE_102"
+},
+{
+	"it_index" : 911,
+	"it_iconid" : 90003921,
+	"it_icontag" : "ICONTAG_AUTOVOICE_104"
+},
+{
+	"it_index" : 912,
+	"it_iconid" : 90003923,
+	"it_icontag" : "ICONTAG_AUTOVOICE_108"
+},
+{
+	"it_index" : 913,
+	"it_iconid" : 90003924,
+	"it_icontag" : "ICONTAG_AUTOVOICE_107"
+},
+{
+	"it_index" : 914,
+	"it_iconid" : 90003928,
+	"it_icontag" : "ICONTAG_AUTOVOICE_208"
+},
+{
+	"it_index" : 915,
+	"it_iconid" : 90003931,
+	"it_icontag" : "ICONTAG_AUTOVOICE_109"
+},
+{
+	"it_index" : 916,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_99"
+},
+{
+	"it_index" : 917,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_206"
+},
+{
+	"it_index" : 918,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_207"
+},
+{
+	"it_index" : 919,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_126"
+},
+{
+	"it_index" : 920,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_128"
+},
+{
+	"it_index" : 921,
+	"it_iconid" : 90003900,
+	"it_icontag" : "ICONTAG_AUTOVOICE_135"
+},
+{
+	"it_index" : 922,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_217"
+},
+{
+	"it_index" : 923,
+	"it_iconid" : 90003901,
+	"it_icontag" : "ICONTAG_AUTOVOICE_218"
+},
+{
+	"it_index" : 924,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_130"
+},
+{
+	"it_index" : 925,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_213"
+},
+{
+	"it_index" : 926,
+	"it_iconid" : 90003904,
+	"it_icontag" : "ICONTAG_AUTOVOICE_122"
+},
+{
+	"it_index" : 927,
+	"it_iconid" : 90003905,
+	"it_icontag" : "ICONTAG_AUTOVOICE_219"
+},
+{
+	"it_index" : 928,
+	"it_iconid" : 90003906,
+	"it_icontag" : "ICONTAG_AUTOVOICE_111"
+},
+{
+	"it_index" : 929,
+	"it_iconid" : 90003907,
+	"it_icontag" : "ICONTAG_AUTOVOICE_112"
+},
+{
+	"it_index" : 930,
+	"it_iconid" : 90003908,
+	"it_icontag" : "ICONTAG_AUTOVOICE_113"
+},
+{
+	"it_index" : 931,
+	"it_iconid" : 90003909,
+	"it_icontag" : "ICONTAG_AUTOVOICE_114"
+},
+{
+	"it_index" : 932,
+	"it_iconid" : 90003910,
+	"it_icontag" : "ICONTAG_AUTOVOICE_115"
+},
+{
+	"it_index" : 933,
+	"it_iconid" : 90003911,
+	"it_icontag" : "ICONTAG_AUTOVOICE_116"
+},
+{
+	"it_index" : 934,
+	"it_iconid" : 90003912,
+	"it_icontag" : "ICONTAG_AUTOVOICE_117"
+},
+{
+	"it_index" : 935,
+	"it_iconid" : 90003913,
+	"it_icontag" : "ICONTAG_AUTOVOICE_118"
+},
+{
+	"it_index" : 936,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_119"
+},
+{
+	"it_index" : 937,
+	"it_iconid" : 90003914,
+	"it_icontag" : "ICONTAG_AUTOVOICE_212"
+},
+{
+	"it_index" : 938,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_120"
+},
+{
+	"it_index" : 939,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_106"
+},
+{
+	"it_index" : 940,
+	"it_iconid" : 90003916,
+	"it_icontag" : "ICONTAG_AUTOVOICE_121"
+},
+{
+	"it_index" : 941,
+	"it_iconid" : 90003917,
+	"it_icontag" : "ICONTAG_AUTOVOICE_123"
+},
+{
+	"it_index" : 942,
+	"it_iconid" : 90003918,
+	"it_icontag" : "ICONTAG_AUTOVOICE_125"
+},
+{
+	"it_index" : 943,
+	"it_iconid" : 90003919,
+	"it_icontag" : "ICONTAG_AUTOVOICE_127"
+},
+{
+	"it_index" : 944,
+	"it_iconid" : 90003921,
+	"it_icontag" : "ICONTAG_AUTOVOICE_129"
+},
+{
+	"it_index" : 945,
+	"it_iconid" : 90003923,
+	"it_icontag" : "ICONTAG_AUTOVOICE_133"
+},
+{
+	"it_index" : 946,
+	"it_iconid" : 90003924,
+	"it_icontag" : "ICONTAG_AUTOVOICE_132"
+},
+{
+	"it_index" : 947,
+	"it_iconid" : 90003928,
+	"it_icontag" : "ICONTAG_AUTOVOICE_216"
+},
+{
+	"it_index" : 948,
+	"it_iconid" : 90003931,
+	"it_icontag" : "ICONTAG_AUTOVOICE_134"
+},
+{
+	"it_index" : 949,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_124"
+},
+{
+	"it_index" : 950,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_214"
+},
+{
+	"it_index" : 951,
+	"it_iconid" : 90003932,
+	"it_icontag" : "ICONTAG_AUTOVOICE_215"
+},
+{
+	"it_index" : 952,
+	"it_iconid" : 90003915,
+	"it_icontag" : "ICONTAG_AUTOVOICE_131"
+},
+{
+	"it_index" : 953,
+	"it_iconid" : 90003933,
+	"it_icontag" : "ICONTAG_AUTOVOICE_OURDEATH"
+},
+{
+	"it_index" : 954,
+	"it_iconid" : 90003934,
+	"it_icontag" : "ICONTAG_AUTOVOICE_ENEMYDEATH"
+},
+{
+	"it_index" : 955,
+	"it_iconid" : 90004000,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_C"
+},
+{
+	"it_index" : 956,
+	"it_iconid" : 90004001,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_D"
+},
+{
+	"it_index" : 957,
+	"it_iconid" : 90004002,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_A"
+},
+{
+	"it_index" : 958,
+	"it_iconid" : 90004003,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_B"
+},
+{
+	"it_index" : 959,
+	"it_iconid" : 90004004,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_E"
+},
+{
+	"it_index" : 960,
+	"it_iconid" : 90004005,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_F"
+},
+{
+	"it_index" : 961,
+	"it_iconid" : 90004006,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_G"
+},
+{
+	"it_index" : 962,
+	"it_iconid" : 90004007,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_H"
+},
+{
+	"it_index" : 963,
+	"it_iconid" : 90004008,
+	"it_icontag" : "ICONTAG_CHARACTER_BUY_I"
+},
+{
+	"it_index" : 964,
+	"it_iconid" : 90004100,
+	"it_icontag" : "ICONTAG_DEATH_ICON_FALL"
+},
+{
+	"it_index" : 965,
+	"it_iconid" : 90004101,
+	"it_icontag" : "ICONTAG_DEATH_ICON_SUICIDEBOMB"
+},
+{
+	"it_index" : 966,
+	"it_iconid" : 90004200,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_1"
+},
+{
+	"it_index" : 967,
+	"it_iconid" : 90004201,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_2"
+},
+{
+	"it_index" : 968,
+	"it_iconid" : 90004202,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_3"
+},
+{
+	"it_index" : 969,
+	"it_iconid" : 90004203,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_4"
+},
+{
+	"it_index" : 970,
+	"it_iconid" : 90004204,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_5"
+},
+{
+	"it_index" : 971,
+	"it_iconid" : 90004205,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_6"
+},
+{
+	"it_index" : 972,
+	"it_iconid" : 90004206,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_7"
+},
+{
+	"it_index" : 973,
+	"it_iconid" : 90004207,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_8"
+},
+{
+	"it_index" : 974,
+	"it_iconid" : 90004208,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_9"
+},
+{
+	"it_index" : 975,
+	"it_iconid" : 90004209,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_10"
+},
+{
+	"it_index" : 976,
+	"it_iconid" : 90004210,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_11"
+},
+{
+	"it_index" : 977,
+	"it_iconid" : 90004211,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_12"
+},
+{
+	"it_index" : 978,
+	"it_iconid" : 90004212,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_13"
+},
+{
+	"it_index" : 979,
+	"it_iconid" : 90004213,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_14"
+},
+{
+	"it_index" : 980,
+	"it_iconid" : 90004214,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_15"
+},
+{
+	"it_index" : 981,
+	"it_iconid" : 90004215,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_16"
+},
+{
+	"it_index" : 982,
+	"it_iconid" : 90004216,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_17"
+},
+{
+	"it_index" : 983,
+	"it_iconid" : 90004217,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_18"
+},
+{
+	"it_index" : 984,
+	"it_iconid" : 90004218,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_19"
+},
+{
+	"it_index" : 985,
+	"it_iconid" : 90004219,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_20"
+},
+{
+	"it_index" : 986,
+	"it_iconid" : 90004220,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_21"
+},
+{
+	"it_index" : 987,
+	"it_iconid" : 90004221,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_22"
+},
+{
+	"it_index" : 988,
+	"it_iconid" : 90004222,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_23"
+},
+{
+	"it_index" : 989,
+	"it_iconid" : 90004223,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_24"
+},
+{
+	"it_index" : 990,
+	"it_iconid" : 90004224,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_25"
+},
+{
+	"it_index" : 991,
+	"it_iconid" : 90004225,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_26"
+},
+{
+	"it_index" : 992,
+	"it_iconid" : 90004226,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_27"
+},
+{
+	"it_index" : 993,
+	"it_iconid" : 90004227,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_28"
+},
+{
+	"it_index" : 994,
+	"it_iconid" : 90004228,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_29"
+},
+{
+	"it_index" : 995,
+	"it_iconid" : 90004229,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_30"
+},
+{
+	"it_index" : 996,
+	"it_iconid" : 90004230,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_31"
+},
+{
+	"it_index" : 997,
+	"it_iconid" : 90004231,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_32"
+},
+{
+	"it_index" : 998,
+	"it_iconid" : 90004232,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_33"
+},
+{
+	"it_index" : 999,
+	"it_iconid" : 90004233,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_34"
+},
+{
+	"it_index" : 1000,
+	"it_iconid" : 90004234,
+	"it_icontag" : "ICONTAG_COLLECTION_LIST_ICON_35"
+},
+{
+	"it_index" : 1001,
+	"it_iconid" : 90004300,
+	"it_icontag" : "ICONTAG_COLLECTION_ILLUST_01_COMPLETE"
+},
+{
+	"it_index" : 1002,
+	"it_iconid" : 90004301,
+	"it_icontag" : "ICONTAG_COLLECTION_ILLUST_02_COMPLETE"
+},
+{
+	"it_index" : 1003,
+	"it_iconid" : 90004400,
+	"it_icontag" : "ICONTAG_COLLECTION_ILLUST_01_UNCMPLETE"
+},
+{
+	"it_index" : 1004,
+	"it_iconid" : 90004401,
+	"it_icontag" : "ICONTAG_COLLECTION_ILLUST_02_UNCMPLETE"
+},
+{
+	"it_index" : 1005,
+	"it_iconid" : 90004900,
+	"it_icontag" : "ICONTAG_REPURCHASE_POINT"
+},
+{
+	"it_index" : 1006,
+	"it_iconid" : 90004901,
+	"it_icontag" : "ICONTAG_REPURCHASE_CASH"
+},
+{
+	"it_index" : 1007,
+	"it_iconid" : 90004902,
+	"it_icontag" : "ICONTAG_REPURCHASE_REPAIR"
+},
+{
+	"it_index" : 1008,
+	"it_iconid" : 90005000,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_ME_L"
+},
+{
+	"it_index" : 1009,
+	"it_iconid" : 90005001,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_ME_R"
+},
+{
+	"it_index" : 1010,
+	"it_iconid" : 90005008,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_ME_C"
+},
+{
+	"it_index" : 1011,
+	"it_iconid" : 90005002,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_OTHER_L"
+},
+{
+	"it_index" : 1012,
+	"it_iconid" : 90005003,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_OTHER_R"
+},
+{
+	"it_index" : 1013,
+	"it_iconid" : 90005009,
+	"it_icontag" : "ICONTAG_BAT_KD_NORMAL_OTHER_C"
+},
+{
+	"it_index" : 1014,
+	"it_iconid" : 90005004,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_ME_L"
+},
+{
+	"it_index" : 1015,
+	"it_iconid" : 90005005,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_ME_R"
+},
+{
+	"it_index" : 1016,
+	"it_iconid" : 90005010,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_ME_C"
+},
+{
+	"it_index" : 1017,
+	"it_iconid" : 90005006,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_OTHER_L"
+},
+{
+	"it_index" : 1018,
+	"it_iconid" : 90005007,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_OTHER_R"
+},
+{
+	"it_index" : 1019,
+	"it_iconid" : 90005011,
+	"it_icontag" : "ICONTAG_BAT_KD_ZOMBIE_OTHER_C"
+},
+{
+	"it_index" : 1020,
+	"it_iconid" : 90005100,
+	"it_icontag" : "ICONTAG_BAT_USER_BLUE_L"
+},
+{
+	"it_index" : 1021,
+	"it_iconid" : 90005101,
+	"it_icontag" : "ICONTAG_BAT_USER_BLUE_R"
+},
+{
+	"it_index" : 1022,
+	"it_iconid" : 90005106,
+	"it_icontag" : "ICONTAG_BAT_USER_BLUE_C"
+},
+{
+	"it_index" : 1023,
+	"it_iconid" : 90005102,
+	"it_icontag" : "ICONTAG_BAT_USER_RED_L"
+},
+{
+	"it_index" : 1024,
+	"it_iconid" : 90005103,
+	"it_icontag" : "ICONTAG_BAT_USER_RED_R"
+},
+{
+	"it_index" : 1025,
+	"it_iconid" : 90005107,
+	"it_icontag" : "ICONTAG_BAT_USER_RED_C"
+},
+{
+	"it_index" : 1026,
+	"it_iconid" : 90005104,
+	"it_icontag" : "ICONTAG_BAT_USER_ZOMBIE_L"
+},
+{
+	"it_index" : 1027,
+	"it_iconid" : 90005105,
+	"it_icontag" : "ICONTAG_BAT_USER_ZOMBIE_R"
+},
+{
+	"it_index" : 1028,
+	"it_iconid" : 90005108,
+	"it_icontag" : "ICONTAG_BAT_USER_ZOMBIE_C"
+},
+{
+	"it_index" : 1029,
+	"it_iconid" : 90005200,
+	"it_icontag" : "ICONTAG_SETSUB_A_HAIR"
+},
+{
+	"it_index" : 1030,
+	"it_iconid" : 90005201,
+	"it_icontag" : "ICONTAG_SETSUB_A_FACE"
+},
+{
+	"it_index" : 1031,
+	"it_iconid" : 90005202,
+	"it_icontag" : "ICONTAG_SETSUB_A_UPPER"
+},
+{
+	"it_index" : 1032,
+	"it_iconid" : 90005203,
+	"it_icontag" : "ICONTAG_SETSUB_A_PANTS"
+},
+{
+	"it_index" : 1033,
+	"it_iconid" : 90005204,
+	"it_icontag" : "ICONTAG_SETSUB_A_UNDER"
+},
+{
+	"it_index" : 1034,
+	"it_iconid" : 90005205,
+	"it_icontag" : "ICONTAG_SETSUB_A_ARMS"
+},
+{
+	"it_index" : 1035,
+	"it_iconid" : 90005206,
+	"it_icontag" : "ICONTAG_SETSUB_A_BOOTS"
+},
+{
+	"it_index" : 1036,
+	"it_iconid" : 90005207,
+	"it_icontag" : "ICONTAG_SETSUB_A_ACC_A"
+},
+{
+	"it_index" : 1037,
+	"it_iconid" : 90005208,
+	"it_icontag" : "ICONTAG_SETSUB_A_ACC_B"
+},
+{
+	"it_index" : 1038,
+	"it_iconid" : 90005209,
+	"it_icontag" : "ICONTAG_SETSUB_A_ACC_C"
+},
+{
+	"it_index" : 1039,
+	"it_iconid" : 90005210,
+	"it_icontag" : "ICONTAG_SETSUB_B_HAIR"
+},
+{
+	"it_index" : 1040,
+	"it_iconid" : 90005211,
+	"it_icontag" : "ICONTAG_SETSUB_B_FACE"
+},
+{
+	"it_index" : 1041,
+	"it_iconid" : 90005212,
+	"it_icontag" : "ICONTAG_SETSUB_B_UPPER"
+},
+{
+	"it_index" : 1042,
+	"it_iconid" : 90005213,
+	"it_icontag" : "ICONTAG_SETSUB_B_PANTS"
+},
+{
+	"it_index" : 1043,
+	"it_iconid" : 90005214,
+	"it_icontag" : "ICONTAG_SETSUB_B_UNDER"
+},
+{
+	"it_index" : 1044,
+	"it_iconid" : 90005215,
+	"it_icontag" : "ICONTAG_SETSUB_B_ARMS"
+},
+{
+	"it_index" : 1045,
+	"it_iconid" : 90005216,
+	"it_icontag" : "ICONTAG_SETSUB_B_BOOTS"
+},
+{
+	"it_index" : 1046,
+	"it_iconid" : 90005217,
+	"it_icontag" : "ICONTAG_SETSUB_B_ACC_A"
+},
+{
+	"it_index" : 1047,
+	"it_iconid" : 90005218,
+	"it_icontag" : "ICONTAG_SETSUB_B_ACC_B"
+},
+{
+	"it_index" : 1048,
+	"it_iconid" : 90005219,
+	"it_icontag" : "ICONTAG_SETSUB_B_ACC_C"
+},
+{
+	"it_index" : 1049,
+	"it_iconid" : 90005220,
+	"it_icontag" : "ICONTAG_SETSUB_C_HAIR"
+},
+{
+	"it_index" : 1050,
+	"it_iconid" : 90005221,
+	"it_icontag" : "ICONTAG_SETSUB_C_FACE"
+},
+{
+	"it_index" : 1051,
+	"it_iconid" : 90005222,
+	"it_icontag" : "ICONTAG_SETSUB_C_UPPER"
+},
+{
+	"it_index" : 1052,
+	"it_iconid" : 90005223,
+	"it_icontag" : "ICONTAG_SETSUB_C_PANTS"
+},
+{
+	"it_index" : 1053,
+	"it_iconid" : 90005224,
+	"it_icontag" : "ICONTAG_SETSUB_C_UNDER"
+},
+{
+	"it_index" : 1054,
+	"it_iconid" : 90005225,
+	"it_icontag" : "ICONTAG_SETSUB_C_ARMS"
+},
+{
+	"it_index" : 1055,
+	"it_iconid" : 90005226,
+	"it_icontag" : "ICONTAG_SETSUB_C_BOOTS"
+},
+{
+	"it_index" : 1056,
+	"it_iconid" : 90005227,
+	"it_icontag" : "ICONTAG_SETSUB_C_ACC_A"
+},
+{
+	"it_index" : 1057,
+	"it_iconid" : 90005228,
+	"it_icontag" : "ICONTAG_SETSUB_C_ACC_B"
+},
+{
+	"it_index" : 1058,
+	"it_iconid" : 90005229,
+	"it_icontag" : "ICONTAG_SETSUB_C_ACC_C"
+},
+{
+	"it_index" : 1059,
+	"it_iconid" : 90005230,
+	"it_icontag" : "ICONTAG_SETSUB_D_HAIR"
+},
+{
+	"it_index" : 1060,
+	"it_iconid" : 90005231,
+	"it_icontag" : "ICONTAG_SETSUB_D_FACE"
+},
+{
+	"it_index" : 1061,
+	"it_iconid" : 90005232,
+	"it_icontag" : "ICONTAG_SETSUB_D_UPPER"
+},
+{
+	"it_index" : 1062,
+	"it_iconid" : 90005233,
+	"it_icontag" : "ICONTAG_SETSUB_D_PANTS"
+},
+{
+	"it_index" : 1063,
+	"it_iconid" : 90005234,
+	"it_icontag" : "ICONTAG_SETSUB_D_UNDER"
+},
+{
+	"it_index" : 1064,
+	"it_iconid" : 90005235,
+	"it_icontag" : "ICONTAG_SETSUB_D_ARMS"
+},
+{
+	"it_index" : 1065,
+	"it_iconid" : 90005236,
+	"it_icontag" : "ICONTAG_SETSUB_D_BOOTS"
+},
+{
+	"it_index" : 1066,
+	"it_iconid" : 90005237,
+	"it_icontag" : "ICONTAG_SETSUB_D_ACC_A"
+},
+{
+	"it_index" : 1067,
+	"it_iconid" : 90005238,
+	"it_icontag" : "ICONTAG_SETSUB_D_ACC_B"
+},
+{
+	"it_index" : 1068,
+	"it_iconid" : 90005239,
+	"it_icontag" : "ICONTAG_SETSUB_D_ACC_C"
+},
+{
+	"it_index" : 1069,
+	"it_iconid" : 90005251,
+	"it_icontag" : "ICONTAG_ITEM_DEFAULT"
+},
+{
+	"it_index" : 1070,
+	"it_iconid" : 90005240,
+	"it_icontag" : "ICONTAG_ITEM_DEFAULT_WEAPON"
+},
+{
+	"it_index" : 1071,
+	"it_iconid" : 90005241,
+	"it_icontag" : "ICONTAG_SETSUB_E_HAIR"
+},
+{
+	"it_index" : 1072,
+	"it_iconid" : 90005242,
+	"it_icontag" : "ICONTAG_SETSUB_E_FACE"
+},
+{
+	"it_index" : 1073,
+	"it_iconid" : 90005243,
+	"it_icontag" : "ICONTAG_SETSUB_E_UPPER"
+},
+{
+	"it_index" : 1074,
+	"it_iconid" : 90005244,
+	"it_icontag" : "ICONTAG_SETSUB_E_PANTS"
+},
+{
+	"it_index" : 1075,
+	"it_iconid" : 90005245,
+	"it_icontag" : "ICONTAG_SETSUB_E_UNDER"
+},
+{
+	"it_index" : 1076,
+	"it_iconid" : 90005246,
+	"it_icontag" : "ICONTAG_SETSUB_E_ARMS"
+},
+{
+	"it_index" : 1077,
+	"it_iconid" : 90005247,
+	"it_icontag" : "ICONTAG_SETSUB_E_BOOTS"
+},
+{
+	"it_index" : 1078,
+	"it_iconid" : 90005248,
+	"it_icontag" : "ICONTAG_SETSUB_E_ACC_A"
+},
+{
+	"it_index" : 1079,
+	"it_iconid" : 90005249,
+	"it_icontag" : "ICONTAG_SETSUB_E_ACC_B"
+},
+{
+	"it_index" : 1080,
+	"it_iconid" : 90005250,
+	"it_icontag" : "ICONTAG_SETSUB_E_ACC_C"
+},
+{
+	"it_index" : 1081,
+	"it_iconid" : 90005300,
+	"it_icontag" : "ICONTAG_PCROOM_NORMAL"
+},
+{
+	"it_index" : 1082,
+	"it_iconid" : 90005301,
+	"it_icontag" : "ICONTAG_PCROOM_SILVER"
+},
+{
+	"it_index" : 1083,
+	"it_iconid" : 90005302,
+	"it_icontag" : "ICONTAG_PCROOM_GOLD"
+},
+{
+	"it_index" : 1084,
+	"it_iconid" : 90005400,
+	"it_icontag" : "ICONTAG_REPAIR_ALL"
+},
+{
+	"it_index" : 1085,
+	"it_iconid" : 90005401,
+	"it_icontag" : "ICONTAG_REPAIR_REQUEST"
+},
+{
+	"it_index" : 1086,
+	"it_iconid" : 90005500,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_0"
+},
+{
+	"it_index" : 1087,
+	"it_iconid" : 90005501,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_1"
+},
+{
+	"it_index" : 1088,
+	"it_iconid" : 90005502,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_2"
+},
+{
+	"it_index" : 1089,
+	"it_iconid" : 90005503,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_3"
+},
+{
+	"it_index" : 1090,
+	"it_iconid" : 90005504,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_4"
+},
+{
+	"it_index" : 1091,
+	"it_iconid" : 90005505,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_5"
+},
+{
+	"it_index" : 1092,
+	"it_iconid" : 90005506,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_6"
+},
+{
+	"it_index" : 1093,
+	"it_iconid" : 90005507,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_7"
+},
+{
+	"it_index" : 1094,
+	"it_iconid" : 90005508,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_8"
+},
+{
+	"it_index" : 1095,
+	"it_iconid" : 90005509,
+	"it_icontag" : "ICONTAG_RESULTNUM_POINT_9"
+},
+{
+	"it_index" : 1096,
+	"it_iconid" : 90005510,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_0"
+},
+{
+	"it_index" : 1097,
+	"it_iconid" : 90005511,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_1"
+},
+{
+	"it_index" : 1098,
+	"it_iconid" : 90005512,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_2"
+},
+{
+	"it_index" : 1099,
+	"it_iconid" : 90005513,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_3"
+},
+{
+	"it_index" : 1100,
+	"it_iconid" : 90005514,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_4"
+},
+{
+	"it_index" : 1101,
+	"it_iconid" : 90005515,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_5"
+},
+{
+	"it_index" : 1102,
+	"it_iconid" : 90005516,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_6"
+},
+{
+	"it_index" : 1103,
+	"it_iconid" : 90005517,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_7"
+},
+{
+	"it_index" : 1104,
+	"it_iconid" : 90005518,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_8"
+},
+{
+	"it_index" : 1105,
+	"it_iconid" : 90005519,
+	"it_icontag" : "ICONTAG_RESULTNUM_EXP_9"
+},
+{
+	"it_index" : 1106,
+	"it_iconid" : 90005700,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_27"
+},
+{
+	"it_index" : 1107,
+	"it_iconid" : 90005701,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_13"
+},
+{
+	"it_index" : 1108,
+	"it_iconid" : 90005702,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_5"
+},
+{
+	"it_index" : 1109,
+	"it_iconid" : 90005703,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_14"
+},
+{
+	"it_index" : 1110,
+	"it_iconid" : 90005704,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_6"
+},
+{
+	"it_index" : 1111,
+	"it_iconid" : 90005705,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_7"
+},
+{
+	"it_index" : 1112,
+	"it_iconid" : 90005706,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_1"
+},
+{
+	"it_index" : 1113,
+	"it_iconid" : 90005707,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_20"
+},
+{
+	"it_index" : 1114,
+	"it_iconid" : 90005708,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_8"
+},
+{
+	"it_index" : 1115,
+	"it_iconid" : 90005709,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_11"
+},
+{
+	"it_index" : 1116,
+	"it_iconid" : 90005710,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_21"
+},
+{
+	"it_index" : 1117,
+	"it_iconid" : 90005711,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_2"
+},
+{
+	"it_index" : 1118,
+	"it_iconid" : 90005712,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_9"
+},
+{
+	"it_index" : 1119,
+	"it_iconid" : 90005713,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_10"
+},
+{
+	"it_index" : 1120,
+	"it_iconid" : 90005714,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_22"
+},
+{
+	"it_index" : 1121,
+	"it_iconid" : 90005715,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_15"
+},
+{
+	"it_index" : 1122,
+	"it_iconid" : 90005716,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_16"
+},
+{
+	"it_index" : 1123,
+	"it_iconid" : 90005717,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_17"
+},
+{
+	"it_index" : 1124,
+	"it_iconid" : 90005718,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_18"
+},
+{
+	"it_index" : 1125,
+	"it_iconid" : 90005719,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_19"
+},
+{
+	"it_index" : 1126,
+	"it_iconid" : 90005720,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_3"
+},
+{
+	"it_index" : 1127,
+	"it_iconid" : 90005721,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_4"
+},
+{
+	"it_index" : 1128,
+	"it_iconid" : 90005722,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_28"
+},
+{
+	"it_index" : 1129,
+	"it_iconid" : 90005723,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_23"
+},
+{
+	"it_index" : 1130,
+	"it_iconid" : 90005724,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_29"
+},
+{
+	"it_index" : 1131,
+	"it_iconid" : 90005725,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_30"
+},
+{
+	"it_index" : 1132,
+	"it_iconid" : 90005726,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_31"
+},
+{
+	"it_index" : 1133,
+	"it_iconid" : 90005727,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_32"
+},
+{
+	"it_index" : 1134,
+	"it_iconid" : 90005728,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_33"
+},
+{
+	"it_index" : 1135,
+	"it_iconid" : 90005729,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_46"
+},
+{
+	"it_index" : 1136,
+	"it_iconid" : 90005730,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_47"
+},
+{
+	"it_index" : 1137,
+	"it_iconid" : 90005731,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_34"
+},
+{
+	"it_index" : 1138,
+	"it_iconid" : 90005732,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_35"
+},
+{
+	"it_index" : 1139,
+	"it_iconid" : 90005733,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_36"
+},
+{
+	"it_index" : 1140,
+	"it_iconid" : 90005734,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_37"
+},
+{
+	"it_index" : 1141,
+	"it_iconid" : 90004806,
+	"it_icontag" : "ICONTAG_ZOMBIE_00"
+},
+{
+	"it_index" : 1142,
+	"it_iconid" : 90005800,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_KNIFE"
+},
+{
+	"it_index" : 1143,
+	"it_iconid" : 90005801,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_RIFLE"
+},
+{
+	"it_index" : 1144,
+	"it_iconid" : 90005802,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_SHOTGUN"
+},
+{
+	"it_index" : 1145,
+	"it_iconid" : 90005803,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_SNIPER"
+},
+{
+	"it_index" : 1146,
+	"it_iconid" : 90005804,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_GATLING"
+},
+{
+	"it_index" : 1147,
+	"it_iconid" : 90005805,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_LAUNCHER"
+},
+{
+	"it_index" : 1148,
+	"it_iconid" : 90005806,
+	"it_icontag" : "ICONTAG_WPN_LIMIT_GRANADE"
+},
+{
+	"it_index" : 1149,
+	"it_iconid" : 90005614,
+	"it_icontag" : "ICONTAG_BATTERY_00"
+},
+{
+	"it_index" : 1150,
+	"it_iconid" : 90005615,
+	"it_icontag" : "ICONTAG_BATTERY_01"
+},
+{
+	"it_index" : 1151,
+	"it_iconid" : 90005616,
+	"it_icontag" : "ICONTAG_BATTERY_02"
+},
+{
+	"it_index" : 1152,
+	"it_iconid" : 90005617,
+	"it_icontag" : "ICONTAG_BATTERY_10"
+},
+{
+	"it_index" : 1153,
+	"it_iconid" : 90005618,
+	"it_icontag" : "ICONTAG_BATTERY_11"
+},
+{
+	"it_index" : 1154,
+	"it_iconid" : 90005630,
+	"it_icontag" : "ICONTAG_ITEM_ENERGY_100"
+},
+{
+	"it_index" : 1155,
+	"it_iconid" : 90005632,
+	"it_icontag" : "ICONTAG_ITEM_SHIELD"
+},
+{
+	"it_index" : 1156,
+	"it_iconid" : 90005639,
+	"it_icontag" : "ICONTAG_ITEM_NOTWEAR"
+},
+{
+	"it_index" : 1157,
+	"it_iconid" : 90005900,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_27"
+},
+{
+	"it_index" : 1158,
+	"it_iconid" : 90005901,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_13"
+},
+{
+	"it_index" : 1159,
+	"it_iconid" : 90005902,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_5"
+},
+{
+	"it_index" : 1160,
+	"it_iconid" : 90005903,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_14"
+},
+{
+	"it_index" : 1161,
+	"it_iconid" : 90005904,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_6"
+},
+{
+	"it_index" : 1162,
+	"it_iconid" : 90005905,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_7"
+},
+{
+	"it_index" : 1163,
+	"it_iconid" : 90005906,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_1"
+},
+{
+	"it_index" : 1164,
+	"it_iconid" : 90005907,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_20"
+},
+{
+	"it_index" : 1165,
+	"it_iconid" : 90005908,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_8"
+},
+{
+	"it_index" : 1166,
+	"it_iconid" : 90005909,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_11"
+},
+{
+	"it_index" : 1167,
+	"it_iconid" : 90005910,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_21"
+},
+{
+	"it_index" : 1168,
+	"it_iconid" : 90005911,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_2"
+},
+{
+	"it_index" : 1169,
+	"it_iconid" : 90005912,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_9"
+},
+{
+	"it_index" : 1170,
+	"it_iconid" : 90005913,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_10"
+},
+{
+	"it_index" : 1171,
+	"it_iconid" : 90005914,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_22"
+},
+{
+	"it_index" : 1172,
+	"it_iconid" : 90005915,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_15"
+},
+{
+	"it_index" : 1173,
+	"it_iconid" : 90005916,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_16"
+},
+{
+	"it_index" : 1174,
+	"it_iconid" : 90005917,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_17"
+},
+{
+	"it_index" : 1175,
+	"it_iconid" : 90005918,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_18"
+},
+{
+	"it_index" : 1176,
+	"it_iconid" : 90005919,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_19"
+},
+{
+	"it_index" : 1177,
+	"it_iconid" : 90005920,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_3"
+},
+{
+	"it_index" : 1178,
+	"it_iconid" : 90005921,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_4"
+},
+{
+	"it_index" : 1179,
+	"it_iconid" : 90005922,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_28"
+},
+{
+	"it_index" : 1180,
+	"it_iconid" : 90005923,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_23"
+},
+{
+	"it_index" : 1181,
+	"it_iconid" : 90005924,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_29"
+},
+{
+	"it_index" : 1182,
+	"it_iconid" : 90005925,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_30"
+},
+{
+	"it_index" : 1183,
+	"it_iconid" : 90005926,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_31"
+},
+{
+	"it_index" : 1184,
+	"it_iconid" : 90005927,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_32"
+},
+{
+	"it_index" : 1185,
+	"it_iconid" : 90005928,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_33"
+},
+{
+	"it_index" : 1186,
+	"it_iconid" : 90005929,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_46"
+},
+{
+	"it_index" : 1187,
+	"it_iconid" : 90005930,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_47"
+},
+{
+	"it_index" : 1188,
+	"it_iconid" : 90005931,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_34"
+},
+{
+	"it_index" : 1189,
+	"it_iconid" : 90005932,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_35"
+},
+{
+	"it_index" : 1190,
+	"it_iconid" : 90005933,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_36"
+},
+{
+	"it_index" : 1191,
+	"it_iconid" : 90005934,
+	"it_icontag" : "ICONTAG_LOADING_MINIMAP_F_37"
+},
+{
+	"it_index" : 1192,
+	"it_iconid" : 90006000,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_27"
+},
+{
+	"it_index" : 1193,
+	"it_iconid" : 90006001,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_13"
+},
+{
+	"it_index" : 1194,
+	"it_iconid" : 90006002,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_5"
+},
+{
+	"it_index" : 1195,
+	"it_iconid" : 90006003,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_6"
+},
+{
+	"it_index" : 1196,
+	"it_iconid" : 90006004,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_7"
+},
+{
+	"it_index" : 1197,
+	"it_iconid" : 90006005,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_120"
+},
+{
+	"it_index" : 1198,
+	"it_iconid" : 90006006,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_14"
+},
+{
+	"it_index" : 1199,
+	"it_iconid" : 90006007,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_1"
+},
+{
+	"it_index" : 1200,
+	"it_iconid" : 90006008,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_8"
+},
+{
+	"it_index" : 1201,
+	"it_iconid" : 90006009,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_20"
+},
+{
+	"it_index" : 1202,
+	"it_iconid" : 90006010,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_41"
+},
+{
+	"it_index" : 1203,
+	"it_iconid" : 90006011,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_42"
+},
+{
+	"it_index" : 1204,
+	"it_iconid" : 90006012,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_11"
+},
+{
+	"it_index" : 1205,
+	"it_iconid" : 90006013,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_21"
+},
+{
+	"it_index" : 1206,
+	"it_iconid" : 90006014,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_2"
+},
+{
+	"it_index" : 1207,
+	"it_iconid" : 90006015,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_9"
+},
+{
+	"it_index" : 1208,
+	"it_iconid" : 90006016,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_10"
+},
+{
+	"it_index" : 1209,
+	"it_iconid" : 90006017,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_22"
+},
+{
+	"it_index" : 1210,
+	"it_iconid" : 90006018,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_15"
+},
+{
+	"it_index" : 1211,
+	"it_iconid" : 90006019,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_16"
+},
+{
+	"it_index" : 1212,
+	"it_iconid" : 90006020,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_17"
+},
+{
+	"it_index" : 1213,
+	"it_iconid" : 90006021,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_18"
+},
+{
+	"it_index" : 1214,
+	"it_iconid" : 90006022,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_19"
+},
+{
+	"it_index" : 1215,
+	"it_iconid" : 90006023,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_3"
+},
+{
+	"it_index" : 1216,
+	"it_iconid" : 90006024,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_4"
+},
+{
+	"it_index" : 1217,
+	"it_iconid" : 90006025,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_28"
+},
+{
+	"it_index" : 1218,
+	"it_iconid" : 90006026,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_23"
+},
+{
+	"it_index" : 1219,
+	"it_iconid" : 90006027,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_29"
+},
+{
+	"it_index" : 1220,
+	"it_iconid" : 90006028,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_30"
+},
+{
+	"it_index" : 1221,
+	"it_iconid" : 90006029,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_31"
+},
+{
+	"it_index" : 1222,
+	"it_iconid" : 90006030,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_32"
+},
+{
+	"it_index" : 1223,
+	"it_iconid" : 90006031,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_33"
+},
+{
+	"it_index" : 1224,
+	"it_iconid" : 90006032,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_46"
+},
+{
+	"it_index" : 1225,
+	"it_iconid" : 90006033,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_47"
+},
+{
+	"it_index" : 1226,
+	"it_iconid" : 90006034,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_34"
+},
+{
+	"it_index" : 1227,
+	"it_iconid" : 90006035,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_35"
+},
+{
+	"it_index" : 1228,
+	"it_iconid" : 90006036,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_36"
+},
+{
+	"it_index" : 1229,
+	"it_iconid" : 90006037,
+	"it_icontag" : "ICONTAG_MAP_BATTLE_F_37"
+},
+{
+	"it_index" : 1230,
+	"it_iconid" : 90004903,
+	"it_icontag" : "ICONTAG_UPGRADE_00"
+},
+{
+	"it_index" : 1231,
+	"it_iconid" : 90004904,
+	"it_icontag" : "ICONTAG_UPGRADE_01"
+},
+{
+	"it_index" : 1232,
+	"it_iconid" : 90004905,
+	"it_icontag" : "ICONTAG_UPGRADE_02"
+},
+{
+	"it_index" : 1233,
+	"it_iconid" : 90004906,
+	"it_icontag" : "ICONTAG_UPGRADE_03"
+},
+{
+	"it_index" : 1234,
+	"it_iconid" : 90004907,
+	"it_icontag" : "ICONTAG_UPGRADE_04"
+},
+{
+	"it_index" : 1235,
+	"it_iconid" : 90005620,
+	"it_icontag" : "ICONTAG_UPGRADE_CASHITEM_00"
+},
+{
+	"it_index" : 1236,
+	"it_iconid" : 90005621,
+	"it_icontag" : "ICONTAG_UPGRADE_CASHITEM_01"
+},
+{
+	"it_index" : 1237,
+	"it_iconid" : 90005622,
+	"it_icontag" : "ICONTAG_UPGRADE_CASHITEM_02"
+},
+{
+	"it_index" : 1238,
+	"it_iconid" : 90005623,
+	"it_icontag" : "ICONTAG_UPGRADE_CASHITEM_03"
+},
+{
+	"it_index" : 1239,
+	"it_iconid" : 90004908,
+	"it_icontag" : "ICONTAG_EVOLUTION_BASE"
+},
+{
+	"it_index" : 1240,
+	"it_iconid" : 90004909,
+	"it_icontag" : "ICONTAG_EVOLUTION_TYPE"
+},
+{
+	"it_index" : 1241,
+	"it_iconid" : 90004950,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_CASH"
+},
+{
+	"it_index" : 1242,
+	"it_iconid" : 90004951,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_POINT"
+},
+{
+	"it_index" : 1243,
+	"it_iconid" : 90004952,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_COIN"
+},
+{
+	"it_index" : 1244,
+	"it_iconid" : 90004953,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_CASH_LEFT"
+},
+{
+	"it_index" : 1245,
+	"it_iconid" : 90004954,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_POINT_LEFT"
+},
+{
+	"it_index" : 1246,
+	"it_iconid" : 90004955,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_COIN_LEFT"
+},
+{
+	"it_index" : 1247,
+	"it_iconid" : 90004956,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_CASH_RIGHT"
+},
+{
+	"it_index" : 1248,
+	"it_iconid" : 90004957,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_POINT_RIGHT"
+},
+{
+	"it_index" : 1249,
+	"it_iconid" : 90004958,
+	"it_icontag" : "ICONTAG_GACHAPON_MONEY_COIN_RIGHT"
+},
+{
+	"it_index" : 1250,
+	"it_iconid" : 90006100,
+	"it_icontag" : "ICONTAG_MODE_TDM"
+},
+{
+	"it_index" : 1251,
+	"it_iconid" : 90006101,
+	"it_icontag" : "ICONTAG_MODE_FFA"
+},
+{
+	"it_index" : 1252,
+	"it_iconid" : 90006102,
+	"it_icontag" : "ICONTAG_MODE_ITM"
+},
+{
+	"it_index" : 1253,
+	"it_iconid" : 90006103,
+	"it_icontag" : "ICONTAG_MODE_CTF"
+},
+{
+	"it_index" : 1254,
+	"it_iconid" : 90006104,
+	"it_icontag" : "ICONTAG_MODE_CTM"
+},
+{
+	"it_index" : 1255,
+	"it_iconid" : 90006105,
+	"it_icontag" : "ICONTAG_MODE_SAB"
+},
+{
+	"it_index" : 1256,
+	"it_iconid" : 90006106,
+	"it_icontag" : "ICONTAG_MODE_CIM"
+},
+{
+	"it_index" : 1257,
+	"it_iconid" : 90006107,
+	"it_icontag" : "ICONTAG_MODE_ZSM"
+},
+{
+	"it_index" : 1258,
+	"it_iconid" : 90006108,
+	"it_icontag" : "ICONTAG_MODE_GRM"
+},
+{
+	"it_index" : 1259,
+	"it_iconid" : 90006110,
+	"it_icontag" : "ICONTAG_MODE_BMB"
+},
+{
+	"it_index" : 1260,
+	"it_iconid" : 90006109,
+	"it_icontag" : "ICONTAG_MODE_MOC"
+},
+{
+	"it_index" : 1261,
+	"it_iconid" : 90006111,
+	"it_icontag" : "ICONTAG_MODE_RANDOM"
+},
+{
+	"it_index" : 1262,
+	"it_iconid" : 90006112,
+	"it_icontag" : "ICONTAG_MODE_PVE"
+},
+{
+	"it_index" : 1263,
+	"it_iconid" : 90006114,
+	"it_icontag" : "ICONTAG_MODE_SNI"
+},
+{
+	"it_index" : 1264,
+	"it_iconid" : 90006115,
+	"it_icontag" : "ICONTAG_MODE_NOD"
+},
+{
+	"it_index" : 1265,
+	"it_iconid" : 90006116,
+	"it_icontag" : "ICONTAG_MODE_BOT"
+},
+{
+	"it_index" : 1266,
+	"it_iconid" : 90006120,
+	"it_icontag" : "ICONTAG_MODE_SELECT"
+},
+{
+	"it_index" : 1267,
+	"it_iconid" : 90006121,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT"
+},
+{
+	"it_index" : 1268,
+	"it_iconid" : 90006122,
+	"it_icontag" : "ICONTAG_MAP_SELECT"
+},
+{
+	"it_index" : 1269,
+	"it_iconid" : 90006200,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_ALL"
+},
+{
+	"it_index" : 1270,
+	"it_iconid" : 90006201,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_KNIFE"
+},
+{
+	"it_index" : 1271,
+	"it_iconid" : 90006202,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_RIFLE"
+},
+{
+	"it_index" : 1272,
+	"it_iconid" : 90006203,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SHOTGUN"
+},
+{
+	"it_index" : 1273,
+	"it_iconid" : 90006204,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_SNIPER"
+},
+{
+	"it_index" : 1274,
+	"it_iconid" : 90006205,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_GATLING"
+},
+{
+	"it_index" : 1275,
+	"it_iconid" : 90006206,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_LAUNCHER"
+},
+{
+	"it_index" : 1276,
+	"it_iconid" : 90006207,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_GRANADE"
+},
+{
+	"it_index" : 1277,
+	"it_iconid" : 90006208,
+	"it_icontag" : "ICONTAG_WEAPON_SELECT_THREEWEAPON"
+},
+{
+	"it_index" : 1278,
+	"it_iconid" : 90006210,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_1"
+},
+{
+	"it_index" : 1279,
+	"it_iconid" : 90006211,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_2"
+},
+{
+	"it_index" : 1280,
+	"it_iconid" : 90006212,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_3"
+},
+{
+	"it_index" : 1281,
+	"it_iconid" : 90006213,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_4"
+},
+{
+	"it_index" : 1282,
+	"it_iconid" : 90006214,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_5"
+},
+{
+	"it_index" : 1283,
+	"it_iconid" : 90006215,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_6"
+},
+{
+	"it_index" : 1284,
+	"it_iconid" : 90006216,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_7"
+},
+{
+	"it_index" : 1285,
+	"it_iconid" : 90006217,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_8"
+},
+{
+	"it_index" : 1286,
+	"it_iconid" : 90006218,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_9"
+},
+{
+	"it_index" : 1287,
+	"it_iconid" : 90006219,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_10"
+},
+{
+	"it_index" : 1288,
+	"it_iconid" : 90006220,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_11"
+},
+{
+	"it_index" : 1289,
+	"it_iconid" : 90006221,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_12"
+},
+{
+	"it_index" : 1290,
+	"it_iconid" : 90006222,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_13"
+},
+{
+	"it_index" : 1291,
+	"it_iconid" : 90006223,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_14"
+},
+{
+	"it_index" : 1292,
+	"it_iconid" : 90006224,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_15"
+},
+{
+	"it_index" : 1293,
+	"it_iconid" : 90006225,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_16"
+},
+{
+	"it_index" : 1294,
+	"it_iconid" : 90006226,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_17"
+},
+{
+	"it_index" : 1295,
+	"it_iconid" : 90006227,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_18"
+},
+{
+	"it_index" : 1296,
+	"it_iconid" : 90006228,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_19"
+},
+{
+	"it_index" : 1297,
+	"it_iconid" : 90006229,
+	"it_icontag" : "ICONTAG_SINGLE_STAGE_20"
+},
+{
+	"it_index" : 1298,
+	"it_iconid" : 90006400,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_KNIFE"
+},
+{
+	"it_index" : 1299,
+	"it_iconid" : 90006401,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_RIFLE"
+},
+{
+	"it_index" : 1300,
+	"it_iconid" : 90006402,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_SHOTGUN"
+},
+{
+	"it_index" : 1301,
+	"it_iconid" : 90006403,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_SNIPER"
+},
+{
+	"it_index" : 1302,
+	"it_iconid" : 90006404,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_GATLING"
+},
+{
+	"it_index" : 1303,
+	"it_iconid" : 90006405,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_LUNCHER"
+},
+{
+	"it_index" : 1304,
+	"it_iconid" : 90006406,
+	"it_icontag" : "ICONTAG_WEAPON_NAME_GRENADE"
+},
+{
+	"it_index" : 1305,
+	"it_iconid" : 90006500,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_KNIFE"
+},
+{
+	"it_index" : 1306,
+	"it_iconid" : 90006501,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_RIFLE"
+},
+{
+	"it_index" : 1307,
+	"it_iconid" : 90006502,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_SHOTGUN"
+},
+{
+	"it_index" : 1308,
+	"it_iconid" : 90006503,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_SNIPER"
+},
+{
+	"it_index" : 1309,
+	"it_iconid" : 90006504,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_GATLING"
+},
+{
+	"it_index" : 1310,
+	"it_iconid" : 90006505,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_LUNCHER"
+},
+{
+	"it_index" : 1311,
+	"it_iconid" : 90006506,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_GRENADE"
+},
+{
+	"it_index" : 1312,
+	"it_iconid" : 90006507,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_KNIFE_NOAMMO"
+},
+{
+	"it_index" : 1313,
+	"it_iconid" : 90006508,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_RIFLE_NOAMMO"
+},
+{
+	"it_index" : 1314,
+	"it_iconid" : 90006509,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_SHOTGUN_NOAMMO"
+},
+{
+	"it_index" : 1315,
+	"it_iconid" : 90006510,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_SNIPER_NOAMMO"
+},
+{
+	"it_index" : 1316,
+	"it_iconid" : 90006511,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_GATLING_NOAMMO"
+},
+{
+	"it_index" : 1317,
+	"it_iconid" : 90006512,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_LUNCHER_NOAMMO"
+},
+{
+	"it_index" : 1318,
+	"it_iconid" : 90006513,
+	"it_icontag" : "ICONTAG_WEAPON_SLOT_GRENADE_NOAMMO"
+},
+{
+	"it_index" : 1319,
+	"it_iconid" : 90007000,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_00"
+},
+{
+	"it_index" : 1320,
+	"it_iconid" : 90007001,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_01"
+},
+{
+	"it_index" : 1321,
+	"it_iconid" : 90007002,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_02"
+},
+{
+	"it_index" : 1322,
+	"it_iconid" : 90007003,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_03"
+},
+{
+	"it_index" : 1323,
+	"it_iconid" : 90007004,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_04"
+},
+{
+	"it_index" : 1324,
+	"it_iconid" : 90007005,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_05"
+},
+{
+	"it_index" : 1325,
+	"it_iconid" : 90007006,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_06"
+},
+{
+	"it_index" : 1326,
+	"it_iconid" : 90007007,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_07"
+},
+{
+	"it_index" : 1327,
+	"it_iconid" : 90007008,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_08"
+},
+{
+	"it_index" : 1328,
+	"it_iconid" : 90007009,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_09"
+},
+{
+	"it_index" : 1329,
+	"it_iconid" : 90004808,
+	"it_icontag" : "ICONTAG_WATCH_FIGHTICON_01"
+},
+{
+	"it_index" : 1330,
+	"it_iconid" : 90004809,
+	"it_icontag" : "ICONTAG_WATCH_BOMB"
+},
+{
+	"it_index" : 1331,
+	"it_iconid" : 90004810,
+	"it_icontag" : "ICONTAG_WATCH_BOMB_FIGHT"
+},
+{
+	"it_index" : 1332,
+	"it_iconid" : 90004811,
+	"it_icontag" : "ICONTAG_MOC_BATTERY"
+},
+{
+	"it_index" : 1333,
+	"it_iconid" : 90004812,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_KNIFE"
+},
+{
+	"it_index" : 1334,
+	"it_iconid" : 90004813,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_RIFLE"
+},
+{
+	"it_index" : 1335,
+	"it_iconid" : 90004814,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_SHOTGUN"
+},
+{
+	"it_index" : 1336,
+	"it_iconid" : 90004815,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_SNIPER"
+},
+{
+	"it_index" : 1337,
+	"it_iconid" : 90004816,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_GATLING"
+},
+{
+	"it_index" : 1338,
+	"it_iconid" : 90004817,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_LAUNCHER"
+},
+{
+	"it_index" : 1339,
+	"it_iconid" : 90004818,
+	"it_icontag" : "ICONTAG_MOC_ATTACK_GRENADE"
+},
+{
+	"it_index" : 1340,
+	"it_iconid" : 90007010,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_10"
+},
+{
+	"it_index" : 1341,
+	"it_iconid" : 90007011,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_11"
+},
+{
+	"it_index" : 1342,
+	"it_iconid" : 90007012,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_12"
+},
+{
+	"it_index" : 1343,
+	"it_iconid" : 90007013,
+	"it_icontag" : "ICONTAG_MOC_KILLMSG_13"
+},
+{
+	"it_index" : 1344,
+	"it_iconid" : 90008000,
+	"it_icontag" : "ICONTAG_STORY_STEP_01"
+},
+{
+	"it_index" : 1345,
+	"it_iconid" : 90008001,
+	"it_icontag" : "ICONTAG_STORY_STEP_02"
+},
+{
+	"it_index" : 1346,
+	"it_iconid" : 90008002,
+	"it_icontag" : "ICONTAG_STORY_STEP_03"
+},
+{
+	"it_index" : 1347,
+	"it_iconid" : 90008003,
+	"it_icontag" : "ICONTAG_STORY_STEP_04"
+},
+{
+	"it_index" : 1348,
+	"it_iconid" : 90008004,
+	"it_icontag" : "ICONTAG_STORY_STEP_05"
+},
+{
+	"it_index" : 1349,
+	"it_iconid" : 90008005,
+	"it_icontag" : "ICONTAG_STORY_STEP_06"
+},
+{
+	"it_index" : 1350,
+	"it_iconid" : 90008006,
+	"it_icontag" : "ICONTAG_STORY_STEP_07"
+},
+{
+	"it_index" : 1351,
+	"it_iconid" : 90008007,
+	"it_icontag" : "ICONTAG_STORY_STEP_08"
+},
+{
+	"it_index" : 1352,
+	"it_iconid" : 90008008,
+	"it_icontag" : "ICONTAG_STORY_STEP_09"
+},
+{
+	"it_index" : 1353,
+	"it_iconid" : 90008009,
+	"it_icontag" : "ICONTAG_STORY_STEP_10"
+},
+{
+	"it_index" : 1354,
+	"it_iconid" : 90008010,
+	"it_icontag" : "ICONTAG_STORY_STEP_11"
+},
+{
+	"it_index" : 1355,
+	"it_iconid" : 90008011,
+	"it_icontag" : "ICONTAG_STORY_STEP_12"
+},
+{
+	"it_index" : 1356,
+	"it_iconid" : 90008012,
+	"it_icontag" : "ICONTAG_STORY_STEP_13"
+},
+{
+	"it_index" : 1357,
+	"it_iconid" : 90008013,
+	"it_icontag" : "ICONTAG_STORY_STEP_14"
+},
+{
+	"it_index" : 1358,
+	"it_iconid" : 90008014,
+	"it_icontag" : "ICONTAG_STORY_STEP_15"
+},
+{
+	"it_index" : 1359,
+	"it_iconid" : 90008015,
+	"it_icontag" : "ICONTAG_STORY_STEP_16"
+},
+{
+	"it_index" : 1360,
+	"it_iconid" : 90008016,
+	"it_icontag" : "ICONTAG_STORY_STEP_17"
+},
+{
+	"it_index" : 1361,
+	"it_iconid" : 90008017,
+	"it_icontag" : "ICONTAG_STORY_STEP_18"
+},
+{
+	"it_index" : 1362,
+	"it_iconid" : 90008018,
+	"it_icontag" : "ICONTAG_STORY_STEP_19"
+},
+{
+	"it_index" : 1363,
+	"it_iconid" : 90008019,
+	"it_icontag" : "ICONTAG_STORY_STEP_20"
+},
+{
+	"it_index" : 1364,
+	"it_iconid" : 90008020,
+	"it_icontag" : "ICONTAG_STORY_STEP_21"
+},
+{
+	"it_index" : 1365,
+	"it_iconid" : 90008021,
+	"it_icontag" : "ICONTAG_STORY_STEP_22"
+},
+{
+	"it_index" : 1366,
+	"it_iconid" : 90008022,
+	"it_icontag" : "ICONTAG_STORY_STEP_23"
+},
+{
+	"it_index" : 1367,
+	"it_iconid" : 90008023,
+	"it_icontag" : "ICONTAG_STORY_STEP_24"
+},
+{
+	"it_index" : 1368,
+	"it_iconid" : 90008024,
+	"it_icontag" : "ICONTAG_STORY_STEP_25"
+},
+{
+	"it_index" : 1369,
+	"it_iconid" : 90008025,
+	"it_icontag" : "ICONTAG_STORY_STEP_26"
+},
+{
+	"it_index" : 1370,
+	"it_iconid" : 90008026,
+	"it_icontag" : "ICONTAG_STORY_STEP_27"
+},
+{
+	"it_index" : 1371,
+	"it_iconid" : 90008027,
+	"it_icontag" : "ICONTAG_STORY_STEP_28"
+},
+{
+	"it_index" : 1372,
+	"it_iconid" : 90008028,
+	"it_icontag" : "ICONTAG_STORY_STEP_29"
+},
+{
+	"it_index" : 1373,
+	"it_iconid" : 90008029,
+	"it_icontag" : "ICONTAG_STORY_STEP_30"
+},
+{
+	"it_index" : 1374,
+	"it_iconid" : 90008030,
+	"it_icontag" : "ICONTAG_STORY_BLACK"
+},
+{
+	"it_index" : 1375,
+	"it_iconid" : 90008031,
+	"it_icontag" : "ICONTAG_STORY_NOTUSING"
+},
+{
+	"it_index" : 1376,
+	"it_iconid" : 90008032,
+	"it_icontag" : "ICONTAG_STORY_STEP_BUTTON"
+},
+{
+	"it_index" : 1377,
+	"it_iconid" : 90008033,
+	"it_icontag" : "ICONTAG_STORY_STEP_27"
+},
+{
+	"it_index" : 1378,
+	"it_iconid" : 90008034,
+	"it_icontag" : "ICONTAG_STORY_STEP_28"
+},
+{
+	"it_index" : 1379,
+	"it_iconid" : 90008035,
+	"it_icontag" : "ICONTAG_STORY_STEP_29"
+},
+{
+	"it_index" : 1380,
+	"it_iconid" : 90008036,
+	"it_icontag" : "ICONTAG_STORY_STEP_30"
+},
+{
+	"it_index" : 1381,
+	"it_iconid" : 90220000,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_1"
+},
+{
+	"it_index" : 1382,
+	"it_iconid" : 90220001,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_2"
+},
+{
+	"it_index" : 1383,
+	"it_iconid" : 90220002,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_3"
+},
+{
+	"it_index" : 1384,
+	"it_iconid" : 90220003,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_4"
+},
+{
+	"it_index" : 1385,
+	"it_iconid" : 90220004,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_5"
+},
+{
+	"it_index" : 1386,
+	"it_iconid" : 90220005,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_6"
+},
+{
+	"it_index" : 1387,
+	"it_iconid" : 90220006,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_7"
+},
+{
+	"it_index" : 1388,
+	"it_iconid" : 90220007,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_8"
+},
+{
+	"it_index" : 1389,
+	"it_iconid" : 90220008,
+	"it_icontag" : "ICONTAG_UPGRADE_POINT_9"
+},
+{
+	"it_index" : 1390,
+	"it_iconid" : 90220009,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_1"
+},
+{
+	"it_index" : 1391,
+	"it_iconid" : 90220010,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_2"
+},
+{
+	"it_index" : 1392,
+	"it_iconid" : 90220011,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_3"
+},
+{
+	"it_index" : 1393,
+	"it_iconid" : 90220012,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_4"
+},
+{
+	"it_index" : 1394,
+	"it_iconid" : 90220013,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_5"
+},
+{
+	"it_index" : 1395,
+	"it_iconid" : 90220014,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_6"
+},
+{
+	"it_index" : 1396,
+	"it_iconid" : 90220015,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_7"
+},
+{
+	"it_index" : 1397,
+	"it_iconid" : 90220016,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_8"
+},
+{
+	"it_index" : 1398,
+	"it_iconid" : 90220017,
+	"it_icontag" : "ICONTAG_UPGRADE_CASH_9"
+},
+{
+	"it_index" : 1399,
+	"it_iconid" : 90300000,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_1"
+},
+{
+	"it_index" : 1400,
+	"it_iconid" : 90300001,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_2"
+},
+{
+	"it_index" : 1401,
+	"it_iconid" : 90300002,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_3"
+},
+{
+	"it_index" : 1402,
+	"it_iconid" : 90300003,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_4"
+},
+{
+	"it_index" : 1403,
+	"it_iconid" : 90300004,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_5"
+},
+{
+	"it_index" : 1404,
+	"it_iconid" : 90300005,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_6"
+},
+{
+	"it_index" : 1405,
+	"it_iconid" : 90300006,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_7"
+},
+{
+	"it_index" : 1406,
+	"it_iconid" : 90300007,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_8"
+},
+{
+	"it_index" : 1407,
+	"it_iconid" : 90300008,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_9"
+},
+{
+	"it_index" : 1408,
+	"it_iconid" : 90300009,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_0"
+},
+{
+	"it_index" : 1409,
+	"it_iconid" : 90300010,
+	"it_icontag" : "ICONTAG_AGORA_NUMBER_HYPHEN"
+}

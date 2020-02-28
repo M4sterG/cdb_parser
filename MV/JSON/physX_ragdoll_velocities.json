@@ -1,0 +1,1740 @@
+{
+	"rv_id" : 1,
+	"rv_name" : "Type_A_Head_Vertical_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 2,
+	"rv_name" : "Type_A_Head_Horizontal_Veolocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 3,
+	"rv_name" : "Type_A_Spine_Vertical_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 4,
+	"rv_name" : "Type_A_Spine_Horizontal_Velocity",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 5,
+	"rv_name" : "Type_A_LeftUpperArm_Vertical_Velocity",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 6,
+	"rv_name" : "Type_A_LeftUpperArm_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 7,
+	"rv_name" : "Type_A_LeftForeArm_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 8,
+	"rv_name" : "Type_A_LeftForeArm_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 9,
+	"rv_name" : "Type_A_LeftHand_Vertical_Velocity",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 10,
+	"rv_name" : "Type_A_LeftHand_Horizontal_Velocity",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 11,
+	"rv_name" : "Type_A_RightForeArm_Vertical_Velocity",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 12,
+	"rv_name" : "Type_A_RightForeArm_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 13,
+	"rv_name" : "Type_A_RightUpperArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 14,
+	"rv_name" : "Type_A_RightUpperArm_Horizontal_Velocity",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 15,
+	"rv_name" : "Type_B_Falling_Vertical_Velocity",
+	"rv_value" : 1190789120
+},
+{
+	"rv_id" : 16,
+	"rv_name" : "Type_B_Falling_Horizontal_Velocity",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 17,
+	"rv_name" : "Type_B_Head_Vertical_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 18,
+	"rv_name" : "Type_B_Head_Horizontal_Velocity",
+	"rv_value" : 1167867904
+},
+{
+	"rv_id" : 19,
+	"rv_name" : "Type_B_Spine_Vertical_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 20,
+	"rv_name" : "Type_B_Spine_Horizontal_Velocity",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 21,
+	"rv_name" : "Type_B_LeftUpperArm_Vertical_Velocity",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 22,
+	"rv_name" : "Type_B_LeftUpperArm_Horizontal_Velocity",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 23,
+	"rv_name" : "Type_B_LeftForeArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 24,
+	"rv_name" : "Type_B_LeftForeArm_Horizontal_Velocity",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 25,
+	"rv_name" : "Type_B_LeftHand_Vertical_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 26,
+	"rv_name" : "Type_B_LeftHand_Horizontal_Velocity",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 27,
+	"rv_name" : "Type_B_RightUpperArm_Vertical_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 28,
+	"rv_name" : "Type_B_RightUpperArm_Horizontal_Velocity",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 29,
+	"rv_name" : "Type_B_RightForeArm_Vertical_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 30,
+	"rv_name" : "Type_B_RightForeArm_Horizontal_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 31,
+	"rv_name" : "Type_B_Pelvis_Vertical_Velocity",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 32,
+	"rv_name" : "Type_B_Pelvis_Horizontal_Velocity",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 33,
+	"rv_name" : "Type_B_LeftThigh_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 34,
+	"rv_name" : "Type_B_LeftThigh_Horizontal_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 35,
+	"rv_name" : "Type_B_LeftCalf_Vertical_Velocity",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 36,
+	"rv_name" : "Type_B_LeftCalf_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 37,
+	"rv_name" : "Type_B_RightThigh_Vertical_Velocity",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 38,
+	"rv_name" : "Type_B_RightThigh_Horizontal_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 39,
+	"rv_name" : "Type_B_RightCalf_Vertical_Velocity",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 40,
+	"rv_name" : "Type_B_RightCalf_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 41,
+	"rv_name" : "Type_B_RightFoot_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 42,
+	"rv_name" : "Type_B_RightFoot_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 43,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fall",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 44,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fall",
+	"rv_value" : 1181376512
+},
+{
+	"rv_id" : 45,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fly",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 46,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fly",
+	"rv_value" : 1176256512
+},
+{
+	"rv_id" : 47,
+	"rv_name" : "Type_D_Falling_Vertical_Velocity",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 48,
+	"rv_name" : "Type_D_Falling_Horizontal_Velocity",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 49,
+	"rv_name" : "Type_E_Falling_Vertical_Velocity",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 50,
+	"rv_name" : "Type_E_Falling_Horizontal_Velocity",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 51,
+	"rv_name" : "Type_E_Head_Vertical_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 52,
+	"rv_name" : "Type_E_Head_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 53,
+	"rv_name" : "Type_E_Spine_Vertical_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 54,
+	"rv_name" : "Type_E_Spine_Horizontal_Velocity",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 55,
+	"rv_name" : "Type_E_LeftUpperArm_Vertical_Velocity",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 56,
+	"rv_name" : "Type_E_LeftUpperArm_Horizontal_Velocity",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 57,
+	"rv_name" : "Type_E_LeftForeArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 58,
+	"rv_name" : "Type_E_LeftForeArm_Horizontal_Velocity",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 59,
+	"rv_name" : "Type_E_LeftHand_Vertical_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 60,
+	"rv_name" : "Type_E_LeftHand_Horizontal_Velocity",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 61,
+	"rv_name" : "Type_E_RightUpperArm_Vertical_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 62,
+	"rv_name" : "Type_E_RightUpperArm_Horizontal_Velocity",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 63,
+	"rv_name" : "Type_E_RightForeArm_Vertical_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 64,
+	"rv_name" : "Type_E_RightForeArm_Horizontal_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 65,
+	"rv_name" : "Type_E_Pelvis_Vertical_Velocity",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 66,
+	"rv_name" : "Type_E_Pelvis_Horizontal_Velocity",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 67,
+	"rv_name" : "Type_E_LeftThigh_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 68,
+	"rv_name" : "Type_E_LeftThigh_Horizontal_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 69,
+	"rv_name" : "Type_E_LeftCalf_Vertical_Velocity",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 70,
+	"rv_name" : "Type_E_LeftCalf_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 71,
+	"rv_name" : "Type_E_RightThigh_Vertical_Velocity",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 72,
+	"rv_name" : "Type_E_RightThigh_Horizontal_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 73,
+	"rv_name" : "Type_E_RightCalf_Vertical_Velocity",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 74,
+	"rv_name" : "Type_E_RightCalf_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 75,
+	"rv_name" : "Type_E_RightFoot_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 76,
+	"rv_name" : "Type_E_RightFoot_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 77,
+	"rv_name" : "Type_F_Head_Vertical_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 78,
+	"rv_name" : "Type_F_Head_Horizontal_Veolocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 79,
+	"rv_name" : "Type_F_Spine_Vertical_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 80,
+	"rv_name" : "Type_F_Spine_Horizontal_Velocity",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 81,
+	"rv_name" : "Type_F_LeftUpperArm_Vertical_Velocity",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 82,
+	"rv_name" : "Type_F_LeftUpperArm_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 83,
+	"rv_name" : "Type_F_LeftForeArm_Vertical_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 84,
+	"rv_name" : "Type_F_LeftForeArm_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 85,
+	"rv_name" : "Type_F_LeftHand_Vertical_Velocity",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 86,
+	"rv_name" : "Type_F_LeftHand_Horizontal_Velocity",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 87,
+	"rv_name" : "Type_F_RightForeArm_Vertical_Velocity",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 88,
+	"rv_name" : "Type_F_RightForeArm_Horizontal_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 89,
+	"rv_name" : "Type_F_RightUpperArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 90,
+	"rv_name" : "Type_F_RightUpperArm_Horizontal_Velocity",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 91,
+	"rv_name" : "Type_G_Head_Vertical_Velocity",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 92,
+	"rv_name" : "Type_G_Head_Horizontal_Velocity",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 93,
+	"rv_name" : "Type_G_Spine_Vertical_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 94,
+	"rv_name" : "Type_G_Spine_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 95,
+	"rv_name" : "Type_G_LeftUpperArm_Vertical_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 96,
+	"rv_name" : "Type_G_LeftUpperArm_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 97,
+	"rv_name" : "Type_G_LeftForeArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 98,
+	"rv_name" : "Type_G_LeftForeArm_Horizontal_Velocity",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 99,
+	"rv_name" : "Type_G_LeftHand_Vertical_Velocity",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 100,
+	"rv_name" : "Type_G_LeftHand_Horizontal_Velocity",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 101,
+	"rv_name" : "Type_G_RightUpperArm_Vertical_Velocity",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 102,
+	"rv_name" : "Type_G_RightUpperArm_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 103,
+	"rv_name" : "Type_G_RightForeArm_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 104,
+	"rv_name" : "Type_G_RightForeArm_Horizontal_Velocity",
+	"rv_value" : 1132068864
+},
+{
+	"rv_id" : 105,
+	"rv_name" : "Type_G_Pelvis_Vertical_Velocity",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 106,
+	"rv_name" : "Type_G_Pelvis_Horizontal_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 107,
+	"rv_name" : "Type_G_LeftThigh_Vertical_Velocity",
+	"rv_value" : 1150681088
+},
+{
+	"rv_id" : 108,
+	"rv_name" : "Type_G_LeftThigh_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 109,
+	"rv_name" : "Type_G_LeftCalf_Vertical_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 110,
+	"rv_name" : "Type_G_LeftCalf_Horizontal_Velocity",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 111,
+	"rv_name" : "Type_G_RightThigh_Vertical_Velocity",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 112,
+	"rv_name" : "Type_G_RightThigh_Horizontal_Velocity",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 113,
+	"rv_name" : "Type_G_RightCalf_Vertical_Velocity",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 114,
+	"rv_name" : "Type_G_RightCalf_Horizontal_Velocity",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 115,
+	"rv_name" : "Type_G_RightFoot_Vertical_Velocity",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 116,
+	"rv_name" : "Type_G_RightFoot_Horizontal_Velocity",
+	"rv_value" : 1132068864
+},
+{
+	"rv_id" : 117,
+	"rv_name" : "Type_A_Head_Vertical_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 118,
+	"rv_name" : "Type_A_Head_Horizontal_Veolocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 119,
+	"rv_name" : "Type_A_Spine_Vertical_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 120,
+	"rv_name" : "Type_A_Spine_Horizontal_Velocity_Zombie",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 121,
+	"rv_name" : "Type_A_LeftUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 122,
+	"rv_name" : "Type_A_LeftUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 123,
+	"rv_name" : "Type_A_LeftForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 124,
+	"rv_name" : "Type_A_LeftForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 125,
+	"rv_name" : "Type_A_LeftHand_Vertical_Velocity_Zombie",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 126,
+	"rv_name" : "Type_A_LeftHand_Horizontal_Velocity_Zombie",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 127,
+	"rv_name" : "Type_A_RightForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 128,
+	"rv_name" : "Type_A_RightForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 129,
+	"rv_name" : "Type_A_RightUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 130,
+	"rv_name" : "Type_A_RightUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 131,
+	"rv_name" : "Type_B_Falling_Vertical_Velocity_Zombie",
+	"rv_value" : 1190789120
+},
+{
+	"rv_id" : 132,
+	"rv_name" : "Type_B_Falling_Horizontal_Velocity_Zombie",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 133,
+	"rv_name" : "Type_B_Head_Vertical_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 134,
+	"rv_name" : "Type_B_Head_Horizontal_Velocity_Zombie",
+	"rv_value" : 1167867904
+},
+{
+	"rv_id" : 135,
+	"rv_name" : "Type_B_Spine_Vertical_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 136,
+	"rv_name" : "Type_B_Spine_Horizontal_Velocity_Zombie",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 137,
+	"rv_name" : "Type_B_LeftUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 138,
+	"rv_name" : "Type_B_LeftUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 139,
+	"rv_name" : "Type_B_LeftForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 140,
+	"rv_name" : "Type_B_LeftForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 141,
+	"rv_name" : "Type_B_LeftHand_Vertical_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 142,
+	"rv_name" : "Type_B_LeftHand_Horizontal_Velocity_Zombie",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 143,
+	"rv_name" : "Type_B_RightUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 144,
+	"rv_name" : "Type_B_RightUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 145,
+	"rv_name" : "Type_B_RightForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 146,
+	"rv_name" : "Type_B_RightForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 147,
+	"rv_name" : "Type_B_Pelvis_Vertical_Velocity_Zombie",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 148,
+	"rv_name" : "Type_B_Pelvis_Horizontal_Velocity_Zombie",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 149,
+	"rv_name" : "Type_B_LeftThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 150,
+	"rv_name" : "Type_B_LeftThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 151,
+	"rv_name" : "Type_B_LeftCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 152,
+	"rv_name" : "Type_B_LeftCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 153,
+	"rv_name" : "Type_B_RightThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 154,
+	"rv_name" : "Type_B_RightThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 155,
+	"rv_name" : "Type_B_RightCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 156,
+	"rv_name" : "Type_B_RightCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 157,
+	"rv_name" : "Type_B_RightFoot_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 158,
+	"rv_name" : "Type_B_RightFoot_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 159,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fall_Zombie",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 160,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fall_Zombie",
+	"rv_value" : 1181376512
+},
+{
+	"rv_id" : 161,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fly_Zombie",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 162,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fly_Zombie",
+	"rv_value" : 1176256512
+},
+{
+	"rv_id" : 163,
+	"rv_name" : "Type_D_Falling_Vertical_Velocity_Zombie",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 164,
+	"rv_name" : "Type_D_Falling_Horizontal_Velocity_Zombie",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 165,
+	"rv_name" : "Type_E_Falling_Vertical_Velocity_Zombie",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 166,
+	"rv_name" : "Type_E_Falling_Horizontal_Velocity_Zombie",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 167,
+	"rv_name" : "Type_E_Head_Vertical_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 168,
+	"rv_name" : "Type_E_Head_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 169,
+	"rv_name" : "Type_E_Spine_Vertical_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 170,
+	"rv_name" : "Type_E_Spine_Horizontal_Velocity_Zombie",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 171,
+	"rv_name" : "Type_E_LeftUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 172,
+	"rv_name" : "Type_E_LeftUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 173,
+	"rv_name" : "Type_E_LeftForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 174,
+	"rv_name" : "Type_E_LeftForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 175,
+	"rv_name" : "Type_E_LeftHand_Vertical_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 176,
+	"rv_name" : "Type_E_LeftHand_Horizontal_Velocity_Zombie",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 177,
+	"rv_name" : "Type_E_RightUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 178,
+	"rv_name" : "Type_E_RightUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 179,
+	"rv_name" : "Type_E_RightForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 180,
+	"rv_name" : "Type_E_RightForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 181,
+	"rv_name" : "Type_E_Pelvis_Vertical_Velocity_Zombie",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 182,
+	"rv_name" : "Type_E_Pelvis_Horizontal_Velocity_Zombie",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 183,
+	"rv_name" : "Type_E_LeftThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 184,
+	"rv_name" : "Type_E_LeftThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 185,
+	"rv_name" : "Type_E_LeftCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 186,
+	"rv_name" : "Type_E_LeftCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 187,
+	"rv_name" : "Type_E_RightThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 188,
+	"rv_name" : "Type_E_RightThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 189,
+	"rv_name" : "Type_E_RightCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 190,
+	"rv_name" : "Type_E_RightCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 191,
+	"rv_name" : "Type_E_RightFoot_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 192,
+	"rv_name" : "Type_E_RightFoot_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 193,
+	"rv_name" : "Type_F_Head_Vertical_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 194,
+	"rv_name" : "Type_F_Head_Horizontal_Veolocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 195,
+	"rv_name" : "Type_F_Spine_Vertical_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 196,
+	"rv_name" : "Type_F_Spine_Horizontal_Velocity_Zombie",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 197,
+	"rv_name" : "Type_F_LeftUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 198,
+	"rv_name" : "Type_F_LeftUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 199,
+	"rv_name" : "Type_F_LeftForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 200,
+	"rv_name" : "Type_F_LeftForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 201,
+	"rv_name" : "Type_F_LeftHand_Vertical_Velocity_Zombie",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 202,
+	"rv_name" : "Type_F_LeftHand_Horizontal_Velocity_Zombie",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 203,
+	"rv_name" : "Type_F_RightForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 204,
+	"rv_name" : "Type_F_RightForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 205,
+	"rv_name" : "Type_F_RightUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 206,
+	"rv_name" : "Type_F_RightUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 207,
+	"rv_name" : "Type_G_Head_Vertical_Velocity_Zombie",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 208,
+	"rv_name" : "Type_G_Head_Horizontal_Velocity_Zombie",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 209,
+	"rv_name" : "Type_G_Spine_Vertical_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 210,
+	"rv_name" : "Type_G_Spine_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 211,
+	"rv_name" : "Type_G_LeftUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 212,
+	"rv_name" : "Type_G_LeftUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 213,
+	"rv_name" : "Type_G_LeftForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 214,
+	"rv_name" : "Type_G_LeftForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 215,
+	"rv_name" : "Type_G_LeftHand_Vertical_Velocity_Zombie",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 216,
+	"rv_name" : "Type_G_LeftHand_Horizontal_Velocity_Zombie",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 217,
+	"rv_name" : "Type_G_RightUpperArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 218,
+	"rv_name" : "Type_G_RightUpperArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 219,
+	"rv_name" : "Type_G_RightForeArm_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 220,
+	"rv_name" : "Type_G_RightForeArm_Horizontal_Velocity_Zombie",
+	"rv_value" : 1132068864
+},
+{
+	"rv_id" : 221,
+	"rv_name" : "Type_G_Pelvis_Vertical_Velocity_Zombie",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 222,
+	"rv_name" : "Type_G_Pelvis_Horizontal_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 223,
+	"rv_name" : "Type_G_LeftThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1150681088
+},
+{
+	"rv_id" : 224,
+	"rv_name" : "Type_G_LeftThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 225,
+	"rv_name" : "Type_G_LeftCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 226,
+	"rv_name" : "Type_G_LeftCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 227,
+	"rv_name" : "Type_G_RightThigh_Vertical_Velocity_Zombie",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 228,
+	"rv_name" : "Type_G_RightThigh_Horizontal_Velocity_Zombie",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 229,
+	"rv_name" : "Type_G_RightCalf_Vertical_Velocity_Zombie",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 230,
+	"rv_name" : "Type_G_RightCalf_Horizontal_Velocity_Zombie",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 231,
+	"rv_name" : "Type_G_RightFoot_Vertical_Velocity_Zombie",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 232,
+	"rv_name" : "Type_G_RightFoot_Horizontal_Velocity_Zombie",
+	"rv_value" : 1132068864
+},
+{
+	"rv_id" : 233,
+	"rv_name" : "Type_A_Head_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 234,
+	"rv_name" : "Type_A_Head_Horizontal_Veolocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 235,
+	"rv_name" : "Type_A_Spine_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 236,
+	"rv_name" : "Type_A_Spine_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 237,
+	"rv_name" : "Type_A_LeftUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 238,
+	"rv_name" : "Type_A_LeftUpperArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 239,
+	"rv_name" : "Type_A_LeftForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 240,
+	"rv_name" : "Type_A_LeftForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 241,
+	"rv_name" : "Type_A_LeftHand_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 242,
+	"rv_name" : "Type_A_LeftHand_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 243,
+	"rv_name" : "Type_A_RightForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 244,
+	"rv_name" : "Type_A_RightForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 245,
+	"rv_name" : "Type_A_RightUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 246,
+	"rv_name" : "Type_A_RightUpperArm_Horizontal_Velocity_ZombieKin",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 247,
+	"rv_name" : "Type_B_Falling_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1190789120
+},
+{
+	"rv_id" : 248,
+	"rv_name" : "Type_B_Falling_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 249,
+	"rv_name" : "Type_B_Head_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 250,
+	"rv_name" : "Type_B_Head_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1167867904
+},
+{
+	"rv_id" : 251,
+	"rv_name" : "Type_B_Spine_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 252,
+	"rv_name" : "Type_B_Spine_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 253,
+	"rv_name" : "Type_B_LeftUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 254,
+	"rv_name" : "Type_B_LeftUpperArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 255,
+	"rv_name" : "Type_B_LeftForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 256,
+	"rv_name" : "Type_B_LeftForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 257,
+	"rv_name" : "Type_B_LeftHand_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 258,
+	"rv_name" : "Type_B_LeftHand_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 259,
+	"rv_name" : "Type_B_RightUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 260,
+	"rv_name" : "Type_B_RightUpperArm_Horizontal_Velocity_ZombieKin",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 261,
+	"rv_name" : "Type_B_RightForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 262,
+	"rv_name" : "Type_B_RightForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 263,
+	"rv_name" : "Type_B_Pelvis_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 264,
+	"rv_name" : "Type_B_Pelvis_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 265,
+	"rv_name" : "Type_B_LeftThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 266,
+	"rv_name" : "Type_B_LeftThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 267,
+	"rv_name" : "Type_B_LeftCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 268,
+	"rv_name" : "Type_B_LeftCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 269,
+	"rv_name" : "Type_B_RightThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 270,
+	"rv_name" : "Type_B_RightThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 271,
+	"rv_name" : "Type_B_RightCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 272,
+	"rv_name" : "Type_B_RightCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 273,
+	"rv_name" : "Type_B_RightFoot_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 274,
+	"rv_name" : "Type_B_RightFoot_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 275,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fall_ZombieKing",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 276,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fall_ZombieKing",
+	"rv_value" : 1181376512
+},
+{
+	"rv_id" : 277,
+	"rv_name" : "Type_C_Falling_Vertical_Velocity_Fly_ZombieKing",
+	"rv_value" : 1175232512
+},
+{
+	"rv_id" : 278,
+	"rv_name" : "Type_C_Falling_Horizontal_Velocity_Fly_ZombieKing",
+	"rv_value" : 1176256512
+},
+{
+	"rv_id" : 279,
+	"rv_name" : "Type_D_Falling_Vertical_Velocity_ZombieKing",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 280,
+	"rv_name" : "Type_D_Falling_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 281,
+	"rv_name" : "Type_E_Falling_Vertical_Velocity_ZombieKing",
+	"rv_value" : 0
+},
+{
+	"rv_id" : 282,
+	"rv_name" : "Type_E_Falling_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 283,
+	"rv_name" : "Type_E_Head_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 284,
+	"rv_name" : "Type_E_Head_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 285,
+	"rv_name" : "Type_E_Spine_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 286,
+	"rv_name" : "Type_E_Spine_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1169915904
+},
+{
+	"rv_id" : 287,
+	"rv_name" : "Type_E_LeftUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1151500288
+},
+{
+	"rv_id" : 288,
+	"rv_name" : "Type_E_LeftUpperArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1165623296
+},
+{
+	"rv_id" : 289,
+	"rv_name" : "Type_E_LeftForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 290,
+	"rv_name" : "Type_E_LeftForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1163575296
+},
+{
+	"rv_id" : 291,
+	"rv_name" : "Type_E_LeftHand_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 292,
+	"rv_name" : "Type_E_LeftHand_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1153957888
+},
+{
+	"rv_id" : 293,
+	"rv_name" : "Type_E_RightUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 294,
+	"rv_name" : "Type_E_RightUpperArm_Horizontal_Velocity_ZombieKin",
+	"rv_value" : 1159479296
+},
+{
+	"rv_id" : 295,
+	"rv_name" : "Type_E_RightForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 296,
+	"rv_name" : "Type_E_RightForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 297,
+	"rv_name" : "Type_E_Pelvis_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1153138688
+},
+{
+	"rv_id" : 298,
+	"rv_name" : "Type_E_Pelvis_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1161527296
+},
+{
+	"rv_id" : 299,
+	"rv_name" : "Type_E_LeftThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 300,
+	"rv_name" : "Type_E_LeftThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 301,
+	"rv_name" : "Type_E_LeftCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 302,
+	"rv_name" : "Type_E_LeftCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 303,
+	"rv_name" : "Type_E_RightThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1135542272
+},
+{
+	"rv_id" : 304,
+	"rv_name" : "Type_E_RightThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 305,
+	"rv_name" : "Type_E_RightCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 306,
+	"rv_name" : "Type_E_RightCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 307,
+	"rv_name" : "Type_E_RightFoot_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 308,
+	"rv_name" : "Type_E_RightFoot_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 309,
+	"rv_name" : "Type_F_Head_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 310,
+	"rv_name" : "Type_F_Head_Horizontal_Veolocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 311,
+	"rv_name" : "Type_F_Spine_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 312,
+	"rv_name" : "Type_F_Spine_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1128792064
+},
+{
+	"rv_id" : 313,
+	"rv_name" : "Type_F_LeftUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1112014848
+},
+{
+	"rv_id" : 314,
+	"rv_name" : "Type_F_LeftUpperArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 315,
+	"rv_name" : "Type_F_LeftForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 316,
+	"rv_name" : "Type_F_LeftForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 317,
+	"rv_name" : "Type_F_LeftHand_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 318,
+	"rv_name" : "Type_F_LeftHand_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1120403456
+},
+{
+	"rv_id" : 319,
+	"rv_name" : "Type_F_RightForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1106247680
+},
+{
+	"rv_id" : 320,
+	"rv_name" : "Type_F_RightForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 321,
+	"rv_name" : "Type_F_RightUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 322,
+	"rv_name" : "Type_F_RightUpperArm_Horizontal_Velocity_ZombieKin",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 323,
+	"rv_name" : "Type_G_Head_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1152319488
+},
+{
+	"rv_id" : 324,
+	"rv_name" : "Type_G_Head_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 325,
+	"rv_name" : "Type_G_Spine_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 326,
+	"rv_name" : "Type_G_Spine_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 327,
+	"rv_name" : "Type_G_LeftUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 328,
+	"rv_name" : "Type_G_LeftUpperArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 329,
+	"rv_name" : "Type_G_LeftForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 330,
+	"rv_name" : "Type_G_LeftForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 331,
+	"rv_name" : "Type_G_LeftHand_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1148846080
+},
+{
+	"rv_id" : 332,
+	"rv_name" : "Type_G_LeftHand_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1137180672
+},
+{
+	"rv_id" : 333,
+	"rv_name" : "Type_G_RightUpperArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 334,
+	"rv_name" : "Type_G_RightUpperArm_Horizontal_Velocity_ZombieKin",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 335,
+	"rv_name" : "Type_G_RightForeArm_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 336,
+	"rv_name" : "Type_G_RightForeArm_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1132068864
+},
+{
+	"rv_id" : 337,
+	"rv_name" : "Type_G_Pelvis_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1143930880
+},
+{
+	"rv_id" : 338,
+	"rv_name" : "Type_G_Pelvis_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 339,
+	"rv_name" : "Type_G_LeftThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1150681088
+},
+{
+	"rv_id" : 340,
+	"rv_name" : "Type_G_LeftThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 341,
+	"rv_name" : "Type_G_LeftCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 342,
+	"rv_name" : "Type_G_LeftCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1147207680
+},
+{
+	"rv_id" : 343,
+	"rv_name" : "Type_G_RightThigh_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1142292480
+},
+{
+	"rv_id" : 344,
+	"rv_name" : "Type_G_RightThigh_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1133903872
+},
+{
+	"rv_id" : 345,
+	"rv_name" : "Type_G_RightCalf_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1140457472
+},
+{
+	"rv_id" : 346,
+	"rv_name" : "Type_G_RightCalf_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1125515264
+},
+{
+	"rv_id" : 347,
+	"rv_name" : "Type_G_RightFoot_Vertical_Velocity_ZombieKing",
+	"rv_value" : 1145569280
+},
+{
+	"rv_id" : 348,
+	"rv_name" : "Type_G_RightFoot_Horizontal_Velocity_ZombieKing",
+	"rv_value" : 1132068864
+}

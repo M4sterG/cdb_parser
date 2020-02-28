@@ -1,0 +1,954 @@
+{
+	"gi_grade" : 1,
+	"gi_name" : "Level 0",
+	"gi_exp" : 0,
+	"gi_reward_point" : 0,
+	"gi_reward_item" : 0,
+	"gi_icon" : 90001200,
+	"gi_pve_ticket" : 4811301
+},
+{
+	"gi_grade" : 2,
+	"gi_name" : "Level 1",
+	"gi_exp" : 420,
+	"gi_reward_point" : 1000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001201,
+	"gi_pve_ticket" : 4811301
+},
+{
+	"gi_grade" : 3,
+	"gi_name" : "Level 2",
+	"gi_exp" : 658,
+	"gi_reward_point" : 3000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001202,
+	"gi_pve_ticket" : 4811301
+},
+{
+	"gi_grade" : 4,
+	"gi_name" : "Level 3",
+	"gi_exp" : 909,
+	"gi_reward_point" : 3000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001203,
+	"gi_pve_ticket" : 4811301
+},
+{
+	"gi_grade" : 5,
+	"gi_name" : "Level 4",
+	"gi_exp" : 1555,
+	"gi_reward_point" : 3000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001204,
+	"gi_pve_ticket" : 4811301
+},
+{
+	"gi_grade" : 6,
+	"gi_name" : "Level 5",
+	"gi_exp" : 3240,
+	"gi_reward_point" : 4000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001205,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 7,
+	"gi_name" : "Level 6",
+	"gi_exp" : 5145,
+	"gi_reward_point" : 4000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001206,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 8,
+	"gi_name" : "Level 7",
+	"gi_exp" : 7680,
+	"gi_reward_point" : 4000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001207,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 9,
+	"gi_name" : "Level 8",
+	"gi_exp" : 10935,
+	"gi_reward_point" : 5000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001208,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 10,
+	"gi_name" : "Level 9",
+	"gi_exp" : 15000,
+	"gi_reward_point" : 5000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001209,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 11,
+	"gi_name" : "Level 10",
+	"gi_exp" : 19965,
+	"gi_reward_point" : 5000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001210,
+	"gi_pve_ticket" : 4811302
+},
+{
+	"gi_grade" : 12,
+	"gi_name" : "Level 11",
+	"gi_exp" : 25920,
+	"gi_reward_point" : 6000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001211,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 13,
+	"gi_name" : "Level 12",
+	"gi_exp" : 32955,
+	"gi_reward_point" : 6000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001212,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 14,
+	"gi_name" : "Level 13",
+	"gi_exp" : 41160,
+	"gi_reward_point" : 6000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001213,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 15,
+	"gi_name" : "Level 14",
+	"gi_exp" : 50625,
+	"gi_reward_point" : 6000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001214,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 16,
+	"gi_name" : "Level 15",
+	"gi_exp" : 61440,
+	"gi_reward_point" : 7000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001215,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 17,
+	"gi_name" : "Level 16",
+	"gi_exp" : 73695,
+	"gi_reward_point" : 7000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001216,
+	"gi_pve_ticket" : 4811303
+},
+{
+	"gi_grade" : 18,
+	"gi_name" : "Level 17",
+	"gi_exp" : 87480,
+	"gi_reward_point" : 7000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001217,
+	"gi_pve_ticket" : 4811304
+},
+{
+	"gi_grade" : 19,
+	"gi_name" : "Level 18",
+	"gi_exp" : 102885,
+	"gi_reward_point" : 7000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001218,
+	"gi_pve_ticket" : 4811304
+},
+{
+	"gi_grade" : 20,
+	"gi_name" : "Level 19",
+	"gi_exp" : 120000,
+	"gi_reward_point" : 7000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001219,
+	"gi_pve_ticket" : 4811304
+},
+{
+	"gi_grade" : 21,
+	"gi_name" : "Level 20",
+	"gi_exp" : 138915,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001220,
+	"gi_pve_ticket" : 4811304
+},
+{
+	"gi_grade" : 22,
+	"gi_name" : "Level 21",
+	"gi_exp" : 159720,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001221,
+	"gi_pve_ticket" : 4811304
+},
+{
+	"gi_grade" : 23,
+	"gi_name" : "Level 22",
+	"gi_exp" : 182505,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001222,
+	"gi_pve_ticket" : 4811305
+},
+{
+	"gi_grade" : 24,
+	"gi_name" : "Level 23",
+	"gi_exp" : 207360,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001223,
+	"gi_pve_ticket" : 4811305
+},
+{
+	"gi_grade" : 25,
+	"gi_name" : "Level 24",
+	"gi_exp" : 234375,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001224,
+	"gi_pve_ticket" : 4811305
+},
+{
+	"gi_grade" : 26,
+	"gi_name" : "Level 25",
+	"gi_exp" : 263640,
+	"gi_reward_point" : 8000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001225,
+	"gi_pve_ticket" : 4811305
+},
+{
+	"gi_grade" : 27,
+	"gi_name" : "Level 26",
+	"gi_exp" : 295245,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001226,
+	"gi_pve_ticket" : 4811305
+},
+{
+	"gi_grade" : 28,
+	"gi_name" : "Level 27",
+	"gi_exp" : 329280,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001227,
+	"gi_pve_ticket" : 4811306
+},
+{
+	"gi_grade" : 29,
+	"gi_name" : "Level 28",
+	"gi_exp" : 365835,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001228,
+	"gi_pve_ticket" : 4811306
+},
+{
+	"gi_grade" : 30,
+	"gi_name" : "Level 29",
+	"gi_exp" : 405000,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001229,
+	"gi_pve_ticket" : 4811306
+},
+{
+	"gi_grade" : 31,
+	"gi_name" : "Level 30",
+	"gi_exp" : 446865,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001230,
+	"gi_pve_ticket" : 4811306
+},
+{
+	"gi_grade" : 32,
+	"gi_name" : "Level 31",
+	"gi_exp" : 491520,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001231,
+	"gi_pve_ticket" : 4811306
+},
+{
+	"gi_grade" : 33,
+	"gi_name" : "Level 32",
+	"gi_exp" : 539055,
+	"gi_reward_point" : 9000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001232,
+	"gi_pve_ticket" : 4811307
+},
+{
+	"gi_grade" : 34,
+	"gi_name" : "Level 33",
+	"gi_exp" : 589560,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001233,
+	"gi_pve_ticket" : 4811307
+},
+{
+	"gi_grade" : 35,
+	"gi_name" : "Level 34",
+	"gi_exp" : 643125,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001234,
+	"gi_pve_ticket" : 4811307
+},
+{
+	"gi_grade" : 36,
+	"gi_name" : "Level 35",
+	"gi_exp" : 699840,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001235,
+	"gi_pve_ticket" : 4811307
+},
+{
+	"gi_grade" : 37,
+	"gi_name" : "Level 36",
+	"gi_exp" : 759795,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001236,
+	"gi_pve_ticket" : 4811307
+},
+{
+	"gi_grade" : 38,
+	"gi_name" : "Level 37",
+	"gi_exp" : 823080,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001237,
+	"gi_pve_ticket" : 4811308
+},
+{
+	"gi_grade" : 39,
+	"gi_name" : "Level 38",
+	"gi_exp" : 889785,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001238,
+	"gi_pve_ticket" : 4811308
+},
+{
+	"gi_grade" : 40,
+	"gi_name" : "Level 39",
+	"gi_exp" : 960000,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001239,
+	"gi_pve_ticket" : 4811308
+},
+{
+	"gi_grade" : 41,
+	"gi_name" : "Level 40",
+	"gi_exp" : 1033815,
+	"gi_reward_point" : 10000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001240,
+	"gi_pve_ticket" : 4811308
+},
+{
+	"gi_grade" : 42,
+	"gi_name" : "Level 41",
+	"gi_exp" : 1111320,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001241,
+	"gi_pve_ticket" : 4811308
+},
+{
+	"gi_grade" : 43,
+	"gi_name" : "Level 42",
+	"gi_exp" : 1192605,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001242,
+	"gi_pve_ticket" : 4811309
+},
+{
+	"gi_grade" : 44,
+	"gi_name" : "Level 43",
+	"gi_exp" : 1277760,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001243,
+	"gi_pve_ticket" : 4811309
+},
+{
+	"gi_grade" : 45,
+	"gi_name" : "Level 44",
+	"gi_exp" : 1366875,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001244,
+	"gi_pve_ticket" : 4811309
+},
+{
+	"gi_grade" : 46,
+	"gi_name" : "Level 45",
+	"gi_exp" : 1460040,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001245,
+	"gi_pve_ticket" : 4811309
+},
+{
+	"gi_grade" : 47,
+	"gi_name" : "Level 46",
+	"gi_exp" : 1557345,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001246,
+	"gi_pve_ticket" : 4811309
+},
+{
+	"gi_grade" : 48,
+	"gi_name" : "Level 47",
+	"gi_exp" : 1658880,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001247,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 49,
+	"gi_name" : "Level 48",
+	"gi_exp" : 1764735,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001248,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 50,
+	"gi_name" : "Level 49",
+	"gi_exp" : 1875000,
+	"gi_reward_point" : 11000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001249,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 51,
+	"gi_name" : "Level 50",
+	"gi_exp" : 1989765,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001250,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 52,
+	"gi_name" : "Level 51",
+	"gi_exp" : 2109120,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001251,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 53,
+	"gi_name" : "Level 52",
+	"gi_exp" : 2233155,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001252,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 54,
+	"gi_name" : "Level 53",
+	"gi_exp" : 2361960,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001253,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 55,
+	"gi_name" : "Level 54",
+	"gi_exp" : 2495625,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001254,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 56,
+	"gi_name" : "Level 55",
+	"gi_exp" : 2634240,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001255,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 57,
+	"gi_name" : "Level 56",
+	"gi_exp" : 2777895,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001256,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 58,
+	"gi_name" : "Level 57",
+	"gi_exp" : 2926680,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001257,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 59,
+	"gi_name" : "Level 58",
+	"gi_exp" : 3080685,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001258,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 60,
+	"gi_name" : "Level 59",
+	"gi_exp" : 3240000,
+	"gi_reward_point" : 12000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001259,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 61,
+	"gi_name" : "Level 60",
+	"gi_exp" : 3404715,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001260,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 62,
+	"gi_name" : "Level 61",
+	"gi_exp" : 3574920,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001261,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 63,
+	"gi_name" : "Level 62",
+	"gi_exp" : 3750705,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001262,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 64,
+	"gi_name" : "Level 63",
+	"gi_exp" : 3932160,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001263,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 65,
+	"gi_name" : "Level 64",
+	"gi_exp" : 4119375,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001264,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 66,
+	"gi_name" : "Level 65",
+	"gi_exp" : 4312440,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001265,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 67,
+	"gi_name" : "Level 66",
+	"gi_exp" : 4511445,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001266,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 68,
+	"gi_name" : "Level 67",
+	"gi_exp" : 4716480,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001267,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 69,
+	"gi_name" : "Level 68",
+	"gi_exp" : 4927635,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001268,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 70,
+	"gi_name" : "Level 69",
+	"gi_exp" : 5145000,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001269,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 71,
+	"gi_name" : "Level 70",
+	"gi_exp" : 5368665,
+	"gi_reward_point" : 13000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001270,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 72,
+	"gi_name" : "Level 71",
+	"gi_exp" : 5598720,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001271,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 73,
+	"gi_name" : "Level 72",
+	"gi_exp" : 5835255,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001272,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 74,
+	"gi_name" : "Level 73",
+	"gi_exp" : 6078360,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001273,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 75,
+	"gi_name" : "Level 74",
+	"gi_exp" : 6328125,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001274,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 76,
+	"gi_name" : "Level 75",
+	"gi_exp" : 6584640,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001275,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 77,
+	"gi_name" : "Level 76",
+	"gi_exp" : 6847995,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001276,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 78,
+	"gi_name" : "Level 77",
+	"gi_exp" : 7118280,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001277,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 79,
+	"gi_name" : "Level 78",
+	"gi_exp" : 7395585,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001278,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 80,
+	"gi_name" : "Level 79",
+	"gi_exp" : 7680000,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001279,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 81,
+	"gi_name" : "Level 80",
+	"gi_exp" : 7971615,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001280,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 82,
+	"gi_name" : "Level 81",
+	"gi_exp" : 8270520,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001281,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 83,
+	"gi_name" : "Level 82",
+	"gi_exp" : 8576805,
+	"gi_reward_point" : 14000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001282,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 84,
+	"gi_name" : "Level 83",
+	"gi_exp" : 8890560,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001283,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 85,
+	"gi_name" : "Level 84",
+	"gi_exp" : 9211875,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001284,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 86,
+	"gi_name" : "Level 85",
+	"gi_exp" : 9540840,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001285,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 87,
+	"gi_name" : "Level 86",
+	"gi_exp" : 9877545,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001286,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 88,
+	"gi_name" : "Level 87",
+	"gi_exp" : 10222080,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001287,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 89,
+	"gi_name" : "Level 88",
+	"gi_exp" : 10574535,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001288,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 90,
+	"gi_name" : "Level 89",
+	"gi_exp" : 10935000,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001289,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 91,
+	"gi_name" : "Level 90",
+	"gi_exp" : 11303565,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001290,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 92,
+	"gi_name" : "Level 91",
+	"gi_exp" : 11680320,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001291,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 93,
+	"gi_name" : "Level 92",
+	"gi_exp" : 12065355,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001292,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 94,
+	"gi_name" : "Level 93",
+	"gi_exp" : 12458760,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001293,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 95,
+	"gi_name" : "Level 94",
+	"gi_exp" : 12860625,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001294,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 96,
+	"gi_name" : "Level 95",
+	"gi_exp" : 13271040,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336570,
+	"gi_icon" : 90001295,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 97,
+	"gi_name" : "Level 96",
+	"gi_exp" : 13690095,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001296,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 98,
+	"gi_name" : "Level 97",
+	"gi_exp" : 17000000,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001297,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 99,
+	"gi_name" : "Level 98",
+	"gi_exp" : 19500000,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001298,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 100,
+	"gi_name" : "Level 99",
+	"gi_exp" : 22500000,
+	"gi_reward_point" : 15000,
+	"gi_reward_item" : 5336569,
+	"gi_icon" : 90001299,
+	"gi_pve_ticket" : 4811310
+},
+{
+	"gi_grade" : 101,
+	"gi_name" : "Level 100",
+	"gi_exp" : 30000000,
+	"gi_reward_point" : 30000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001300,
+	"gi_pve_ticket" : 4811320
+},
+{
+	"gi_grade" : 102,
+	"gi_name" : "Level 101",
+	"gi_exp" : 34500000,
+	"gi_reward_point" : 45000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001303,
+	"gi_pve_ticket" : 4811320
+},
+{
+	"gi_grade" : 103,
+	"gi_name" : "Level 102",
+	"gi_exp" : 39750000,
+	"gi_reward_point" : 60000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001304,
+	"gi_pve_ticket" : 4811330
+},
+{
+	"gi_grade" : 104,
+	"gi_name" : "Level 103",
+	"gi_exp" : 45000000,
+	"gi_reward_point" : 75000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001305,
+	"gi_pve_ticket" : 4811340
+},
+{
+	"gi_grade" : 105,
+	"gi_name" : "Level 104",
+	"gi_exp" : 50250000,
+	"gi_reward_point" : 90000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001306,
+	"gi_pve_ticket" : 4811350
+},
+{
+	"gi_grade" : 106,
+	"gi_name" : "Level 105",
+	"gi_exp" : 55500000,
+	"gi_reward_point" : 105000,
+	"gi_reward_item" : 5336571,
+	"gi_icon" : 90001307,
+	"gi_pve_ticket" : 4811360
+}

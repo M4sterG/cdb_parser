@@ -1,0 +1,81 @@
+{
+	"si_id" : 7,
+	"si_sid" : 0,
+	"si_cid" : 0,
+	"si_name" : "error",
+	"si_ip" : "1.235.188.130",
+	"si_port" : 12001,
+	"si_clan" : false
+},
+{
+	"si_id" : 6,
+	"si_sid" : 1,
+	"si_cid" : 0,
+	"si_name" : "web",
+	"si_ip" : "http://www.toywars.in.th/Register/",
+	"si_port" : 0,
+	"si_clan" : false
+},
+{
+	"si_id" : 6,
+	"si_sid" : 2,
+	"si_cid" : 0,
+	"si_name" : "",
+	"si_ip" : "",
+	"si_port" : 0,
+	"si_clan" : false
+},
+{
+	"si_id" : 6,
+	"si_sid" : 3,
+	"si_cid" : 0,
+	"si_name" : "",
+	"si_ip" : "",
+	"si_port" : 0,
+	"si_clan" : false
+},
+{
+	"si_id" : 0,
+	"si_sid" : 0,
+	"si_cid" : 0,
+	"si_name" : "Front",
+	"si_ip" : "203.113.10.205",
+	"si_port" : 13000,
+	"si_clan" : false
+},
+{
+	"si_id" : 5,
+	"si_sid" : 1,
+	"si_cid" : 1,
+	"si_name" : "ToyWars",
+	"si_ip" : "203.113.10.202",
+	"si_port" : 13000,
+	"si_clan" : false
+},
+{
+	"si_id" : 4,
+	"si_sid" : 1,
+	"si_cid" : 0,
+	"si_name" : "Cast",
+	"si_ip" : "203.113.10.203",
+	"si_port" : 13000,
+	"si_clan" : false
+},
+{
+	"si_id" : 5,
+	"si_sid" : 2,
+	"si_cid" : 2,
+	"si_name" : "ToyWars2",
+	"si_ip" : "203.113.10.219",
+	"si_port" : 13000,
+	"si_clan" : true
+},
+{
+	"si_id" : 4,
+	"si_sid" : 2,
+	"si_cid" : 0,
+	"si_name" : "Cast2",
+	"si_ip" : "203.113.10.220",
+	"si_port" : 13000,
+	"si_clan" : false
+}
