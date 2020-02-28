@@ -1,0 +1,85 @@
+{
+	"sa_index" : 0,
+	"sa_command" : "ทักทาย",
+	"sa_command_enum" : 0
+},
+{
+	"sa_index" : 1,
+	"sa_command" : "ขอบคุณ",
+	"sa_command_enum" : 1
+},
+{
+	"sa_index" : 2,
+	"sa_command" : "ยิ้ม",
+	"sa_command_enum" : 2
+},
+{
+	"sa_index" : 3,
+	"sa_command" : "ร้องไห้",
+	"sa_command_enum" : 3
+},
+{
+	"sa_index" : 4,
+	"sa_command" : "ให้กำลังใจ",
+	"sa_command_enum" : 4
+},
+{
+	"sa_index" : 5,
+	"sa_command" : "จุ๊บจุ๊บ",
+	"sa_command_enum" : 5
+},
+{
+	"sa_index" : 6,
+	"sa_command" : "เขิลอาย",
+	"sa_command_enum" : 6
+},
+{
+	"sa_index" : 7,
+	"sa_command" : "เบื่อหน่าย",
+	"sa_command_enum" : 7
+},
+{
+	"sa_index" : 8,
+	"sa_command" : "ชนะ",
+	"sa_command_enum" : 8
+},
+{
+	"sa_index" : 9,
+	"sa_command" : "แพ้",
+	"sa_command_enum" : 9
+},
+{
+	"sa_index" : 10,
+	"sa_command" : "ตกลง",
+	"sa_command_enum" : 10
+},
+{
+	"sa_index" : 11,
+	"sa_command" : "ปฏิเสธ",
+	"sa_command_enum" : 11
+},
+{
+	"sa_index" : 12,
+	"sa_command" : "หยอกล้อ",
+	"sa_command_enum" : 12
+},
+{
+	"sa_index" : 13,
+	"sa_command" : "ก่อกวน",
+	"sa_command_enum" : 13
+},
+{
+	"sa_index" : 14,
+	"sa_command" : "โกรธ",
+	"sa_command_enum" : 14
+},
+{
+	"sa_index" : 15,
+	"sa_command" : "ทะลึ่ง",
+	"sa_command_enum" : 15
+},
+{
+	"sa_index" : 16,
+	"sa_command" : "ล้อเลียน",
+	"sa_command_enum" : 16
+}
