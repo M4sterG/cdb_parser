@@ -1,3181 +1,1283 @@
 Found 19 keys in ENG/AiBattleUnitInfo.cdb
-ai_num	length : 4 
-ai_name	length : 30 
-ai_level	length : 4 
-ai_type	length : 4 
-ai_weapon	length : 4 
-ai_speed	length : 4 
-ai_accuracy	length : 4 
-ai_range	length : 4 
-ai_hair	length : 4 
-ai_face	length : 4 
-ai_upper	length : 4 
-ai_under	length : 4 
-ai_pants	length : 4 
-ai_boots	length : 4 
-ai_arms	length : 4 
-ai_set	length : 4 
-ai_acceA	length : 4 
-ai_acceB	length : 4 
-ai_acceC	length : 4 
-Data block size : 102
-Found 19 keys in ENG/AiBattleUnitInfo.cdb
-ai_num	length : 4 
-ai_name	length : 30 
-ai_level	length : 4 
-ai_type	length : 4 
-ai_weapon	length : 4 
-ai_speed	length : 4 
-ai_accuracy	length : 4 
-ai_range	length : 4 
-ai_hair	length : 4 
-ai_face	length : 4 
-ai_upper	length : 4 
-ai_under	length : 4 
-ai_pants	length : 4 
-ai_boots	length : 4 
-ai_arms	length : 4 
-ai_set	length : 4 
-ai_acceA	length : 4 
-ai_acceB	length : 4 
-ai_acceC	length : 4 
+	ai_num			length : 4 
+	ai_name			length : 30 
+	ai_level			length : 4 
+	ai_type			length : 4 
+	ai_weapon			length : 4 
+	ai_speed			length : 4 
+	ai_accuracy			length : 4 
+	ai_range			length : 4 
+	ai_hair			length : 4 
+	ai_face			length : 4 
+	ai_upper			length : 4 
+	ai_under			length : 4 
+	ai_pants			length : 4 
+	ai_boots			length : 4 
+	ai_arms			length : 4 
+	ai_set			length : 4 
+	ai_acceA			length : 4 
+	ai_acceB			length : 4 
+	ai_acceC			length : 4 
 Data block size : 102
 Found 14 keys in ENG/PveMonsterNpcPlacementInfo.cdb
-smp_id	length : 4 
-smp_stage_id	length : 4 
-smp_monster_id	length : 4 
-smp_monster_key	length : 4 
-smp_precreate	length : 1 
-smp_order	length : 4 
-smp_time	length : 4 
-smp_pos_x	length : 4 
-smp_pos_y	length : 4 
-smp_pos_z	length : 4 
-smp_dir_x	length : 4 
-smp_dir_y	length : 4 
-smp_dir_z	length : 4 
-smp_scale	length : 4 
-Data block size : 53
-Found 14 keys in ENG/PveMonsterNpcPlacementInfo.cdb
-smp_id	length : 4 
-smp_stage_id	length : 4 
-smp_monster_id	length : 4 
-smp_monster_key	length : 4 
-smp_precreate	length : 1 
-smp_order	length : 4 
-smp_time	length : 4 
-smp_pos_x	length : 4 
-smp_pos_y	length : 4 
-smp_pos_z	length : 4 
-smp_dir_x	length : 4 
-smp_dir_y	length : 4 
-smp_dir_z	length : 4 
-smp_scale	length : 4 
+	smp_id			length : 4 
+	smp_stage_id			length : 4 
+	smp_monster_id			length : 4 
+	smp_monster_key			length : 4 
+	smp_precreate			length : 1 
+	smp_order			length : 4 
+	smp_time			length : 4 
+	smp_pos_x			length : 4 
+	smp_pos_y			length : 4 
+	smp_pos_z			length : 4 
+	smp_dir_x			length : 4 
+	smp_dir_y			length : 4 
+	smp_dir_z			length : 4 
+	smp_scale			length : 4 
 Data block size : 53
 Found 5 keys in ENG/PveMonsterNpcWeaponInfo.cdb
-mw_id	length : 4 
-mw_monster_type	length : 4 
-mw_npc_weapon_id	length : 4 
-mw_weapon_type_exlpanation	length : 200 
-mw_weapon_id	length : 4 
-Data block size : 216
-Found 5 keys in ENG/PveMonsterNpcWeaponInfo.cdb
-mw_id	length : 4 
-mw_monster_type	length : 4 
-mw_npc_weapon_id	length : 4 
-mw_weapon_type_exlpanation	length : 200 
-mw_weapon_id	length : 4 
+	mw_id			length : 4 
+	mw_monster_type			length : 4 
+	mw_npc_weapon_id			length : 4 
+	mw_weapon_type_exlpanation			length : 200 
+	mw_weapon_id			length : 4 
 Data block size : 216
 Found 5 keys in ENG/UImsg.cdb
-ug_id	length : 4 
-ug_name	length : 100 
-ug_text	length : 250 
-ug_align	length : 4 
-ug_color	length : 50 
-Data block size : 408
-Found 5 keys in ENG/UImsg.cdb
-ug_id	length : 4 
-ug_name	length : 100 
-ug_text	length : 250 
-ug_align	length : 4 
-ug_color	length : 50 
+	ug_id			length : 4 
+	ug_name			length : 100 
+	ug_text			length : 250 
+	ug_align			length : 4 
+	ug_color			length : 50 
 Data block size : 408
 Found 22 keys in ENG/agoragachaponunitinfo.cdb
-ac_slot_id	length : 4 
-ac_gachapon_id	length : 4 
-ac_webpage	length : 255 
-ac_type	length : 4 
-ac_hair	length : 4 
-ac_face	length : 4 
-ac_upper	length : 4 
-ac_under	length : 4 
-ac_pants	length : 4 
-ac_arms	length : 4 
-ac_boots	length : 4 
-ac_acce_A	length : 4 
-ac_acce_B	length : 4 
-ac_acce_C	length : 4 
-ac_knife	length : 4 
-ac_rifle	length : 4 
-ac_shotgun	length : 4 
-ac_sniper	length : 4 
-ac_gatling	length : 4 
-ac_launcher	length : 4 
-ac_grenade	length : 4 
-ac_diorama	length : 4 
-Data block size : 339
-Found 22 keys in ENG/agoragachaponunitinfo.cdb
-ac_slot_id	length : 4 
-ac_gachapon_id	length : 4 
-ac_webpage	length : 255 
-ac_type	length : 4 
-ac_hair	length : 4 
-ac_face	length : 4 
-ac_upper	length : 4 
-ac_under	length : 4 
-ac_pants	length : 4 
-ac_arms	length : 4 
-ac_boots	length : 4 
-ac_acce_A	length : 4 
-ac_acce_B	length : 4 
-ac_acce_C	length : 4 
-ac_knife	length : 4 
-ac_rifle	length : 4 
-ac_shotgun	length : 4 
-ac_sniper	length : 4 
-ac_gatling	length : 4 
-ac_launcher	length : 4 
-ac_grenade	length : 4 
-ac_diorama	length : 4 
+	ac_slot_id			length : 4 
+	ac_gachapon_id			length : 4 
+	ac_webpage			length : 255 
+	ac_type			length : 4 
+	ac_hair			length : 4 
+	ac_face			length : 4 
+	ac_upper			length : 4 
+	ac_under			length : 4 
+	ac_pants			length : 4 
+	ac_arms			length : 4 
+	ac_boots			length : 4 
+	ac_acce_A			length : 4 
+	ac_acce_B			length : 4 
+	ac_acce_C			length : 4 
+	ac_knife			length : 4 
+	ac_rifle			length : 4 
+	ac_shotgun			length : 4 
+	ac_sniper			length : 4 
+	ac_gatling			length : 4 
+	ac_launcher			length : 4 
+	ac_grenade			length : 4 
+	ac_diorama			length : 4 
 Data block size : 339
 Found 28 keys in ENG/baseunitinfo.cdb
-bi_type	length : 4 
-bi_cash_price	length : 4 
-bi_price	length : 4 
-bi_life	length : 4 
-bi_run_speed	length : 4 
-bi_walk_speed	length : 4 
-bi_sit_walk_speed	length : 4 
-bi_back_speed	length : 4 
-bi_hair	length : 4 
-bi_face	length : 4 
-bi_upper	length : 4 
-bi_under	length : 4 
-bi_pants	length : 4 
-bi_arms	length : 4 
-bi_boots	length : 4 
-bi_knife	length : 4 
-bi_rifle	length : 4 
-bi_shotgun	length : 4 
-bi_sniper	length : 4 
-bi_gatling	length : 4 
-bi_launcher	length : 4 
-bi_grenade	length : 4 
-bi_bombweapon	length : 4 
-bi_diorama	length : 4 
-bi_effect_1	length : 4 
-bi_effect_2	length : 4 
-bi_effect_3	length : 4 
-bi_effect_4	length : 4 
-Data block size : 112
-Found 28 keys in ENG/baseunitinfo.cdb
-bi_type	length : 4 
-bi_cash_price	length : 4 
-bi_price	length : 4 
-bi_life	length : 4 
-bi_run_speed	length : 4 
-bi_walk_speed	length : 4 
-bi_sit_walk_speed	length : 4 
-bi_back_speed	length : 4 
-bi_hair	length : 4 
-bi_face	length : 4 
-bi_upper	length : 4 
-bi_under	length : 4 
-bi_pants	length : 4 
-bi_arms	length : 4 
-bi_boots	length : 4 
-bi_knife	length : 4 
-bi_rifle	length : 4 
-bi_shotgun	length : 4 
-bi_sniper	length : 4 
-bi_gatling	length : 4 
-bi_launcher	length : 4 
-bi_grenade	length : 4 
-bi_bombweapon	length : 4 
-bi_diorama	length : 4 
-bi_effect_1	length : 4 
-bi_effect_2	length : 4 
-bi_effect_3	length : 4 
-bi_effect_4	length : 4 
+	bi_type			length : 4 
+	bi_cash_price			length : 4 
+	bi_price			length : 4 
+	bi_life			length : 4 
+	bi_run_speed			length : 4 
+	bi_walk_speed			length : 4 
+	bi_sit_walk_speed			length : 4 
+	bi_back_speed			length : 4 
+	bi_hair			length : 4 
+	bi_face			length : 4 
+	bi_upper			length : 4 
+	bi_under			length : 4 
+	bi_pants			length : 4 
+	bi_arms			length : 4 
+	bi_boots			length : 4 
+	bi_knife			length : 4 
+	bi_rifle			length : 4 
+	bi_shotgun			length : 4 
+	bi_sniper			length : 4 
+	bi_gatling			length : 4 
+	bi_launcher			length : 4 
+	bi_grenade			length : 4 
+	bi_bombweapon			length : 4 
+	bi_diorama			length : 4 
+	bi_effect_1			length : 4 
+	bi_effect_2			length : 4 
+	bi_effect_3			length : 4 
+	bi_effect_4			length : 4 
 Data block size : 112
 Found 3 keys in ENG/batterydropinfo.cdb
-bi_count	length : 4 
-bi_prob	length : 4 
-bi_point	length : 4 
-Data block size : 12
-Found 3 keys in ENG/batterydropinfo.cdb
-bi_count	length : 4 
-bi_prob	length : 4 
-bi_point	length : 4 
+	bi_count			length : 4 
+	bi_prob			length : 4 
+	bi_point			length : 4 
 Data block size : 12
 Found 11 keys in ENG/bombinfo.cdb
-bi_id	length : 4 
-bi_map_id	length : 4 
-bi_bomb_bpm	length : 4 
-bi_bomb_ax	length : 4 
-bi_bomb_ay	length : 4 
-bi_bomb_az	length : 4 
-bi_bomb_bx	length : 4 
-bi_bomb_by	length : 4 
-bi_bomb_bz	length : 4 
-bi_fix_a_langce	length : 4 
-bi_fix_b_langce	length : 4 
-Data block size : 44
-Found 11 keys in ENG/bombinfo.cdb
-bi_id	length : 4 
-bi_map_id	length : 4 
-bi_bomb_bpm	length : 4 
-bi_bomb_ax	length : 4 
-bi_bomb_ay	length : 4 
-bi_bomb_az	length : 4 
-bi_bomb_bx	length : 4 
-bi_bomb_by	length : 4 
-bi_bomb_bz	length : 4 
-bi_fix_a_langce	length : 4 
-bi_fix_b_langce	length : 4 
+	bi_id			length : 4 
+	bi_map_id			length : 4 
+	bi_bomb_bpm			length : 4 
+	bi_bomb_ax			length : 4 
+	bi_bomb_ay			length : 4 
+	bi_bomb_az			length : 4 
+	bi_bomb_bx			length : 4 
+	bi_bomb_by			length : 4 
+	bi_bomb_bz			length : 4 
+	bi_fix_a_langce			length : 4 
+	bi_fix_b_langce			length : 4 
 Data block size : 44
 Found 128 keys in ENG/changerinfo.cdb
-ci_id	length : 4 
-ci_type	length : 4 
-ci_name_a	length : 30 
-ci_life_a	length : 4 
-ci_life_bonus_a	length : 4 
-ci_run_speed_a	length : 4 
-ci_walk_speed_a	length : 4 
-ci_sit_speed_a	length : 4 
-ci_back_speed_a	length : 4 
-ci_jump_a	length : 4 
-ci_knife_a	length : 4 
-ci_skill_a	length : 4 
-ci_knockback_resistance_a	length : 4 
-ci_knockback_decrease_walk_a	length : 4 
-ci_knockback_decrease_jump_a	length : 4 
-ci_knockback_decrease_sit_a	length : 4 
-ci_name_b	length : 30 
-ci_life_b	length : 4 
-ci_life_bonus_b	length : 4 
-ci_run_speed_b	length : 4 
-ci_walk_speed_b	length : 4 
-ci_sit_speed_b	length : 4 
-ci_back_speed_b	length : 4 
-ci_jump_b	length : 4 
-ci_knife_b	length : 4 
-ci_skill_b	length : 4 
-ci_knockback_resistance_b	length : 4 
-ci_knockback_decrease_walk_b	length : 4 
-ci_knockback_decrease_jump_b	length : 4 
-ci_knockback_decrease_sit_b	length : 4 
-ci_name_c	length : 30 
-ci_life_c	length : 4 
-ci_life_bonus_c	length : 4 
-ci_run_speed_c	length : 4 
-ci_walk_speed_c	length : 4 
-ci_sit_speed_c	length : 4 
-ci_back_speed_c	length : 4 
-ci_jump_c	length : 4 
-ci_knife_c	length : 4 
-ci_skill_c	length : 4 
-ci_knockback_resistance_c	length : 4 
-ci_knockback_decrease_walk_c	length : 4 
-ci_knockback_decrease_jump_c	length : 4 
-ci_knockback_decrease_sit_c	length : 4 
-ci_name_d	length : 30 
-ci_life_d	length : 4 
-ci_life_bonus_d	length : 4 
-ci_run_speed_d	length : 4 
-ci_walk_speed_d	length : 4 
-ci_sit_speed_d	length : 4 
-ci_back_speed_d	length : 4 
-ci_jump_d	length : 4 
-ci_knife_d	length : 4 
-ci_skill_d	length : 4 
-ci_knockback_resistance_d	length : 4 
-ci_knockback_decrease_walk_d	length : 4 
-ci_knockback_decrease_jump_d	length : 4 
-ci_knockback_decrease_sit_d	length : 4 
-ci_name_e	length : 30 
-ci_life_e	length : 4 
-ci_life_bonus_e	length : 4 
-ci_run_speed_e	length : 4 
-ci_walk_speed_e	length : 4 
-ci_sit_speed_e	length : 4 
-ci_back_speed_e	length : 4 
-ci_jump_e	length : 4 
-ci_knife_e	length : 4 
-ci_skill_e	length : 4 
-ci_knockback_resistance_e	length : 4 
-ci_knockback_decrease_walk_e	length : 4 
-ci_knockback_decrease_jump_e	length : 4 
-ci_knockback_decrease_sit_e	length : 4 
-ci_name_f	length : 30 
-ci_life_f	length : 4 
-ci_life_bonus_f	length : 4 
-ci_run_speed_f	length : 4 
-ci_walk_speed_f	length : 4 
-ci_sit_speed_f	length : 4 
-ci_back_speed_f	length : 4 
-ci_jump_f	length : 4 
-ci_knife_f	length : 4 
-ci_skill_f	length : 4 
-ci_knockback_resistance_f	length : 4 
-ci_knockback_decrease_walk_f	length : 4 
-ci_knockback_decrease_jump_f	length : 4 
-ci_knockback_decrease_sit_f	length : 4 
-ci_name_g	length : 30 
-ci_life_g	length : 4 
-ci_life_bonus_g	length : 4 
-ci_run_speed_g	length : 4 
-ci_walk_speed_g	length : 4 
-ci_sit_speed_g	length : 4 
-ci_back_speed_g	length : 4 
-ci_jump_g	length : 4 
-ci_knife_g	length : 4 
-ci_skill_g	length : 4 
-ci_knockback_resistance_g	length : 4 
-ci_knockback_decrease_walk_g	length : 4 
-ci_knockback_decrease_jump_g	length : 4 
-ci_knockback_decrease_sit_g	length : 4 
-ci_name_h	length : 30 
-ci_life_h	length : 4 
-ci_life_bonus_h	length : 4 
-ci_run_speed_h	length : 4 
-ci_walk_speed_h	length : 4 
-ci_sit_speed_h	length : 4 
-ci_back_speed_h	length : 4 
-ci_jump_h	length : 4 
-ci_knife_h	length : 4 
-ci_skill_h	length : 4 
-ci_knockback_resistance_h	length : 4 
-ci_knockback_decrease_walk_h	length : 4 
-ci_knockback_decrease_jump_h	length : 4 
-ci_knockback_decrease_sit_h	length : 4 
-ci_name_i	length : 30 
-ci_life_i	length : 4 
-ci_life_bonus_i	length : 4 
-ci_run_speed_i	length : 4 
-ci_walk_speed_i	length : 4 
-ci_sit_speed_i	length : 4 
-ci_back_speed_i	length : 4 
-ci_jump_i	length : 4 
-ci_knife_i	length : 4 
-ci_skill_i	length : 4 
-ci_knockback_resistance_i	length : 4 
-ci_knockback_decrease_walk_i	length : 4 
-ci_knockback_decrease_jump_i	length : 4 
-ci_knockback_decrease_sit_i	length : 4 
-Data block size : 746
-Found 128 keys in ENG/changerinfo.cdb
-ci_id	length : 4 
-ci_type	length : 4 
-ci_name_a	length : 30 
-ci_life_a	length : 4 
-ci_life_bonus_a	length : 4 
-ci_run_speed_a	length : 4 
-ci_walk_speed_a	length : 4 
-ci_sit_speed_a	length : 4 
-ci_back_speed_a	length : 4 
-ci_jump_a	length : 4 
-ci_knife_a	length : 4 
-ci_skill_a	length : 4 
-ci_knockback_resistance_a	length : 4 
-ci_knockback_decrease_walk_a	length : 4 
-ci_knockback_decrease_jump_a	length : 4 
-ci_knockback_decrease_sit_a	length : 4 
-ci_name_b	length : 30 
-ci_life_b	length : 4 
-ci_life_bonus_b	length : 4 
-ci_run_speed_b	length : 4 
-ci_walk_speed_b	length : 4 
-ci_sit_speed_b	length : 4 
-ci_back_speed_b	length : 4 
-ci_jump_b	length : 4 
-ci_knife_b	length : 4 
-ci_skill_b	length : 4 
-ci_knockback_resistance_b	length : 4 
-ci_knockback_decrease_walk_b	length : 4 
-ci_knockback_decrease_jump_b	length : 4 
-ci_knockback_decrease_sit_b	length : 4 
-ci_name_c	length : 30 
-ci_life_c	length : 4 
-ci_life_bonus_c	length : 4 
-ci_run_speed_c	length : 4 
-ci_walk_speed_c	length : 4 
-ci_sit_speed_c	length : 4 
-ci_back_speed_c	length : 4 
-ci_jump_c	length : 4 
-ci_knife_c	length : 4 
-ci_skill_c	length : 4 
-ci_knockback_resistance_c	length : 4 
-ci_knockback_decrease_walk_c	length : 4 
-ci_knockback_decrease_jump_c	length : 4 
-ci_knockback_decrease_sit_c	length : 4 
-ci_name_d	length : 30 
-ci_life_d	length : 4 
-ci_life_bonus_d	length : 4 
-ci_run_speed_d	length : 4 
-ci_walk_speed_d	length : 4 
-ci_sit_speed_d	length : 4 
-ci_back_speed_d	length : 4 
-ci_jump_d	length : 4 
-ci_knife_d	length : 4 
-ci_skill_d	length : 4 
-ci_knockback_resistance_d	length : 4 
-ci_knockback_decrease_walk_d	length : 4 
-ci_knockback_decrease_jump_d	length : 4 
-ci_knockback_decrease_sit_d	length : 4 
-ci_name_e	length : 30 
-ci_life_e	length : 4 
-ci_life_bonus_e	length : 4 
-ci_run_speed_e	length : 4 
-ci_walk_speed_e	length : 4 
-ci_sit_speed_e	length : 4 
-ci_back_speed_e	length : 4 
-ci_jump_e	length : 4 
-ci_knife_e	length : 4 
-ci_skill_e	length : 4 
-ci_knockback_resistance_e	length : 4 
-ci_knockback_decrease_walk_e	length : 4 
-ci_knockback_decrease_jump_e	length : 4 
-ci_knockback_decrease_sit_e	length : 4 
-ci_name_f	length : 30 
-ci_life_f	length : 4 
-ci_life_bonus_f	length : 4 
-ci_run_speed_f	length : 4 
-ci_walk_speed_f	length : 4 
-ci_sit_speed_f	length : 4 
-ci_back_speed_f	length : 4 
-ci_jump_f	length : 4 
-ci_knife_f	length : 4 
-ci_skill_f	length : 4 
-ci_knockback_resistance_f	length : 4 
-ci_knockback_decrease_walk_f	length : 4 
-ci_knockback_decrease_jump_f	length : 4 
-ci_knockback_decrease_sit_f	length : 4 
-ci_name_g	length : 30 
-ci_life_g	length : 4 
-ci_life_bonus_g	length : 4 
-ci_run_speed_g	length : 4 
-ci_walk_speed_g	length : 4 
-ci_sit_speed_g	length : 4 
-ci_back_speed_g	length : 4 
-ci_jump_g	length : 4 
-ci_knife_g	length : 4 
-ci_skill_g	length : 4 
-ci_knockback_resistance_g	length : 4 
-ci_knockback_decrease_walk_g	length : 4 
-ci_knockback_decrease_jump_g	length : 4 
-ci_knockback_decrease_sit_g	length : 4 
-ci_name_h	length : 30 
-ci_life_h	length : 4 
-ci_life_bonus_h	length : 4 
-ci_run_speed_h	length : 4 
-ci_walk_speed_h	length : 4 
-ci_sit_speed_h	length : 4 
-ci_back_speed_h	length : 4 
-ci_jump_h	length : 4 
-ci_knife_h	length : 4 
-ci_skill_h	length : 4 
-ci_knockback_resistance_h	length : 4 
-ci_knockback_decrease_walk_h	length : 4 
-ci_knockback_decrease_jump_h	length : 4 
-ci_knockback_decrease_sit_h	length : 4 
-ci_name_i	length : 30 
-ci_life_i	length : 4 
-ci_life_bonus_i	length : 4 
-ci_run_speed_i	length : 4 
-ci_walk_speed_i	length : 4 
-ci_sit_speed_i	length : 4 
-ci_back_speed_i	length : 4 
-ci_jump_i	length : 4 
-ci_knife_i	length : 4 
-ci_skill_i	length : 4 
-ci_knockback_resistance_i	length : 4 
-ci_knockback_decrease_walk_i	length : 4 
-ci_knockback_decrease_jump_i	length : 4 
-ci_knockback_decrease_sit_i	length : 4 
+	ci_id			length : 4 
+	ci_type			length : 4 
+	ci_name_a			length : 30 
+	ci_life_a			length : 4 
+	ci_life_bonus_a			length : 4 
+	ci_run_speed_a			length : 4 
+	ci_walk_speed_a			length : 4 
+	ci_sit_speed_a			length : 4 
+	ci_back_speed_a			length : 4 
+	ci_jump_a			length : 4 
+	ci_knife_a			length : 4 
+	ci_skill_a			length : 4 
+	ci_knockback_resistance_a			length : 4 
+	ci_knockback_decrease_walk_a			length : 4 
+	ci_knockback_decrease_jump_a			length : 4 
+	ci_knockback_decrease_sit_a			length : 4 
+	ci_name_b			length : 30 
+	ci_life_b			length : 4 
+	ci_life_bonus_b			length : 4 
+	ci_run_speed_b			length : 4 
+	ci_walk_speed_b			length : 4 
+	ci_sit_speed_b			length : 4 
+	ci_back_speed_b			length : 4 
+	ci_jump_b			length : 4 
+	ci_knife_b			length : 4 
+	ci_skill_b			length : 4 
+	ci_knockback_resistance_b			length : 4 
+	ci_knockback_decrease_walk_b			length : 4 
+	ci_knockback_decrease_jump_b			length : 4 
+	ci_knockback_decrease_sit_b			length : 4 
+	ci_name_c			length : 30 
+	ci_life_c			length : 4 
+	ci_life_bonus_c			length : 4 
+	ci_run_speed_c			length : 4 
+	ci_walk_speed_c			length : 4 
+	ci_sit_speed_c			length : 4 
+	ci_back_speed_c			length : 4 
+	ci_jump_c			length : 4 
+	ci_knife_c			length : 4 
+	ci_skill_c			length : 4 
+	ci_knockback_resistance_c			length : 4 
+	ci_knockback_decrease_walk_c			length : 4 
+	ci_knockback_decrease_jump_c			length : 4 
+	ci_knockback_decrease_sit_c			length : 4 
+	ci_name_d			length : 30 
+	ci_life_d			length : 4 
+	ci_life_bonus_d			length : 4 
+	ci_run_speed_d			length : 4 
+	ci_walk_speed_d			length : 4 
+	ci_sit_speed_d			length : 4 
+	ci_back_speed_d			length : 4 
+	ci_jump_d			length : 4 
+	ci_knife_d			length : 4 
+	ci_skill_d			length : 4 
+	ci_knockback_resistance_d			length : 4 
+	ci_knockback_decrease_walk_d			length : 4 
+	ci_knockback_decrease_jump_d			length : 4 
+	ci_knockback_decrease_sit_d			length : 4 
+	ci_name_e			length : 30 
+	ci_life_e			length : 4 
+	ci_life_bonus_e			length : 4 
+	ci_run_speed_e			length : 4 
+	ci_walk_speed_e			length : 4 
+	ci_sit_speed_e			length : 4 
+	ci_back_speed_e			length : 4 
+	ci_jump_e			length : 4 
+	ci_knife_e			length : 4 
+	ci_skill_e			length : 4 
+	ci_knockback_resistance_e			length : 4 
+	ci_knockback_decrease_walk_e			length : 4 
+	ci_knockback_decrease_jump_e			length : 4 
+	ci_knockback_decrease_sit_e			length : 4 
+	ci_name_f			length : 30 
+	ci_life_f			length : 4 
+	ci_life_bonus_f			length : 4 
+	ci_run_speed_f			length : 4 
+	ci_walk_speed_f			length : 4 
+	ci_sit_speed_f			length : 4 
+	ci_back_speed_f			length : 4 
+	ci_jump_f			length : 4 
+	ci_knife_f			length : 4 
+	ci_skill_f			length : 4 
+	ci_knockback_resistance_f			length : 4 
+	ci_knockback_decrease_walk_f			length : 4 
+	ci_knockback_decrease_jump_f			length : 4 
+	ci_knockback_decrease_sit_f			length : 4 
+	ci_name_g			length : 30 
+	ci_life_g			length : 4 
+	ci_life_bonus_g			length : 4 
+	ci_run_speed_g			length : 4 
+	ci_walk_speed_g			length : 4 
+	ci_sit_speed_g			length : 4 
+	ci_back_speed_g			length : 4 
+	ci_jump_g			length : 4 
+	ci_knife_g			length : 4 
+	ci_skill_g			length : 4 
+	ci_knockback_resistance_g			length : 4 
+	ci_knockback_decrease_walk_g			length : 4 
+	ci_knockback_decrease_jump_g			length : 4 
+	ci_knockback_decrease_sit_g			length : 4 
+	ci_name_h			length : 30 
+	ci_life_h			length : 4 
+	ci_life_bonus_h			length : 4 
+	ci_run_speed_h			length : 4 
+	ci_walk_speed_h			length : 4 
+	ci_sit_speed_h			length : 4 
+	ci_back_speed_h			length : 4 
+	ci_jump_h			length : 4 
+	ci_knife_h			length : 4 
+	ci_skill_h			length : 4 
+	ci_knockback_resistance_h			length : 4 
+	ci_knockback_decrease_walk_h			length : 4 
+	ci_knockback_decrease_jump_h			length : 4 
+	ci_knockback_decrease_sit_h			length : 4 
+	ci_name_i			length : 30 
+	ci_life_i			length : 4 
+	ci_life_bonus_i			length : 4 
+	ci_run_speed_i			length : 4 
+	ci_walk_speed_i			length : 4 
+	ci_sit_speed_i			length : 4 
+	ci_back_speed_i			length : 4 
+	ci_jump_i			length : 4 
+	ci_knife_i			length : 4 
+	ci_skill_i			length : 4 
+	ci_knockback_resistance_i			length : 4 
+	ci_knockback_decrease_walk_i			length : 4 
+	ci_knockback_decrease_jump_i			length : 4 
+	ci_knockback_decrease_sit_i			length : 4 
 Data block size : 746
 Found 14 keys in ENG/channelinfo.cdb
-ci_id	length : 4 
-ci_sid	length : 4 
-ci_name	length : 16 
-ci_min_grade	length : 4 
-ci_grade	length : 4 
-ci_kd_rate	length : 4 
-ci_win_rate	length : 4 
-ci_clan	length : 1 
-ci_password	length : 4 
-ci_selectweapon	length : 1 
-ci_max	length : 4 
-ci_beginner	length : 4 
-ci_desc	length : 200 
-ci_group	length : 4 
+	ci_id			length : 4 
+	ci_sid			length : 4 
+	ci_name			length : 16 
+	ci_min_grade			length : 4 
+	ci_grade			length : 4 
+	ci_kd_rate			length : 4 
+	ci_win_rate			length : 4 
+	ci_clan			length : 1 
+	ci_password			length : 4 
+	ci_selectweapon			length : 1 
+	ci_max			length : 4 
+	ci_beginner			length : 4 
+	ci_desc			length : 200 
+	ci_group			length : 4 
 Data block size : 258
-Found 13 keys in ENG/channelinfo.cdb
-ci_id	length : 4 
-ci_sid	length : 4 
-ci_name	length : 16 
-ci_min_grade	length : 4 
-ci_grade	length : 4 
-ci_kd_rate	length : 4 
-ci_win_rate	length : 4 
-ci_clan	length : 1 
-ci_password	length : 4 
-ci_selectweapon	length : 1 
-ci_max	length : 4 
-ci_beginner	length : 4 
-ci_desc	length : 200 
-Data block size : 254
 Found 3 keys in ENG/clangradeinfo.cdb
-cg_grade	length : 4 
-cg_name	length : 32 
-cg_exp	length : 4 
-Data block size : 40
-Found 3 keys in ENG/clangradeinfo.cdb
-cg_grade	length : 4 
-cg_name	length : 32 
-cg_exp	length : 4 
+	cg_grade			length : 4 
+	cg_name			length : 32 
+	cg_exp			length : 4 
 Data block size : 40
 Found 7 keys in ENG/clanmarkbackinfo.cdb
-cmb_id	length : 4 
-cmb_filename_ingame	length : 30 
-cmb_filename_web	length : 30 
-cmb_offset	length : 4 
-cmb_width	length : 4 
-cmb_height	length : 4 
-cmb_filesize	length : 4 
-Data block size : 80
-Found 7 keys in ENG/clanmarkbackinfo.cdb
-cmb_id	length : 4 
-cmb_filename_ingame	length : 30 
-cmb_filename_web	length : 30 
-cmb_offset	length : 4 
-cmb_width	length : 4 
-cmb_height	length : 4 
-cmb_filesize	length : 4 
+	cmb_id			length : 4 
+	cmb_filename_ingame			length : 30 
+	cmb_filename_web			length : 30 
+	cmb_offset			length : 4 
+	cmb_width			length : 4 
+	cmb_height			length : 4 
+	cmb_filesize			length : 4 
 Data block size : 80
 Found 7 keys in ENG/clanmarksimbolinfo.cdb
-cms_id	length : 4 
-cms_filename_ingame	length : 30 
-cms_filename_web	length : 30 
-cms_offset	length : 4 
-cms_width	length : 4 
-cms_height	length : 4 
-cms_filesize	length : 4 
-Data block size : 80
-Found 7 keys in ENG/clanmarksimbolinfo.cdb
-cms_id	length : 4 
-cms_filename_ingame	length : 30 
-cms_filename_web	length : 30 
-cms_offset	length : 4 
-cms_width	length : 4 
-cms_height	length : 4 
-cms_filesize	length : 4 
+	cms_id			length : 4 
+	cms_filename_ingame			length : 30 
+	cms_filename_web			length : 30 
+	cms_offset			length : 4 
+	cms_width			length : 4 
+	cms_height			length : 4 
+	cms_filesize			length : 4 
 Data block size : 80
 Found 24 keys in ENG/collectioninfo.cdb
-ci_id	length : 4 
-ci_set_index	length : 4 
-ci_name	length : 50 
-ci_rewardpoint	length : 4 
-ci_rewardexp	length : 4 
-ci_rewardcoin	length : 4 
-ci_rewarditem	length : 4 
-ci_goal_max	length : 4 
-ci_notice	length : 4 
-ci_icon_uncompleted	length : 4 
-ci_icon_complete	length : 4 
-ci_icon_size	length : 4 
-ci_icon_x	length : 4 
-ci_icon_y	length : 4 
-ci_desc_skill	length : 255 
-ci_desc_cond	length : 255 
-ci_desc_reward	length : 255 
-ci_title_check	length : 1 
-ci_title_desc	length : 255 
-ci_mission_type	length : 4 
-ci_hidden_check	length : 1 
-ci_hidden_valueA	length : 4 
-ci_hidden_valueB	length : 4 
-ci_hidden_valueC	length : 4 
-Data block size : 1140
-Found 24 keys in ENG/collectioninfo.cdb
-ci_id	length : 4 
-ci_set_index	length : 4 
-ci_name	length : 50 
-ci_rewardpoint	length : 4 
-ci_rewardexp	length : 4 
-ci_rewardcoin	length : 4 
-ci_rewarditem	length : 4 
-ci_goal_max	length : 4 
-ci_notice	length : 4 
-ci_icon_uncompleted	length : 4 
-ci_icon_complete	length : 4 
-ci_icon_size	length : 4 
-ci_icon_x	length : 4 
-ci_icon_y	length : 4 
-ci_desc_skill	length : 255 
-ci_desc_cond	length : 255 
-ci_desc_reward	length : 255 
-ci_title_check	length : 1 
-ci_title_desc	length : 255 
-ci_mission_type	length : 4 
-ci_hidden_check	length : 1 
-ci_hidden_valueA	length : 4 
-ci_hidden_valueB	length : 4 
-ci_hidden_valueC	length : 4 
+	ci_id			length : 4 
+	ci_set_index			length : 4 
+	ci_name			length : 50 
+	ci_rewardpoint			length : 4 
+	ci_rewardexp			length : 4 
+	ci_rewardcoin			length : 4 
+	ci_rewarditem			length : 4 
+	ci_goal_max			length : 4 
+	ci_notice			length : 4 
+	ci_icon_uncompleted			length : 4 
+	ci_icon_complete			length : 4 
+	ci_icon_size			length : 4 
+	ci_icon_x			length : 4 
+	ci_icon_y			length : 4 
+	ci_desc_skill			length : 255 
+	ci_desc_cond			length : 255 
+	ci_desc_reward			length : 255 
+	ci_title_check			length : 1 
+	ci_title_desc			length : 255 
+	ci_mission_type			length : 4 
+	ci_hidden_check			length : 1 
+	ci_hidden_valueA			length : 4 
+	ci_hidden_valueB			length : 4 
+	ci_hidden_valueC			length : 4 
 Data block size : 1140
 Found 9 keys in ENG/collectionsetinfo.cdb
-cs_set_index	length : 4 
-cs_set_array	length : 4 
-cs_set_name	length : 50 
-cs_set_icon_uncompleted	length : 4 
-cs_set_icon_complete	length : 4 
-cs_set_illust_uncompleted	length : 4 
-cs_set_illust_complete	length : 4 
-cs_info_x	length : 4 
-cs_info_y	length : 4 
-Data block size : 82
-Found 9 keys in ENG/collectionsetinfo.cdb
-cs_set_index	length : 4 
-cs_set_array	length : 4 
-cs_set_name	length : 50 
-cs_set_icon_uncompleted	length : 4 
-cs_set_icon_complete	length : 4 
-cs_set_illust_uncompleted	length : 4 
-cs_set_illust_complete	length : 4 
-cs_info_x	length : 4 
-cs_info_y	length : 4 
+	cs_set_index			length : 4 
+	cs_set_array			length : 4 
+	cs_set_name			length : 50 
+	cs_set_icon_uncompleted			length : 4 
+	cs_set_icon_complete			length : 4 
+	cs_set_illust_uncompleted			length : 4 
+	cs_set_illust_complete			length : 4 
+	cs_info_x			length : 4 
+	cs_info_y			length : 4 
 Data block size : 82
 Found 5 keys in ENG/constantinfo.cdb
-ci_key	length : 4 
-ci_prob	length : 4 
-ci_valueA	length : 4 
-ci_valueB	length : 4 
-ci_valueC	length : 4 
-Data block size : 20
-Found 5 keys in ENG/constantinfo.cdb
-ci_key	length : 4 
-ci_prob	length : 4 
-ci_valueA	length : 4 
-ci_valueB	length : 4 
-ci_valueC	length : 4 
+	ci_key			length : 4 
+	ci_prob			length : 4 
+	ci_valueA			length : 4 
+	ci_valueB			length : 4 
+	ci_valueC			length : 4 
 Data block size : 20
 Found 4 keys in ENG/contentsinfo.cdb
-ci_key	length : 4 
-ci_enable	length : 1 
-ci_valueA	length : 4 
-ci_valueB	length : 4 
-Data block size : 13
-Found 4 keys in ENG/contentsinfo.cdb
-ci_key	length : 4 
-ci_enable	length : 1 
-ci_valueA	length : 4 
-ci_valueB	length : 4 
+	ci_key			length : 4 
+	ci_enable			length : 1 
+	ci_valueA			length : 4 
+	ci_valueB			length : 4 
 Data block size : 13
 Found 4 keys in ENG/dailygiftinfo.cdb
-dg_month	length : 4 
-dg_day	length : 4 
-dg_itemid1	length : 4 
-dg_itemid2	length : 4 
-Data block size : 16
-Found 4 keys in ENG/dailygiftinfo.cdb
-dg_month	length : 4 
-dg_day	length : 4 
-dg_itemid1	length : 4 
-dg_itemid2	length : 4 
+	dg_month			length : 4 
+	dg_day			length : 4 
+	dg_itemid1			length : 4 
+	dg_itemid2			length : 4 
 Data block size : 16
 Found 10 keys in ENG/dailymissioninfo.cdb
-di_id	length : 4 
-di_set_index	length : 4 
-di_rank	length : 4 
-di_rewardpoint	length : 4 
-di_rewardexp	length : 4 
-di_rewarditem	length : 4 
-di_goal	length : 4 
-di_desc	length : 255 
-di_desc_cond	length : 255 
-di_desc_reward	length : 255 
-Data block size : 793
-Found 10 keys in ENG/dailymissioninfo.cdb
-di_id	length : 4 
-di_set_index	length : 4 
-di_rank	length : 4 
-di_rewardpoint	length : 4 
-di_rewardexp	length : 4 
-di_rewarditem	length : 4 
-di_goal	length : 4 
-di_desc	length : 255 
-di_desc_cond	length : 255 
-di_desc_reward	length : 255 
+	di_id			length : 4 
+	di_set_index			length : 4 
+	di_rank			length : 4 
+	di_rewardpoint			length : 4 
+	di_rewardexp			length : 4 
+	di_rewarditem			length : 4 
+	di_goal			length : 4 
+	di_desc			length : 255 
+	di_desc_cond			length : 255 
+	di_desc_reward			length : 255 
 Data block size : 793
 Found 28 keys in ENG/dioramainfo.cdb
-di_id	length : 4 
-di_class_a_ani	length : 4 
-di_class_a_weapon	length : 4 
-di_class_a_time	length : 4 
-di_class_b_ani	length : 4 
-di_class_b_weapon	length : 4 
-di_class_b_time	length : 4 
-di_class_c_ani	length : 4 
-di_class_c_weapon	length : 4 
-di_class_c_time	length : 4 
-di_class_d_ani	length : 4 
-di_class_d_weapon	length : 4 
-di_class_d_time	length : 4 
-di_class_e_ani	length : 4 
-di_class_e_weapon	length : 4 
-di_class_e_time	length : 4 
-di_class_f_ani	length : 4 
-di_class_f_weapon	length : 4 
-di_class_f_time	length : 4 
-di_class_g_ani	length : 4 
-di_class_g_weapon	length : 4 
-di_class_g_time	length : 4 
-di_class_h_ani	length : 4 
-di_class_h_weapon	length : 4 
-di_class_h_time	length : 4 
-di_class_i_ani	length : 4 
-di_class_i_weapon	length : 4 
-di_class_i_time	length : 4 
-Data block size : 112
-Found 28 keys in ENG/dioramainfo.cdb
-di_id	length : 4 
-di_class_a_ani	length : 4 
-di_class_a_weapon	length : 4 
-di_class_a_time	length : 4 
-di_class_b_ani	length : 4 
-di_class_b_weapon	length : 4 
-di_class_b_time	length : 4 
-di_class_c_ani	length : 4 
-di_class_c_weapon	length : 4 
-di_class_c_time	length : 4 
-di_class_d_ani	length : 4 
-di_class_d_weapon	length : 4 
-di_class_d_time	length : 4 
-di_class_e_ani	length : 4 
-di_class_e_weapon	length : 4 
-di_class_e_time	length : 4 
-di_class_f_ani	length : 4 
-di_class_f_weapon	length : 4 
-di_class_f_time	length : 4 
-di_class_g_ani	length : 4 
-di_class_g_weapon	length : 4 
-di_class_g_time	length : 4 
-di_class_h_ani	length : 4 
-di_class_h_weapon	length : 4 
-di_class_h_time	length : 4 
-di_class_i_ani	length : 4 
-di_class_i_weapon	length : 4 
-di_class_i_time	length : 4 
+	di_id			length : 4 
+	di_class_a_ani			length : 4 
+	di_class_a_weapon			length : 4 
+	di_class_a_time			length : 4 
+	di_class_b_ani			length : 4 
+	di_class_b_weapon			length : 4 
+	di_class_b_time			length : 4 
+	di_class_c_ani			length : 4 
+	di_class_c_weapon			length : 4 
+	di_class_c_time			length : 4 
+	di_class_d_ani			length : 4 
+	di_class_d_weapon			length : 4 
+	di_class_d_time			length : 4 
+	di_class_e_ani			length : 4 
+	di_class_e_weapon			length : 4 
+	di_class_e_time			length : 4 
+	di_class_f_ani			length : 4 
+	di_class_f_weapon			length : 4 
+	di_class_f_time			length : 4 
+	di_class_g_ani			length : 4 
+	di_class_g_weapon			length : 4 
+	di_class_g_time			length : 4 
+	di_class_h_ani			length : 4 
+	di_class_h_weapon			length : 4 
+	di_class_h_time			length : 4 
+	di_class_i_ani			length : 4 
+	di_class_i_weapon			length : 4 
+	di_class_i_time			length : 4 
 Data block size : 112
 Found 6 keys in ENG/durablecontrolinfo.cdb
-dc_mod	length : 4 
-dc_base_time	length : 4 
-dc_base_value	length : 4 
-dc_tick_time	length : 4 
-dc_tick_value	length : 4 
-dc_playing_limited_time	length : 4 
-Data block size : 24
-Found 6 keys in ENG/durablecontrolinfo.cdb
-dc_mod	length : 4 
-dc_base_time	length : 4 
-dc_base_value	length : 4 
-dc_tick_time	length : 4 
-dc_tick_value	length : 4 
-dc_playing_limited_time	length : 4 
+	dc_mod			length : 4 
+	dc_base_time			length : 4 
+	dc_base_value			length : 4 
+	dc_tick_time			length : 4 
+	dc_tick_value			length : 4 
+	dc_playing_limited_time			length : 4 
 Data block size : 24
 Found 4 keys in ENG/durablepenaltyinfo.cdb
-dp_grade	length : 4 
-dp_durablerate	length : 4 
-dp_dmgreduce	length : 4 
-dp_effectreduce	length : 1 
-Data block size : 13
-Found 4 keys in ENG/durablepenaltyinfo.cdb
-dp_grade	length : 4 
-dp_durablerate	length : 4 
-dp_dmgreduce	length : 4 
-dp_effectreduce	length : 1 
+	dp_grade			length : 4 
+	dp_durablerate			length : 4 
+	dp_dmgreduce			length : 4 
+	dp_effectreduce			length : 1 
 Data block size : 13
 Found 13 keys in ENG/effectinfo.cdb
-ei_id	length : 4 
-ei_name	length : 20 
-ei_key	length : 4 
-ei_effect_type	length : 4 
-ei_sign	length : 4 
-ei_durable	length : 4 
-ei_buff	length : 4 
-ei_weapon_type	length : 4 
-ei_duration	length : 4 
-ei_interval	length : 4 
-ei_valueA	length : 4 
-ei_valueB	length : 4 
-ei_valueC	length : 4 
-Data block size : 68
-Found 13 keys in ENG/effectinfo.cdb
-ei_id	length : 4 
-ei_name	length : 20 
-ei_key	length : 4 
-ei_effect_type	length : 4 
-ei_sign	length : 4 
-ei_durable	length : 4 
-ei_buff	length : 4 
-ei_weapon_type	length : 4 
-ei_duration	length : 4 
-ei_interval	length : 4 
-ei_valueA	length : 4 
-ei_valueB	length : 4 
-ei_valueC	length : 4 
+	ei_id			length : 4 
+	ei_name			length : 20 
+	ei_key			length : 4 
+	ei_effect_type			length : 4 
+	ei_sign			length : 4 
+	ei_durable			length : 4 
+	ei_buff			length : 4 
+	ei_weapon_type			length : 4 
+	ei_duration			length : 4 
+	ei_interval			length : 4 
+	ei_valueA			length : 4 
+	ei_valueB			length : 4 
+	ei_valueC			length : 4 
 Data block size : 68
 Found 6 keys in ENG/eventmissioninfo.cdb
-em_id	length : 4 
-em_name	length : 250 
-em_dropitemid	length : 4 
-em_num	length : 4 
-em_rewardid	length : 4 
-em_icon	length : 4 
-Data block size : 270
-Found 6 keys in ENG/eventmissioninfo.cdb
-em_id	length : 4 
-em_name	length : 250 
-em_dropitemid	length : 4 
-em_num	length : 4 
-em_rewardid	length : 4 
-em_icon	length : 4 
+	em_id			length : 4 
+	em_name			length : 250 
+	em_dropitemid			length : 4 
+	em_num			length : 4 
+	em_rewardid			length : 4 
+	em_icon			length : 4 
 Data block size : 270
 Found 13 keys in ENG/evolutiongradeinfo.cdb
-eg_grade	length : 4 
-eg_name	length : 8 
-eg_exp0	length : 4 
-eg_exp1	length : 4 
-eg_exp2	length : 4 
-eg_exp3	length : 4 
-eg_exp4	length : 4 
-eg_exp5	length : 4 
-eg_exp6	length : 4 
-eg_exp7	length : 4 
-eg_exp8	length : 4 
-eg_exp9	length : 4 
-eg_exp10	length : 4 
-Data block size : 56
-Found 13 keys in ENG/evolutiongradeinfo.cdb
-eg_grade	length : 4 
-eg_name	length : 8 
-eg_exp0	length : 4 
-eg_exp1	length : 4 
-eg_exp2	length : 4 
-eg_exp3	length : 4 
-eg_exp4	length : 4 
-eg_exp5	length : 4 
-eg_exp6	length : 4 
-eg_exp7	length : 4 
-eg_exp8	length : 4 
-eg_exp9	length : 4 
-eg_exp10	length : 4 
+	eg_grade			length : 4 
+	eg_name			length : 8 
+	eg_exp0			length : 4 
+	eg_exp1			length : 4 
+	eg_exp2			length : 4 
+	eg_exp3			length : 4 
+	eg_exp4			length : 4 
+	eg_exp5			length : 4 
+	eg_exp6			length : 4 
+	eg_exp7			length : 4 
+	eg_exp8			length : 4 
+	eg_exp9			length : 4 
+	eg_exp10			length : 4 
 Data block size : 56
 Found 11 keys in ENG/evolutioninfo.cdb
-ei_meterial_1	length : 4 
-ei_mr_lv1	length : 4 
-ei_meterial_2	length : 4 
-ei_mr_lv2	length : 4 
-ei_meterial_3	length : 4 
-ei_mr_lv3	length : 4 
-ei_meterial_4	length : 4 
-ei_mr_lv4	length : 4 
-ei_meterial_5	length : 4 
-ei_mr_lv5	length : 4 
-ei_result	length : 4 
-Data block size : 44
-Found 11 keys in ENG/evolutioninfo.cdb
-ei_meterial_1	length : 4 
-ei_mr_lv1	length : 4 
-ei_meterial_2	length : 4 
-ei_mr_lv2	length : 4 
-ei_meterial_3	length : 4 
-ei_mr_lv3	length : 4 
-ei_meterial_4	length : 4 
-ei_mr_lv4	length : 4 
-ei_meterial_5	length : 4 
-ei_mr_lv5	length : 4 
-ei_result	length : 4 
+	ei_meterial_1			length : 4 
+	ei_mr_lv1			length : 4 
+	ei_meterial_2			length : 4 
+	ei_mr_lv2			length : 4 
+	ei_meterial_3			length : 4 
+	ei_mr_lv3			length : 4 
+	ei_meterial_4			length : 4 
+	ei_mr_lv4			length : 4 
+	ei_meterial_5			length : 4 
+	ei_mr_lv5			length : 4 
+	ei_result			length : 4 
 Data block size : 44
 Found 4 keys in ENG/evolutioniteminfo.cdb
-ei_item_id	length : 4 
-ei_skill_id	length : 4 
-ei_evolution_grade	length : 4 
-ei_statup_id	length : 4 
-Data block size : 16
-Found 4 keys in ENG/evolutioniteminfo.cdb
-ei_item_id	length : 4 
-ei_skill_id	length : 4 
-ei_evolution_grade	length : 4 
-ei_statup_id	length : 4 
+	ei_item_id			length : 4 
+	ei_skill_id			length : 4 
+	ei_evolution_grade			length : 4 
+	ei_statup_id			length : 4 
 Data block size : 16
 Found 12 keys in ENG/evolutionlvupstatinfo.cdb
-es_num	length : 4 
-es_type	length : 4 
-es_ability_a	length : 4 
-es_ability_a_lv	length : 4 
-es_ability_b	length : 4 
-es_ability_b_lv	length : 4 
-es_ability_c	length : 4 
-es_ability_c_lv	length : 4 
-es_ability_d	length : 4 
-es_ability_d_lv	length : 4 
-es_ability_e	length : 4 
-es_ability_e_lv	length : 4 
-Data block size : 48
-Found 12 keys in ENG/evolutionlvupstatinfo.cdb
-es_num	length : 4 
-es_type	length : 4 
-es_ability_a	length : 4 
-es_ability_a_lv	length : 4 
-es_ability_b	length : 4 
-es_ability_b_lv	length : 4 
-es_ability_c	length : 4 
-es_ability_c_lv	length : 4 
-es_ability_d	length : 4 
-es_ability_d_lv	length : 4 
-es_ability_e	length : 4 
-es_ability_e_lv	length : 4 
+	es_num			length : 4 
+	es_type			length : 4 
+	es_ability_a			length : 4 
+	es_ability_a_lv			length : 4 
+	es_ability_b			length : 4 
+	es_ability_b_lv			length : 4 
+	es_ability_c			length : 4 
+	es_ability_c_lv			length : 4 
+	es_ability_d			length : 4 
+	es_ability_d_lv			length : 4 
+	es_ability_e			length : 4 
+	es_ability_e_lv			length : 4 
 Data block size : 48
 Found 19 keys in ENG/fullseteffectinfo.cdb
-fs_id	length : 4 
-fs_name_option	length : 255 
-fs_hair	length : 4 
-fs_face	length : 4 
-fs_upper	length : 4 
-fs_under	length : 4 
-fs_pants	length : 4 
-fs_arms	length : 4 
-fs_boots	length : 4 
-fs_acce_A	length : 4 
-fs_acce_B	length : 4 
-fs_acce_C	length : 4 
-fs_set	length : 4 
-fs_effect_1	length : 4 
-fs_effect_2	length : 4 
-fs_effect_3	length : 4 
-fs_effect_4	length : 4 
-fs_effect_5	length : 4 
-fs_desc	length : 255 
-Data block size : 578
-Found 19 keys in ENG/fullseteffectinfo.cdb
-fs_id	length : 4 
-fs_name_option	length : 255 
-fs_hair	length : 4 
-fs_face	length : 4 
-fs_upper	length : 4 
-fs_under	length : 4 
-fs_pants	length : 4 
-fs_arms	length : 4 
-fs_boots	length : 4 
-fs_acce_A	length : 4 
-fs_acce_B	length : 4 
-fs_acce_C	length : 4 
-fs_set	length : 4 
-fs_effect_1	length : 4 
-fs_effect_2	length : 4 
-fs_effect_3	length : 4 
-fs_effect_4	length : 4 
-fs_effect_5	length : 4 
-fs_desc	length : 255 
+	fs_id			length : 4 
+	fs_name_option			length : 255 
+	fs_hair			length : 4 
+	fs_face			length : 4 
+	fs_upper			length : 4 
+	fs_under			length : 4 
+	fs_pants			length : 4 
+	fs_arms			length : 4 
+	fs_boots			length : 4 
+	fs_acce_A			length : 4 
+	fs_acce_B			length : 4 
+	fs_acce_C			length : 4 
+	fs_set			length : 4 
+	fs_effect_1			length : 4 
+	fs_effect_2			length : 4 
+	fs_effect_3			length : 4 
+	fs_effect_4			length : 4 
+	fs_effect_5			length : 4 
+	fs_desc			length : 255 
 Data block size : 578
 Found 18 keys in ENG/gachapondisplay.cdb
-gd_infoid	length : 4 
-gd_group	length : 4 
-gd_name	length : 255 
-gd_desc	length : 255 
-gd_type	length : 4 
-gd_set	length : 4 
-gd_hair	length : 4 
-gd_face	length : 4 
-gd_upper	length : 4 
-gd_under	length : 4 
-gd_pants	length : 4 
-gd_arms	length : 4 
-gd_boots	length : 4 
-gd_acce_A	length : 4 
-gd_acce_B	length : 4 
-gd_acce_C	length : 4 
-gd_weapon	length : 4 
-gd_diorama	length : 4 
-Data block size : 574
-Found 18 keys in ENG/gachapondisplay.cdb
-gd_infoid	length : 4 
-gd_group	length : 4 
-gd_name	length : 255 
-gd_desc	length : 255 
-gd_type	length : 4 
-gd_set	length : 4 
-gd_hair	length : 4 
-gd_face	length : 4 
-gd_upper	length : 4 
-gd_under	length : 4 
-gd_pants	length : 4 
-gd_arms	length : 4 
-gd_boots	length : 4 
-gd_acce_A	length : 4 
-gd_acce_B	length : 4 
-gd_acce_C	length : 4 
-gd_weapon	length : 4 
-gd_diorama	length : 4 
+	gd_infoid			length : 4 
+	gd_group			length : 4 
+	gd_name			length : 255 
+	gd_desc			length : 255 
+	gd_type			length : 4 
+	gd_set			length : 4 
+	gd_hair			length : 4 
+	gd_face			length : 4 
+	gd_upper			length : 4 
+	gd_under			length : 4 
+	gd_pants			length : 4 
+	gd_arms			length : 4 
+	gd_boots			length : 4 
+	gd_acce_A			length : 4 
+	gd_acce_B			length : 4 
+	gd_acce_C			length : 4 
+	gd_weapon			length : 4 
+	gd_diorama			length : 4 
 Data block size : 574
 Found 11 keys in ENG/gachaponinfo.cdb
-gi_id	length : 4 
-gi_name	length : 64 
-gi_type	length : 4 
-gi_statetype	length : 4 
-gi_infoid	length : 4 
-gi_limited_grade	length : 4 
-gi_price	length : 4 
-gi_luckypoint	length : 4 
-gi_listicon	length : 4 
-gi_titleicon	length : 4 
-gi_desc	length : 255 
-Data block size : 355
-Found 11 keys in ENG/gachaponinfo.cdb
-gi_id	length : 4 
-gi_name	length : 64 
-gi_type	length : 4 
-gi_statetype	length : 4 
-gi_infoid	length : 4 
-gi_limited_grade	length : 4 
-gi_price	length : 4 
-gi_luckypoint	length : 4 
-gi_listicon	length : 4 
-gi_titleicon	length : 4 
-gi_desc	length : 255 
+	gi_id			length : 4 
+	gi_name			length : 64 
+	gi_type			length : 4 
+	gi_statetype			length : 4 
+	gi_infoid			length : 4 
+	gi_limited_grade			length : 4 
+	gi_price			length : 4 
+	gi_luckypoint			length : 4 
+	gi_listicon			length : 4 
+	gi_titleicon			length : 4 
+	gi_desc			length : 255 
 Data block size : 355
 Found 8 keys in ENG/gachaponpackageinfo.cdb
-gi_id	length : 4 
-gi_infoid	length : 4 
-gi_type	length : 4 
-gi_luckytype	length : 4 
-gi_group	length : 4 
-gi_prob	length : 4 
-gi_itemid	length : 4 
-gi_noticeid	length : 4 
-Data block size : 32
-Found 8 keys in ENG/gachaponpackageinfo.cdb
-gi_id	length : 4 
-gi_infoid	length : 4 
-gi_type	length : 4 
-gi_luckytype	length : 4 
-gi_group	length : 4 
-gi_prob	length : 4 
-gi_itemid	length : 4 
-gi_noticeid	length : 4 
+	gi_id			length : 4 
+	gi_infoid			length : 4 
+	gi_type			length : 4 
+	gi_luckytype			length : 4 
+	gi_group			length : 4 
+	gi_prob			length : 4 
+	gi_itemid			length : 4 
+	gi_noticeid			length : 4 
 Data block size : 32
 Found 7 keys in ENG/gradeinfo.cdb
-gi_grade	length : 4 
-gi_name	length : 16 
-gi_exp	length : 4 
-gi_reward_point	length : 4 
-gi_reward_item	length : 4 
-gi_icon	length : 4 
-gi_pve_ticket	length : 4 
-Data block size : 40
-Found 7 keys in ENG/gradeinfo.cdb
-gi_grade	length : 4 
-gi_name	length : 16 
-gi_exp	length : 4 
-gi_reward_point	length : 4 
-gi_reward_item	length : 4 
-gi_icon	length : 4 
-gi_pve_ticket	length : 4 
+	gi_grade			length : 4 
+	gi_name			length : 16 
+	gi_exp			length : 4 
+	gi_reward_point			length : 4 
+	gi_reward_item			length : 4 
+	gi_icon			length : 4 
+	gi_pve_ticket			length : 4 
 Data block size : 40
 Found 69 keys in ENG/iteminfo.cdb
-ii_id	length : 4 
-ii_name	length : 50 
-ii_name_option	length : 100 
-ii_name_time	length : 50 
-ii_type	length : 4 
-ii_type_inven	length : 4 
-ii_inven_usable	length : 1 
-ii_type_pcbang	length : 4 
-ii_package_result	length : 4 
-ii_dress	length : 1 
-ii_hide_hair	length : 1 
-ii_hide_face	length : 1 
-ii_hide_back	length : 1 
-ii_class_a	length : 1 
-ii_class_b	length : 1 
-ii_class_c	length : 1 
-ii_class_d	length : 1 
-ii_class_e	length : 1 
-ii_class_f	length : 1 
-ii_class_g	length : 1 
-ii_class_h	length : 1 
-ii_class_i	length : 1 
-ii_class_j	length : 1 
-ii_class_k	length : 1 
-ii_class_l	length : 1 
-ii_class_m	length : 1 
-ii_class_n	length : 1 
-ii_class_o	length : 1 
-ii_class_p	length : 1 
-ii_grade	length : 4 
-ii_stocks	length : 4 
-ii_usable	length : 1 
-ii_upgradable	length : 1 
-ii_consumable	length : 1 
-ii_weaponinfo	length : 4 
-ii_fullseteffectinfo	length : 4 
-ii_durable_value	length : 4 
-ii_durable_factor	length : 4 
-ii_durable_repair_type	length : 4 
-ii_limited_mod	length : 1 
-ii_limited_time	length : 4 
-ii_buy_coupon	length : 4 
-ii_buy_cash	length : 4 
-ii_buy_point	length : 4 
-ii_sell_point	length : 4 
-ii_bonus_point	length : 4 
-ii_bonus_pack	length : 4 
-ii_dioramainfo	length : 4 
-ii_dummyinfo	length : 4 
-ii_icon	length : 4 
-ii_iconsmall	length : 4 
-ii_meshfilename	length : 50 
-ii_nodename	length : 50 
-ii_color_ambient	length : 50 
-ii_color_diffuse	length : 50 
-ii_color_specular	length : 50 
-ii_color_emittance	length : 50 
-ii_sfx	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ii_desc	length : 200 
-ii_immediately_set	length : 1 
-ii_is_trade	length : 1 
-ii_ei_exp	length : 4 
-ii_evolution_type	length : 1 
-Data block size : 852
-Found 69 keys in ENG/iteminfo.cdb
-ii_id	length : 4 
-ii_name	length : 50 
-ii_name_option	length : 100 
-ii_name_time	length : 50 
-ii_type	length : 4 
-ii_type_inven	length : 4 
-ii_inven_usable	length : 1 
-ii_type_pcbang	length : 4 
-ii_package_result	length : 4 
-ii_dress	length : 1 
-ii_hide_hair	length : 1 
-ii_hide_face	length : 1 
-ii_hide_back	length : 1 
-ii_class_a	length : 1 
-ii_class_b	length : 1 
-ii_class_c	length : 1 
-ii_class_d	length : 1 
-ii_class_e	length : 1 
-ii_class_f	length : 1 
-ii_class_g	length : 1 
-ii_class_h	length : 1 
-ii_class_i	length : 1 
-ii_class_j	length : 1 
-ii_class_k	length : 1 
-ii_class_l	length : 1 
-ii_class_m	length : 1 
-ii_class_n	length : 1 
-ii_class_o	length : 1 
-ii_class_p	length : 1 
-ii_grade	length : 4 
-ii_stocks	length : 4 
-ii_usable	length : 1 
-ii_upgradable	length : 1 
-ii_consumable	length : 1 
-ii_weaponinfo	length : 4 
-ii_fullseteffectinfo	length : 4 
-ii_durable_value	length : 4 
-ii_durable_factor	length : 4 
-ii_durable_repair_type	length : 4 
-ii_limited_mod	length : 1 
-ii_limited_time	length : 4 
-ii_buy_coupon	length : 4 
-ii_buy_cash	length : 4 
-ii_buy_point	length : 4 
-ii_sell_point	length : 4 
-ii_bonus_point	length : 4 
-ii_bonus_pack	length : 4 
-ii_dioramainfo	length : 4 
-ii_dummyinfo	length : 4 
-ii_icon	length : 4 
-ii_iconsmall	length : 4 
-ii_meshfilename	length : 50 
-ii_nodename	length : 50 
-ii_color_ambient	length : 50 
-ii_color_diffuse	length : 50 
-ii_color_specular	length : 50 
-ii_color_emittance	length : 50 
-ii_sfx	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ii_desc	length : 200 
-ii_immediately_set	length : 1 
-ii_is_trade	length : 1 
-ii_ei_exp	length : 4 
-ii_evolution_type	length : 1 
+	ii_id			length : 4 
+	ii_name			length : 50 
+	ii_name_option			length : 100 
+	ii_name_time			length : 50 
+	ii_type			length : 4 
+	ii_type_inven			length : 4 
+	ii_inven_usable			length : 1 
+	ii_type_pcbang			length : 4 
+	ii_package_result			length : 4 
+	ii_dress			length : 1 
+	ii_hide_hair			length : 1 
+	ii_hide_face			length : 1 
+	ii_hide_back			length : 1 
+	ii_class_a			length : 1 
+	ii_class_b			length : 1 
+	ii_class_c			length : 1 
+	ii_class_d			length : 1 
+	ii_class_e			length : 1 
+	ii_class_f			length : 1 
+	ii_class_g			length : 1 
+	ii_class_h			length : 1 
+	ii_class_i			length : 1 
+	ii_class_j			length : 1 
+	ii_class_k			length : 1 
+	ii_class_l			length : 1 
+	ii_class_m			length : 1 
+	ii_class_n			length : 1 
+	ii_class_o			length : 1 
+	ii_class_p			length : 1 
+	ii_grade			length : 4 
+	ii_stocks			length : 4 
+	ii_usable			length : 1 
+	ii_upgradable			length : 1 
+	ii_consumable			length : 1 
+	ii_weaponinfo			length : 4 
+	ii_fullseteffectinfo			length : 4 
+	ii_durable_value			length : 4 
+	ii_durable_factor			length : 4 
+	ii_durable_repair_type			length : 4 
+	ii_limited_mod			length : 1 
+	ii_limited_time			length : 4 
+	ii_buy_coupon			length : 4 
+	ii_buy_cash			length : 4 
+	ii_buy_point			length : 4 
+	ii_sell_point			length : 4 
+	ii_bonus_point			length : 4 
+	ii_bonus_pack			length : 4 
+	ii_dioramainfo			length : 4 
+	ii_dummyinfo			length : 4 
+	ii_icon			length : 4 
+	ii_iconsmall			length : 4 
+	ii_meshfilename			length : 50 
+	ii_nodename			length : 50 
+	ii_color_ambient			length : 50 
+	ii_color_diffuse			length : 50 
+	ii_color_specular			length : 50 
+	ii_color_emittance			length : 50 
+	ii_sfx			length : 4 
+	ef_effect_1			length : 4 
+	ef_target_1			length : 4 
+	ef_effect_2			length : 4 
+	ef_target_2			length : 4 
+	ef_effect_3			length : 4 
+	ef_target_3			length : 4 
+	ii_desc			length : 200 
+	ii_immediately_set			length : 1 
+	ii_is_trade			length : 1 
+	ii_ei_exp			length : 4 
+	ii_evolution_type			length : 1 
 Data block size : 852
 Found 7 keys in ENG/itempackageinfo.cdb
-ip_id	length : 4 
-ip_infoid	length : 4 
-ip_type	length : 4 
-ip_group	length : 4 
-ip_prob	length : 4 
-ip_itemid	length : 4 
-ip_noticeid	length : 4 
-Data block size : 28
-Found 7 keys in ENG/itempackageinfo.cdb
-ip_id	length : 4 
-ip_infoid	length : 4 
-ip_type	length : 4 
-ip_group	length : 4 
-ip_prob	length : 4 
-ip_itemid	length : 4 
-ip_noticeid	length : 4 
+	ip_id			length : 4 
+	ip_infoid			length : 4 
+	ip_type			length : 4 
+	ip_group			length : 4 
+	ip_prob			length : 4 
+	ip_itemid			length : 4 
+	ip_noticeid			length : 4 
 Data block size : 28
 Found 69 keys in ENG/itemweaponsinfo.cdb
-ii_id	length : 4 
-ii_name	length : 50 
-ii_name_option	length : 50 
-ii_name_time	length : 50 
-ii_type	length : 4 
-ii_type_inven	length : 4 
-ii_inven_usable	length : 1 
-ii_type_pcbang	length : 4 
-ii_package_result	length : 4 
-ii_dress	length : 1 
-ii_hide_hair	length : 1 
-ii_hide_face	length : 1 
-ii_hide_back	length : 1 
-ii_class_a	length : 1 
-ii_class_b	length : 1 
-ii_class_c	length : 1 
-ii_class_d	length : 1 
-ii_class_e	length : 1 
-ii_class_f	length : 1 
-ii_class_g	length : 1 
-ii_class_h	length : 1 
-ii_class_i	length : 1 
-ii_class_j	length : 1 
-ii_class_k	length : 1 
-ii_class_l	length : 1 
-ii_class_m	length : 1 
-ii_class_n	length : 1 
-ii_class_o	length : 1 
-ii_class_p	length : 1 
-ii_grade	length : 4 
-ii_stocks	length : 4 
-ii_usable	length : 1 
-ii_upgradable	length : 1 
-ii_consumable	length : 1 
-ii_weaponinfo	length : 4 
-ii_fullseteffectinfo	length : 4 
-ii_durable_value	length : 4 
-ii_durable_factor	length : 4 
-ii_durable_repair_type	length : 4 
-ii_limited_mod	length : 1 
-ii_limited_time	length : 4 
-ii_buy_coupon	length : 4 
-ii_buy_cash	length : 4 
-ii_buy_point	length : 4 
-ii_sell_point	length : 4 
-ii_bonus_point	length : 4 
-ii_bonus_pack	length : 4 
-ii_dioramainfo	length : 4 
-ii_dummyinfo	length : 4 
-ii_icon	length : 4 
-ii_iconsmall	length : 4 
-ii_meshfilename	length : 50 
-ii_nodename	length : 50 
-ii_color_ambient	length : 50 
-ii_color_diffuse	length : 50 
-ii_color_specular	length : 50 
-ii_color_emittance	length : 50 
-ii_sfx	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ii_desc	length : 200 
-ii_immediately_set	length : 1 
-ii_is_trade	length : 1 
-ii_ei_exp	length : 4 
-ii_evolution_type	length : 1 
-Data block size : 802
-Found 69 keys in ENG/itemweaponsinfo.cdb
-ii_id	length : 4 
-ii_name	length : 50 
-ii_name_option	length : 50 
-ii_name_time	length : 50 
-ii_type	length : 4 
-ii_type_inven	length : 4 
-ii_inven_usable	length : 1 
-ii_type_pcbang	length : 4 
-ii_package_result	length : 4 
-ii_dress	length : 1 
-ii_hide_hair	length : 1 
-ii_hide_face	length : 1 
-ii_hide_back	length : 1 
-ii_class_a	length : 1 
-ii_class_b	length : 1 
-ii_class_c	length : 1 
-ii_class_d	length : 1 
-ii_class_e	length : 1 
-ii_class_f	length : 1 
-ii_class_g	length : 1 
-ii_class_h	length : 1 
-ii_class_i	length : 1 
-ii_class_j	length : 1 
-ii_class_k	length : 1 
-ii_class_l	length : 1 
-ii_class_m	length : 1 
-ii_class_n	length : 1 
-ii_class_o	length : 1 
-ii_class_p	length : 1 
-ii_grade	length : 4 
-ii_stocks	length : 4 
-ii_usable	length : 1 
-ii_upgradable	length : 1 
-ii_consumable	length : 1 
-ii_weaponinfo	length : 4 
-ii_fullseteffectinfo	length : 4 
-ii_durable_value	length : 4 
-ii_durable_factor	length : 4 
-ii_durable_repair_type	length : 4 
-ii_limited_mod	length : 1 
-ii_limited_time	length : 4 
-ii_buy_coupon	length : 4 
-ii_buy_cash	length : 4 
-ii_buy_point	length : 4 
-ii_sell_point	length : 4 
-ii_bonus_point	length : 4 
-ii_bonus_pack	length : 4 
-ii_dioramainfo	length : 4 
-ii_dummyinfo	length : 4 
-ii_icon	length : 4 
-ii_iconsmall	length : 4 
-ii_meshfilename	length : 50 
-ii_nodename	length : 50 
-ii_color_ambient	length : 50 
-ii_color_diffuse	length : 50 
-ii_color_specular	length : 50 
-ii_color_emittance	length : 50 
-ii_sfx	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ii_desc	length : 200 
-ii_immediately_set	length : 1 
-ii_is_trade	length : 1 
-ii_ei_exp	length : 4 
-ii_evolution_type	length : 1 
+	ii_id			length : 4 
+	ii_name			length : 50 
+	ii_name_option			length : 50 
+	ii_name_time			length : 50 
+	ii_type			length : 4 
+	ii_type_inven			length : 4 
+	ii_inven_usable			length : 1 
+	ii_type_pcbang			length : 4 
+	ii_package_result			length : 4 
+	ii_dress			length : 1 
+	ii_hide_hair			length : 1 
+	ii_hide_face			length : 1 
+	ii_hide_back			length : 1 
+	ii_class_a			length : 1 
+	ii_class_b			length : 1 
+	ii_class_c			length : 1 
+	ii_class_d			length : 1 
+	ii_class_e			length : 1 
+	ii_class_f			length : 1 
+	ii_class_g			length : 1 
+	ii_class_h			length : 1 
+	ii_class_i			length : 1 
+	ii_class_j			length : 1 
+	ii_class_k			length : 1 
+	ii_class_l			length : 1 
+	ii_class_m			length : 1 
+	ii_class_n			length : 1 
+	ii_class_o			length : 1 
+	ii_class_p			length : 1 
+	ii_grade			length : 4 
+	ii_stocks			length : 4 
+	ii_usable			length : 1 
+	ii_upgradable			length : 1 
+	ii_consumable			length : 1 
+	ii_weaponinfo			length : 4 
+	ii_fullseteffectinfo			length : 4 
+	ii_durable_value			length : 4 
+	ii_durable_factor			length : 4 
+	ii_durable_repair_type			length : 4 
+	ii_limited_mod			length : 1 
+	ii_limited_time			length : 4 
+	ii_buy_coupon			length : 4 
+	ii_buy_cash			length : 4 
+	ii_buy_point			length : 4 
+	ii_sell_point			length : 4 
+	ii_bonus_point			length : 4 
+	ii_bonus_pack			length : 4 
+	ii_dioramainfo			length : 4 
+	ii_dummyinfo			length : 4 
+	ii_icon			length : 4 
+	ii_iconsmall			length : 4 
+	ii_meshfilename			length : 50 
+	ii_nodename			length : 50 
+	ii_color_ambient			length : 50 
+	ii_color_diffuse			length : 50 
+	ii_color_specular			length : 50 
+	ii_color_emittance			length : 50 
+	ii_sfx			length : 4 
+	ef_effect_1			length : 4 
+	ef_target_1			length : 4 
+	ef_effect_2			length : 4 
+	ef_target_2			length : 4 
+	ef_effect_3			length : 4 
+	ef_target_3			length : 4 
+	ii_desc			length : 200 
+	ii_immediately_set			length : 1 
+	ii_is_trade			length : 1 
+	ii_ei_exp			length : 4 
+	ii_evolution_type			length : 1 
 Data block size : 802
 Found 14 keys in ENG/kitdropinfo.cdb
-ki_mod	length : 4 
-ki_type	length : 4 
-ki_team	length : 4 
-ki_item_id	length : 4 
-ki_map_id	length : 4 
-ki_x	length : 4 
-ki_y	length : 4 
-ki_z	length : 4 
-ki_prob	length : 4 
-ki_group	length : 4 
-ki_grade	length : 4 
-ki_removal_time	length : 4 
-ki_respawn_time	length : 4 
-ki_left_over_time	length : 4 
-Data block size : 56
-Found 14 keys in ENG/kitdropinfo.cdb
-ki_mod	length : 4 
-ki_type	length : 4 
-ki_team	length : 4 
-ki_item_id	length : 4 
-ki_map_id	length : 4 
-ki_x	length : 4 
-ki_y	length : 4 
-ki_z	length : 4 
-ki_prob	length : 4 
-ki_group	length : 4 
-ki_grade	length : 4 
-ki_removal_time	length : 4 
-ki_respawn_time	length : 4 
-ki_left_over_time	length : 4 
+	ki_mod			length : 4 
+	ki_type			length : 4 
+	ki_team			length : 4 
+	ki_item_id			length : 4 
+	ki_map_id			length : 4 
+	ki_x			length : 4 
+	ki_y			length : 4 
+	ki_z			length : 4 
+	ki_prob			length : 4 
+	ki_group			length : 4 
+	ki_grade			length : 4 
+	ki_removal_time			length : 4 
+	ki_respawn_time			length : 4 
+	ki_left_over_time			length : 4 
 Data block size : 56
 Found 43 keys in ENG/mapinfo.cdb
-mi_id	length : 4 
-mi_rid	length : 4 
-mi_name	length : 30 
-mi_max_user	length : 4 
-mi_recommend_max_user	length : 4 
-mi_death_height	length : 4 
-mi_exp	length : 4 
-mi_point	length : 4 
-mi_event_exp	length : 4 
-mi_event_point	length : 4 
-mi_mod_tdm	length : 1 
-mi_mod_ffa	length : 1 
-mi_mod_itm	length : 1 
-mi_mod_ctf	length : 1 
-mi_mod_ctm	length : 1 
-mi_mod_sab	length : 1 
-mi_mod_cim	length : 1 
-mi_mod_zsm	length : 1 
-mi_mod_grm	length : 1 
-mi_mod_mock	length : 1 
-mi_mod_bmb	length : 1 
-mi_mod_sni	length : 1 
-mi_mod_nod	length : 1 
-mi_mod_pve	length : 1 
-mi_mod_bot	length : 1 
-mi_mod_tut	length : 1 
-mi_mod_cl_ctf	length : 1 
-mi_mod_cl_sab	length : 1 
-mi_mod_cl_tdm	length : 1 
-mi_mod_cl_bmb	length : 1 
-mi_size	length : 4 
-mi_desc	length : 100 
-mi_HDR_GM	length : 4 
-mi_HDR_GD	length : 4 
-mi_HDR_MG	length : 4 
-mi_HDR_BT	length : 4 
-mi_HDR_MaxL	length : 4 
-mi_HDR_MinL	length : 4 
-mi_effect_filename	length : 50 
-mi_effect_repeat_time	length : 4 
-mi_sound_filename	length : 50 
-mi_sound_repeat_time	length : 4 
-mi_type	length : 4 
-Data block size : 326
-Found 43 keys in ENG/mapinfo.cdb
-mi_id	length : 4 
-mi_rid	length : 4 
-mi_name	length : 30 
-mi_max_user	length : 4 
-mi_recommend_max_user	length : 4 
-mi_death_height	length : 4 
-mi_exp	length : 4 
-mi_point	length : 4 
-mi_event_exp	length : 4 
-mi_event_point	length : 4 
-mi_mod_tdm	length : 1 
-mi_mod_ffa	length : 1 
-mi_mod_itm	length : 1 
-mi_mod_ctf	length : 1 
-mi_mod_ctm	length : 1 
-mi_mod_sab	length : 1 
-mi_mod_cim	length : 1 
-mi_mod_zsm	length : 1 
-mi_mod_grm	length : 1 
-mi_mod_mock	length : 1 
-mi_mod_bmb	length : 1 
-mi_mod_sni	length : 1 
-mi_mod_nod	length : 1 
-mi_mod_pve	length : 1 
-mi_mod_bot	length : 1 
-mi_mod_tut	length : 1 
-mi_mod_cl_ctf	length : 1 
-mi_mod_cl_sab	length : 1 
-mi_mod_cl_tdm	length : 1 
-mi_mod_cl_bmb	length : 1 
-mi_size	length : 4 
-mi_desc	length : 100 
-mi_HDR_GM	length : 4 
-mi_HDR_GD	length : 4 
-mi_HDR_MG	length : 4 
-mi_HDR_BT	length : 4 
-mi_HDR_MaxL	length : 4 
-mi_HDR_MinL	length : 4 
-mi_effect_filename	length : 50 
-mi_effect_repeat_time	length : 4 
-mi_sound_filename	length : 50 
-mi_sound_repeat_time	length : 4 
-mi_type	length : 4 
+	mi_id			length : 4 
+	mi_rid			length : 4 
+	mi_name			length : 30 
+	mi_max_user			length : 4 
+	mi_recommend_max_user			length : 4 
+	mi_death_height			length : 4 
+	mi_exp			length : 4 
+	mi_point			length : 4 
+	mi_event_exp			length : 4 
+	mi_event_point			length : 4 
+	mi_mod_tdm			length : 1 
+	mi_mod_ffa			length : 1 
+	mi_mod_itm			length : 1 
+	mi_mod_ctf			length : 1 
+	mi_mod_ctm			length : 1 
+	mi_mod_sab			length : 1 
+	mi_mod_cim			length : 1 
+	mi_mod_zsm			length : 1 
+	mi_mod_grm			length : 1 
+	mi_mod_mock			length : 1 
+	mi_mod_bmb			length : 1 
+	mi_mod_sni			length : 1 
+	mi_mod_nod			length : 1 
+	mi_mod_pve			length : 1 
+	mi_mod_bot			length : 1 
+	mi_mod_tut			length : 1 
+	mi_mod_cl_ctf			length : 1 
+	mi_mod_cl_sab			length : 1 
+	mi_mod_cl_tdm			length : 1 
+	mi_mod_cl_bmb			length : 1 
+	mi_size			length : 4 
+	mi_desc			length : 100 
+	mi_HDR_GM			length : 4 
+	mi_HDR_GD			length : 4 
+	mi_HDR_MG			length : 4 
+	mi_HDR_BT			length : 4 
+	mi_HDR_MaxL			length : 4 
+	mi_HDR_MinL			length : 4 
+	mi_effect_filename			length : 50 
+	mi_effect_repeat_time			length : 4 
+	mi_sound_filename			length : 50 
+	mi_sound_repeat_time			length : 4 
+	mi_type			length : 4 
 Data block size : 326
 Found 20 keys in ENG/moddefaultinfo.cdb
-mo_mod	length : 4 
-mo_map	length : 4 
-mo_respawntime	length : 4 
-mo_usingrespawntime	length : 1 
-mo_invulnerabletime	length : 4 
-mo_waitingtime	length : 4 
-mo_rule	length : 4 
-mo_time	length : 4 
-mo_weapon	length : 4 
-mo_intrude	length : 1 
-mo_itemdrop	length : 1 
-mo_observer	length : 1 
-mo_enemyview	length : 1 
-mo_freeview	length : 1 
-mo_3dmapview	length : 1 
-mo_combattype	length : 4 
-mo_array	length : 4 
-mo_level	length : 4 
-mo_type	length : 4 
-mo_skill_possible	length : 1 
-Data block size : 56
-Found 20 keys in ENG/moddefaultinfo.cdb
-mo_mod	length : 4 
-mo_map	length : 4 
-mo_respawntime	length : 4 
-mo_usingrespawntime	length : 1 
-mo_invulnerabletime	length : 4 
-mo_waitingtime	length : 4 
-mo_rule	length : 4 
-mo_time	length : 4 
-mo_weapon	length : 4 
-mo_intrude	length : 1 
-mo_itemdrop	length : 1 
-mo_observer	length : 1 
-mo_enemyview	length : 1 
-mo_freeview	length : 1 
-mo_3dmapview	length : 1 
-mo_combattype	length : 4 
-mo_array	length : 4 
-mo_level	length : 4 
-mo_type	length : 4 
-mo_skill_possible	length : 1 
+	mo_mod			length : 4 
+	mo_map			length : 4 
+	mo_respawntime			length : 4 
+	mo_usingrespawntime			length : 1 
+	mo_invulnerabletime			length : 4 
+	mo_waitingtime			length : 4 
+	mo_rule			length : 4 
+	mo_time			length : 4 
+	mo_weapon			length : 4 
+	mo_intrude			length : 1 
+	mo_itemdrop			length : 1 
+	mo_observer			length : 1 
+	mo_enemyview			length : 1 
+	mo_freeview			length : 1 
+	mo_3dmapview			length : 1 
+	mo_combattype			length : 4 
+	mo_array			length : 4 
+	mo_level			length : 4 
+	mo_type			length : 4 
+	mo_skill_possible			length : 1 
 Data block size : 56
 Found 9 keys in ENG/msg.cdb
-mg_id	length : 4 
-mg_name	length : 40 
-mg_text	length : 200 
-mg_align	length : 4 
-mg_color	length : 50 
-mg_boardicon	length : 4 
-mg_titleicon	length : 4 
-mg_boxtype	length : 4 
-mg_check	length : 1 
-Data block size : 311
-Found 9 keys in ENG/msg.cdb
-mg_id	length : 4 
-mg_name	length : 40 
-mg_text	length : 200 
-mg_align	length : 4 
-mg_color	length : 50 
-mg_boardicon	length : 4 
-mg_titleicon	length : 4 
-mg_boxtype	length : 4 
-mg_check	length : 1 
+	mg_id			length : 4 
+	mg_name			length : 40 
+	mg_text			length : 200 
+	mg_align			length : 4 
+	mg_color			length : 50 
+	mg_boardicon			length : 4 
+	mg_titleicon			length : 4 
+	mg_boxtype			length : 4 
+	mg_check			length : 1 
 Data block size : 311
 Found 8 keys in ENG/packageinfo.cdb
-pi_id	length : 4 
-pi_type	length : 4 
-pi_itemid	length : 4 
-pi_group	length : 4 
-pi_prob	length : 4 
-pi_valueA	length : 4 
-pi_valueB	length : 4 
-pi_valueC	length : 4 
-Data block size : 32
-Found 8 keys in ENG/packageinfo.cdb
-pi_id	length : 4 
-pi_type	length : 4 
-pi_itemid	length : 4 
-pi_group	length : 4 
-pi_prob	length : 4 
-pi_valueA	length : 4 
-pi_valueB	length : 4 
-pi_valueC	length : 4 
+	pi_id			length : 4 
+	pi_type			length : 4 
+	pi_itemid			length : 4 
+	pi_group			length : 4 
+	pi_prob			length : 4 
+	pi_valueA			length : 4 
+	pi_valueB			length : 4 
+	pi_valueC			length : 4 
 Data block size : 32
 Found 5 keys in ENG/packageitem_desc.cdb
-pack_id	length : 4 
-pack_desc_1	length : 200 
-pack_desc_2	length : 200 
-pack_desc_3	length : 200 
-pack_desc_4	length : 200 
-Data block size : 804
-Found 5 keys in ENG/packageitem_desc.cdb
-pack_id	length : 4 
-pack_desc_1	length : 200 
-pack_desc_2	length : 200 
-pack_desc_3	length : 200 
-pack_desc_4	length : 200 
+	pack_id			length : 4 
+	pack_desc_1			length : 200 
+	pack_desc_2			length : 200 
+	pack_desc_3			length : 200 
+	pack_desc_4			length : 200 
 Data block size : 804
 Found 2 keys in ENG/patchversioninfo.cdb
-pi_version	length : 64 
-pi_version_launcher	length : 64 
-Data block size : 128
-Found 2 keys in ENG/patchversioninfo.cdb
-pi_version	length : 64 
-pi_version_launcher	length : 64 
+	pi_version			length : 64 
+	pi_version_launcher			length : 64 
 Data block size : 128
 Found 6 keys in ENG/physX_properties.cdb
-pi_id	length : 4 
-pi_name	length : 50 
-pi_value	length : 4 
-pi_gore	length : 4 
-pi_ragdoll_type	length : 4 
-pi_notgore_ragdoll_type	length : 4 
-Data block size : 70
-Found 6 keys in ENG/physX_properties.cdb
-pi_id	length : 4 
-pi_name	length : 50 
-pi_value	length : 4 
-pi_gore	length : 4 
-pi_ragdoll_type	length : 4 
-pi_notgore_ragdoll_type	length : 4 
+	pi_id			length : 4 
+	pi_name			length : 50 
+	pi_value			length : 4 
+	pi_gore			length : 4 
+	pi_ragdoll_type			length : 4 
+	pi_notgore_ragdoll_type			length : 4 
 Data block size : 70
 Found 5 keys in ENG/pollinfo.cdb
-pi_id	length : 4 
-pi_msg_name	length : 40 
-pi_uimsg_name	length : 100 
-pi_limited_time	length : 4 
-pi_penalty_point	length : 4 
-Data block size : 152
-Found 5 keys in ENG/pollinfo.cdb
-pi_id	length : 4 
-pi_msg_name	length : 40 
-pi_uimsg_name	length : 100 
-pi_limited_time	length : 4 
-pi_penalty_point	length : 4 
+	pi_id			length : 4 
+	pi_msg_name			length : 40 
+	pi_uimsg_name			length : 100 
+	pi_limited_time			length : 4 
+	pi_penalty_point			length : 4 
 Data block size : 152
 Found 24 keys in ENG/pvemonsternpcinfo.cdb
-mi_id	length : 4 
-mi_mon_id	length : 4 
-mi_mon_type	length : 4 
-mi_mon_parent_id	length : 4 
-mi_mon_att_type	length : 4 
-mi_mon_move_type	length : 1 
-mi_mon_att_dam1	length : 4 
-mi_mon_att_dam2	length : 4 
-mi_mon_att_dam3	length : 4 
-mi_mon_direc_dam	length : 4 
-mi_mon_att_def	length : 4 
-mi_mon_ready_fire	length : 4 
-mi_mon_move_speed	length : 4 
-mi_mon_range	length : 4 
-mi_mon_hp	length : 4 
-mi_mon_idle	length : 4 
-mi_mon_att_pre	length : 4 
-mi_mon_att_aft	length : 4 
-mi_mon_exp	length : 4 
-mi_mon_point	length : 4 
-mi_mon_find_range	length : 4 
-mi_mon_att_range	length : 4 
-mi_mon_res_bullet	length : 4 
-mi_mon_res_bomb	length : 4 
-Data block size : 93
-Found 24 keys in ENG/pvemonsternpcinfo.cdb
-mi_id	length : 4 
-mi_mon_id	length : 4 
-mi_mon_type	length : 4 
-mi_mon_parent_id	length : 4 
-mi_mon_att_type	length : 4 
-mi_mon_move_type	length : 1 
-mi_mon_att_dam1	length : 4 
-mi_mon_att_dam2	length : 4 
-mi_mon_att_dam3	length : 4 
-mi_mon_direc_dam	length : 4 
-mi_mon_att_def	length : 4 
-mi_mon_ready_fire	length : 4 
-mi_mon_move_speed	length : 4 
-mi_mon_range	length : 4 
-mi_mon_hp	length : 4 
-mi_mon_idle	length : 4 
-mi_mon_att_pre	length : 4 
-mi_mon_att_aft	length : 4 
-mi_mon_exp	length : 4 
-mi_mon_point	length : 4 
-mi_mon_find_range	length : 4 
-mi_mon_att_range	length : 4 
-mi_mon_res_bullet	length : 4 
-mi_mon_res_bomb	length : 4 
+	mi_id			length : 4 
+	mi_mon_id			length : 4 
+	mi_mon_type			length : 4 
+	mi_mon_parent_id			length : 4 
+	mi_mon_att_type			length : 4 
+	mi_mon_move_type			length : 1 
+	mi_mon_att_dam1			length : 4 
+	mi_mon_att_dam2			length : 4 
+	mi_mon_att_dam3			length : 4 
+	mi_mon_direc_dam			length : 4 
+	mi_mon_att_def			length : 4 
+	mi_mon_ready_fire			length : 4 
+	mi_mon_move_speed			length : 4 
+	mi_mon_range			length : 4 
+	mi_mon_hp			length : 4 
+	mi_mon_idle			length : 4 
+	mi_mon_att_pre			length : 4 
+	mi_mon_att_aft			length : 4 
+	mi_mon_exp			length : 4 
+	mi_mon_point			length : 4 
+	mi_mon_find_range			length : 4 
+	mi_mon_att_range			length : 4 
+	mi_mon_res_bullet			length : 4 
+	mi_mon_res_bomb			length : 4 
 Data block size : 93
 Found 14 keys in ENG/pvestageinfo.cdb
-si_id	length : 4 
-si_level	length : 4 
-si_time_max	length : 4 
-si_map_id	length : 4 
-si_mon_max	length : 4 
-si_mon_rps_family	length : 1 
-si_stage_death_height	length : 1 
-si_mon_rps_order	length : 4 
-si_mon_rsp_time	length : 4 
-si_mon_rsp_x	length : 4 
-si_mon_rsp_y	length : 4 
-si_mon_rsp_z	length : 4 
-si_reward_exp	length : 4 
-si_reward_point	length : 4 
-Data block size : 50
-Found 14 keys in ENG/pvestageinfo.cdb
-si_id	length : 4 
-si_level	length : 4 
-si_time_max	length : 4 
-si_map_id	length : 4 
-si_mon_max	length : 4 
-si_mon_rps_family	length : 1 
-si_stage_death_height	length : 1 
-si_mon_rps_order	length : 4 
-si_mon_rsp_time	length : 4 
-si_mon_rsp_x	length : 4 
-si_mon_rsp_y	length : 4 
-si_mon_rsp_z	length : 4 
-si_reward_exp	length : 4 
-si_reward_point	length : 4 
+	si_id			length : 4 
+	si_level			length : 4 
+	si_time_max			length : 4 
+	si_map_id			length : 4 
+	si_mon_max			length : 4 
+	si_mon_rps_family			length : 1 
+	si_stage_death_height			length : 1 
+	si_mon_rps_order			length : 4 
+	si_mon_rsp_time			length : 4 
+	si_mon_rsp_x			length : 4 
+	si_mon_rsp_y			length : 4 
+	si_mon_rsp_z			length : 4 
+	si_reward_exp			length : 4 
+	si_reward_point			length : 4 
 Data block size : 50
 Found 12 keys in ENG/radioinfo.cdb
-ri_id	length : 4 
-ri_chr_type	length : 4 
-ri_ZXC	length : 4 
-ri_num	length : 4 
-ri_chat_id	length : 4 
-ri_range	length : 4 
-ri_highlow	length : 1 
-ri_target	length : 4 
-ri_text	length : 256 
-ri_color	length : 50 
-ri_location	length : 4 
-ri_voice	length : 64 
-Data block size : 403
-Found 12 keys in ENG/radioinfo.cdb
-ri_id	length : 4 
-ri_chr_type	length : 4 
-ri_ZXC	length : 4 
-ri_num	length : 4 
-ri_chat_id	length : 4 
-ri_range	length : 4 
-ri_highlow	length : 1 
-ri_target	length : 4 
-ri_text	length : 256 
-ri_color	length : 50 
-ri_location	length : 4 
-ri_voice	length : 64 
+	ri_id			length : 4 
+	ri_chr_type			length : 4 
+	ri_ZXC			length : 4 
+	ri_num			length : 4 
+	ri_chat_id			length : 4 
+	ri_range			length : 4 
+	ri_highlow			length : 1 
+	ri_target			length : 4 
+	ri_text			length : 256 
+	ri_color			length : 50 
+	ri_location			length : 4 
+	ri_voice			length : 64 
 Data block size : 403
 Found 32 keys in ENG/rewardinfo.cdb
-ri_mod	length : 4 
-ri_exp_base	length : 4 
-ri_exp_max	length : 4 
-ri_exp_kill	length : 4 
-ri_exp_mod_kill	length : 4 
-ri_exp_death	length : 4 
-ri_exp_assist	length : 4 
-ri_exp_mission	length : 4 
-ri_exp_mission_win	length : 4 
-ri_exp_pcbang	length : 4 
-ri_exp_silver	length : 4 
-ri_exp_gold	length : 4 
-ri_exp_vip	length : 4 
-ri_poi_base	length : 4 
-ri_poi_max	length : 4 
-ri_poi_kill	length : 4 
-ri_poi_mod_kill	length : 4 
-ri_poi_death	length : 4 
-ri_poi_assist	length : 4 
-ri_poi_mission	length : 4 
-ri_poi_mission_win	length : 4 
-ri_poi_pcbang	length : 4 
-ri_poi_silver	length : 4 
-ri_poi_gold	length : 4 
-ri_poi_vip	length : 4 
-ri_mod_limited_time	length : 4 
-ri_player_limited_time	length : 4 
-ri_penalty_point	length : 4 
-ri_event_exp	length : 4 
-ri_event_point	length : 4 
-ri_clan_base_exp	length : 4 
-ri_clan_bonus_exp	length : 4 
-Data block size : 128
-Found 32 keys in ENG/rewardinfo.cdb
-ri_mod	length : 4 
-ri_exp_base	length : 4 
-ri_exp_max	length : 4 
-ri_exp_kill	length : 4 
-ri_exp_mod_kill	length : 4 
-ri_exp_death	length : 4 
-ri_exp_assist	length : 4 
-ri_exp_mission	length : 4 
-ri_exp_mission_win	length : 4 
-ri_exp_pcbang	length : 4 
-ri_exp_silver	length : 4 
-ri_exp_gold	length : 4 
-ri_exp_vip	length : 4 
-ri_poi_base	length : 4 
-ri_poi_max	length : 4 
-ri_poi_kill	length : 4 
-ri_poi_mod_kill	length : 4 
-ri_poi_death	length : 4 
-ri_poi_assist	length : 4 
-ri_poi_mission	length : 4 
-ri_poi_mission_win	length : 4 
-ri_poi_pcbang	length : 4 
-ri_poi_silver	length : 4 
-ri_poi_gold	length : 4 
-ri_poi_vip	length : 4 
-ri_mod_limited_time	length : 4 
-ri_player_limited_time	length : 4 
-ri_penalty_point	length : 4 
-ri_event_exp	length : 4 
-ri_event_point	length : 4 
-ri_clan_base_exp	length : 4 
-ri_clan_bonus_exp	length : 4 
+	ri_mod			length : 4 
+	ri_exp_base			length : 4 
+	ri_exp_max			length : 4 
+	ri_exp_kill			length : 4 
+	ri_exp_mod_kill			length : 4 
+	ri_exp_death			length : 4 
+	ri_exp_assist			length : 4 
+	ri_exp_mission			length : 4 
+	ri_exp_mission_win			length : 4 
+	ri_exp_pcbang			length : 4 
+	ri_exp_silver			length : 4 
+	ri_exp_gold			length : 4 
+	ri_exp_vip			length : 4 
+	ri_poi_base			length : 4 
+	ri_poi_max			length : 4 
+	ri_poi_kill			length : 4 
+	ri_poi_mod_kill			length : 4 
+	ri_poi_death			length : 4 
+	ri_poi_assist			length : 4 
+	ri_poi_mission			length : 4 
+	ri_poi_mission_win			length : 4 
+	ri_poi_pcbang			length : 4 
+	ri_poi_silver			length : 4 
+	ri_poi_gold			length : 4 
+	ri_poi_vip			length : 4 
+	ri_mod_limited_time			length : 4 
+	ri_player_limited_time			length : 4 
+	ri_penalty_point			length : 4 
+	ri_event_exp			length : 4 
+	ri_event_point			length : 4 
+	ri_clan_base_exp			length : 4 
+	ri_clan_bonus_exp			length : 4 
 Data block size : 128
 Found 6 keys in ENG/roomoptionInfo.cdb
-ro_id	length : 4 
-ro_type	length : 4 
-ro_text	length : 30 
-ro_data	length : 4 
-ro_mod	length : 4 
-ro_combattype	length : 4 
-Data block size : 50
-Found 6 keys in ENG/roomoptionInfo.cdb
-ro_id	length : 4 
-ro_type	length : 4 
-ro_text	length : 30 
-ro_data	length : 4 
-ro_mod	length : 4 
-ro_combattype	length : 4 
+	ro_id			length : 4 
+	ro_type			length : 4 
+	ro_text			length : 30 
+	ro_data			length : 4 
+	ro_mod			length : 4 
+	ro_combattype			length : 4 
 Data block size : 50
 Found 7 keys in ENG/serverinfo.cdb
-si_id	length : 4 
-si_sid	length : 4 
-si_cid	length : 4 
-si_name	length : 100 
-si_ip	length : 50 
-si_port	length : 4 
-si_group	length : 4 
+	si_id			length : 4 
+	si_sid			length : 4 
+	si_cid			length : 4 
+	si_name			length : 100 
+	si_ip			length : 50 
+	si_port			length : 4 
+	si_group			length : 4 
 Data block size : 170
-Found 7 keys in ENG/serverinfo.cdb
-si_id	length : 4 
-si_sid	length : 4 
-si_cid	length : 4 
-si_name	length : 100 
-si_ip	length : 50 
-si_port	length : 4 
-si_clan	length : 1 
-Data block size : 167
 Found 11 keys in ENG/setiteminfo.cdb
-si_id	length : 4 
-si_hair	length : 4 
-si_face	length : 4 
-si_upper	length : 4 
-si_under	length : 4 
-si_pants	length : 4 
-si_arms	length : 4 
-si_boots	length : 4 
-si_acce_A	length : 4 
-si_acce_B	length : 4 
-si_acce_C	length : 4 
-Data block size : 44
-Found 11 keys in ENG/setiteminfo.cdb
-si_id	length : 4 
-si_hair	length : 4 
-si_face	length : 4 
-si_upper	length : 4 
-si_under	length : 4 
-si_pants	length : 4 
-si_arms	length : 4 
-si_boots	length : 4 
-si_acce_A	length : 4 
-si_acce_B	length : 4 
-si_acce_C	length : 4 
+	si_id			length : 4 
+	si_hair			length : 4 
+	si_face			length : 4 
+	si_upper			length : 4 
+	si_under			length : 4 
+	si_pants			length : 4 
+	si_arms			length : 4 
+	si_boots			length : 4 
+	si_acce_A			length : 4 
+	si_acce_B			length : 4 
+	si_acce_C			length : 4 
 Data block size : 44
 Found 4 keys in ENG/singleinfo.cdb
-si_id	length : 4 
-si_stage	length : 4 
-si_reward_point	length : 4 
-si_reward_exp	length : 4 
-Data block size : 16
-Found 4 keys in ENG/singleinfo.cdb
-si_id	length : 4 
-si_stage	length : 4 
-si_reward_point	length : 4 
-si_reward_exp	length : 4 
+	si_id			length : 4 
+	si_stage			length : 4 
+	si_reward_point			length : 4 
+	si_reward_exp			length : 4 
 Data block size : 16
 Found 6 keys in ENG/singlemode_mapinfo.cdb
-sm_id	length : 4 
-sm_name	length : 20 
-sm_enable	length : 1 
-sm_level	length : 4 
-sm_mapid	length : 4 
-sm_map_desc_UIMSG	length : 50 
-Data block size : 83
-Found 6 keys in ENG/singlemode_mapinfo.cdb
-sm_id	length : 4 
-sm_name	length : 20 
-sm_enable	length : 1 
-sm_level	length : 4 
-sm_mapid	length : 4 
-sm_map_desc_UIMSG	length : 50 
+	sm_id			length : 4 
+	sm_name			length : 20 
+	sm_enable			length : 1 
+	sm_level			length : 4 
+	sm_mapid			length : 4 
+	sm_map_desc_UIMSG			length : 50 
 Data block size : 83
 Found 2 keys in ENG/singlemode_skillmapping_info.cdb
-ss_id	length : 4 
-ss_skill_id	length : 4 
-Data block size : 8
-Found 2 keys in ENG/singlemode_skillmapping_info.cdb
-ss_id	length : 4 
-ss_skill_id	length : 4 
+	ss_id			length : 4 
+	ss_skill_id			length : 4 
 Data block size : 8
 Found 20 keys in ENG/skillinfo.cdb
-si_id	length : 4 
-si_name	length : 50 
-si_cost	length : 4 
-si_cooling_time	length : 4 
-si_running_time	length : 4 
-si_effect_1	length : 4 
-si_target_1	length : 4 
-si_effect_2	length : 4 
-si_target_2	length : 4 
-si_effect_3	length : 4 
-si_target_3	length : 4 
-si_effect_4	length : 4 
-si_target_4	length : 4 
-si_desc_skill	length : 255 
-si_skillinfo	length : 50 
-si_skillinfo_desc	length : 255 
-si_start_sound	length : 50 
-si_loop_sound	length : 50 
-si_end_sound	length : 50 
-si_skill_icons	length : 4 
-Data block size : 812
-Found 20 keys in ENG/skillinfo.cdb
-si_id	length : 4 
-si_name	length : 50 
-si_cost	length : 4 
-si_cooling_time	length : 4 
-si_running_time	length : 4 
-si_effect_1	length : 4 
-si_target_1	length : 4 
-si_effect_2	length : 4 
-si_target_2	length : 4 
-si_effect_3	length : 4 
-si_target_3	length : 4 
-si_effect_4	length : 4 
-si_target_4	length : 4 
-si_desc_skill	length : 255 
-si_skillinfo	length : 50 
-si_skillinfo_desc	length : 255 
-si_start_sound	length : 50 
-si_loop_sound	length : 50 
-si_end_sound	length : 50 
-si_skill_icons	length : 4 
+	si_id			length : 4 
+	si_name			length : 50 
+	si_cost			length : 4 
+	si_cooling_time			length : 4 
+	si_running_time			length : 4 
+	si_effect_1			length : 4 
+	si_target_1			length : 4 
+	si_effect_2			length : 4 
+	si_target_2			length : 4 
+	si_effect_3			length : 4 
+	si_target_3			length : 4 
+	si_effect_4			length : 4 
+	si_target_4			length : 4 
+	si_desc_skill			length : 255 
+	si_skillinfo			length : 50 
+	si_skillinfo_desc			length : 255 
+	si_start_sound			length : 50 
+	si_loop_sound			length : 50 
+	si_end_sound			length : 50 
+	si_skill_icons			length : 4 
 Data block size : 812
 Found 9 keys in ENG/skillsetinfo.cdb
-ss_set_index	length : 4 
-ss_set_array	length : 4 
-ss_set_name	length : 50 
-ss_set_icon_uncompleted	length : 4 
-ss_set_icon_complete	length : 4 
-ss_set_illust_uncompleted	length : 4 
-ss_set_illust_complete	length : 4 
-ss_info_x	length : 4 
-ss_info_y	length : 4 
-Data block size : 82
-Found 9 keys in ENG/skillsetinfo.cdb
-ss_set_index	length : 4 
-ss_set_array	length : 4 
-ss_set_name	length : 50 
-ss_set_icon_uncompleted	length : 4 
-ss_set_icon_complete	length : 4 
-ss_set_illust_uncompleted	length : 4 
-ss_set_illust_complete	length : 4 
-ss_info_x	length : 4 
-ss_info_y	length : 4 
+	ss_set_index			length : 4 
+	ss_set_array			length : 4 
+	ss_set_name			length : 50 
+	ss_set_icon_uncompleted			length : 4 
+	ss_set_icon_complete			length : 4 
+	ss_set_illust_uncompleted			length : 4 
+	ss_set_illust_complete			length : 4 
+	ss_info_x			length : 4 
+	ss_info_y			length : 4 
 Data block size : 82
 Found 2 keys in ENG/slanginfo.cdb
-si_id	length : 4 
-si_word	length : 50 
-Data block size : 54
-Found 2 keys in ENG/slanginfo.cdb
-si_id	length : 4 
-si_word	length : 50 
+	si_id			length : 4 
+	si_word			length : 50 
 Data block size : 54
 Found 3 keys in ENG/socialinfo.cdb
-sa_index	length : 4 
-sa_command	length : 50 
-sa_command_enum	length : 4 
-Data block size : 58
-Found 3 keys in ENG/socialinfo.cdb
-sa_index	length : 4 
-sa_command	length : 50 
-sa_command_enum	length : 4 
+	sa_index			length : 4 
+	sa_command			length : 50 
+	sa_command_enum			length : 4 
 Data block size : 58
 Found 3 keys in ENG/tiptext.cdb
-tt_id	length : 4 
-tt_mod	length : 4 
-tt_desc	length : 200 
-Data block size : 208
-Found 3 keys in ENG/tiptext.cdb
-tt_id	length : 4 
-tt_mod	length : 4 
-tt_desc	length : 200 
+	tt_id			length : 4 
+	tt_mod			length : 4 
+	tt_desc			length : 200 
 Data block size : 208
 Found 2 keys in ENG/tradeiteminfo.cdb
-ti_seal_grade	length : 4 
-ti_seal_count	length : 4 
-Data block size : 8
-Found 2 keys in ENG/tradeiteminfo.cdb
-ti_seal_grade	length : 4 
-ti_seal_count	length : 4 
+	ti_seal_grade			length : 4 
+	ti_seal_count			length : 4 
 Data block size : 8
 Found 3 keys in ENG/uitooltip.cdb
-ti_state_id	length : 4 
-ti_controlName	length : 128 
-ti_text	length : 250 
-Data block size : 382
-Found 3 keys in ENG/uitooltip.cdb
-ti_state_id	length : 4 
-ti_controlName	length : 128 
-ti_text	length : 250 
+	ti_state_id			length : 4 
+	ti_controlName			length : 128 
+	ti_text			length : 250 
 Data block size : 382
 Found 14 keys in ENG/upgradeinfo.cdb
-ui_id	length : 4 
-ui_type	length : 4 
-ui_itemid	length : 4 
-ui_parentid	length : 4 
-ui_group	length : 4 
-ui_prob	length : 4 
-ui_added_prob	length : 4 
-ui_hold_prob	length : 4 
-ui_buy_cash	length : 4 
-ui_buy_point	length : 4 
-ui_use_exp	length : 4 
-ui_restore_cash	length : 4 
-ui_restore_point	length : 4 
-ui_desc	length : 200 
-Data block size : 252
-Found 14 keys in ENG/upgradeinfo.cdb
-ui_id	length : 4 
-ui_type	length : 4 
-ui_itemid	length : 4 
-ui_parentid	length : 4 
-ui_group	length : 4 
-ui_prob	length : 4 
-ui_added_prob	length : 4 
-ui_hold_prob	length : 4 
-ui_buy_cash	length : 4 
-ui_buy_point	length : 4 
-ui_use_exp	length : 4 
-ui_restore_cash	length : 4 
-ui_restore_point	length : 4 
-ui_desc	length : 200 
+	ui_id			length : 4 
+	ui_type			length : 4 
+	ui_itemid			length : 4 
+	ui_parentid			length : 4 
+	ui_group			length : 4 
+	ui_prob			length : 4 
+	ui_added_prob			length : 4 
+	ui_hold_prob			length : 4 
+	ui_buy_cash			length : 4 
+	ui_buy_point			length : 4 
+	ui_use_exp			length : 4 
+	ui_restore_cash			length : 4 
+	ui_restore_point			length : 4 
+	ui_desc			length : 200 
 Data block size : 252
 Found 29 keys in ENG/vendorinfo.cdb
-vi_id	length : 4 
-vi_category	length : 4 
-vi_type	length : 4 
-vi_array_none	length : 4 
-vi_array_new	length : 4 
-vi_array_hit	length : 4 
-vi_list_type	length : 4 
-vi_list_01	length : 4 
-vi_list_01_a	length : 4 
-vi_list_01_b	length : 4 
-vi_list_01_c	length : 4 
-vi_list_01_d	length : 4 
-vi_list_02	length : 4 
-vi_list_02_a	length : 4 
-vi_list_02_b	length : 4 
-vi_list_02_c	length : 4 
-vi_list_02_d	length : 4 
-vi_list_03	length : 4 
-vi_list_03_a	length : 4 
-vi_list_03_b	length : 4 
-vi_list_03_c	length : 4 
-vi_list_03_d	length : 4 
-vi_list_04	length : 4 
-vi_list_04_a	length : 4 
-vi_list_04_b	length : 4 
-vi_list_04_c	length : 4 
-vi_list_04_d	length : 4 
-vi_desc	length : 200 
-vi_isgift	length : 1 
-Data block size : 309
-Found 29 keys in ENG/vendorinfo.cdb
-vi_id	length : 4 
-vi_category	length : 4 
-vi_type	length : 4 
-vi_array_none	length : 4 
-vi_array_new	length : 4 
-vi_array_hit	length : 4 
-vi_list_type	length : 4 
-vi_list_01	length : 4 
-vi_list_01_a	length : 4 
-vi_list_01_b	length : 4 
-vi_list_01_c	length : 4 
-vi_list_01_d	length : 4 
-vi_list_02	length : 4 
-vi_list_02_a	length : 4 
-vi_list_02_b	length : 4 
-vi_list_02_c	length : 4 
-vi_list_02_d	length : 4 
-vi_list_03	length : 4 
-vi_list_03_a	length : 4 
-vi_list_03_b	length : 4 
-vi_list_03_c	length : 4 
-vi_list_03_d	length : 4 
-vi_list_04	length : 4 
-vi_list_04_a	length : 4 
-vi_list_04_b	length : 4 
-vi_list_04_c	length : 4 
-vi_list_04_d	length : 4 
-vi_desc	length : 200 
-vi_isgift	length : 1 
+	vi_id			length : 4 
+	vi_category			length : 4 
+	vi_type			length : 4 
+	vi_array_none			length : 4 
+	vi_array_new			length : 4 
+	vi_array_hit			length : 4 
+	vi_list_type			length : 4 
+	vi_list_01			length : 4 
+	vi_list_01_a			length : 4 
+	vi_list_01_b			length : 4 
+	vi_list_01_c			length : 4 
+	vi_list_01_d			length : 4 
+	vi_list_02			length : 4 
+	vi_list_02_a			length : 4 
+	vi_list_02_b			length : 4 
+	vi_list_02_c			length : 4 
+	vi_list_02_d			length : 4 
+	vi_list_03			length : 4 
+	vi_list_03_a			length : 4 
+	vi_list_03_b			length : 4 
+	vi_list_03_c			length : 4 
+	vi_list_03_d			length : 4 
+	vi_list_04			length : 4 
+	vi_list_04_a			length : 4 
+	vi_list_04_b			length : 4 
+	vi_list_04_c			length : 4 
+	vi_list_04_d			length : 4 
+	vi_desc			length : 200 
+	vi_isgift			length : 1 
 Data block size : 309
 Found 13 keys in ENG/vipbenefitinfo.cdb
-vip_grade	length : 1 
-vip_exp	length : 4 
-vip_icon	length : 1 
-vip_lucky_point	length : 4 
-vip_bonus_exp	length : 4 
-vip_bonus_point	length : 4 
-vip_weekgift	length : 4 
-vip_coin_change	length : 4 
-vip_coin_max	length : 4 
-vip_repair_sale	length : 4 
-vip_upgrade_sale	length : 4 
-vip_battery	length : 4 
-vip_shop_open	length : 1 
-Data block size : 43
-Found 13 keys in ENG/vipbenefitinfo.cdb
-vip_grade	length : 1 
-vip_exp	length : 4 
-vip_icon	length : 1 
-vip_lucky_point	length : 4 
-vip_bonus_exp	length : 4 
-vip_bonus_point	length : 4 
-vip_weekgift	length : 4 
-vip_coin_change	length : 4 
-vip_coin_max	length : 4 
-vip_repair_sale	length : 4 
-vip_upgrade_sale	length : 4 
-vip_battery	length : 4 
-vip_shop_open	length : 1 
+	vip_grade			length : 1 
+	vip_exp			length : 4 
+	vip_icon			length : 1 
+	vip_lucky_point			length : 4 
+	vip_bonus_exp			length : 4 
+	vip_bonus_point			length : 4 
+	vip_weekgift			length : 4 
+	vip_coin_change			length : 4 
+	vip_coin_max			length : 4 
+	vip_repair_sale			length : 4 
+	vip_upgrade_sale			length : 4 
+	vip_battery			length : 4 
+	vip_shop_open			length : 1 
 Data block size : 43
 Found 20 keys in ENG/weaponfx.cdb
-we_id	length : 4 
-we_weapon_type	length : 4 
-we_warhead	length : 4 
-we_muzzle_flame	length : 4 
-we_trail	length : 4 
-we_knife_blur	length : 4 
-we_decal	length : 4 
-we_smoke	length : 4 
-we_explosion_visual	length : 4 
-we_explosion_st	length : 4 
-we_explosion_sfx	length : 4 
-we_graze_sfx	length : 4 
-we_graze_sfx_type	length : 4 
-we_die_fx	length : 4 
-we_die_ani	length : 4 
-we_firing_sfx	length : 4 
-we_reload_sfx	length : 4 
-we_zoomin_screen	length : 4 
-we_zoomin_fire	length : 4 
-we_camera_shake	length : 4 
-Data block size : 80
-Found 20 keys in ENG/weaponfx.cdb
-we_id	length : 4 
-we_weapon_type	length : 4 
-we_warhead	length : 4 
-we_muzzle_flame	length : 4 
-we_trail	length : 4 
-we_knife_blur	length : 4 
-we_decal	length : 4 
-we_smoke	length : 4 
-we_explosion_visual	length : 4 
-we_explosion_st	length : 4 
-we_explosion_sfx	length : 4 
-we_graze_sfx	length : 4 
-we_graze_sfx_type	length : 4 
-we_die_fx	length : 4 
-we_die_ani	length : 4 
-we_firing_sfx	length : 4 
-we_reload_sfx	length : 4 
-we_zoomin_screen	length : 4 
-we_zoomin_fire	length : 4 
-we_camera_shake	length : 4 
+	we_id			length : 4 
+	we_weapon_type			length : 4 
+	we_warhead			length : 4 
+	we_muzzle_flame			length : 4 
+	we_trail			length : 4 
+	we_knife_blur			length : 4 
+	we_decal			length : 4 
+	we_smoke			length : 4 
+	we_explosion_visual			length : 4 
+	we_explosion_st			length : 4 
+	we_explosion_sfx			length : 4 
+	we_graze_sfx			length : 4 
+	we_graze_sfx_type			length : 4 
+	we_die_fx			length : 4 
+	we_die_ani			length : 4 
+	we_firing_sfx			length : 4 
+	we_reload_sfx			length : 4 
+	we_zoomin_screen			length : 4 
+	we_zoomin_fire			length : 4 
+	we_camera_shake			length : 4 
 Data block size : 80
 Found 101 keys in ENG/weaponinfo.cdb
-wi_id	length : 4 
-wi_weapon_type	length : 4 
-wi_weapon_type_zombie	length : 4 
-wi_weapon_prop	length : 4 
-wi_trigger_type	length : 4 
-wi_firing_type	length : 4 
-wi_ragdoll_type	length : 4 
-wi_notgore_ragdoll_type	length : 4 
-wi_debuff_type	length : 4 
-wi_projectile_type	length : 4 
-wi_projectile_prop	length : 4 
-wi_charging_effect_type	length : 4 
-wi_charging_time_max	length : 4 
-wi_charging_effect_damage	length : 4 
-wi_charging_effect_speed	length : 4 
-wi_charging_effect_bombrange	length : 4 
-wi_charging_effect_accuracy	length : 4 
-wi_charging_effect_multi_shot	length : 4 
-wi_charging_effect_bomb_timer	length : 4 
-wi_charging_effect_debuff	length : 4 
-wi_charging_effect_projectile	length : 4 
-wi_charging_effect_chainshot	length : 4 
-wi_auto_aim	length : 4 
-wi_aim_movetype	length : 4 
-wi_aim_move_param	length : 4 
-wi_aim_init_size	length : 4 
-wi_aim_max_size	length : 4 
-wi_aim_zoom_size_min	length : 4 
-wi_aim_zoom_size_max	length : 4 
-wi_aim_zoom2_size_min	length : 4 
-wi_aim_zoom2_size_max	length : 4 
-wi_aim_jump_size	length : 4 
-wi_aim_spread_speed	length : 4 
-wi_aim_restore_speed	length : 4 
-wi_aim_restore_speed_zoom	length : 4 
-wi_aim_moveup_type	length : 4 
-wi_aim_moveup_param	length : 4 
-wi_aim_moveup_max	length : 4 
-wi_aim_moveup_speed	length : 4 
-wi_aim_moveup_restore_speed	length : 4 
-wi_dam_head	length : 4 
-wi_dam_upper	length : 4 
-wi_dam_under	length : 4 
-wi_dam_zoom_in	length : 4 
-wi_rand_dam	length : 4 
-wi_hit_rate	length : 4 
-wi_miss_dam_rate	length : 4 
-wi_critical_rate	length : 4 
-wi_critical_damage	length : 4 
-wi_zoom_in_level	length : 4 
-wi_zoom_fov1	length : 4 
-wi_zoom_fov2	length : 4 
-wi_zoom_fire_ready_time	length : 4 
-wi_fire_bullet_count	length : 4 
-wi_chainshot_count	length : 4 
-wi_chainshot_interval	length : 4 
-wi_setup_count	length : 4 
-wi_bullet_speed	length : 4 
-wi_bullet_max_speed	length : 4 
-wi_bullet_accel	length : 4 
-wi_bullet_bounce_count	length : 4 
-wi_bullet_restitution	length : 4 
-wi_range	length : 4 
-wi_overheat_up	length : 4 
-wi_overheat_down	length : 4 
-wi_overheat_penalty_time	length : 4 
-wi_bomb_range	length : 4 
-wi_bomb_time	length : 4 
-wi_bomb_type	length : 4 
-wi_detonate_type	length : 4 
-wi_sensor_range	length : 4 
-wi_ready_fire	length : 4 
-wi_fire_run	length : 4 
-wi_fire_time	length : 4 
-wi_lockon_time	length : 4 
-wi_firing_accel_time	length : 4 
-wi_firing_hold_time	length : 4 
-wi_fire_time_right	length : 4 
-wi_reload_time	length : 4 
-wi_reload_any_type	length : 4 
-wi_knockback	length : 4 
-wi_accel_weight	length : 4 
-wi_accel_time	length : 4 
-wi_max_turning_angle	length : 4 
-wi_rate_of_fire_def	length : 4 
-wi_rate_of_fire_max	length : 4 
-wi_bullet_capacity	length : 4 
-wi_bullet_total	length : 4 
-wi_change_time	length : 4 
-wi_change_skip	length : 4 
-wi_change_delay	length : 4 
-wi_weaponself_time	length : 4 
-wi_ability_a	length : 4 
-wi_ability_b	length : 4 
-wi_ability_c	length : 4 
-wi_ability_d	length : 4 
-wi_ability_a_max	length : 4 
-wi_ability_b_max	length : 4 
-wi_ability_c_max	length : 4 
-wi_ability_d_max	length : 4 
-wi_weapon_size	length : 4 
-Data block size : 404
-Found 101 keys in ENG/weaponinfo.cdb
-wi_id	length : 4 
-wi_weapon_type	length : 4 
-wi_weapon_type_zombie	length : 4 
-wi_weapon_prop	length : 4 
-wi_trigger_type	length : 4 
-wi_firing_type	length : 4 
-wi_ragdoll_type	length : 4 
-wi_notgore_ragdoll_type	length : 4 
-wi_debuff_type	length : 4 
-wi_projectile_type	length : 4 
-wi_projectile_prop	length : 4 
-wi_charging_effect_type	length : 4 
-wi_charging_time_max	length : 4 
-wi_charging_effect_damage	length : 4 
-wi_charging_effect_speed	length : 4 
-wi_charging_effect_bombrange	length : 4 
-wi_charging_effect_accuracy	length : 4 
-wi_charging_effect_multi_shot	length : 4 
-wi_charging_effect_bomb_timer	length : 4 
-wi_charging_effect_debuff	length : 4 
-wi_charging_effect_projectile	length : 4 
-wi_charging_effect_chainshot	length : 4 
-wi_auto_aim	length : 4 
-wi_aim_movetype	length : 4 
-wi_aim_move_param	length : 4 
-wi_aim_init_size	length : 4 
-wi_aim_max_size	length : 4 
-wi_aim_zoom_size_min	length : 4 
-wi_aim_zoom_size_max	length : 4 
-wi_aim_zoom2_size_min	length : 4 
-wi_aim_zoom2_size_max	length : 4 
-wi_aim_jump_size	length : 4 
-wi_aim_spread_speed	length : 4 
-wi_aim_restore_speed	length : 4 
-wi_aim_restore_speed_zoom	length : 4 
-wi_aim_moveup_type	length : 4 
-wi_aim_moveup_param	length : 4 
-wi_aim_moveup_max	length : 4 
-wi_aim_moveup_speed	length : 4 
-wi_aim_moveup_restore_speed	length : 4 
-wi_dam_head	length : 4 
-wi_dam_upper	length : 4 
-wi_dam_under	length : 4 
-wi_dam_zoom_in	length : 4 
-wi_rand_dam	length : 4 
-wi_hit_rate	length : 4 
-wi_miss_dam_rate	length : 4 
-wi_critical_rate	length : 4 
-wi_critical_damage	length : 4 
-wi_zoom_in_level	length : 4 
-wi_zoom_fov1	length : 4 
-wi_zoom_fov2	length : 4 
-wi_zoom_fire_ready_time	length : 4 
-wi_fire_bullet_count	length : 4 
-wi_chainshot_count	length : 4 
-wi_chainshot_interval	length : 4 
-wi_setup_count	length : 4 
-wi_bullet_speed	length : 4 
-wi_bullet_max_speed	length : 4 
-wi_bullet_accel	length : 4 
-wi_bullet_bounce_count	length : 4 
-wi_bullet_restitution	length : 4 
-wi_range	length : 4 
-wi_overheat_up	length : 4 
-wi_overheat_down	length : 4 
-wi_overheat_penalty_time	length : 4 
-wi_bomb_range	length : 4 
-wi_bomb_time	length : 4 
-wi_bomb_type	length : 4 
-wi_detonate_type	length : 4 
-wi_sensor_range	length : 4 
-wi_ready_fire	length : 4 
-wi_fire_run	length : 4 
-wi_fire_time	length : 4 
-wi_lockon_time	length : 4 
-wi_firing_accel_time	length : 4 
-wi_firing_hold_time	length : 4 
-wi_fire_time_right	length : 4 
-wi_reload_time	length : 4 
-wi_reload_any_type	length : 4 
-wi_knockback	length : 4 
-wi_accel_weight	length : 4 
-wi_accel_time	length : 4 
-wi_max_turning_angle	length : 4 
-wi_rate_of_fire_def	length : 4 
-wi_rate_of_fire_max	length : 4 
-wi_bullet_capacity	length : 4 
-wi_bullet_total	length : 4 
-wi_change_time	length : 4 
-wi_change_skip	length : 4 
-wi_change_delay	length : 4 
-wi_weaponself_time	length : 4 
-wi_ability_a	length : 4 
-wi_ability_b	length : 4 
-wi_ability_c	length : 4 
-wi_ability_d	length : 4 
-wi_ability_a_max	length : 4 
-wi_ability_b_max	length : 4 
-wi_ability_c_max	length : 4 
-wi_ability_d_max	length : 4 
-wi_weapon_size	length : 4 
+	wi_id			length : 4 
+	wi_weapon_type			length : 4 
+	wi_weapon_type_zombie			length : 4 
+	wi_weapon_prop			length : 4 
+	wi_trigger_type			length : 4 
+	wi_firing_type			length : 4 
+	wi_ragdoll_type			length : 4 
+	wi_notgore_ragdoll_type			length : 4 
+	wi_debuff_type			length : 4 
+	wi_projectile_type			length : 4 
+	wi_projectile_prop			length : 4 
+	wi_charging_effect_type			length : 4 
+	wi_charging_time_max			length : 4 
+	wi_charging_effect_damage			length : 4 
+	wi_charging_effect_speed			length : 4 
+	wi_charging_effect_bombrange			length : 4 
+	wi_charging_effect_accuracy			length : 4 
+	wi_charging_effect_multi_shot			length : 4 
+	wi_charging_effect_bomb_timer			length : 4 
+	wi_charging_effect_debuff			length : 4 
+	wi_charging_effect_projectile			length : 4 
+	wi_charging_effect_chainshot			length : 4 
+	wi_auto_aim			length : 4 
+	wi_aim_movetype			length : 4 
+	wi_aim_move_param			length : 4 
+	wi_aim_init_size			length : 4 
+	wi_aim_max_size			length : 4 
+	wi_aim_zoom_size_min			length : 4 
+	wi_aim_zoom_size_max			length : 4 
+	wi_aim_zoom2_size_min			length : 4 
+	wi_aim_zoom2_size_max			length : 4 
+	wi_aim_jump_size			length : 4 
+	wi_aim_spread_speed			length : 4 
+	wi_aim_restore_speed			length : 4 
+	wi_aim_restore_speed_zoom			length : 4 
+	wi_aim_moveup_type			length : 4 
+	wi_aim_moveup_param			length : 4 
+	wi_aim_moveup_max			length : 4 
+	wi_aim_moveup_speed			length : 4 
+	wi_aim_moveup_restore_speed			length : 4 
+	wi_dam_head			length : 4 
+	wi_dam_upper			length : 4 
+	wi_dam_under			length : 4 
+	wi_dam_zoom_in			length : 4 
+	wi_rand_dam			length : 4 
+	wi_hit_rate			length : 4 
+	wi_miss_dam_rate			length : 4 
+	wi_critical_rate			length : 4 
+	wi_critical_damage			length : 4 
+	wi_zoom_in_level			length : 4 
+	wi_zoom_fov1			length : 4 
+	wi_zoom_fov2			length : 4 
+	wi_zoom_fire_ready_time			length : 4 
+	wi_fire_bullet_count			length : 4 
+	wi_chainshot_count			length : 4 
+	wi_chainshot_interval			length : 4 
+	wi_setup_count			length : 4 
+	wi_bullet_speed			length : 4 
+	wi_bullet_max_speed			length : 4 
+	wi_bullet_accel			length : 4 
+	wi_bullet_bounce_count			length : 4 
+	wi_bullet_restitution			length : 4 
+	wi_range			length : 4 
+	wi_overheat_up			length : 4 
+	wi_overheat_down			length : 4 
+	wi_overheat_penalty_time			length : 4 
+	wi_bomb_range			length : 4 
+	wi_bomb_time			length : 4 
+	wi_bomb_type			length : 4 
+	wi_detonate_type			length : 4 
+	wi_sensor_range			length : 4 
+	wi_ready_fire			length : 4 
+	wi_fire_run			length : 4 
+	wi_fire_time			length : 4 
+	wi_lockon_time			length : 4 
+	wi_firing_accel_time			length : 4 
+	wi_firing_hold_time			length : 4 
+	wi_fire_time_right			length : 4 
+	wi_reload_time			length : 4 
+	wi_reload_any_type			length : 4 
+	wi_knockback			length : 4 
+	wi_accel_weight			length : 4 
+	wi_accel_time			length : 4 
+	wi_max_turning_angle			length : 4 
+	wi_rate_of_fire_def			length : 4 
+	wi_rate_of_fire_max			length : 4 
+	wi_bullet_capacity			length : 4 
+	wi_bullet_total			length : 4 
+	wi_change_time			length : 4 
+	wi_change_skip			length : 4 
+	wi_change_delay			length : 4 
+	wi_weaponself_time			length : 4 
+	wi_ability_a			length : 4 
+	wi_ability_b			length : 4 
+	wi_ability_c			length : 4 
+	wi_ability_d			length : 4 
+	wi_ability_a_max			length : 4 
+	wi_ability_b_max			length : 4 
+	wi_ability_c_max			length : 4 
+	wi_ability_d_max			length : 4 
+	wi_weapon_size			length : 4 
 Data block size : 404
 Found 101 keys in ENG/weaponinfo_sign.cdb
-wi_id	length : 4 
-wi_weapon_type	length : 4 
-wi_weapon_type_zombie	length : 4 
-wi_weapon_prop	length : 4 
-wi_trigger_type	length : 4 
-wi_firing_type	length : 4 
-wi_ragdoll_type	length : 4 
-wi_notgore_ragdoll_type	length : 4 
-wi_debuff_type	length : 4 
-wi_projectile_type	length : 4 
-wi_projectile_prop	length : 4 
-wi_charging_effect_type	length : 4 
-wi_charging_time_max	length : 4 
-wi_charging_effect_damage	length : 4 
-wi_charging_effect_speed	length : 4 
-wi_charging_effect_bombrange	length : 4 
-wi_charging_effect_accuracy	length : 4 
-wi_charging_effect_multi_shot	length : 4 
-wi_charging_effect_bomb_timer	length : 4 
-wi_charging_effect_debuff	length : 4 
-wi_charging_effect_projectile	length : 4 
-wi_charging_effect_chainshot	length : 4 
-wi_auto_aim	length : 4 
-wi_aim_movetype	length : 4 
-wi_aim_move_param	length : 4 
-wi_aim_init_size	length : 4 
-wi_aim_max_size	length : 4 
-wi_aim_zoom_size_min	length : 4 
-wi_aim_zoom_size_max	length : 4 
-wi_aim_zoom2_size_min	length : 4 
-wi_aim_zoom2_size_max	length : 4 
-wi_aim_jump_size	length : 4 
-wi_aim_spread_speed	length : 4 
-wi_aim_restore_speed	length : 4 
-wi_aim_restore_speed_zoom	length : 4 
-wi_aim_moveup_type	length : 4 
-wi_aim_moveup_param	length : 4 
-wi_aim_moveup_max	length : 4 
-wi_aim_moveup_speed	length : 4 
-wi_aim_moveup_restore_speed	length : 4 
-wi_dam_head	length : 4 
-wi_dam_upper	length : 4 
-wi_dam_under	length : 4 
-wi_dam_zoom_in	length : 4 
-wi_rand_dam	length : 4 
-wi_hit_rate	length : 4 
-wi_miss_dam_rate	length : 4 
-wi_critical_rate	length : 4 
-wi_critical_damage	length : 4 
-wi_zoom_in_level	length : 4 
-wi_zoom_fov1	length : 4 
-wi_zoom_fov2	length : 4 
-wi_zoom_fire_ready_time	length : 4 
-wi_fire_bullet_count	length : 4 
-wi_chainshot_count	length : 4 
-wi_chainshot_interval	length : 4 
-wi_setup_count	length : 4 
-wi_bullet_speed	length : 4 
-wi_bullet_max_speed	length : 4 
-wi_bullet_accel	length : 4 
-wi_bullet_bounce_count	length : 4 
-wi_bullet_restitution	length : 4 
-wi_range	length : 4 
-wi_overheat_up	length : 4 
-wi_overheat_down	length : 4 
-wi_overheat_penalty_time	length : 4 
-wi_bomb_range	length : 4 
-wi_bomb_time	length : 4 
-wi_bomb_type	length : 4 
-wi_detonate_type	length : 4 
-wi_sensor_range	length : 4 
-wi_ready_fire	length : 4 
-wi_fire_run	length : 4 
-wi_fire_time	length : 4 
-wi_lockon_time	length : 4 
-wi_firing_accel_time	length : 4 
-wi_firing_hold_time	length : 4 
-wi_fire_time_right	length : 4 
-wi_reload_time	length : 4 
-wi_reload_any_type	length : 4 
-wi_knockback	length : 4 
-wi_accel_weight	length : 4 
-wi_accel_time	length : 4 
-wi_max_turning_angle	length : 4 
-wi_rate_of_fire_def	length : 4 
-wi_rate_of_fire_max	length : 4 
-wi_bullet_capacity	length : 4 
-wi_bullet_total	length : 4 
-wi_change_time	length : 4 
-wi_change_skip	length : 4 
-wi_change_delay	length : 4 
-wi_weaponself_time	length : 4 
-wi_ability_a	length : 4 
-wi_ability_b	length : 4 
-wi_ability_c	length : 4 
-wi_ability_d	length : 4 
-wi_ability_a_max	length : 4 
-wi_ability_b_max	length : 4 
-wi_ability_c_max	length : 4 
-wi_ability_d_max	length : 4 
-wi_weapon_size	length : 4 
-Data block size : 404
-Found 101 keys in ENG/weaponinfo_sign.cdb
-wi_id	length : 4 
-wi_weapon_type	length : 4 
-wi_weapon_type_zombie	length : 4 
-wi_weapon_prop	length : 4 
-wi_trigger_type	length : 4 
-wi_firing_type	length : 4 
-wi_ragdoll_type	length : 4 
-wi_notgore_ragdoll_type	length : 4 
-wi_debuff_type	length : 4 
-wi_projectile_type	length : 4 
-wi_projectile_prop	length : 4 
-wi_charging_effect_type	length : 4 
-wi_charging_time_max	length : 4 
-wi_charging_effect_damage	length : 4 
-wi_charging_effect_speed	length : 4 
-wi_charging_effect_bombrange	length : 4 
-wi_charging_effect_accuracy	length : 4 
-wi_charging_effect_multi_shot	length : 4 
-wi_charging_effect_bomb_timer	length : 4 
-wi_charging_effect_debuff	length : 4 
-wi_charging_effect_projectile	length : 4 
-wi_charging_effect_chainshot	length : 4 
-wi_auto_aim	length : 4 
-wi_aim_movetype	length : 4 
-wi_aim_move_param	length : 4 
-wi_aim_init_size	length : 4 
-wi_aim_max_size	length : 4 
-wi_aim_zoom_size_min	length : 4 
-wi_aim_zoom_size_max	length : 4 
-wi_aim_zoom2_size_min	length : 4 
-wi_aim_zoom2_size_max	length : 4 
-wi_aim_jump_size	length : 4 
-wi_aim_spread_speed	length : 4 
-wi_aim_restore_speed	length : 4 
-wi_aim_restore_speed_zoom	length : 4 
-wi_aim_moveup_type	length : 4 
-wi_aim_moveup_param	length : 4 
-wi_aim_moveup_max	length : 4 
-wi_aim_moveup_speed	length : 4 
-wi_aim_moveup_restore_speed	length : 4 
-wi_dam_head	length : 4 
-wi_dam_upper	length : 4 
-wi_dam_under	length : 4 
-wi_dam_zoom_in	length : 4 
-wi_rand_dam	length : 4 
-wi_hit_rate	length : 4 
-wi_miss_dam_rate	length : 4 
-wi_critical_rate	length : 4 
-wi_critical_damage	length : 4 
-wi_zoom_in_level	length : 4 
-wi_zoom_fov1	length : 4 
-wi_zoom_fov2	length : 4 
-wi_zoom_fire_ready_time	length : 4 
-wi_fire_bullet_count	length : 4 
-wi_chainshot_count	length : 4 
-wi_chainshot_interval	length : 4 
-wi_setup_count	length : 4 
-wi_bullet_speed	length : 4 
-wi_bullet_max_speed	length : 4 
-wi_bullet_accel	length : 4 
-wi_bullet_bounce_count	length : 4 
-wi_bullet_restitution	length : 4 
-wi_range	length : 4 
-wi_overheat_up	length : 4 
-wi_overheat_down	length : 4 
-wi_overheat_penalty_time	length : 4 
-wi_bomb_range	length : 4 
-wi_bomb_time	length : 4 
-wi_bomb_type	length : 4 
-wi_detonate_type	length : 4 
-wi_sensor_range	length : 4 
-wi_ready_fire	length : 4 
-wi_fire_run	length : 4 
-wi_fire_time	length : 4 
-wi_lockon_time	length : 4 
-wi_firing_accel_time	length : 4 
-wi_firing_hold_time	length : 4 
-wi_fire_time_right	length : 4 
-wi_reload_time	length : 4 
-wi_reload_any_type	length : 4 
-wi_knockback	length : 4 
-wi_accel_weight	length : 4 
-wi_accel_time	length : 4 
-wi_max_turning_angle	length : 4 
-wi_rate_of_fire_def	length : 4 
-wi_rate_of_fire_max	length : 4 
-wi_bullet_capacity	length : 4 
-wi_bullet_total	length : 4 
-wi_change_time	length : 4 
-wi_change_skip	length : 4 
-wi_change_delay	length : 4 
-wi_weaponself_time	length : 4 
-wi_ability_a	length : 4 
-wi_ability_b	length : 4 
-wi_ability_c	length : 4 
-wi_ability_d	length : 4 
-wi_ability_a_max	length : 4 
-wi_ability_b_max	length : 4 
-wi_ability_c_max	length : 4 
-wi_ability_d_max	length : 4 
-wi_weapon_size	length : 4 
-Data block size : 404
-Found 3 keys in ENG/weekgiftinfo.cdb
-week	length : 4 
-logincount	length : 4 
-itemid	length : 4 
-Data block size : 12
-Found 3 keys in ENG/weekgiftinfo.cdb
-week	length : 4 
-logincount	length : 4 
-itemid	length : 4 
-Data block size : 12
-Found 35 keys in ENG/zombieinfo.cdb
-zi_id	length : 4 
-zi_map_id	length : 4 
-zi_item_id_1	length : 4 
-zi_target_count_1	length : 4 
-zi_item_id_2	length : 4 
-zi_target_count_2	length : 4 
-zi_item_id_3	length : 4 
-zi_target_count_3	length : 4 
-zi_item_id_4	length : 4 
-zi_target_count_4	length : 4 
-zi_item_id_5	length : 4 
-zi_target_count_5	length : 4 
-zi_item_id_6	length : 4 
-zi_target_count_6	length : 4 
-zi_item_id_7	length : 4 
-zi_target_count_7	length : 4 
-zi_item_id_8	length : 4 
-zi_target_count_8	length : 4 
-zi_item_id_9	length : 4 
-zi_target_count_9	length : 4 
-zi_item_id_10	length : 4 
-zi_target_count_10	length : 4 
-zi_item_id_11	length : 4 
-zi_target_count_11	length : 4 
-zi_item_id_12	length : 4 
-zi_target_count_12	length : 4 
-zi_item_id_13	length : 4 
-zi_target_count_13	length : 4 
-zi_item_id_14	length : 4 
-zi_target_count_14	length : 4 
-zi_item_id_15	length : 4 
-zi_target_count_15	length : 4 
-zi_item_id_16	length : 4 
-zi_target_count_16	length : 4 
-zi_over_time	length : 4 
-Data block size : 140
-Found 35 keys in ENG/zombieinfo.cdb
-zi_id	length : 4 
-zi_map_id	length : 4 
-zi_item_id_1	length : 4 
-zi_target_count_1	length : 4 
-zi_item_id_2	length : 4 
-zi_target_count_2	length : 4 
-zi_item_id_3	length : 4 
-zi_target_count_3	length : 4 
-zi_item_id_4	length : 4 
-zi_target_count_4	length : 4 
-zi_item_id_5	length : 4 
-zi_target_count_5	length : 4 
-zi_item_id_6	length : 4 
-zi_target_count_6	length : 4 
-zi_item_id_7	length : 4 
-zi_target_count_7	length : 4 
-zi_item_id_8	length : 4 
-zi_target_count_8	length : 4 
-zi_item_id_9	length : 4 
-zi_target_count_9	length : 4 
-zi_item_id_10	length : 4 
-zi_target_count_10	length : 4 
-zi_item_id_11	length : 4 
-zi_target_count_11	length : 4 
-zi_item_id_12	length : 4 
-zi_target_count_12	length : 4 
-zi_item_id_13	length : 4 
-zi_target_count_13	length : 4 
-zi_item_id_14	length : 4 
-zi_target_count_14	length : 4 
-zi_item_id_15	length : 4 
-zi_target_count_15	length : 4 
-zi_item_id_16	length : 4 
-zi_target_count_16	length : 4 
-zi_over_time	length : 4 
-Data block size : 140
-Found 28 keys in dioramainfo.cdb
-di_id	length : 4 
-di_class_a_ani	length : 4 
-di_class_a_weapon	length : 4 
-di_class_a_time	length : 4 
-di_class_b_ani	length : 4 
-di_class_b_weapon	length : 4 
-di_class_b_time	length : 4 
-di_class_c_ani	length : 4 
-di_class_c_weapon	length : 4 
-di_class_c_time	length : 4 
-di_class_d_ani	length : 4 
-di_class_d_weapon	length : 4 
-di_class_d_time	length : 4 
-di_class_e_ani	length : 4 
-di_class_e_weapon	length : 4 
-di_class_e_time	length : 4 
-di_class_f_ani	length : 4 
-di_class_f_weapon	length : 4 
-di_class_f_time	length : 4 
-di_class_g_ani	length : 4 
-di_class_g_weapon	length : 4 
-di_class_g_time	length : 4 
-di_class_h_ani	length : 4 
-di_class_h_weapon	length : 4 
-di_class_h_time	length : 4 
-di_class_i_ani	length : 4 
-di_class_i_weapon	length : 4 
-di_class_i_time	length : 4 
-Data block size : 112
-Found 28 keys in dioramainfo.cdb
-di_id	length : 4 
-di_class_a_ani	length : 4 
-di_class_a_weapon	length : 4 
-di_class_a_time	length : 4 
-di_class_b_ani	length : 4 
-di_class_b_weapon	length : 4 
-di_class_b_time	length : 4 
-di_class_c_ani	length : 4 
-di_class_c_weapon	length : 4 
-di_class_c_time	length : 4 
-di_class_d_ani	length : 4 
-di_class_d_weapon	length : 4 
-di_class_d_time	length : 4 
-di_class_e_ani	length : 4 
-di_class_e_weapon	length : 4 
-di_class_e_time	length : 4 
-di_class_f_ani	length : 4 
-di_class_f_weapon	length : 4 
-di_class_f_time	length : 4 
-di_class_g_ani	length : 4 
-di_class_g_weapon	length : 4 
-di_class_g_time	length : 4 
-di_class_h_ani	length : 4 
-di_class_h_weapon	length : 4 
-di_class_h_time	length : 4 
-di_class_i_ani	length : 4 
-di_class_i_weapon	length : 4 
-di_class_i_time	length : 4 
-Data block size : 112
-Found 10 keys in doorinfo.cdb
-di_id	length : 4 
-di_name	length : 30 
-di_map_id	length : 4 
-di_door_type	length : 4 
-di_working_team	length : 4 
-di_door_mesh	length : 30 
-di_close_time	length : 4 
-di_delay_time	length : 4 
-di_switch_name	length : 30 
-di_switch_mesh	length : 30 
-Data block size : 144
-Found 10 keys in doorinfo.cdb
-di_id	length : 4 
-di_name	length : 30 
-di_map_id	length : 4 
-di_door_type	length : 4 
-di_working_team	length : 4 
-di_door_mesh	length : 30 
-di_close_time	length : 4 
-di_delay_time	length : 4 
-di_switch_name	length : 30 
-di_switch_mesh	length : 30 
-Data block size : 144
-Found 17 keys in dummyinfo.cdb
-di_id	length : 4 
-di_a_type_x	length : 4 
-di_a_type_y	length : 4 
-di_a_type_z	length : 4 
-di_a_type_scale	length : 4 
-di_b_type_x	length : 4 
-di_b_type_y	length : 4 
-di_b_type_z	length : 4 
-di_b_type_scale	length : 4 
-di_c_type_x	length : 4 
-di_c_type_y	length : 4 
-di_c_type_z	length : 4 
-di_c_type_scale	length : 4 
-di_d_type_x	length : 4 
-di_d_type_y	length : 4 
-di_d_type_z	length : 4 
-di_d_type_scale	length : 4 
-Data block size : 68
-File MV/dummyinfo.cdb emtpty, skipping
-Found 17 keys in dummyinfo.cdb
-di_id	length : 4 
-di_a_type_x	length : 4 
-di_a_type_y	length : 4 
-di_a_type_z	length : 4 
-di_a_type_scale	length : 4 
-di_b_type_x	length : 4 
-di_b_type_y	length : 4 
-di_b_type_z	length : 4 
-di_b_type_scale	length : 4 
-di_c_type_x	length : 4 
-di_c_type_y	length : 4 
-di_c_type_z	length : 4 
-di_c_type_scale	length : 4 
-di_d_type_x	length : 4 
-di_d_type_y	length : 4 
-di_d_type_z	length : 4 
-di_d_type_scale	length : 4 
-Data block size : 68
-File TW/dummyinfo.cdb emtpty, skipping
-Found 10 keys in envinfo.cdb
-ei_id	length : 4 
-ei_name	length : 50 
-ei_type	length : 4 
-ei_map_id	length : 4 
-ei_x	length : 4 
-ei_y	length : 4 
-ei_z	length : 4 
-ei_life_max	length : 4 
-ei_respawn_time	length : 4 
-ei_mesh_name	length : 50 
-Data block size : 132
-Found 10 keys in envinfo.cdb
-ei_id	length : 4 
-ei_name	length : 50 
-ei_type	length : 4 
-ei_map_id	length : 4 
-ei_x	length : 4 
-ei_y	length : 4 
-ei_z	length : 4 
-ei_life_max	length : 4 
-ei_respawn_time	length : 4 
-ei_mesh_name	length : 50 
-Data block size : 132
-Found 7 keys in iconsinfo.cdb
-ii_id	length : 4 
-ii_filename	length : 50 
-ii_offset	length : 4 
-ii_width	length : 4 
-ii_height	length : 4 
-ii_filesize	length : 4 
-ii_common	length : 4 
-Data block size : 74
-Found 7 keys in iconsinfo.cdb
-ii_id	length : 4 
-ii_filename	length : 50 
-ii_offset	length : 4 
-ii_width	length : 4 
-ii_height	length : 4 
-ii_filesize	length : 4 
-ii_common	length : 4 
-Data block size : 74
-Found 3 keys in iconstag.cdb
-it_index	length : 4 
-it_iconid	length : 4 
-it_icontag	length : 40 
-Data block size : 48
-Found 3 keys in iconstag.cdb
-it_index	length : 4 
-it_iconid	length : 4 
-it_icontag	length : 40 
-Data block size : 48
-Found 25 keys in jumperinfo.cdb
-ji_id	length : 4 
-ji_name	length : 30 
-ji_map_id	length : 4 
-ji_horizontal_vel	length : 4 
-ji_vertical_vel	length : 4 
-ji_mod_tdm	length : 1 
-ji_mod_ffa	length : 1 
-ji_mod_itm	length : 1 
-ji_mod_ctf	length : 1 
-ji_mod_ctm	length : 1 
-ji_mod_sab	length : 1 
-ji_mod_cim	length : 1 
-ji_mod_zsm	length : 1 
-ji_mod_grm	length : 1 
-ji_mod_mock	length : 1 
-ji_mod_bmb	length : 1 
-ji_mod_sni	length : 1 
-ji_mod_nod	length : 1 
-ji_mod_pve	length : 1 
-ji_mod_bot	length : 1 
-ji_mod_tut	length : 1 
-ji_mod_cl_ctf	length : 1 
-ji_mod_cl_sab	length : 1 
-ji_mod_cl_tdm	length : 1 
-ji_mod_cl_bmb	length : 1 
-Data block size : 66
-Found 25 keys in jumperinfo.cdb
-ji_id	length : 4 
-ji_name	length : 30 
-ji_map_id	length : 4 
-ji_horizontal_vel	length : 4 
-ji_vertical_vel	length : 4 
-ji_mod_tdm	length : 1 
-ji_mod_ffa	length : 1 
-ji_mod_itm	length : 1 
-ji_mod_ctf	length : 1 
-ji_mod_ctm	length : 1 
-ji_mod_sab	length : 1 
-ji_mod_cim	length : 1 
-ji_mod_zsm	length : 1 
-ji_mod_grm	length : 1 
-ji_mod_mock	length : 1 
-ji_mod_bmb	length : 1 
-ji_mod_sni	length : 1 
-ji_mod_nod	length : 1 
-ji_mod_pve	length : 1 
-ji_mod_bot	length : 1 
-ji_mod_tut	length : 1 
-ji_mod_cl_ctf	length : 1 
-ji_mod_cl_sab	length : 1 
-ji_mod_cl_tdm	length : 1 
-ji_mod_cl_bmb	length : 1 
-Data block size : 66
-Found 10 keys in npcinfo.cdb
-ni_id	length : 4 
-ni_name	length : 50 
-ni_type	length : 4 
-ni_map_id	length : 4 
-ni_x	length : 4 
-ni_y	length : 4 
-ni_z	length : 4 
-ni_life_max	length : 4 
-ni_respawn_time	length : 4 
-ni_mesh_name	length : 50 
-Data block size : 132
-Found 10 keys in npcinfo.cdb
-ni_id	length : 4 
-ni_name	length : 50 
-ni_type	length : 4 
-ni_map_id	length : 4 
-ni_x	length : 4 
-ni_y	length : 4 
-ni_z	length : 4 
-ni_life_max	length : 4 
-ni_respawn_time	length : 4 
-ni_mesh_name	length : 50 
-Data block size : 132
-Found 3 keys in physX_ragdoll_velocities.cdb
-rv_id	length : 4 
-rv_name	length : 50 
-rv_value	length : 4 
-Data block size : 58
-Found 3 keys in physX_ragdoll_velocities.cdb
-rv_id	length : 4 
-rv_name	length : 50 
-rv_value	length : 4 
-Data block size : 58
-Found 12 keys in radioinfo.cdb
-ri_id	length : 4 
-ri_chr_type	length : 4 
-ri_ZXC	length : 4 
-ri_num	length : 4 
-ri_chat_id	length : 4 
-ri_range	length : 4 
-ri_highlow	length : 1 
-ri_target	length : 4 
-ri_text	length : 256 
-ri_color	length : 50 
-ri_location	length : 4 
-ri_voice	length : 64 
-Data block size : 403
-Found 12 keys in radioinfo.cdb
-ri_id	length : 4 
-ri_chr_type	length : 4 
-ri_ZXC	length : 4 
-ri_num	length : 4 
-ri_chat_id	length : 4 
-ri_range	length : 4 
-ri_highlow	length : 1 
-ri_target	length : 4 
-ri_text	length : 256 
-ri_color	length : 50 
-ri_location	length : 4 
-ri_voice	length : 64 
-Data block size : 403
-Found 5 keys in sidecullinfo.cdb
-si_id	length : 4 
-si_map_id	length : 4 
-si_name	length : 50 
-si_light	length : 1 
-si_parent_id	length : 4 
-Data block size : 63
-Found 5 keys in sidecullinfo.cdb
-si_id	length : 4 
-si_map_id	length : 4 
-si_name	length : 50 
-si_light	length : 1 
-si_parent_id	length : 4 
-Data block size : 63
-Found 26 keys in skillinfo.cdb
-si_id	length : 4 
-si_type	length : 4 
-si_parent_skill	length : 4 
-si_level	length : 4 
-si_point	length : 4 
-si_cast_time	length : 4 
-si_cool_time	length : 4 
-re_grade	length : 4 
-re_min_range	length : 4 
-re_max_range	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_range_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_range_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ef_range_3	length : 4 
-ef_effect_4	length : 4 
-ef_target_4	length : 4 
-ef_range_4	length : 4 
-ef_effect_5	length : 4 
-ef_target_5	length : 4 
-ef_range_5	length : 4 
-si_icon	length : 4 
-Data block size : 104
-File MV/skillinfo.cdb emtpty, skipping
-Found 26 keys in skillinfo.cdb
-si_id	length : 4 
-si_type	length : 4 
-si_parent_skill	length : 4 
-si_level	length : 4 
-si_point	length : 4 
-si_cast_time	length : 4 
-si_cool_time	length : 4 
-re_grade	length : 4 
-re_min_range	length : 4 
-re_max_range	length : 4 
-ef_effect_1	length : 4 
-ef_target_1	length : 4 
-ef_range_1	length : 4 
-ef_effect_2	length : 4 
-ef_target_2	length : 4 
-ef_range_2	length : 4 
-ef_effect_3	length : 4 
-ef_target_3	length : 4 
-ef_range_3	length : 4 
-ef_effect_4	length : 4 
-ef_target_4	length : 4 
-ef_range_4	length : 4 
-ef_effect_5	length : 4 
-ef_target_5	length : 4 
-ef_range_5	length : 4 
-si_icon	length : 4 
-Data block size : 104
-File TW/skillinfo.cdb emtpty, skipping
-Found 9 keys in soundfx.cdb
-sf_sid	length : 4 
-sf_type	length : 4 
-sf_filename	length : 64 
-sf_3dsound	length : 1 
-sf_mindist	length : 4 
-sf_maxdist	length : 4 
-sf_volume	length : 4 
-sf_loop	length : 1 
-sf_desc	length : 100 
-Data block size : 186
-Found 9 keys in soundfx.cdb
-sf_sid	length : 4 
-sf_type	length : 4 
-sf_filename	length : 64 
-sf_3dsound	length : 1 
-sf_mindist	length : 4 
-sf_maxdist	length : 4 
-sf_volume	length : 4 
-sf_loop	length : 1 
-sf_desc	length : 100 
-Data block size : 186
-Found 3 keys in weapon_dyingType.cdb
-wt_id	length : 4 
-wt_weapon	length : 4 
-wt_ragdoll_type	length : 4 
-Data block size : 12
-File MV/weapon_dyingType.cdb emtpty, skipping
-Found 3 keys in weapon_dyingType.cdb
-wt_id	length : 4 
-wt_weapon	length : 4 
-wt_ragdoll_type	length : 4 
-Data block size : 12
-File TW/weapon_dyingType.cdb emtpty, skipping
-Found 35 keys in zombieinfo.cdb
-zi_id	length : 4 
-zi_map_id	length : 4 
-zi_item_id_1	length : 4 
-zi_target_count_1	length : 4 
-zi_item_id_2	length : 4 
-zi_target_count_2	length : 4 
-zi_item_id_3	length : 4 
-zi_target_count_3	length : 4 
-zi_item_id_4	length : 4 
-zi_target_count_4	length : 4 
-zi_item_id_5	length : 4 
-zi_target_count_5	length : 4 
-zi_item_id_6	length : 4 
-zi_target_count_6	length : 4 
-zi_item_id_7	length : 4 
-zi_target_count_7	length : 4 
-zi_item_id_8	length : 4 
-zi_target_count_8	length : 4 
-zi_item_id_9	length : 4 
-zi_target_count_9	length : 4 
-zi_item_id_10	length : 4 
-zi_target_count_10	length : 4 
-zi_item_id_11	length : 4 
-zi_target_count_11	length : 4 
-zi_item_id_12	length : 4 
-zi_target_count_12	length : 4 
-zi_item_id_13	length : 4 
-zi_target_count_13	length : 4 
-zi_item_id_14	length : 4 
-zi_target_count_14	length : 4 
-zi_item_id_15	length : 4 
-zi_target_count_15	length : 4 
-zi_item_id_16	length : 4 
-zi_target_count_16	length : 4 
-zi_over_time	length : 4 
-Data block size : 140
-Found 35 keys in zombieinfo.cdb
-zi_id	length : 4 
-zi_map_id	length : 4 
-zi_item_id_1	length : 4 
-zi_target_count_1	length : 4 
-zi_item_id_2	length : 4 
-zi_target_count_2	length : 4 
-zi_item_id_3	length : 4 
-zi_target_count_3	length : 4 
-zi_item_id_4	length : 4 
-zi_target_count_4	length : 4 
-zi_item_id_5	length : 4 
-zi_target_count_5	length : 4 
-zi_item_id_6	length : 4 
-zi_target_count_6	length : 4 
-zi_item_id_7	length : 4 
-zi_target_count_7	length : 4 
-zi_item_id_8	length : 4 
-zi_target_count_8	length : 4 
-zi_item_id_9	length : 4 
-zi_target_count_9	length : 4 
-zi_item_id_10	length : 4 
-zi_target_count_10	length : 4 
-zi_item_id_11	length : 4 
-zi_target_count_11	length : 4 
-zi_item_id_12	length : 4 
-zi_target_count_12	length : 4 
-zi_item_id_13	length : 4 
-zi_target_count_13	length : 4 
-zi_item_id_14	length : 4 
-zi_target_count_14	length : 4 
-zi_item_id_15	length : 4 
-zi_target_count_15	length : 4 
-zi_item_id_16	length : 4 
-zi_target_count_16	length : 4 
-zi_over_time	length : 4 
-Data block size : 140
+	wi_id			length : 4 
+	wi_weapon_type			length : 4 
+	wi_weapon_type_zombie			length : 4 
+	wi_weapon_prop			length : 4 
+	wi_trigger_type			length : 4 
+	wi_firing_type			length : 4 
+	wi_ragdoll_type			length : 4 
+	wi_notgore_ragdoll_type			length : 4 
+	wi_debuff_type			length : 4 
+	wi_projectile_type			length : 4 
+	wi_projectile_prop			length : 4 
+	wi_charging_effect_type			length : 4 
+	wi_charging_time_max			length : 4 
+	wi_charging_effect_damage			length : 4 
+	wi_charging_effect_speed			length : 4 
+	wi_charging_effect_bombrange			length : 4 
+	wi_charging_effect_accuracy			length : 4 
+	wi_charging_effect_multi_shot			length : 4 
+	wi_charging_effect_bomb_timer			length : 4 
+	wi_charging_effect_debuff			length : 4 
+	wi_charging_effect_projectile			length : 4 
+	wi_charging_effect_chainshot			length : 4 
+	wi_auto_aim			length : 4 
+	wi_aim_movetype			length : 4 
+	wi_aim_move_param			length : 4 
+	wi_aim_init_size			length : 4 
+	wi_aim_max_size			length : 4 
+	wi_aim_zoom_size_min			length : 4 
+	wi_aim_zoom_size_max			length : 4 
+	wi_aim_zoom2_size_min			length : 4 
+	wi_aim_zoom2_size_max			length : 4 
+	wi_aim_jump_size			length : 4 
+	wi_aim_spread_speed			length : 4 
+	wi_aim_restore_speed			length : 4 
+	wi_aim_restore_speed_zoom			length : 4 
+	wi_aim_moveup_type			length : 4 
+	wi_aim_moveup_param			length : 4 
+	wi_aim_moveup_max			length : 4 
+	wi_aim_moveup_speed			length : 4 
+	wi_aim_moveup_restore_speed			length : 4 
+	wi_dam_head			length : 4 
+	wi_dam_upper			length : 4 
+	wi_dam_under			length : 4 
+	wi_dam_zoom_in			length : 4 
+	wi_rand_dam			length : 4 
+	wi_hit_rate			length : 4 
+	wi_miss_dam_rate			length : 4 
+	wi_critical_rate			length : 4 
+	wi_critical_damage			length : 4 
+	wi_zoom_in_level			length : 4 
+	wi_zoom_fov1			length : 4 
+	wi_zoom_fov2			length : 4 
+	wi_zoom_fire_ready_time			length : 4 
+	wi_fire_bullet_count			length : 4 
+	wi_chainshot_count			length : 4 
+	wi_chainshot_interval			length : 4 
+	wi_setup_count			length : 4 
+	wi_bullet_speed			length : 4 
+	wi_bullet_max_speed			length : 4 
+	wi_bullet_accel			length : 4 
+	wi_bullet_bounce_count			length : 4 
+	wi_bullet_restitution			length : 4 
+	wi_range			length : 4 
+	wi_overheat_up			length : 4 
+	wi_overheat_down			length : 4 
+	wi_overheat_penalty_time			length : 4 
+	wi_bomb_range			length : 4 
+	wi_bomb_time			length : 4 
+	wi_bomb_type			length : 4 
+	wi_detonate_type			length : 4 
+	wi_sensor_range			length : 4 
+	wi_ready_fire			length 

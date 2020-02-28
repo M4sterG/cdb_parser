@@ -1,0 +1,18 @@
+{
+	"dp_grade" : 1,
+	"dp_durablerate" : 1000,
+	"dp_dmgreduce" : 1000,
+	"dp_effectreduce" : true
+},
+{
+	"dp_grade" : 2,
+	"dp_durablerate" : 700,
+	"dp_dmgreduce" : 900,
+	"dp_effectreduce" : true
+},
+{
+	"dp_grade" : 3,
+	"dp_durablerate" : 400,
+	"dp_dmgreduce" : 600,
+	"dp_effectreduce" : false
+}

@@ -1,0 +1,1055 @@
+{
+	"tt_id" : 1,
+	"tt_mod" : 15,
+	"tt_desc" : "You earn points when you clear Tutorial Mode."
+},
+{
+	"tt_id" : 2,
+	"tt_mod" : 15,
+	"tt_desc" : "Use your instance skills with the F5-F8 keys."
+},
+{
+	"tt_id" : 3,
+	"tt_mod" : 15,
+	"tt_desc" : "Controls - F5: Health Pack / F6: Ammo Pack / F7: Berserk Level 1 / F8: Berserk Level 2"
+},
+{
+	"tt_id" : 4,
+	"tt_mod" : 15,
+	"tt_desc" : "Berserk Level 1: 2 seconds of invulnerability and increased weapon damage and movement speed."
+},
+{
+	"tt_id" : 5,
+	"tt_mod" : 15,
+	"tt_desc" : "Berserk Level 2: Complete invulnerbility, increased weapon damage and movement speed, but limited to"
+},
+{
+	"tt_id" : 6,
+	"tt_mod" : 15,
+	"tt_desc" : "Instance points are earned by killing enemy NPCs."
+},
+{
+	"tt_id" : 7,
+	"tt_mod" : 15,
+	"tt_desc" : "You can enter the Hard mode only twice every 6 hours."
+},
+{
+	"tt_id" : 8,
+	"tt_mod" : 15,
+	"tt_desc" : "Try the Easy mode at anytime!"
+},
+{
+	"tt_id" : 9,
+	"tt_mod" : 0,
+	"tt_desc" : "Wielding a melee weapon will increase run speed."
+},
+{
+	"tt_id" : 10,
+	"tt_mod" : 0,
+	"tt_desc" : "While wielding a melee weapon, press the Jump key twice to double jump."
+},
+{
+	"tt_id" : 11,
+	"tt_mod" : 0,
+	"tt_desc" : "When you hit an enemy, your disguise will disappear."
+},
+{
+	"tt_id" : 12,
+	"tt_mod" : 0,
+	"tt_desc" : "The [F] key will activate your item."
+},
+{
+	"tt_id" : 13,
+	"tt_mod" : 0,
+	"tt_desc" : "Press and hold the Fire key to shoot the Gatling Gun."
+},
+{
+	"tt_id" : 14,
+	"tt_mod" : 0,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 15,
+	"tt_mod" : 0,
+	"tt_desc" : "While holding the Sniper Rifle, you can still move your character while looking through the scope."
+},
+{
+	"tt_id" : 16,
+	"tt_mod" : 0,
+	"tt_desc" : "While holding the Sniper Rifle, you will have a reduced run speed while looking through the scope."
+},
+{
+	"tt_id" : 17,
+	"tt_mod" : 0,
+	"tt_desc" : "Grenades will explode a few seconds after impact with the ground or wall."
+},
+{
+	"tt_id" : 18,
+	"tt_mod" : 0,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 19,
+	"tt_mod" : 0,
+	"tt_desc" : "It takes a few moments to reload your weapon after pressing the Reload key."
+},
+{
+	"tt_id" : 20,
+	"tt_mod" : 0,
+	"tt_desc" : "Shotguns and melee weapons are best used in close range combat."
+},
+{
+	"tt_id" : 21,
+	"tt_mod" : 0,
+	"tt_desc" : "Be polite while playing ToyHeroes Online!"
+},
+{
+	"tt_id" : 22,
+	"tt_mod" : 0,
+	"tt_desc" : "Press [L-Shift] to use your character action."
+},
+{
+	"tt_id" : 23,
+	"tt_mod" : 0,
+	"tt_desc" : "The [Tab] key will display the mini map, score and game type."
+},
+{
+	"tt_id" : 24,
+	"tt_mod" : 0,
+	"tt_desc" : "Middle mouse click will rotate the camera by 180 degrees."
+},
+{
+	"tt_id" : 25,
+	"tt_mod" : 0,
+	"tt_desc" : "Your personal score and the score of the top three players of the game will be displayed in the top "
+},
+{
+	"tt_id" : 26,
+	"tt_mod" : 0,
+	"tt_desc" : "Direct hits with the Rocket Launcher and Grenade Launcher will instantly kill the enemy."
+},
+{
+	"tt_id" : 27,
+	"tt_mod" : 0,
+	"tt_desc" : "Characters are unaffected by falling damage."
+},
+{
+	"tt_id" : 28,
+	"tt_mod" : 0,
+	"tt_desc" : "Standing too close to the explosion of a rocket or grenade will inflict splash damage."
+},
+{
+	"tt_id" : 29,
+	"tt_mod" : 0,
+	"tt_desc" : "You can observe the enemy's position while using the Third Person View"
+},
+{
+	"tt_id" : 30,
+	"tt_mod" : 0,
+	"tt_desc" : "Use the green jump pad to reach higher points and gain higher ground."
+},
+{
+	"tt_id" : 31,
+	"tt_mod" : 1,
+	"tt_desc" : "Wielding a melee weapon will increase run speed."
+},
+{
+	"tt_id" : 32,
+	"tt_mod" : 1,
+	"tt_desc" : "While wielding a melee weapon, press the Jump key twice to double jump."
+},
+{
+	"tt_id" : 33,
+	"tt_mod" : 1,
+	"tt_desc" : "When you hit an enemy, your disguise will disappear."
+},
+{
+	"tt_id" : 34,
+	"tt_mod" : 1,
+	"tt_desc" : "The [F] key will activate your item."
+},
+{
+	"tt_id" : 35,
+	"tt_mod" : 1,
+	"tt_desc" : "Press and hold the Fire key to shoot the Gatling Gun."
+},
+{
+	"tt_id" : 36,
+	"tt_mod" : 1,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 37,
+	"tt_mod" : 1,
+	"tt_desc" : "While holding the Sniper Rifle, you can still move your character while looking through the scope."
+},
+{
+	"tt_id" : 38,
+	"tt_mod" : 1,
+	"tt_desc" : "While holding the Sniper Rifle, you will have a reduced run speed while looking through the scope."
+},
+{
+	"tt_id" : 39,
+	"tt_mod" : 1,
+	"tt_desc" : "Grenades will explode a few seconds after impact with the ground or wall."
+},
+{
+	"tt_id" : 40,
+	"tt_mod" : 1,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 41,
+	"tt_mod" : 1,
+	"tt_desc" : "It takes a few moments to reload your weapon after pressing the Reload key."
+},
+{
+	"tt_id" : 42,
+	"tt_mod" : 1,
+	"tt_desc" : "Shotguns and melee weapons are best used in close range combat."
+},
+{
+	"tt_id" : 43,
+	"tt_mod" : 1,
+	"tt_desc" : "Be polite while playing ToyHeroes Online!"
+},
+{
+	"tt_id" : 44,
+	"tt_mod" : 1,
+	"tt_desc" : "Press [L-Shift] to use your character action."
+},
+{
+	"tt_id" : 45,
+	"tt_mod" : 1,
+	"tt_desc" : "The [Tab] key will display the mini map, score and game type."
+},
+{
+	"tt_id" : 46,
+	"tt_mod" : 1,
+	"tt_desc" : "Middle mouse click will rotate the camera by 180 degrees."
+},
+{
+	"tt_id" : 47,
+	"tt_mod" : 1,
+	"tt_desc" : "Your personal score and the score of the top three players of the game will be displayed in the top "
+},
+{
+	"tt_id" : 48,
+	"tt_mod" : 1,
+	"tt_desc" : "Direct hits with the Rocket Launcher and Grenade Launcher will instantly kill the enemy."
+},
+{
+	"tt_id" : 49,
+	"tt_mod" : 1,
+	"tt_desc" : "Characters are unaffected by falling damage."
+},
+{
+	"tt_id" : 50,
+	"tt_mod" : 1,
+	"tt_desc" : "Standing too close to the explosion of a rocket or grenade will inflict splash damage."
+},
+{
+	"tt_id" : 51,
+	"tt_mod" : 1,
+	"tt_desc" : "You can observe the enemy's position while using the Third Person View"
+},
+{
+	"tt_id" : 52,
+	"tt_mod" : 1,
+	"tt_desc" : "Use the green jump pad to reach higher points and gain higher ground."
+},
+{
+	"tt_id" : 53,
+	"tt_mod" : 2,
+	"tt_desc" : "The [F] key will activate your item."
+},
+{
+	"tt_id" : 54,
+	"tt_mod" : 2,
+	"tt_desc" : "Take full advantage of the items acquired in an Item Match, as it will increase your chances of succ"
+},
+{
+	"tt_id" : 55,
+	"tt_mod" : 2,
+	"tt_desc" : "Speed Items will increase your run speed for a set duration."
+},
+{
+	"tt_id" : 56,
+	"tt_mod" : 2,
+	"tt_desc" : "Camouflage Items will disguise your character and confuse your enemies."
+},
+{
+	"tt_id" : 57,
+	"tt_mod" : 2,
+	"tt_desc" : "Power Up Items will increase your weapon damage."
+},
+{
+	"tt_id" : 58,
+	"tt_mod" : 2,
+	"tt_desc" : "The Suicide Bomb will explode upon death, killing all enemies around you."
+},
+{
+	"tt_id" : 59,
+	"tt_mod" : 2,
+	"tt_desc" : "Health and power-ups have set durations and eventually fade from the player."
+},
+{
+	"tt_id" : 60,
+	"tt_mod" : 2,
+	"tt_desc" : "Camouflaged enemies look slightly different than your teammates.  Stay alert and avoid being blindsi"
+},
+{
+	"tt_id" : 61,
+	"tt_mod" : 3,
+	"tt_desc" : "You earn more points by capturing the enemy's battery."
+},
+{
+	"tt_id" : 62,
+	"tt_mod" : 3,
+	"tt_desc" : "Players holding the Battery will be displayed in the bottom left corner of the screen."
+},
+{
+	"tt_id" : 63,
+	"tt_mod" : 3,
+	"tt_desc" : "Players holding the Battery cannot be shielded."
+},
+{
+	"tt_id" : 64,
+	"tt_mod" : 3,
+	"tt_desc" : "Players using a Shield cannot pick up the Battery."
+},
+{
+	"tt_id" : 65,
+	"tt_mod" : 3,
+	"tt_desc" : "The distance between the player and the Battery will be displayed on-screen."
+},
+{
+	"tt_id" : 66,
+	"tt_mod" : 3,
+	"tt_desc" : "Dropped Battery will be returned to its original point."
+},
+{
+	"tt_id" : 67,
+	"tt_mod" : 3,
+	"tt_desc" : "The mini map will display the player who has the Battery."
+},
+{
+	"tt_id" : 68,
+	"tt_mod" : 4,
+	"tt_desc" : "Wielding a melee weapon will increase run speed."
+},
+{
+	"tt_id" : 69,
+	"tt_mod" : 4,
+	"tt_desc" : "While wielding a melee weapon, press the Jump key twice to double jump."
+},
+{
+	"tt_id" : 70,
+	"tt_mod" : 4,
+	"tt_desc" : "While holding the Sniper Rifle, right click to see through the scope."
+},
+{
+	"tt_id" : 71,
+	"tt_mod" : 4,
+	"tt_desc" : "Press [L-Shift] to use your character action."
+},
+{
+	"tt_id" : 72,
+	"tt_mod" : 4,
+	"tt_desc" : "The [Tab] key will display the mini map, score and game type."
+},
+{
+	"tt_id" : 73,
+	"tt_mod" : 4,
+	"tt_desc" : "Middle mouse click will rotate the camera by 180 degrees."
+},
+{
+	"tt_id" : 74,
+	"tt_mod" : 4,
+	"tt_desc" : "Your personal score and the score of the top three players of the game will be displayed in the top "
+},
+{
+	"tt_id" : 75,
+	"tt_mod" : 4,
+	"tt_desc" : "Be polite while playing ToyHeroes Online!"
+},
+{
+	"tt_id" : 76,
+	"tt_mod" : 4,
+	"tt_desc" : "While wielding a melee weapon, right click will use the alternate attack and cause more damage."
+},
+{
+	"tt_id" : 77,
+	"tt_mod" : 4,
+	"tt_desc" : "The delay and damage of your melee attack will differ based on the melee weapon you use."
+},
+{
+	"tt_id" : 78,
+	"tt_mod" : 5,
+	"tt_desc" : "In Elimination, players must wait until the start of a new round to respawn."
+},
+{
+	"tt_id" : 79,
+	"tt_mod" : 5,
+	"tt_desc" : "A Radar Item will appear in the middle of the map when one defending player remains in the round."
+},
+{
+	"tt_id" : 80,
+	"tt_mod" : 5,
+	"tt_desc" : "The Radar Item will locate all enemies on the players minimap."
+},
+{
+	"tt_id" : 81,
+	"tt_mod" : 5,
+	"tt_desc" : "The Radar Item will be activated automatically and will affect all players."
+},
+{
+	"tt_id" : 82,
+	"tt_mod" : 5,
+	"tt_desc" : "The Radar Item will be active until the end of the round."
+},
+{
+	"tt_id" : 83,
+	"tt_mod" : 5,
+	"tt_desc" : "If the round ends with any surviving defending players, the round is declared as a Draw."
+},
+{
+	"tt_id" : 84,
+	"tt_mod" : 6,
+	"tt_desc" : "Special items will be dropped while you are in Super Item Mode."
+},
+{
+	"tt_id" : 85,
+	"tt_mod" : 6,
+	"tt_desc" : "You earn different items based on your rank."
+},
+{
+	"tt_id" : 86,
+	"tt_mod" : 6,
+	"tt_desc" : "At lower levels, you have a greater chance of earning Super Items while in Super Item Mode."
+},
+{
+	"tt_id" : 87,
+	"tt_mod" : 6,
+	"tt_desc" : "As your rank increases, you have a lower chance of earning Super Items while in Super Item Mode."
+},
+{
+	"tt_id" : 88,
+	"tt_mod" : 6,
+	"tt_desc" : "If you kill an enemy in Super Item Mode, you have a greater chance of receiving a better item."
+},
+{
+	"tt_id" : 89,
+	"tt_mod" : 6,
+	"tt_desc" : "There are two different kinds of shields.  One defends against physical attacks, and the other defen"
+},
+{
+	"tt_id" : 90,
+	"tt_mod" : 6,
+	"tt_desc" : "The Flash, 1G and Paper Cup affects the enemy's movement and vision."
+},
+{
+	"tt_id" : 91,
+	"tt_mod" : 6,
+	"tt_desc" : "The Flash hinders the enemy's vision."
+},
+{
+	"tt_id" : 92,
+	"tt_mod" : 6,
+	"tt_desc" : "The 1G causes some damage and reduces enemy movement to 50%."
+},
+{
+	"tt_id" : 93,
+	"tt_mod" : 6,
+	"tt_desc" : "The Paper Cup knocks the enemy back and affects their control."
+},
+{
+	"tt_id" : 94,
+	"tt_mod" : 7,
+	"tt_desc" : "Zombies have higher stamina and run speed than the figures."
+},
+{
+	"tt_id" : 95,
+	"tt_mod" : 7,
+	"tt_desc" : "Zombies are knocked back when they are hit."
+},
+{
+	"tt_id" : 96,
+	"tt_mod" : 7,
+	"tt_desc" : "Press the [F] key to activate your Zombie abilities."
+},
+{
+	"tt_id" : 97,
+	"tt_mod" : 7,
+	"tt_desc" : "The figures can acquire ammo drops."
+},
+{
+	"tt_id" : 98,
+	"tt_mod" : 7,
+	"tt_desc" : "Ammo drops can be seen nearby and also appear on the minimap."
+},
+{
+	"tt_id" : 99,
+	"tt_mod" : 7,
+	"tt_desc" : "Once a Zombie has been killed, they do not respawn."
+},
+{
+	"tt_id" : 100,
+	"tt_mod" : 7,
+	"tt_desc" : "Points are rewarded to whoever kills the Zombies."
+},
+{
+	"tt_id" : 101,
+	"tt_mod" : 7,
+	"tt_desc" : "Press the [V] key to enable or disable the location of the ammo drops on your minimap."
+},
+{
+	"tt_id" : 102,
+	"tt_mod" : 8,
+	"tt_desc" : "Weapons in your personal inventory are not used in Gun Race mode."
+},
+{
+	"tt_id" : 103,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: Players earn 1 point per kill, except for kills with the Melee."
+},
+{
+	"tt_id" : 104,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: Weapons are given out according to score."
+},
+{
+	"tt_id" : 105,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: During the 3-Minute Warning, players with a low score are given an item to help chase play"
+},
+{
+	"tt_id" : 106,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race is a Free For All type of game mode."
+},
+{
+	"tt_id" : 107,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: The first player to 20 points wins the match."
+},
+{
+	"tt_id" : 108,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: If no one has won in the time limit, the player with the highest points win. In the case o"
+},
+{
+	"tt_id" : 109,
+	"tt_mod" : 8,
+	"tt_desc" : "Gun Race: Players lose 1 point per suicide."
+},
+{
+	"tt_id" : 110,
+	"tt_mod" : 16,
+	"tt_desc" : "You earn more points by capturing the enemy's battery."
+},
+{
+	"tt_id" : 111,
+	"tt_mod" : 16,
+	"tt_desc" : "Players holding the Battery will be displayed in the bottom left corner of the screen."
+},
+{
+	"tt_id" : 112,
+	"tt_mod" : 16,
+	"tt_desc" : "Players holding the Battery cannot be shielded."
+},
+{
+	"tt_id" : 113,
+	"tt_mod" : 16,
+	"tt_desc" : "Players using a Shield cannot pick up the Battery."
+},
+{
+	"tt_id" : 114,
+	"tt_mod" : 16,
+	"tt_desc" : "The distance between the player and the Battery will be displayed on-screen."
+},
+{
+	"tt_id" : 115,
+	"tt_mod" : 16,
+	"tt_desc" : "Dropped Battery will be returned to its original point."
+},
+{
+	"tt_id" : 116,
+	"tt_mod" : 16,
+	"tt_desc" : "The mini map will display the player who has the Battery."
+},
+{
+	"tt_id" : 117,
+	"tt_mod" : 16,
+	"tt_desc" : "The Clan Battle may begin 7 seconds after all members have joined."
+},
+{
+	"tt_id" : 118,
+	"tt_mod" : 16,
+	"tt_desc" : "You will earn more points in a Clan Battle"
+},
+{
+	"tt_id" : 119,
+	"tt_mod" : 17,
+	"tt_desc" : "In Elimination, players must wait until the start of a new round to respawn."
+},
+{
+	"tt_id" : 120,
+	"tt_mod" : 17,
+	"tt_desc" : "A Radar Item will appear in the middle of the map when one defending player remains in the round."
+},
+{
+	"tt_id" : 121,
+	"tt_mod" : 17,
+	"tt_desc" : "The Radar Item will locate all enemies on the players minimap."
+},
+{
+	"tt_id" : 122,
+	"tt_mod" : 17,
+	"tt_desc" : "The Radar Item will be activated automatically and will affect all players."
+},
+{
+	"tt_id" : 123,
+	"tt_mod" : 17,
+	"tt_desc" : "The Radar Item will be active until the end of the round."
+},
+{
+	"tt_id" : 124,
+	"tt_mod" : 17,
+	"tt_desc" : "If the round ends with any surviving defending players, the round is declared as a Draw."
+},
+{
+	"tt_id" : 125,
+	"tt_mod" : 17,
+	"tt_desc" : "The Clan Battle may begin 7 seconds after all members have joined."
+},
+{
+	"tt_id" : 126,
+	"tt_mod" : 17,
+	"tt_desc" : "You will earn more points in a Clan Battle"
+},
+{
+	"tt_id" : 127,
+	"tt_mod" : 18,
+	"tt_desc" : "Wielding a melee weapon will increase run speed."
+},
+{
+	"tt_id" : 128,
+	"tt_mod" : 18,
+	"tt_desc" : "While wielding a melee weapon, press the Jump key twice to double jump."
+},
+{
+	"tt_id" : 129,
+	"tt_mod" : 18,
+	"tt_desc" : "When you hit an enemy, your disguise will disappear."
+},
+{
+	"tt_id" : 130,
+	"tt_mod" : 18,
+	"tt_desc" : "The [F] key will activate your item."
+},
+{
+	"tt_id" : 131,
+	"tt_mod" : 18,
+	"tt_desc" : "Press and hold the Fire key to shoot the Gatling Gun."
+},
+{
+	"tt_id" : 132,
+	"tt_mod" : 18,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 133,
+	"tt_mod" : 18,
+	"tt_desc" : "While holding the Sniper Rifle, you can still move your character while looking through the scope."
+},
+{
+	"tt_id" : 134,
+	"tt_mod" : 18,
+	"tt_desc" : "While holding the Sniper Rifle, you will have a reduced run speed while looking through the scope."
+},
+{
+	"tt_id" : 135,
+	"tt_mod" : 18,
+	"tt_desc" : "Grenades will explode a few seconds after impact with the ground or wall."
+},
+{
+	"tt_id" : 136,
+	"tt_mod" : 18,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 137,
+	"tt_mod" : 18,
+	"tt_desc" : "It takes a few moments to reload your weapon after pressing the Reload key."
+},
+{
+	"tt_id" : 138,
+	"tt_mod" : 18,
+	"tt_desc" : "Shotguns and melee weapons are best used in close range combat."
+},
+{
+	"tt_id" : 139,
+	"tt_mod" : 18,
+	"tt_desc" : "Be polite while playing ToyHeroes Online!"
+},
+{
+	"tt_id" : 140,
+	"tt_mod" : 18,
+	"tt_desc" : "Press [L-Shift] to use your character action."
+},
+{
+	"tt_id" : 141,
+	"tt_mod" : 18,
+	"tt_desc" : "The [Tab] key will display the mini map, score and game type."
+},
+{
+	"tt_id" : 142,
+	"tt_mod" : 18,
+	"tt_desc" : "Middle mouse click will rotate the camera by 180 degrees."
+},
+{
+	"tt_id" : 143,
+	"tt_mod" : 18,
+	"tt_desc" : "Your personal score and the score of the top three players of the game will be displayed in the top "
+},
+{
+	"tt_id" : 144,
+	"tt_mod" : 18,
+	"tt_desc" : "Direct hits with the Rocket Launcher and Grenade Launcher will instantly kill the enemy."
+},
+{
+	"tt_id" : 145,
+	"tt_mod" : 18,
+	"tt_desc" : "Characters are unaffected by falling damage."
+},
+{
+	"tt_id" : 146,
+	"tt_mod" : 18,
+	"tt_desc" : "Standing too close to the explosion of a rocket or grenade will inflict splash damage."
+},
+{
+	"tt_id" : 147,
+	"tt_mod" : 18,
+	"tt_desc" : "You can observe the enemy's position while using the Third Person View"
+},
+{
+	"tt_id" : 148,
+	"tt_mod" : 18,
+	"tt_desc" : "Use the green jump pad to reach higher points and gain higher ground."
+},
+{
+	"tt_id" : 149,
+	"tt_mod" : 9,
+	"tt_desc" : "Scrimmage: HP can be replenished n times."
+},
+{
+	"tt_id" : 150,
+	"tt_mod" : 9,
+	"tt_desc" : "Scrimmage: Ammo can be replenished n times."
+},
+{
+	"tt_id" : 151,
+	"tt_mod" : 9,
+	"tt_desc" : "Scrimmage: Kill/Death information is not recorded."
+},
+{
+	"tt_id" : 152,
+	"tt_mod" : 9,
+	"tt_desc" : "Scrimmage: Whoever reaches 0 Team HP first loses."
+},
+{
+	"tt_id" : 153,
+	"tt_mod" : 9,
+	"tt_desc" : "Scrimmage: Achievement recording is disabled."
+},
+{
+	"tt_id" : 154,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: If you are killed in battle, you must wait for the next round to respawn."
+},
+{
+	"tt_id" : 155,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: Locate the bomb sites on your minimap or HUD."
+},
+{
+	"tt_id" : 156,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: At the start of the round, a random member from Offense will receive the Bomb."
+},
+{
+	"tt_id" : 157,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: Watch out! Planting and diffusing the bomb takes a certain amount of time."
+},
+{
+	"tt_id" : 158,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: Hold down your Plant/Diffuse button to perform the appropriate action."
+},
+{
+	"tt_id" : 159,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: The bomb may be dropped for strategic transfers or special tactics."
+},
+{
+	"tt_id" : 160,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: When a player in possession of the bomb dies from falling, the bomb is returned to the "
+},
+{
+	"tt_id" : 161,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: The round ends when either a whole team is eliminated or a bomb is successfully armed o"
+},
+{
+	"tt_id" : 162,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: Defense, defend the bomb sites for most effectiveness!"
+},
+{
+	"tt_id" : 163,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: The Defense wins the round if the Offense fails to eliminate their opponents or success"
+},
+{
+	"tt_id" : 164,
+	"tt_mod" : 10,
+	"tt_desc" : "Bomb Battle: The Offense loses the round if they fail to eliminate their opponents or successfully a"
+},
+{
+	"tt_id" : 165,
+	"tt_mod" : 11,
+	"tt_desc" : "Wielding a melee weapon will increase run speed."
+},
+{
+	"tt_id" : 166,
+	"tt_mod" : 11,
+	"tt_desc" : "While wielding a melee weapon, press the Jump key twice to double jump."
+},
+{
+	"tt_id" : 167,
+	"tt_mod" : 11,
+	"tt_desc" : "When you hit an enemy, your disguise will disappear."
+},
+{
+	"tt_id" : 168,
+	"tt_mod" : 11,
+	"tt_desc" : "The [F] key will activate your item."
+},
+{
+	"tt_id" : 169,
+	"tt_mod" : 11,
+	"tt_desc" : "Press and hold the Fire key to shoot the Gatling Gun."
+},
+{
+	"tt_id" : 170,
+	"tt_mod" : 11,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 171,
+	"tt_mod" : 11,
+	"tt_desc" : "While holding the Sniper Rifle, you can still move your character while looking through the scope."
+},
+{
+	"tt_id" : 172,
+	"tt_mod" : 11,
+	"tt_desc" : "While holding the Sniper Rifle, you will have a reduced run speed while looking through the scope."
+},
+{
+	"tt_id" : 173,
+	"tt_mod" : 11,
+	"tt_desc" : "Grenades will explode a few seconds after impact with the ground or wall."
+},
+{
+	"tt_id" : 174,
+	"tt_mod" : 11,
+	"tt_desc" : "While holding the Sniper Rifle, right click to look through the scope."
+},
+{
+	"tt_id" : 175,
+	"tt_mod" : 11,
+	"tt_desc" : "It takes a few moments to reload your weapon after pressing the Reload key."
+},
+{
+	"tt_id" : 176,
+	"tt_mod" : 11,
+	"tt_desc" : "Shotguns and melee weapons are best used in close range combat."
+},
+{
+	"tt_id" : 177,
+	"tt_mod" : 11,
+	"tt_desc" : "Be polite while playing ToyHeroes Online!"
+},
+{
+	"tt_id" : 178,
+	"tt_mod" : 11,
+	"tt_desc" : "Press [L-Shift] to use your character action."
+},
+{
+	"tt_id" : 179,
+	"tt_mod" : 11,
+	"tt_desc" : "The [Tab] key will display the mini map, score and game type."
+},
+{
+	"tt_id" : 180,
+	"tt_mod" : 11,
+	"tt_desc" : "Middle mouse click will rotate the camera by 180 degrees."
+},
+{
+	"tt_id" : 181,
+	"tt_mod" : 11,
+	"tt_desc" : "Your personal score and the score of the top three players of the game will be displayed in the top "
+},
+{
+	"tt_id" : 182,
+	"tt_mod" : 11,
+	"tt_desc" : "Direct hits with the Rocket Launcher and Grenade Launcher will instantly kill the enemy."
+},
+{
+	"tt_id" : 183,
+	"tt_mod" : 11,
+	"tt_desc" : "Characters are unaffected by falling damage."
+},
+{
+	"tt_id" : 184,
+	"tt_mod" : 11,
+	"tt_desc" : "Standing too close to the explosion of a rocket or grenade will inflict splash damage."
+},
+{
+	"tt_id" : 185,
+	"tt_mod" : 11,
+	"tt_desc" : "You can observe the enemy's position while using the Third Person View"
+},
+{
+	"tt_id" : 186,
+	"tt_mod" : 11,
+	"tt_desc" : "Use the green jump pad to reach higher points and gain higher ground."
+},
+{
+	"tt_id" : 187,
+	"tt_mod" : 12,
+	"tt_desc" : "Improve your skills in practice mode."
+},
+{
+	"tt_id" : 188,
+	"tt_mod" : 12,
+	"tt_desc" : "Result of practice mode is not recorded."
+},
+{
+	"tt_id" : 189,
+	"tt_mod" : 12,
+	"tt_desc" : "You cannot be destroyed in practice mode."
+},
+{
+	"tt_id" : 190,
+	"tt_mod" : 12,
+	"tt_desc" : "Infinite ammo is given in practice mode."
+},
+{
+	"tt_id" : 191,
+	"tt_mod" : 14,
+	"tt_desc" : "You can only play A.I. Mode as Single-Player."
+},
+{
+	"tt_id" : 192,
+	"tt_mod" : 14,
+	"tt_desc" : "The EXP and MP gain are less in A.I. Mode."
+},
+{
+	"tt_id" : 193,
+	"tt_mod" : 19,
+	"tt_desc" : "Clan Bomb Battle: Each team plays 5 rounds on both Offense and Defense."
+},
+{
+	"tt_id" : 194,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: If you are killed in battle, you must wait for the next round to respawn."
+},
+{
+	"tt_id" : 195,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: Locate the bomb sites on your minimap or HUD."
+},
+{
+	"tt_id" : 196,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: At the start of the round, a random member from Offense will receive the Bomb."
+},
+{
+	"tt_id" : 197,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: Watch out! Planting and diffusing the bomb takes a certain amount of time."
+},
+{
+	"tt_id" : 198,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: Hold down your Plant/Diffuse button to perform the appropriate action."
+},
+{
+	"tt_id" : 199,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: The bomb may be dropped for strategic transfers or special tactics."
+},
+{
+	"tt_id" : 200,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: When a player in possession of the bomb dies from falling, the bomb is returned to the "
+},
+{
+	"tt_id" : 201,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: The round ends when either a whole team is eliminated or a bomb is successfully armed o"
+},
+{
+	"tt_id" : 202,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: Defense, defend the bomb sites for most effectiveness!"
+},
+{
+	"tt_id" : 203,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: The Defense wins the round if the Offense fails to eliminate their opponents or success"
+},
+{
+	"tt_id" : 204,
+	"tt_mod" : 19,
+	"tt_desc" : "Bomb Battle: The Offense loses the round if they fail to eliminate their opponents or successfully a"
+},
+{
+	"tt_id" : 205,
+	"tt_mod" : 13,
+	"tt_desc" : "You can respawn only a limited number of times."
+},
+{
+	"tt_id" : 206,
+	"tt_mod" : 13,
+	"tt_desc" : "Attack the Tracker Boss' weak spots."
+},
+{
+	"tt_id" : 207,
+	"tt_mod" : 13,
+	"tt_desc" : "Up to 4 players can play Co-op Mode together."
+},
+{
+	"tt_id" : 208,
+	"tt_mod" : 13,
+	"tt_desc" : "No reward will be given if you abandon Co-op Mode."
+},
+{
+	"tt_id" : 209,
+	"tt_mod" : 13,
+	"tt_desc" : "Tracker Boss will rage when its HP gets lower than 30%."
+},
+{
+	"tt_id" : 210,
+	"tt_mod" : 13,
+	"tt_desc" : "You can obtain ammo and HP by defeating Trackers."
+},
+{
+	"tt_id" : 211,
+	"tt_mod" : 13,
+	"tt_desc" : "The Tracker Boss is easier to defeat once its pattern is discovered."
+}
