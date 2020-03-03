@@ -2,7 +2,6 @@ D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.runtimeconfig.json
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.runtimeconfig.dev.json
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\bin\Debug\netcoreapp2.1\JSONtoObjectsParser.dll
-D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.csprojAssemblyReference.cache
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.csproj.CoreCompileInputs.cache
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.AssemblyInfoInputs.cache
 D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser\JSONtoObjectsParser\obj\Debug\netcoreapp2.1\JSONtoObjectsParser.AssemblyInfo.cs

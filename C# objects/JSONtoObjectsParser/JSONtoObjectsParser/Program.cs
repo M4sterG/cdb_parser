@@ -32,6 +32,7 @@ namespace JSONtoObjectsParser
             List<int> missingIDS = new List<int>();
 
             var outPath = Environment.CurrentDirectory + "weapons.res";
+            List<Weapon> weapons = new List<Weapon>();
 
             using (var writer = new StreamWriter(outPath))
             {
@@ -42,6 +43,7 @@ namespace JSONtoObjectsParser
                     {
                         if (info_mv.ii_weaponinfo == w_mv.wi_id)
                         {
+                            weapons.Add(getActualWeapon(w_mv, info_mv));
                             string msg = "id : " + w_mv.wi_id + " | name: " + info_mv.ii_name + " | Type " + w_mv.wi_weapon_type.ToString();
                             writer.WriteLine(msg);
                             Console.WriteLine(msg);
@@ -69,6 +71,7 @@ namespace JSONtoObjectsParser
                         {
 
                             missingIDS.Remove(w_tw.wi_id);
+                            weapons.Add(getActualWeapon(w_tw, info_tw));
                             String msg = "id : " + w_tw.wi_id + " | name: " + info_tw.ii_name + " | Type " + w_tw.wi_weapon_type.ToString();
                             Console.WriteLine("Found in TW :" + msg);
                             writer.WriteLine(msg);
@@ -78,6 +81,44 @@ namespace JSONtoObjectsParser
                 Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
             }
             Console.WriteLine("File in: " + Environment.CurrentDirectory);
+        }
+        
+        public static Weapon getActualWeapon(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            switch (primWep.wi_weapon_type) {
+                case WeaponType.Melee:
+                    return handleMeleeCase(primWep, info);
+                case WeaponType.Rifle:
+                    return handleCaseRifle(primWep, info);
+                default:
+                    return new Weapon(primWep.wi_id, primWep.wi_weapon_type, info.ii_desc, info.ii_name);
+            }
+            return null;
+
+        }
+
+        private static Weapon handleCaseRifle(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Rifle(primWep.wi_ability_a, primWep.wi_ability_b,
+                                         primWep.wi_ability_c, primWep.wi_ability_d);
+            setStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static void setStats(Weapon wep, PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            wep.Id = primWep.wi_id;
+            wep.Description = info.ii_desc;
+            wep.Name = info.ii_name;
+            wep.MeshPath = info.ii_meshfilename;
+        }
+
+        private static Weapon handleMeleeCase(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Melee(primWep.wi_ability_a, primWep.wi_ability_b,
+                                         primWep.wi_ability_c, primWep.wi_ability_d);
+            setStats(wep, primWep, info);
+            return wep;
         }
 
         public static bool lastTwoDigitsAreGood(int id)
