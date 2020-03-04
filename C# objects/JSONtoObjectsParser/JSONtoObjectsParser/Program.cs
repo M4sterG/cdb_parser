@@ -83,29 +83,79 @@ namespace JSONtoObjectsParser
             Console.WriteLine("File in: " + Environment.CurrentDirectory);
         }
         
-        public static Weapon getActualWeapon(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        private static Weapon getActualWeapon(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
         {
             switch (primWep.wi_weapon_type) {
                 case WeaponType.Melee:
                     return handleMeleeCase(primWep, info);
                 case WeaponType.Rifle:
                     return handleCaseRifle(primWep, info);
+                case WeaponType.Shotgun:
+                    return handleCaseShotgun(primWep, info);
+                case WeaponType.Sniper:
+                    return handleCaseSniper(primWep, info);
+                case WeaponType.Minigun:
+                    return handleCaseMinigun(primWep, info);
+                case WeaponType.Bazooka:
+                    return handleCaseBazooka(primWep, info);
+                case WeaponType.Grenade:
+                    return handleCaseGrenade(primWep, info);
                 default:
-                    return new Weapon(primWep.wi_id, primWep.wi_weapon_type, info.ii_desc, info.ii_name);
+                    throw new ArgumentException("Illegal weapon type");
             }
             return null;
 
+        }
+
+        private static Weapon handleCaseGrenade(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Grenade(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseBazooka(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Bazooka(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseMinigun(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Minigun(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseSniper(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Sniper(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseShotgun(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Shotgun(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
         }
 
         private static Weapon handleCaseRifle(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
         {
             Weapon wep = new Rifle(primWep.wi_ability_a, primWep.wi_ability_b,
                                          primWep.wi_ability_c, primWep.wi_ability_d);
-            setStats(wep, primWep, info);
+            setWeaponStats(wep, primWep, info);
             return wep;
         }
 
-        private static void setStats(Weapon wep, PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        private static void setWeaponStats(Weapon wep, PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
         {
             wep.Id = primWep.wi_id;
             wep.Description = info.ii_desc;
@@ -116,8 +166,8 @@ namespace JSONtoObjectsParser
         private static Weapon handleMeleeCase(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
         {
             Weapon wep = new Melee(primWep.wi_ability_a, primWep.wi_ability_b,
-                                         primWep.wi_ability_c, primWep.wi_ability_d);
-            setStats(wep, primWep, info);
+                                   primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
             return wep;
         }
 

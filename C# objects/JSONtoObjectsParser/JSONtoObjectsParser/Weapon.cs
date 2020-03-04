@@ -4,7 +4,7 @@ using System.Text;
 
 namespace JSONtoObjectsParser
 {
-    public /*abstract*/ class Weapon : Item
+    public abstract class Weapon : Item
     {
         public WeaponType WeaponType { get; set; }
         public Weapon(int id, WeaponType weaponType, string name, string desc)
@@ -16,6 +16,11 @@ namespace JSONtoObjectsParser
         }
 
         public Weapon()
+        {
+
+        }
+
+        public Weapon(int abilityA, int abilityB, int abilityC, int abilityD)
         {
 
         }
