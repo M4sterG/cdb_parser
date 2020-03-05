@@ -125,8 +125,8 @@ int main()
 			}
 			for (j = 0; j < nofkeys; j++)
 			{
-				fprintf(log, "\t%s\t", keys[j]);
-				fprintf(log, "\t\tlength : %d \n", entry_sizes[j]);
+				fprintf(log, "%s\t", keys[j]);
+				fprintf(log, "length : %d \n", entry_sizes[j]);
 			}
 
 			fprintf(log, "Data block size : %d\n", dblock_size);

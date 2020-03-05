@@ -1,53 +1,188 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using WaponJSONParser;
 
 namespace JSONtoObjectsParser
 {
-    class Program
+    internal class Program
     {
-        private const string ITEMS_PATH = "weaponinfo.cdb.json";
-        static void Main(string[] args)
+        private const string WEAPON_INFO_PATH = "MV/weaponinfo.json";
+        private const string ITEM_WEAPON_INFO_PATH = "MV/itemweaponsinfo.json";
+        private const string WEAPON_INFO_PATH_TW = "TW/weaponinfo.json";
+        private const string ITEM_WEAPON_INFO_PATH_TW = "TW/itemweaponsinfo.json";
+
+        private static void Main(string[] args)
         {
-            List<PrimitiveWeapon> weps = loadItems(ITEMS_PATH);
-        }
+            Console.OutputEncoding = Encoding.Unicode;
+            Console.WriteLine("!!! Debugger looks for the files in: " + Environment.CurrentDirectory);
+            List<PrimitiveWeapon> weapons_mv = new JSONToCSharpParser<PrimitiveWeapon>().parse(WEAPON_INFO_PATH);
+            List<PrimitiveIteamWeaponInfo> weaponInfos_mv = new JSONToCSharpParser<PrimitiveIteamWeaponInfo>().parse(ITEM_WEAPON_INFO_PATH);
 
-        private static string fixJson(String json)
-        {
-            return " [ " + json + " ] ";
-        }
+            List<PrimitiveWeapon> weapons_tw = new JSONToCSharpParser<PrimitiveWeapon>().parse(WEAPON_INFO_PATH_TW);
+            List<PrimitiveIteamWeaponInfo> weaponInfos_tw = new JSONToCSharpParser<PrimitiveIteamWeaponInfo>().parse(ITEM_WEAPON_INFO_PATH_TW);
 
-        private static List<PrimitiveWeapon> loadItems(string path)
-        {
+            weapons_mv = weapons_mv.FindAll(w_mv => lastTwoDigitsAreGood(w_mv.wi_id));
+            weaponInfos_mv = weaponInfos_mv.FindAll(info_mv => lastTwoDigitsAreGood(info_mv.ii_weaponinfo));
 
+            weapons_tw = weapons_tw.FindAll(w_tw => lastTwoDigitsAreGood(w_tw.wi_id));
+            weaponInfos_tw = weaponInfos_tw.FindAll(info_tw => lastTwoDigitsAreGood(info_tw.ii_weaponinfo));
 
-            List<PrimitiveWeapon> weps;
-            try
+            List<int> missingIDS = new List<int>();
+
+            var outPath = Environment.CurrentDirectory + "weapons.res";
+            List<Weapon> weapons = new List<Weapon>();
+
+            using (var writer = new StreamWriter(outPath))
             {
-                using (StreamReader r = new StreamReader(path))
+                foreach (PrimitiveWeapon w_mv in weapons_mv)
                 {
-                    string json = r.ReadToEnd();
-                    json = fixJson(json);
-                    //Console.Write(json);
-                    weps = JsonConvert.DeserializeObject<List<PrimitiveWeapon>>(json);
-                    Console.WriteLine("Found the file and converted the objects");
+                    bool found = false;
+                    foreach (PrimitiveIteamWeaponInfo info_mv in weaponInfos_mv)
+                    {
+                        if (info_mv.ii_weaponinfo == w_mv.wi_id)
+                        {
+                            weapons.Add(getActualWeapon(w_mv, info_mv));
+                            string msg = "id : " + w_mv.wi_id + " | name: " + info_mv.ii_name + " | Type " + w_mv.wi_weapon_type.ToString();
+                            writer.WriteLine(msg);
+                            Console.WriteLine(msg);
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (!found)
+                    {
+                        missingIDS.Add(w_mv.wi_id);
+                        string errorMsg = "Couldn't find match for id: " + w_mv.wi_id;
+                        Console.WriteLine(errorMsg);
+                        writer.WriteLine(errorMsg);
+                    }
                 }
+
+                int missing = missingIDS.Count;
+                Console.WriteLine(missing + " items are missing in database");
+
+                foreach (PrimitiveWeapon w_tw in weapons_tw)
+                {
+                    foreach (PrimitiveIteamWeaponInfo info_tw in weaponInfos_tw)
+                    {
+                        if (missingIDS.Contains(w_tw.wi_id))
+                        {
+
+                            missingIDS.Remove(w_tw.wi_id);
+                            weapons.Add(getActualWeapon(w_tw, info_tw));
+                            String msg = "id : " + w_tw.wi_id + " | name: " + info_tw.ii_name + " | Type " + w_tw.wi_weapon_type.ToString();
+                            Console.WriteLine("Found in TW :" + msg);
+                            writer.WriteLine(msg);
+                        }
+                    }
+                }
+                Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
             }
-            catch (FileNotFoundException e)
+            Console.WriteLine("File in: " + Environment.CurrentDirectory);
+        }
+        
+        private static Weapon getActualWeapon(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            switch (primWep.wi_weapon_type) {
+                case WeaponType.Melee:
+                    return handleMeleeCase(primWep, info);
+                case WeaponType.Rifle:
+                    return handleCaseRifle(primWep, info);
+                case WeaponType.Shotgun:
+                    return handleCaseShotgun(primWep, info);
+                case WeaponType.Sniper:
+                    return handleCaseSniper(primWep, info);
+                case WeaponType.Minigun:
+                    return handleCaseMinigun(primWep, info);
+                case WeaponType.Bazooka:
+                    return handleCaseBazooka(primWep, info);
+                case WeaponType.Grenade:
+                    return handleCaseGrenade(primWep, info);
+                default:
+                    throw new ArgumentException("Illegal weapon type");
+            }
+            return null;
+
+        }
+
+        private static Weapon handleCaseGrenade(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Grenade(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseBazooka(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Bazooka(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseMinigun(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Minigun(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseSniper(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Sniper(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseShotgun(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Shotgun(primWep.wi_ability_a, primWep.wi_ability_b,
+                                        primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static Weapon handleCaseRifle(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Rifle(primWep.wi_ability_a, primWep.wi_ability_b,
+                                         primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        private static void setWeaponStats(Weapon wep, PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            wep.Id = primWep.wi_id;
+            wep.Description = info.ii_desc;
+            wep.Name = info.ii_name;
+            wep.MeshPath = info.ii_meshfilename;
+        }
+
+        private static Weapon handleMeleeCase(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
+        {
+            Weapon wep = new Melee(primWep.wi_ability_a, primWep.wi_ability_b,
+                                   primWep.wi_ability_c, primWep.wi_ability_d);
+            setWeaponStats(wep, primWep, info);
+            return wep;
+        }
+
+        public static bool lastTwoDigitsAreGood(int id)
+        {
+            int[] digits = new int[7];
+            int pos = 0;
+            while (id > 0)
             {
-                Console.WriteLine("File not found");
-                Console.WriteLine(e.Message);
-                weps = new List<PrimitiveWeapon>();
+                digits[pos] = id % 10;
+                id /= 10;
+                pos++;
             }
-            catch (Newtonsoft.Json.JsonSerializationException e)
-            {
-                Console.WriteLine("Error while parsin the JSON file");
-                Console.WriteLine(e.Message);
-                weps = new List<PrimitiveWeapon>();
-            }
-            return weps;
+            Array.Reverse(digits);
+            return digits[5] == 0 && digits[6] == 0;
         }
     }
 }
