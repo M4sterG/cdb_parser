@@ -4,26 +4,32 @@ using System.Text;
 
 namespace JSONtoObjectsParser
 {
-    public class Grenade : Weapon
+    public class Grenade : Explosive
     {
-        public int Power { get; set; } // ability_a in cgd
-        public int FiringRate { get; set; } // ability_b in cgd
-
-        public int BlastRadius { get; set; } // ability_c in cgd
-
-        public int ReloadSpeed { get; set; } // ability_d in cgd
-
+        private const int MAX_BOUNCE_COUNT = 2;
+        public SwapSpeed SwapSpeed { get; set; }
         public Grenade()
         {
             WeaponType = WeaponType.Grenade;
         }
-
         public Grenade(int power, int firingRate, int blastRadius, int reloadSpeed) : this()
         {
-            Power = power;
-            FiringRate = firingRate;
-            BlastRadius = blastRadius;
-            ReloadSpeed = reloadSpeed;
+            Power = power;  // ability_a in cgd  
+            FiringRate = firingRate;    // ability_b in cgd  
+            BlastRadius = blastRadius;  // ability_c in cgd  
+            ReloadSpeed = reloadSpeed;  // ability_d in cgd  
+        }
+
+        public new string ToUniquePropertyList()
+        {
+            return "blast_radius, swap_speed";
+        }
+        public new string ToSQLQuery()
+        {
+            return "INSERT IGNORE INTO grenade_base_stats (id, " + ToUniquePropertyList() + ") VALUES (" +
+                Id + "," +
+                BlastRadius + "," +
+                "'" + SwapSpeed.ToString() + "');";
         }
     }
 }

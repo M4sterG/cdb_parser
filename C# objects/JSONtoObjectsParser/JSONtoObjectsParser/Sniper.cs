@@ -4,27 +4,39 @@ using System.Text;
 
 namespace JSONtoObjectsParser
 {
-    public class Sniper : Weapon
+    public class Sniper : Gun
     {
-        public int Power { get; set; } // ability_a in cgd
-        public int FiringRate { get; set; } // ability_b in cgd
-
-        public int ZoomSpeed { get; set; } // ability_c in cgd
-
-        public int ReloadSpeed { get; set; } // ability_d in cgd
-
+        public enum ZoomType
+        {
+            Reduced,
+            Single,
+            Single_double,
+            Double,
+            Double_reduced
+        }
+        public int ZoomSpeed { get; set; }  
+        public ZoomType Zoom { get; set; }
         public Sniper()
         {
             WeaponType = WeaponType.Sniper;
         }
-
         public Sniper(int power, int firingRate, int zoomSpeed, int reloadSpeed) : this()
         {
-            Power = power;
-            FiringRate = firingRate;
-            ZoomSpeed = zoomSpeed;
-            ReloadSpeed = reloadSpeed;
-
+            Power = power;  // ability_a in cgd  
+            FiringRate = firingRate;    // ability_b in cgd  
+            ZoomSpeed = zoomSpeed;  // ability_c in cgd  
+            ReloadSpeed = reloadSpeed;  // ability_d in cgd 
+        }
+        public new string ToUniquePropertyList()
+        {
+            return "zoom_speed, zoom_type";
+        }
+        public string ToSQLQuery(int i)
+        {
+            return "INSERT IGNORE INTO sniper_base_stats (id , " + ToUniquePropertyList() + ") VALUES (" +
+                i + "," +
+                ZoomSpeed + "," +
+                "'" + Zoom.ToString() + "');";
         }
     }
 }

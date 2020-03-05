@@ -4,28 +4,28 @@ using System.Text;
 
 namespace JSONtoObjectsParser
 {
-    public class Rifle : Weapon
+    public class Rifle : Gun
     {
-        public int Power { get; set; } // ability_a in cgd
-        public int FiringRate { get; set; } // ability_b in cgd
-
-        public int Accuracy { get; set; } // ability_c in cgd
-
-        public int ReloadSpeed { get; set; } // ability_d in cgd
-
         public Rifle() 
         {
             WeaponType = WeaponType.Rifle;
         }
-
         public Rifle(int power, int firingRate, int accuracy, int reloadSpeed) : this()
         {
-            Power = power;
-            FiringRate = firingRate;
-            Accuracy = accuracy;
-            ReloadSpeed = reloadSpeed;
-
+            Power = power;  // ability_c in cgd  
+            FiringRate = firingRate;    // ability_b in cgd  
+            Accuracy = accuracy;    // ability_c in cgd  
+            ReloadSpeed = reloadSpeed;// ability_d in cgd  
         }
-
+        public new string ToUniquePropertyList()
+        {
+            return "accuracy";
+        }
+        public new string ToSQLQuery()
+        {
+            return "INSERT IGNORE INTO rifle_base_stats (id, " + ToUniquePropertyList() + ") VALUES (" +
+                Id + "," +
+               Accuracy + ");";
+        }
     }
 }

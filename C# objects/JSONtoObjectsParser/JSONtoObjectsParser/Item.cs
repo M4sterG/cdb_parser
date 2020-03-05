@@ -11,15 +11,29 @@ namespace JSONtoObjectsParser
         public int Id { get; set; }
         public string MeshPath { get; set; }
         public ItemType ItemType { get; set; }
+
+        public virtual string ToUniquePropertyList()
+        {
+            return "name, description, file_path, type";
+        }
+        public string ToSQLQuery()
+        {
+            return "INSERT IGNORE INTO items (item_id, " + ToUniquePropertyList() + ") VALUES (" +
+                Id + "," +
+                "'" + Name.Replace("'", "''") + "'," +
+                "'" + Description.Replace("'", "''") + "'," +
+                "'" + MeshPath.Replace("'", "''") + "'," +
+                "'" + ItemType.ToString() + "');";
+        }
     }
 
     public enum ItemType
     {
         Weapon,
         Part,
-        Convenience
+        Convenience,
+        Package
     }
-
     public enum WeaponType
     {
         Melee,
