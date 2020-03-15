@@ -17,6 +17,9 @@ namespace JSONtoObjectsParser
         public int ReloadSpeed { get; set; }
         public int AmmoClip { get; set; } //wi_bullet_capacity
         public int TotalAmmo { get; set; } //wi_bullet_total
+        public int ChangeTime { get; set; }
+//        public int ChangeSkip { get; set; } always 500
+//        public int ChangeDelay { get; set; } always 0
         public WeaponType WeaponType { get; set; }
         public Weapon(int id, WeaponType weaponType, string name, string desc)
         {
