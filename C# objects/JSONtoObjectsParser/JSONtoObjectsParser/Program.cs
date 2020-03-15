@@ -8,6 +8,7 @@ using WaponJSONParser;
 using Console = Colorful.Console;
 using Colorful;
 using System.Drawing;
+using System.Net.WebSockets;
 
 namespace JSONtoObjectsParser
 {
@@ -43,64 +44,87 @@ namespace JSONtoObjectsParser
 
             List<int> missingIDS = new List<int>();
 
-            var outPath = Environment.CurrentDirectory + "weapons.res";
+            
             List<Weapon> weapons = new List<Weapon>();
 
-            using (var writer = new StreamWriter(outPath))
-            {
-                foreach (PrimitiveWeapon w_mv in weapons_mv)
+            getMVWeapons(weapons_mv, weaponInfos_mv, missingIDS, weapons);
+            getTWWeaponsAndCompare(weapons_tw, weaponInfos_tw, weapons, missingIDS);
+            
+            int missing = missingIDS.Count;
+            Console.WriteLine(missing + " items are missing in database");
+            Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
+                
+                
+                
+             //   WebClient web = new WebClient();
+              //  foreach (Weapon wep in weapons)
+              //  {
+               //     ProcessQuery(getWeaponInfo(wep), web);
+                //    System.Threading.Thread.Sleep(50);
+               // }
+
+            
+            Console.WriteLine("File in: " + Environment.CurrentDirectory);
+        }
+
+        private static void getMVWeapons(List<PrimitiveWeapon> mvWeapons,
+            List<PrimitiveIteamWeaponInfo> infoWeps,
+            List<int> missingIDS, List<Weapon> weapons)
+        {
+           
+                foreach (PrimitiveWeapon w_mv in mvWeapons)
                 {
                     bool found = false;
-                    foreach (PrimitiveIteamWeaponInfo info_mv in weaponInfos_mv)
+                    foreach (PrimitiveIteamWeaponInfo info_mv in infoWeps)
                     {
                         if (info_mv.ii_weaponinfo == w_mv.wi_id)
                         {
                             weapons.Add(getActualWeapon(w_mv, info_mv));
-                            string msg = "id : " + w_mv.wi_id + " | name: " + info_mv.ii_name + " | Type " + w_mv.wi_weapon_type.ToString();
-                            writer.WriteLine(msg);
+                            string msg = "id : " + w_mv.wi_id + " | name: " + info_mv.ii_name + " | Type " +
+                                         w_mv.wi_weapon_type.ToString();
                             Console.WriteLine(msg);
                             found = true;
                             break;
                         }
                     }
+
                     if (!found)
                     {
                         missingIDS.Add(w_mv.wi_id);
                         string errorMsg = "Couldn't find match for id: " + w_mv.wi_id;
                         Console.WriteLine(errorMsg);
-                        writer.WriteLine(errorMsg);
+                        
                     }
                 }
+                
+            
+        }
 
-                int missing = missingIDS.Count;
-                Console.WriteLine(missing + " items are missing in database");
-
-                foreach (PrimitiveWeapon w_tw in weapons_tw)
+        private static void getTWWeaponsAndCompare(List<PrimitiveWeapon> TWWeapons, 
+                                    List<PrimitiveIteamWeaponInfo> infoTW,
+                                    List<Weapon> weapons,
+                                    List<int> missingIDS)
+        {
+           
+                foreach (PrimitiveWeapon w_tw in TWWeapons)
                 {
-                    foreach (PrimitiveIteamWeaponInfo info_tw in weaponInfos_tw)
+                    foreach (PrimitiveIteamWeaponInfo info_tw in infoTW)
                     {
                         if (missingIDS.Contains(w_tw.wi_id))
                         {
                             missingIDS.Remove(w_tw.wi_id);
                             weapons.Add(getActualWeapon(w_tw, info_tw));
-                            String msg = "id : " + w_tw.wi_id + " | name: " + info_tw.ii_name + " | Type " + w_tw.wi_weapon_type.ToString();
+                            String msg = "id : " + w_tw.wi_id + " | name: " + info_tw.ii_name + " | Type " +
+                                         w_tw.wi_weapon_type.ToString();
                             Console.WriteLine("Found in TW :" + msg);
-                            writer.WriteLine(msg);
+                            
                         }
                     }
                 }
-                Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
-                
-                WebClient web = new WebClient();
-                foreach (Weapon wep in weapons)
-                {
-                    ProcessQuery(getWeaponInfo(wep), web);
-                    System.Threading.Thread.Sleep(50);
-                }
-
-            }
-            Console.WriteLine("File in: " + Environment.CurrentDirectory);
         }
+        
+
+
         private static void ProcessQuery(List<string> queryList, WebClient web)
         {
             for (int i = 0; i < queryList.Count; i++)

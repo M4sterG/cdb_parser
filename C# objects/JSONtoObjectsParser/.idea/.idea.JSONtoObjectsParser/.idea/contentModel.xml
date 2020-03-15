@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mikez\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mikez\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_JSONtoObjectsParser.-1439857012.00" t="ExcludeRecursive" />
+    <e p="D:\Programming\cdb_parser\C# objects\JSONtoObjectsParser" t="IncludeFlat">
+      <e p="JSONtoObjectsParser" t="IncludeRecursive">
+        <e p="Bazooka.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Explosive.cs" t="Include" />
+        <e p="Grenade.cs" t="Include" />
+        <e p="Gun.cs" t="Include" />
+        <e p="Item.cs" t="Include" />
+        <e p="JSONToCSharpParser.cs" t="Include" />
+        <e p="JSONtoObjectsParser.csproj" t="IncludeRecursive" />
+        <e p="Melee.cs" t="Include" />
+        <e p="Minigun.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="JSONtoObjectsParser.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PrimitiveIteamWeaponInfo.cs" t="Include" />
+        <e p="PrimitiveWeapon.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Rifle.cs" t="Include" />
+        <e p="Shotgun.cs" t="Include" />
+        <e p="Sniper.cs" t="Include" />
+        <e p="Weapon.cs" t="Include" />
+      </e>
+      <e p="JSONtoObjectsParser.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

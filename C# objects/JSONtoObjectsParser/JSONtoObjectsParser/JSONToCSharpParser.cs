@@ -22,7 +22,6 @@ namespace JSONtoObjectsParser
         private List<T> loadItems(string path)
         {
 
-
             List<T> objects;
             try
             {
@@ -35,7 +34,7 @@ namespace JSONtoObjectsParser
                     Console.WriteLine("Found the file and converted the objects");
                 }
             }
-            catch (FileNotFoundException e)
+            catch (IOException e)
             {
                 Console.WriteLine("File not found");
                 Console.WriteLine(e.Message);
