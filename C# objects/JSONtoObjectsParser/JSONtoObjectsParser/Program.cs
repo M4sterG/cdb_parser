@@ -53,9 +53,7 @@ namespace JSONtoObjectsParser
             int missing = missingIDS.Count;
             Console.WriteLine(missing + " items are missing in database");
             Console.WriteLine("Still " + missingIDS.Count + " items are missing in database");
-                
-                
-                
+           
              //   WebClient web = new WebClient();
               //  foreach (Weapon wep in weapons)
               //  {
@@ -306,6 +304,10 @@ namespace JSONtoObjectsParser
             wep.Description = info.ii_desc;
             wep.Name = info.ii_name;
             wep.MeshPath = info.ii_meshfilename;
+            wep.AmmoClip = primWep.wi_bullet_capacity;
+            wep.TotalAmmo = primWep.wi_bullet_total;
+            wep.ChangeTime = primWep.wi_change_time;
+
         }
 
         private static Weapon handleMeleeCase(PrimitiveWeapon primWep, PrimitiveIteamWeaponInfo info)
