@@ -13,7 +13,7 @@ using System.Net.WebSockets;
 namespace JSONtoObjectsParser
 {
 
-    internal class Program
+    internal static class WeaponGetter
     {
         private const string WEAPON_INFO_PATH = "MV/weaponinfo.json";
         private const string ITEM_WEAPON_INFO_PATH = "MV/itemweaponsinfo.json";
@@ -22,7 +22,7 @@ namespace JSONtoObjectsParser
         private const string URL = "https://figurewars.000webhostapp.com/api/dbpush.php?key=switnub&query=";
         static StyleSheet styleSheet = new StyleSheet(Color.WhiteSmoke);
 
-        private static void Main(string[] args)
+        public static List<Weapon> getWeapons()
         {
             Console.OutputEncoding = Encoding.Unicode;
             Console.ForegroundColor = Color.Yellow;
@@ -63,6 +63,7 @@ namespace JSONtoObjectsParser
 
             
             Console.WriteLine("File in: " + Environment.CurrentDirectory);
+            return weapons;
         }
 
         private static void getMVWeapons(List<PrimitiveWeapon> mvWeapons,

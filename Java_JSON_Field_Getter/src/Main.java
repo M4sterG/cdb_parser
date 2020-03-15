@@ -21,7 +21,9 @@ public class Main {
                 String[] tokens = line.split(" ");
                 if (tokens.length > 1) {
                     // PRE: the token must have at least 3 chars
-                    String cSharpLine = "public int " + tokens[0].substring(2, tokens[0].length() - 1) + " { get; set; }";
+                    String stat = line.split(":")[1];
+                    String type = getTypeForString(stat);
+                    String cSharpLine = "public " + type + " " + tokens[0].substring(2, tokens[0].length() - 1) + " { get; set; }";
                     out.println(cSharpLine);
                     System.out.println(cSharpLine);
 
@@ -37,5 +39,18 @@ public class Main {
         catch (IOException e){
             System.out.println("Reading the file failed");
         }
+    }
+
+    private static String getTypeForString(String line){
+        if (line.contains("\"")){
+            return "string";
+        }
+        if (line.contains(".")) {
+            return "double";
+        }
+        if (line.contains("false") || line.contains("true")){
+            return "bool";
+        }
+        return "int";
     }
 }

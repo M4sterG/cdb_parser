@@ -1,7 +1,14 @@
-﻿namespace JSONtoObjectsParser
+﻿using System.Collections.Generic;
+using JSONtoObjectsParser.Parts;
+
+namespace JSONtoObjectsParser
 {
-    public class Main
+    public class Program
     {
-        
+        public static void Main(string[] args)
+        {
+           // List<Weapon> weapons = WeaponGetter.getWeapons();
+           PartGetter.getParts();
+        }
     }
 }
