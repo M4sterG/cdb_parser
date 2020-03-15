@@ -39,6 +39,7 @@ public class Main {
         catch (IOException e){
             System.out.println("Reading the file failed");
         }
+        
     }
 
     private static String getTypeForString(String line){
