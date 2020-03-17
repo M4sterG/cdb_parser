@@ -1,9 +1,11 @@
-﻿namespace JSONtoObjectsParser.Parts
+﻿using System.Collections.Generic;
+
+namespace JSONtoObjectsParser.Parts
 {
     public class Part : Item
     {
-        public Character[] CharacterEquip { get; set; }
-        public PartSlot[] PartEquip { get; set; }
+        public HashSet<PartSlot> PartEquip { get; set; }
+        public HashSet<Character> CharacterEquip { get; set; }
     }
 
     public enum PartSlot
@@ -12,6 +14,7 @@
         Hair,
         Face,
         Top,
+        Hands,
         Skirt, // Naomi only
         Legs,
         Shoes,

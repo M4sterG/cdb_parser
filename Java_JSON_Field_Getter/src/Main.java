@@ -23,7 +23,8 @@ public class Main {
                     // PRE: the token must have at least 3 chars
                     String stat = line.split(":")[1];
                     String type = getTypeForString(stat);
-                    String cSharpLine = "public " + type + " " + tokens[0].substring(2, tokens[0].length() - 1) + " { get; set; }";
+                    String cSharpLine = "public " + type + " "
+                            + tokens[0].substring(2, tokens[0].length() - 1) + " { get; set; }";
                     out.println(cSharpLine);
                     System.out.println(cSharpLine);
 
@@ -39,7 +40,7 @@ public class Main {
         catch (IOException e){
             System.out.println("Reading the file failed");
         }
-        
+
     }
 
     private static String getTypeForString(String line){

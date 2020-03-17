@@ -31,6 +31,7 @@ namespace JSONtoObjectsParser
     {
         Weapon,
         Part,
+        Accessory,
         Convenience,
         Package
     }
