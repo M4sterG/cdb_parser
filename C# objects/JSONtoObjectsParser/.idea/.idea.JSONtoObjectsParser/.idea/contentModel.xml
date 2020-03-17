@@ -18,6 +18,7 @@
         </e>
         <e p="PartGetter.cs" t="Include" />
         <e p="Parts" t="Include">
+          <e p="cdb_meaning.txt" t="Include" />
           <e p="Part.cs" t="Include" />
           <e p="PrimitivePart.cs" t="Include" />
         </e>
