@@ -11,6 +11,7 @@ namespace JSONtoObjectsParser
         public int Id { get; set; }
         public string MeshPath { get; set; }
         public ItemType ItemType { get; set; }
+        public string IconFile { get; set; }
 
         public virtual string ToUniquePropertyList()
         {
