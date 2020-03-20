@@ -3,21 +3,28 @@ using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
 using System.Reflection.Metadata;
+using JSONtoObjectsParser.Icons;
 using JSONtoObjectsParser.Parts;
 using Microsoft.Win32.SafeHandles;
 using Newtonsoft.Json;
 
 namespace JSONtoObjectsParser
 {
-    public  class PartGetter
+    internal class PartGetter
     {
         private const string PARTS_PATH = "iteminfo.json";
+        private const string TW_ICONS_PATH = "TW/iconsinfo.json";
+        private static List<PrimitiveIcon> icons = IconGetter.getPrimIcons(TW_ICONS_PATH);
+       
+
         public static List<Part> getParts()
         {
+            
             List<Part> parts = new List<Part>();
             Console.WriteLine("!!! Debugger looks for the files in: " + Environment.CurrentDirectory);
             List<PrimitivePart> allPrimParts = new JSONToCSharpParser<PrimitivePart>().parse(PARTS_PATH);
             List<PrimitivePart> primitiveParts = new List<PrimitivePart>();
+            
             var essences = allPrimParts.FindAll(part => part.ii_name_time.Contains("Unlimited"))
                 .GroupBy(part => part.ii_name);
             foreach (var essence in essences)
@@ -40,11 +47,17 @@ namespace JSONtoObjectsParser
 
         private static void setPartStats(PrimitivePart primPart, Part part)
         {
-            
             part.Id = primPart.ii_id;
             part.Description = primPart.ii_desc;
             part.Name = primPart.ii_name;
             part.MeshPath = primPart.ii_meshfilename;
+            foreach (var icon in icons)
+            {
+                if (icon.ii_id == primPart.ii_icon)
+                {
+                    part.IconFile = icon.ii_filename;
+                }
+            }
         }
         
         

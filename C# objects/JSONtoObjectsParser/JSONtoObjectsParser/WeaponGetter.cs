@@ -9,6 +9,7 @@ using Console = Colorful.Console;
 using Colorful;
 using System.Drawing;
 using System.Net.WebSockets;
+using JSONtoObjectsParser.Icons;
 
 namespace JSONtoObjectsParser
 {
@@ -19,8 +20,10 @@ namespace JSONtoObjectsParser
         private const string ITEM_WEAPON_INFO_PATH = "MV/itemweaponsinfo.json";
         private const string WEAPON_INFO_PATH_TW = "TW/weaponinfo.json";
         private const string ITEM_WEAPON_INFO_PATH_TW = "TW/itemweaponsinfo.json";
+        private const string MV_ICONS_PATH = "MV/iconsinfo.json";
         private const string URL = "https://figurewars.000webhostapp.com/api/dbpush.php?key=switnub&query=";
         static StyleSheet styleSheet = new StyleSheet(Color.WhiteSmoke);
+        private static List<PrimitiveIcon> primIcons = IconGetter.getPrimIcons(MV_ICONS_PATH);
 
         public static List<Weapon> getWeapons()
         {
@@ -308,6 +311,14 @@ namespace JSONtoObjectsParser
             wep.AmmoClip = primWep.wi_bullet_capacity;
             wep.TotalAmmo = primWep.wi_bullet_total;
             wep.ChangeTime = primWep.wi_change_time;
+            foreach (var icon in  primIcons)
+            {
+                if (icon.ii_id == info.ii_icon)
+                {
+                    wep.IconFile = icon.ii_filename;
+                    break;
+                }
+            }
 
         }
 
@@ -319,7 +330,7 @@ namespace JSONtoObjectsParser
             return wep;
         }
 
-        public static bool lastTwoDigitsAreGood(int id)
+        private static bool lastTwoDigitsAreGood(int id)
         {
             int[] digits = new int[7];
             int pos = 0;
