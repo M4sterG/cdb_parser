@@ -2,23 +2,23 @@
 	"si_id" : 7,
 	"si_sid" : 0,
 	"si_cid" : 0,
-	"si_name" : "erro",
-	"si_ip" : "",
-	"si_port" : 46,
-	"si_group" : 393216
+	"si_name" : "error",
+	"si_ip" : "1.235.188.130",
+	"si_port" : 12001,
+	"si_group" : 0
 },
 {
-	"si_id" : 0,
+	"si_id" : 6,
 	"si_sid" : 1,
 	"si_cid" : 0,
 	"si_name" : "web",
-	"si_ip" : "http://www.microvolts.com/register",
+	"si_ip" : "http://www.microvolts.com/register/register.aspx",
 	"si_port" : 0,
 	"si_group" : 0
 },
 {
-	"si_id" : 0,
-	"si_sid" : 0,
+	"si_id" : 6,
+	"si_sid" : 2,
 	"si_cid" : 0,
 	"si_name" : "",
 	"si_ip" : "",
@@ -39,29 +39,133 @@
 	"si_sid" : 0,
 	"si_cid" : 0,
 	"si_name" : "Front",
-	"si_ip" : "127.0.0.1",
+	"si_ip" : "LB-1990091221.us-east-1.elb.amazonaws.com",
 	"si_port" : 13000,
-	"si_group" : 5
+	"si_group" : 0
 },
 {
-	"si_id" : 1,
+	"si_id" : 5,
 	"si_sid" : 1,
-	"si_cid" : 1634430017,
-	"si_name" : "line - EU",
-	"si_ip" : "0.0.1",
-	"si_port" : 1,
+	"si_cid" : 1,
+	"si_name" : "US-AWS-MAIN01",
+	"si_ip" : "52.0.118.213",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 4,
+	"si_sid" : 1,
+	"si_cid" : 0,
+	"si_name" : "US-AWS-CAST01",
+	"si_ip" : "52.1.120.160",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 5,
+	"si_sid" : 2,
+	"si_cid" : 2,
+	"si_name" : "US-AWS-MAIN02",
+	"si_ip" : "52.7.172.172",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 4,
+	"si_sid" : 2,
+	"si_cid" : 0,
+	"si_name" : "US-AWS-CAST02",
+	"si_ip" : "52.7.147.16",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 5,
+	"si_sid" : 3,
+	"si_cid" : 3,
+	"si_name" : "US-AWS-MAIN03",
+	"si_ip" : "54.175.228.85",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 4,
+	"si_sid" : 3,
+	"si_cid" : 0,
+	"si_name" : "US-AWS-CAST03",
+	"si_ip" : "54.88.15.214",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 5,
+	"si_sid" : 7,
+	"si_cid" : 7,
+	"si_name" : "AWS-MAIN",
+	"si_ip" : "52.1.196.189",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 4,
+	"si_sid" : 7,
+	"si_cid" : 0,
+	"si_name" : "AWS-CAST",
+	"si_ip" : "52.0.96.205",
+	"si_port" : 13000,
+	"si_group" : 2
+},
+{
+	"si_id" : 5,
+	"si_sid" : 4,
+	"si_cid" : 4,
+	"si_name" : "UK-AWS-MAIN01",
+	"si_ip" : "52.6.87.178",
+	"si_port" : 13000,
 	"si_group" : 1
 },
 {
 	"si_id" : 4,
-	"si_sid" : 1953718595,
-	"si_cid" : 827671853,
-	"si_name" : "",
-	"si_ip" : "1",
-	"si_port" : 1280,
-	"si_group" : 1280
+	"si_sid" : 4,
+	"si_cid" : 0,
+	"si_name" : "UK-AWS-CAST01",
+	"si_ip" : "52.28.35.162",
+	"si_port" : 13000,
+	"si_group" : 1
 },
 {
-	"si_id" : 1935753984,
-	"si_sid" : 1430596980,
-	"si_cid" : 
+	"si_id" : 5,
+	"si_sid" : 5,
+	"si_cid" : 5,
+	"si_name" : "UK-AWS-MAIN02",
+	"si_ip" : "52.5.205.254",
+	"si_port" : 13000,
+	"si_group" : 1
+},
+{
+	"si_id" : 4,
+	"si_sid" : 5,
+	"si_cid" : 0,
+	"si_name" : "UK-AWS-CAST02",
+	"si_ip" : "52.28.47.220",
+	"si_port" : 13000,
+	"si_group" : 1
+},
+{
+	"si_id" : 5,
+	"si_sid" : 6,
+	"si_cid" : 6,
+	"si_name" : "UK-AWS-MAIN03",
+	"si_ip" : "52.6.152.75",
+	"si_port" : 13000,
+	"si_group" : 1
+},
+{
+	"si_id" : 4,
+	"si_sid" : 6,
+	"si_cid" : 0,
+	"si_name" : "UK-AWS-CAST03",
+	"si_ip" : "52.28.65.79",
+	"si_port" : 13000,
+	"si_group" : 1
+}

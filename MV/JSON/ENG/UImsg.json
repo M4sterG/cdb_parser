@@ -2276,7 +2276,7 @@
 {
 	"ug_id" : 104010004,
 	"ug_name" : "UIMSG_ROOM_SETTING_RANDOMNAME_4",
-	"ug_text" : "Let's go, toy heroes!",
+	"ug_text" : "Bout Between MicroVolts",
 	"ug_align" : 0,
 	"ug_color" : "232.243.247"
 },
@@ -2878,7 +2878,7 @@
 {
 	"ug_id" : 105010102,
 	"ug_name" : "UIMSG_INVENTORY_LIST_CLOTHES_SET",
-	"ug_text" : "Limited",
+	"ug_text" : "Set",
 	"ug_align" : 2,
 	"ug_color" : ""
 },
@@ -3697,7 +3697,7 @@
 {
 	"ug_id" : 106020103,
 	"ug_name" : "UIMSG_SHOP_LIST_CLOTHES_SET",
-	"ug_text" : "Limited",
+	"ug_text" : "Set",
 	"ug_align" : 2,
 	"ug_color" : ""
 },

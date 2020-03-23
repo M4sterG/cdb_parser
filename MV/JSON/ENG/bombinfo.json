@@ -127,17 +127,4 @@
 	"bi_bomb_bz" : 2669,
 	"bi_fix_a_langce" : 300,
 	"bi_fix_b_langce" : 300
-},
-{
-	"bi_id" : 12,
-	"bi_map_id" : 39,
-	"bi_bomb_bpm" : 2,
-	"bi_bomb_ax" : 1609,
-	"bi_bomb_ay" : -1417,
-	"bi_bomb_az" : -554,
-	"bi_bomb_bx" : 5184,
-	"bi_bomb_by" : 62,
-	"bi_bomb_bz" : 9,
-	"bi_fix_a_langce" : 300,
-	"bi_fix_b_langce" : 300
 }

@@ -1079,7 +1079,7 @@
 {
 	"mg_id" : 10060002,
 	"mg_name" : "LOGIN_AUTHORIZE_DENY",
-	"mg_text" : "Incorrect Login ID or Password entered. Please try again or use the Forgot Password/Login ID function found on http://www.ToyHeroes.net.",
+	"mg_text" : "Incorrect Login ID or Password entered. Please try again or use the Forgot Password/Login ID function found on http://www.MicroVolts.com.",
 	"mg_align" : 2,
 	"mg_color" : "15.15.15",
 	"mg_boardicon" : 90002801,
@@ -1090,7 +1090,7 @@
 {
 	"mg_id" : 10060003,
 	"mg_name" : "LOGIN_AUTHORIZE_DONT_EXIST",
-	"mg_text" : "Incorrect Login ID or Password entered. Please try again or use the Forgot Password/Login ID function found on http://www.ToyHeroes.net.",
+	"mg_text" : "Incorrect Login ID or Password entered. Please try again or use the Forgot Password/Login ID function found on http://www.MicroVolts.com.",
 	"mg_align" : 2,
 	"mg_color" : "15.15.15",
 	"mg_boardicon" : 90002801,
@@ -1211,7 +1211,7 @@
 {
 	"mg_id" : 10060302,
 	"mg_name" : "LOGIN_ID_WRONG",
-	"mg_text" : "Login failed due to illegal(special) characters within your id.  Please log on to www.toyheroes.net to modify your id or contact customer support.",
+	"mg_text" : "Login failed due to illegal(special) characters within your id.  Please log on to www.microvolts.com to modify your id or contact customer support.",
 	"mg_align" : 2,
 	"mg_color" : "15.15.15",
 	"mg_boardicon" : 90002801,
@@ -1244,7 +1244,7 @@
 {
 	"mg_id" : 10060402,
 	"mg_name" : "LOGIN_PASSWORD_WRONG",
-	"mg_text" : "Login failed due to illegal(special) characters within your password.  Please log on to www.toyheroes.net to modify your password or contact customer support.",
+	"mg_text" : "Login failed due to illegal(special) characters within your password.  Please log on to www.microvolts.com to modify your password or contact customer support.",
 	"mg_align" : 2,
 	"mg_color" : "15.15.15",
 	"mg_boardicon" : 90002801,

@@ -1,14 +1,6 @@
 {
 	"ro_id" : 101001,
 	"ro_type" : 2,
-	"ro_text" : "Super Item Match",
-	"ro_data" : 6,
-	"ro_mod" : 20,
-	"ro_combattype" : 0
-},
-{
-	"ro_id" : 101001,
-	"ro_type" : 2,
 	"ro_text" : "Team Deathmatch",
 	"ro_data" : 0,
 	"ro_mod" : 20,
@@ -122,7 +114,7 @@
 	"ro_id" : 101015,
 	"ro_type" : 2,
 	"ro_text" : "Team Deathmatch",
-	"ro_data" : 18,
+	"ro_data" : 17,
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
@@ -130,15 +122,7 @@
 	"ro_id" : 101016,
 	"ro_type" : 2,
 	"ro_text" : "Elimination",
-	"ro_data" : 17,
-	"ro_mod" : 20,
-	"ro_combattype" : 1
-},
-{
-	"ro_id" : 101018,
-	"ro_type" : 2,
-	"ro_text" : "Bomb Battle",
-	"ro_data" : 19,
+	"ro_data" : 16,
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },
@@ -146,7 +130,7 @@
 	"ro_id" : 101017,
 	"ro_type" : 2,
 	"ro_text" : "Capture The Battery",
-	"ro_data" : 16,
+	"ro_data" : 15,
 	"ro_mod" : 20,
 	"ro_combattype" : 1
 },

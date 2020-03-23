@@ -63,7 +63,7 @@
 },
 {
 	"fs_id" : 10040,
-	"fs_name_option" : "",
+	"fs_name_option" : "Sniper Reload Speed +10, Rifle Damage +3%, MP +10%",
 	"fs_hair" : 1170300,
 	"fs_face" : -1,
 	"fs_upper" : -1,
@@ -75,16 +75,16 @@
 	"fs_acce_B" : -1,
 	"fs_acce_C" : -1,
 	"fs_set" : 1371000,
-	"fs_effect_1" : 0,
-	"fs_effect_2" : 0,
-	"fs_effect_3" : 0,
+	"fs_effect_1" : 53201,
+	"fs_effect_2" : 48003,
+	"fs_effect_3" : 45209,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
 	"fs_desc" : "Songkran (water festival)"
 },
 {
 	"fs_id" : 10050,
-	"fs_name_option" : "",
+	"fs_name_option" : "Sniper Reload Speed +10, Rifle Damage +3%, MP +10%",
 	"fs_hair" : 1170400,
 	"fs_face" : -1,
 	"fs_upper" : -1,
@@ -96,9 +96,9 @@
 	"fs_acce_B" : -1,
 	"fs_acce_C" : -1,
 	"fs_set" : 1371100,
-	"fs_effect_1" : 0,
-	"fs_effect_2" : 0,
-	"fs_effect_3" : 0,
+	"fs_effect_1" : 53201,
+	"fs_effect_2" : 48003,
+	"fs_effect_3" : 45209,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
 	"fs_desc" : "Songkran (water festival)"
@@ -227,7 +227,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "????????? ????????? ?????? ??????3"
+	"fs_desc" : "미소녀 대천사 갑주 세트3"
 },
 {
 	"fs_id" : 20010,
@@ -290,7 +290,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "????????? ????????? ?????? ??????3"
+	"fs_desc" : "미소년 대천사 갑주 세트3"
 },
 {
 	"fs_id" : 30010,
@@ -479,7 +479,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "???????????? ????????? ?????? ??????3"
+	"fs_desc" : "고스로리 대천사 갑주 세트3"
 },
 {
 	"fs_id" : 40010,
@@ -605,7 +605,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "?????? ????????? ?????? ??????3"
+	"fs_desc" : "깡통 대천사 갑주 세트3"
 },
 {
 	"fs_id" : 40070,
@@ -626,7 +626,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "?????? ?????? ????????? ?????? ??????2"
+	"fs_desc" : "깡통 암흑 대천사 갑주 세트2"
 },
 {
 	"fs_id" : 50010,
@@ -710,7 +710,7 @@
 	"fs_effect_3" : 45309,
 	"fs_effect_4" : 0,
 	"fs_effect_5" : 0,
-	"fs_desc" : "????????? ????????? ?????? ??????3"
+	"fs_desc" : "브루거 대천사 갑주 세트3"
 },
 {
 	"fs_id" : 60010,
