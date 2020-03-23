@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dbbe52e-abee-4151-b9d3-1f5e397edbe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Character.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/PartGetter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Parts/Part.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Parts/PrimitivePart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteminfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/.idea/.idea.JSONtoObjectsParser/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/.idea/.idea.JSONtoObjectsParser/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/WeaponGetter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/WeaponGetter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_JSON_Field_Getter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java_JSON_Field_Getter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java_JSON_Field_Getter/weaponinfo_stats.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemweaponsinfo_stats.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weaponinfo_stats.res" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../MV/JSON/ENG/weaponinfo_sign.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iteminfo.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../C# objects/JSONtoObjectsParser/JSONtoObjectsParser/Character.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1ZBTQFxEN7u3E05W3U3aFhupg3y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbbe52e-abee-4151-b9d3-1f5e397edbe5" name="Default Changelist" comment="" />
+      <created>1584311478866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584311478866</updated>
+      <workItem from="1584311504206" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+</project>

@@ -1,0 +1,29 @@
+type:	0 - hair
+	1 - face
+	2 - top
+	3 - legs
+	4 - skirt
+	5 - hands
+	6 - shoes
+	7 - acc
+	8 - waist acc
+	9 - back acc
+	17 - perk (instant respawn)
+	18 - ???
+	21 - capsule
+	22 - diorama
+	25 - set
+
+type 25 with type_inven: 
+	9 - full set
+	13 - top and legs
+	15 - legs and boots
+
+character:
+	knox: class_e
+	chip: class_d
+	pandora: class_c
+	naomi: class_a
+	kai: class_b
+
+	

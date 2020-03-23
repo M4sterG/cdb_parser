@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d88915e1-8587-434c-a1a0-abeffcfc5eb1" name="Default Changelist" comment="" />
+    <list default="true" id="eb4e0d1f-84b1-4ec2-aeed-dc5a59710ad6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_JSON_Field_Getter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_JSON_Field_Getter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_JSON_Field_Getter/iteminfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_JSON_Field_Getter/iteminfo_stats.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteminfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteminfo_stats.res" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1YJSxbkMmDsWoafqcAmvvfuzrfV" />
+  <component name="ProjectId" id="1ZNsuptTNWPUYX4wkjRzMrE8Rh5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,21 +27,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javasocial_mrg119" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Programming\cdb_parser\Java_JSON_Field_Getter\src" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_JSON_Field_Getter" />
-      <option name="PROGRAM_PARAMETERS" value="src/itemweaponsinfo.cdb.json src/itemweaponsinfo_stats.res" />
+      <option name="PROGRAM_PARAMETERS" value="src/iconsinfo.json src/icons_fields.res" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,46 +48,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d88915e1-8587-434c-a1a0-abeffcfc5eb1" name="Default Changelist" comment="" />
-      <created>1582659451366</created>
+      <changelist id="eb4e0d1f-84b1-4ec2-aeed-dc5a59710ad6" name="Default Changelist" comment="" />
+      <created>1584691111829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582659451366</updated>
+      <updated>1584691111829</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2472" y="179" key="#Project_Structure" timestamp="1582659460250">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584691186222">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="179" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582659460250" />
-    <state x="2334" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582832291151">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584691186222" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584691256733">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582832291151" />
-    <state x="2660" y="276" key="FileChooserDialogImpl" timestamp="1582727936956">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584691256733" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584691256733">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582727936956" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1582833193094">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584691256733" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584691256733">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582833193094" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1582833193094">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584691256733" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584691256733">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582833193094" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1582833193094">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582833193094" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1582833193094">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582833193094" />
-    <state x="2556" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582727900270">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2556" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582727900270" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584691256733" />
   </component>
 </project>
