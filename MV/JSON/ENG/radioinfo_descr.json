@@ -1,0 +1,15 @@
+{
+"ri_id":4,
+"ri_chr_type":4,
+"ri_ZXC":4,
+"ri_num":4,
+"ri_chat_id":4,
+"ri_range":4,
+"ri_highlow":1,
+"ri_target":4,
+"ri_text":256,
+"ri_color":50,
+"ri_location":4,
+"ri_voice":64,
+"file_name":"MV/ENG/radioinfo.cdb"
+}

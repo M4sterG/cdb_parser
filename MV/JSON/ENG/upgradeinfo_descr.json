@@ -1,0 +1,17 @@
+{
+"ui_id":4,
+"ui_type":4,
+"ui_itemid":4,
+"ui_parentid":4,
+"ui_group":4,
+"ui_prob":4,
+"ui_added_prob":4,
+"ui_hold_prob":4,
+"ui_buy_cash":4,
+"ui_buy_point":4,
+"ui_use_exp":4,
+"ui_restore_cash":4,
+"ui_restore_point":4,
+"ui_desc":200,
+"file_name":"MV/ENG/upgradeinfo.cdb"
+}

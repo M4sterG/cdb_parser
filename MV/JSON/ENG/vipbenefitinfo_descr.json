@@ -1,0 +1,16 @@
+{
+"vip_grade":1,
+"vip_exp":4,
+"vip_icon":1,
+"vip_lucky_point":4,
+"vip_bonus_exp":4,
+"vip_bonus_point":4,
+"vip_weekgift":4,
+"vip_coin_change":4,
+"vip_coin_max":4,
+"vip_repair_sale":4,
+"vip_upgrade_sale":4,
+"vip_battery":4,
+"vip_shop_open":1,
+"file_name":"MV/ENG/vipbenefitinfo.cdb"
+}

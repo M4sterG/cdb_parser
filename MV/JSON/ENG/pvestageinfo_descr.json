@@ -1,0 +1,17 @@
+{
+"si_id":4,
+"si_level":4,
+"si_time_max":4,
+"si_map_id":4,
+"si_mon_max":4,
+"si_mon_rps_family":1,
+"si_stage_death_height":1,
+"si_mon_rps_order":4,
+"si_mon_rsp_time":4,
+"si_mon_rsp_x":4,
+"si_mon_rsp_y":4,
+"si_mon_rsp_z":4,
+"si_reward_exp":4,
+"si_reward_point":4,
+"file_name":"MV/ENG/pvestageinfo.cdb"
+}

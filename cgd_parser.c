@@ -12,6 +12,7 @@ int main()
 	struct stat st = {0};
 	FILE *log = fopen("log.txt", "w+");
 	FILE *out;
+	FILE *descr;
 	size_t fsize;
 
 	char **file_names;
@@ -19,6 +20,7 @@ int main()
 	int i = 0, j = 0, y = 0;
 	int count;
 	char dest[50] = {""};
+	char descr_out[50] = {"_descr"};
 	char sub[2][20] = {"./MV/JSON/", "./TW/JSON/"};
 	file_names = get_names(strfile, &count);
 
@@ -67,6 +69,12 @@ int main()
 			}
 
 			out = fopen(dest, "wb");
+			memset(dest, 0, sizeof(dest));
+			strcpy(dest, sub[y]);
+			strncat(dest, file_names[i], strlen(file_names[i]) - 4);
+			strcat(dest, descr_out);
+			strcat(dest, ".json");
+			descr = fopen(dest, "wb");
 			if (out == NULL)
 			{
 				perror("");
@@ -123,12 +131,16 @@ int main()
 				memcpy(&entry_sizes[j], &data[offset], sizeof(int));
 				dblock_size += entry_sizes[j];
 			}
+			fprintf(descr, "{\n");
 			for (j = 0; j < nofkeys; j++)
 			{
 				fprintf(log, "%s\t", keys[j]);
 				fprintf(log, "length : %d \n", entry_sizes[j]);
-			}
+				fprintf(descr, "\"%s\":%d,\n", keys[j], entry_sizes[j]);
 
+			}
+			fprintf(descr, "\"file_name\":\"%s\"\n}", fname);
+			fclose(descr);
 			fprintf(log, "Data block size : %d\n", dblock_size);
 
 			if (sblock_size + dblock_size + 4 == fsize)

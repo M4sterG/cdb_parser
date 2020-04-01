@@ -1,0 +1,17 @@
+{
+"ci_id":4,
+"ci_sid":4,
+"ci_name":16,
+"ci_min_grade":4,
+"ci_grade":4,
+"ci_kd_rate":4,
+"ci_win_rate":4,
+"ci_clan":1,
+"ci_password":4,
+"ci_selectweapon":1,
+"ci_max":4,
+"ci_beginner":4,
+"ci_desc":200,
+"ci_group":4,
+"file_name":"MV/ENG/channelinfo.cdb"
+}

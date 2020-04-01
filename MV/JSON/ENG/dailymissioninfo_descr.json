@@ -1,0 +1,13 @@
+{
+"di_id":4,
+"di_set_index":4,
+"di_rank":4,
+"di_rewardpoint":4,
+"di_rewardexp":4,
+"di_rewarditem":4,
+"di_goal":4,
+"di_desc":255,
+"di_desc_cond":255,
+"di_desc_reward":255,
+"file_name":"MV/ENG/dailymissioninfo.cdb"
+}

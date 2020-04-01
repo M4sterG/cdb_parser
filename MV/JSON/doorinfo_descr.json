@@ -1,0 +1,13 @@
+{
+"di_id":4,
+"di_name":30,
+"di_map_id":4,
+"di_door_type":4,
+"di_working_team":4,
+"di_door_mesh":30,
+"di_close_time":4,
+"di_delay_time":4,
+"di_switch_name":30,
+"di_switch_mesh":30,
+"file_name":"MV/doorinfo.cdb"
+}

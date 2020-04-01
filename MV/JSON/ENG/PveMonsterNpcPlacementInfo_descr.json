@@ -1,0 +1,17 @@
+{
+"smp_id":4,
+"smp_stage_id":4,
+"smp_monster_id":4,
+"smp_monster_key":4,
+"smp_precreate":1,
+"smp_order":4,
+"smp_time":4,
+"smp_pos_x":4,
+"smp_pos_y":4,
+"smp_pos_z":4,
+"smp_dir_x":4,
+"smp_dir_y":4,
+"smp_dir_z":4,
+"smp_scale":4,
+"file_name":"MV/ENG/PveMonsterNpcPlacementInfo.cdb"
+}

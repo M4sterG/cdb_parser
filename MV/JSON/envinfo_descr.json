@@ -1,0 +1,13 @@
+{
+"ei_id":4,
+"ei_name":50,
+"ei_type":4,
+"ei_map_id":4,
+"ei_x":4,
+"ei_y":4,
+"ei_z":4,
+"ei_life_max":4,
+"ei_respawn_time":4,
+"ei_mesh_name":50,
+"file_name":"MV/envinfo.cdb"
+}

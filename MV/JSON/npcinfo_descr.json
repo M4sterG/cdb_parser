@@ -1,0 +1,13 @@
+{
+"ni_id":4,
+"ni_name":50,
+"ni_type":4,
+"ni_map_id":4,
+"ni_x":4,
+"ni_y":4,
+"ni_z":4,
+"ni_life_max":4,
+"ni_respawn_time":4,
+"ni_mesh_name":50,
+"file_name":"MV/npcinfo.cdb"
+}

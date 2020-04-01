@@ -1,0 +1,17 @@
+{
+"ki_mod":4,
+"ki_type":4,
+"ki_team":4,
+"ki_item_id":4,
+"ki_map_id":4,
+"ki_x":4,
+"ki_y":4,
+"ki_z":4,
+"ki_prob":4,
+"ki_group":4,
+"ki_grade":4,
+"ki_removal_time":4,
+"ki_respawn_time":4,
+"ki_left_over_time":4,
+"file_name":"MV/ENG/kitdropinfo.cdb"
+}

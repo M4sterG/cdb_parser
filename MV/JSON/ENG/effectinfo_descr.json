@@ -1,0 +1,16 @@
+{
+"ei_id":4,
+"ei_name":20,
+"ei_key":4,
+"ei_effect_type":4,
+"ei_sign":4,
+"ei_durable":4,
+"ei_buff":4,
+"ei_weapon_type":4,
+"ei_duration":4,
+"ei_interval":4,
+"ei_valueA":4,
+"ei_valueB":4,
+"ei_valueC":4,
+"file_name":"MV/ENG/effectinfo.cdb"
+}
