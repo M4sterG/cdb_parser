@@ -16,7 +16,7 @@ jobs:
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1
     - name: Setup NuGet
-      uses: NuGet/setup-nuget@v1.0.2
+      uses: NuGet/setup-nuget@v1.2.0
     - name: Navigate to Workspace
       run: cd $GITHUB_WORKSPACE
     - name: Create Build Directory
